@@ -10,6 +10,7 @@
 
 
 import re
+import json
 import string
 from tokenize import String
 from bs4 import BeautifulSoup
@@ -26,6 +27,12 @@ course_info = []  # we'll collect dictionaries of {code, name, credits} here
 glob_course_code = ""
 glob_course_name = ""
 glob_course_credit_count = 0
+
+def print_in_json_format(data):
+    """
+    Takes a Python object (list/dict) and prints it in pretty JSON format.
+    """
+    print(json.dumps(data, indent=2))
 
 def is_nonwhite_bg(table):
     """
@@ -55,10 +62,6 @@ def parse_course_tables(tables):
     course_info = []
     
 
-    curr_course_code = ""
-    curr_course_name = ""
-    curr_course_credits = ""
-    curr_course_professor = ""
     for table in tables:
         # Typically each table has a single row (<tr>) with two <td> cells:
         #  1) Left <td>  -> "CSE 121" and "COMP PROGRAMMING I"
@@ -113,23 +116,15 @@ def parse_course_tables(tables):
 
             glob_course_code = course_code
             glob_course_name = course_name
-            glob_course_credit_count = curr_course_credits
+            glob_course_credit_count = credits
 
-            course_info.append({
-                "code": course_code,
-                "name": course_name,
-                "credits": credits
-            })
         else:
             # print("Nonwhite: " + curr_course_code + " : " + curr_course_name + " : " + curr_course_credits)
             pre_tag = table.find("pre")
             if pre_tag:
                 # Do something with the <pre> text
                 # print("PRE tag contents:", pre_tag.get_text(strip=True))
-                print()
-                print(parse_pre_block(pre_tag))
-            else:
-                print("No <pre> found in this table.")
+                course_info.append(parse_pre_block(pre_tag))
     # print(course_info)
     return course_info
 
@@ -292,7 +287,7 @@ def parse_pre_block(pre_tag):
 
 
 if __name__ == "__main__":
-    url = "https://www.washington.edu/students/timeschd/SPR2025/cse.html"
+    url = "https://www.washington.edu/students/timeschd/SPR2025/meche.html"
     page = requests.get(url)
     soup = BeautifulSoup(page.text, "html.parser")
 
@@ -302,8 +297,8 @@ if __name__ == "__main__":
     # 2) Filter to only those with a nonwhite background
 
     # 3) Parse those tables for course info
-    courses_found = parse_course_tables(all_tables)
-
+    courses_data = parse_course_tables(all_tables)
+    print_in_json_format(courses_data)
     # 4) Print results
     # for course in courses_found:
         # print(f"{course['code']} - {course['name']} - {course['credits']}")
