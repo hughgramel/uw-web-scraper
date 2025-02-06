@@ -117,12 +117,14 @@ def parse_course_tables(tables):
                 "credits": credits
             })
         else:
-            print("Nonwhite: " + curr_course_code + " : " + curr_course_name + " : " + curr_course_credits)
+            # print("Nonwhite: " + curr_course_code + " : " + curr_course_name + " : " + curr_course_credits)
             pre_tag = table.find("pre")
             if pre_tag:
                 # Do something with the <pre> text
                 # print("PRE tag contents:", pre_tag.get_text(strip=True))
-                print(parse_pre_block(pre_tag))
+                print()
+                print(parse_pre_block(pre_tag)["section_info"])
+                print()
             else:
                 print("No <pre> found in this table.")
 
@@ -191,20 +193,52 @@ def parse_pre_block(pre_tag):
         child2 = children[2]
         if not getattr(child2, "name", None):
             result["section_info"] = (child2.string or "").strip()
+            course_sec = result["section_info"].split(maxsplit=1)
+            result["course_section"] = course_sec[0]
+            result["after_course_section"] = " ".join(course_sec[1:]) # Now we need to process section info
+            # Now we need an indicator if it's a QZ or LB or there's a course
+            # number
+            section_type_or_credit_count = result["after_course_section"].split(maxsplit=1)
+            result["section_type_or_credit_count"] = section_type_or_credit_count[0]
+                
+                
+            result["isQuiz"] = False
+            result["isLab"] = False
+            result["credits"] = None  # Default to None if no valid credit number is found
 
-    # --- Child 3: <a> => building code (e.g. "CSE2") ---
-    if len(children) > 3:
-        child3 = children[3]
-        if getattr(child3, "name", None) == "a":
-            result["building"] = child3.get_text(strip=True)
+            # Check if it's a quiz or lab
+            if result["section_type_or_credit_count"] in {"QZ", "LB"}:
+                result["isQuiz"] = result["section_type_or_credit_count"] == "QZ"
+                result["isLab"] = result["section_type_or_credit_count"] == "LB"
+            else:
+                # Handle credit amount
+                credit_str = result["section_type_or_credit_count"]
+                if credit_str == "VAR":
+                    pass  # Leave credits as None
+                elif "-" in credit_str:  # Example: "1-5" should become [1, 5]
+                    try:
+                        result["credits"] = [int(x) for x in credit_str.split("-")]
+                    except ValueError:
+                        result["credits"] = None  # Fail-safe if unexpected format
+                else:
+                    try:
+                        result["credits"] = int(credit_str)  # Convert to integer if possible
+                    except ValueError:
+                        result["credits"] = None  # Fail-safe if it's not a valid number
 
-    # --- Child 4: text node => remainder info (room #, seats, TBA, etc.) ---
-    if len(children) > 4:
-        child4 = children[4]
-        if not getattr(child4, "name", None):
-            result["extra_info"] = (child4.string or "").strip()
+            # --- Child 3: <a> => building code (e.g. "CSE2") ---
+            if len(children) > 3:
+                child3 = children[3]
+                if getattr(child3, "name", None) == "a":
+                    result["building"] = child3.get_text(strip=True)
 
-    return result
+            # --- Child 4: text node => remainder info (room #, seats, TBA, etc.) ---
+            if len(children) > 4:
+                child4 = children[4]
+                if not getattr(child4, "name", None):
+                    result["extra_info"] = (child4.string or "").strip()
+
+            return result
 
 
 
@@ -223,5 +257,5 @@ if __name__ == "__main__":
     courses_found = parse_course_tables(all_tables)
 
     # 4) Print results
-    for course in courses_found:
-        print(f"{course['code']} - {course['name']} - {course['credits']}")
+    # for course in courses_found:
+        # print(f"{course['code']} - {course['name']} - {course['credits']}")
