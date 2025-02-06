@@ -23,7 +23,9 @@ course_tables = soup.find_all("table", bgcolor="#ccffcc")
 
 course_info = []  # we'll collect dictionaries of {code, name, credits} here
 
-
+glob_course_code = ""
+glob_course_name = ""
+glob_course_credit_count = 0
 
 def is_nonwhite_bg(table):
     """
@@ -39,6 +41,7 @@ def is_nonwhite_bg(table):
 
 
 def parse_course_tables(tables):
+    global glob_course_code, glob_course_name, glob_course_credit_count
     """
     Given a list of tables (e.g., nonwhite tables),
     extract the course code, name, and credits from each.
@@ -108,9 +111,10 @@ def parse_course_tables(tables):
 
             # Collect the course info
 
-            curr_course_code = course_code
-            curr_course_name = course_name
-            curr_course_credits = curr_course_credits
+            glob_course_code = course_code
+            glob_course_name = course_name
+            glob_course_credit_count = curr_course_credits
+
             course_info.append({
                 "code": course_code,
                 "name": course_name,
@@ -123,15 +127,15 @@ def parse_course_tables(tables):
                 # Do something with the <pre> text
                 # print("PRE tag contents:", pre_tag.get_text(strip=True))
                 print()
-                print(parse_pre_block(pre_tag)["section_info"])
-                print()
+                print(parse_pre_block(pre_tag))
             else:
                 print("No <pre> found in this table.")
-
+    # print(course_info)
     return course_info
 
 
 def parse_pre_block(pre_tag):
+    global glob_course_code, glob_course_name, glob_course_credit_count
     """
     Example:
       <pre>
@@ -165,9 +169,7 @@ def parse_pre_block(pre_tag):
     result = {
         "enrollment_restriction": [],
         "sln": None,
-        "section_info": None,
         "building": None,
-        "extra_info": None
     }
 
     # --- Child 0: text node (restriction or empty) ---
@@ -192,16 +194,15 @@ def parse_pre_block(pre_tag):
     if len(children) > 2:
         child2 = children[2]
         if not getattr(child2, "name", None):
-            result["section_info"] = (child2.string or "").strip()
-            course_sec = result["section_info"].split(maxsplit=1)
+            section_info = (child2.string or "").strip()
+            course_sec = section_info.split(maxsplit=1)
             result["course_section"] = course_sec[0]
-            result["after_course_section"] = " ".join(course_sec[1:]) # Now we need to process section info
+            after_course_section = " ".join(course_sec[1:]) # Now we need to process section info
             # Now we need an indicator if it's a QZ or LB or there's a course
             # number
-            section_type_or_credit_count = result["after_course_section"].split(maxsplit=1)
+            section_type_or_credit_count = after_course_section.split(maxsplit=1)
             result["section_type_or_credit_count"] = section_type_or_credit_count[0]
-                
-                
+
             result["isQuiz"] = False
             result["isLab"] = False
             result["credits"] = None  # Default to None if no valid credit number is found
@@ -226,6 +227,50 @@ def parse_pre_block(pre_tag):
                     except ValueError:
                         result["credits"] = None  # Fail-safe if it's not a valid number
 
+            # Extract everything after section type or credit count
+            after_section_type_or_credit_count = (
+                " ".join(section_type_or_credit_count[1:]) if len(section_type_or_credit_count) > 1 else ""
+            )
+
+            # Check for "to be arranged"
+            if "to be arranged" in after_section_type_or_credit_count:
+                result["days"] = None
+                result["times"] = None
+                # Remove the first three words ("to be arranged") and store the rest
+                remaining_parts = after_section_type_or_credit_count.split()
+                next_to_process = " ".join(remaining_parts[3:]) if len(remaining_parts) > 3 else ""
+            else:
+                # Extract days and times
+                remaining_parts = after_section_type_or_credit_count.split()
+                
+                result["days"] = remaining_parts.pop(0) if remaining_parts else None  # First element as days
+                result["times"] = remaining_parts.pop(0) if remaining_parts else None  # Second element as time
+                
+                # Everything left in remaining_parts is now next_to_process
+                next_to_process = " ".join(remaining_parts)
+            
+            remaining = next_to_process
+            remaining = next_to_process
+
+            if "* *" in remaining:
+                result["building"] = None
+                result["room_number"] = None
+                
+                # Split by whitespace and find the first occurrence of "* *"
+                parts = remaining.split()
+                try:
+                    star_index = parts.index("*")  # Get the index of the first "*"
+                    if star_index + 1 < len(parts) and parts[star_index + 1] == "*":
+                        next_to_process = " ".join(parts[star_index + 2:])  # Everything after "* *"
+                    else:
+                        next_to_process = ""  # If somehow it isn't followed by another "*", reset
+                except ValueError:
+                    next_to_process = remaining  # Fallback in case "*" isn't found
+            # print(next_to_process)
+            
+            # print(remaining_parts)  # Debugging output to check what remains
+
+            
             # --- Child 3: <a> => building code (e.g. "CSE2") ---
             if len(children) > 3:
                 child3 = children[3]
@@ -233,11 +278,14 @@ def parse_pre_block(pre_tag):
                     result["building"] = child3.get_text(strip=True)
 
             # --- Child 4: text node => remainder info (room #, seats, TBA, etc.) ---
-            if len(children) > 4:
-                child4 = children[4]
-                if not getattr(child4, "name", None):
-                    result["extra_info"] = (child4.string or "").strip()
-
+            # if len(children) > 4:
+                # child4 = children[4]
+                # if not getattr(child4, "name", None):
+                #     result["extra_info"] = (child4.string or "").strip()
+            result["course_name"] = glob_course_name
+            if (glob_course_credit_count != 0 and result["credits"] == None or result["credits"] == 0): 
+                result["credits"] = glob_course_credit_count
+            result["course_code"] = glob_course_code
             return result
 
 
