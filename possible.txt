@@ -1,0 +1,25 @@
+Code this part for real for real, lock in, this one's very very important and
+also make tests for this. 
+
+Here are some  possible outputs for the first section_info
+
+A  4       WF     330-420       // Doesn't include QZ, credits = 4
+AA  QZ     TTh    830-920       // Indicates that it's a quiz section. So
+include the condition IF include(QZ) then isQuiz = true. Credits = Name
+
+A  1-9     to be arranged                                             Open      0/  20E
+This one include 'to be arranged' and thus should indicate the time / day is "to
+be arranged". Only do this if it includes the specific words "to be arranged".
+If it does include this, also include whether it's open and the capacity at the
+end. Also, the credits are 1-9. 
+
+D  4       MW     1000-1120  *    *        Suciu,Dan                  Open
+0/  30                      \r\n                        --
+This one shows that the professor name could be included. If the professor name
+is included (Which  is the case if it include a ',' character anywhere) then add
+the professor name.
+
+
+
+
+
