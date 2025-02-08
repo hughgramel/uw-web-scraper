@@ -38,7 +38,6 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C MED 499",
         "curr_course_name": "UNDERGRAD LAB RSCH",
         "curr_course_fulfills": ""
@@ -60,10 +59,9 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Snyder,Jessica",
         "curr_course_code": "C MED 512",
-        "curr_course_name": "ANAT ANLYS ANM DSES ",
+        "curr_course_name": "ANAT ANLYS ANM DSES",
         "curr_course_fulfills": ""
     },
     {
@@ -83,10 +81,9 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Snyder,Jessica",
         "curr_course_code": "C MED 512",
-        "curr_course_name": "ANAT ANLYS ANM DSES ",
+        "curr_course_name": "ANAT ANLYS ANM DSES",
         "curr_course_fulfills": ""
     },
     {
@@ -106,10 +103,9 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Snyder,Jessica",
         "curr_course_code": "C MED 512",
-        "curr_course_name": "ANAT ANLYS ANM DSES ",
+        "curr_course_name": "ANAT ANLYS ANM DSES",
         "curr_course_fulfills": ""
     },
     {
@@ -129,7 +125,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Snyder,Jessica M",
         "curr_course_code": "C MED 514",
         "curr_course_name": "COMP PATH CONF",
@@ -152,10 +147,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Iritani,Brian M.",
         "curr_course_code": "C MED 516",
-        "curr_course_name": "RES AND LIT REV SEM ",
+        "curr_course_name": "RES AND LIT REV SEM",
         "curr_course_fulfills": ""
     },
     {
@@ -175,10 +169,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Reyes,Nicholas L",
         "curr_course_code": "C MED 518",
-        "curr_course_name": "CLIN CONF COMP PATH ",
+        "curr_course_name": "CLIN CONF COMP PATH",
         "curr_course_fulfills": ""
     },
     {
@@ -198,7 +191,6 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Brabb,Thea",
         "curr_course_code": "C MED 540",
         "curr_course_name": "ANIMAL MODELS",
@@ -221,10 +213,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Brabb,Thea",
         "curr_course_code": "C MED 590",
-        "curr_course_name": "SEL TOPICS ANIM MED ",
+        "curr_course_name": "SEL TOPICS ANIM MED",
         "curr_course_fulfills": ""
     },
     {
@@ -242,10 +233,10 @@
         "is_estimate": 1,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Iritani,Brian",
         "curr_course_code": "C MED 590",
-        "curr_course_name": "SEL TOPICS ANIM MED ",
+        "curr_course_name": "SEL TOPICS ANIM MED",
         "curr_course_fulfills": ""
     },
     {
@@ -266,7 +257,6 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C MED 600",
         "curr_course_name": "RESEARCH",
         "curr_course_fulfills": ""
@@ -289,9 +279,8 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C MED 601",
-        "curr_course_name": "INTERNSHIP ROTATION ",
+        "curr_course_name": "INTERNSHIP ROTATION",
         "curr_course_fulfills": ""
     },
     {
@@ -312,7 +301,6 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C MED 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""

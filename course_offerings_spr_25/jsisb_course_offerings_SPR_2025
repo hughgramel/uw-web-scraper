@@ -21,9 +21,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 100",
-        "curr_course_name": "ISSUES INTL STUDIES ",
+        "curr_course_name": "ISSUES INTL STUDIES",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -166,7 +166,7 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 180",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -211,7 +211,7 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 180",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -309,7 +309,7 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 180",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -338,7 +338,7 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 180",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -367,7 +367,7 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 180",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -458,7 +458,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Yang,Clair",
         "curr_course_code": "JSIS B 332",
         "curr_course_name": "POL ECON INT TRADE",
@@ -548,7 +548,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 355",
         "curr_course_name": "CYBERSECURITY",
         "curr_course_fulfills": [
@@ -577,7 +577,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 355",
         "curr_course_name": "CYBERSECURITY",
         "curr_course_fulfills": [
@@ -606,7 +606,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 355",
         "curr_course_name": "CYBERSECURITY",
         "curr_course_fulfills": [
@@ -635,7 +635,7 @@
         "is_estimate": 0,
         "max_capacity": "23",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 355",
         "curr_course_name": "CYBERSECURITY",
         "curr_course_fulfills": [
@@ -694,7 +694,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 371",
         "curr_course_name": "GLOBL CRIME & CORRUP",
         "curr_course_fulfills": [
@@ -723,7 +723,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 371",
         "curr_course_name": "GLOBL CRIME & CORRUP",
         "curr_course_fulfills": [
@@ -752,7 +752,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 371",
         "curr_course_name": "GLOBL CRIME & CORRUP",
         "curr_course_fulfills": [
@@ -781,7 +781,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 371",
         "curr_course_name": "GLOBL CRIME & CORRUP",
         "curr_course_fulfills": [
@@ -810,7 +810,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 371",
         "curr_course_name": "GLOBL CRIME & CORRUP",
         "curr_course_fulfills": [
@@ -839,7 +839,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 371",
         "curr_course_name": "GLOBL CRIME & CORRUP",
         "curr_course_fulfills": [
@@ -868,7 +868,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 371",
         "curr_course_name": "GLOBL CRIME & CORRUP",
         "curr_course_fulfills": [
@@ -897,7 +897,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 371",
         "curr_course_name": "GLOBL CRIME & CORRUP",
         "curr_course_fulfills": [
@@ -931,7 +931,7 @@
         "open_or_closed": "Open",
         "professor_name": "Al-Saleh,Danya",
         "curr_course_code": "JSIS B 405",
-        "curr_course_name": "FOSSL FUEL MID EAST ",
+        "curr_course_name": "FOSSL FUEL MID EAST",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -990,10 +990,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Pekkanen,Robert J",
         "curr_course_code": "JSIS B 431",
-        "curr_course_name": "INTL NEGOT SIMULATN ",
+        "curr_course_name": "INTL NEGOT SIMULATN",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1052,7 +1051,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Beyer,Jessica",
         "curr_course_code": "JSIS B 454",
         "curr_course_name": "ADV CYBERSEC RSRCH",
@@ -1085,7 +1083,7 @@
         "open_or_closed": "Open",
         "professor_name": "Das,Debamanyu",
         "curr_course_code": "JSIS B 455",
-        "curr_course_name": "INTL ENVIRON POLICY ",
+        "curr_course_name": "INTL ENVIRON POLICY",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1144,10 +1142,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Pekkanen,Robert J",
         "curr_course_code": "JSIS B 531",
-        "curr_course_name": "INTL NEGOT SIMULATN ",
+        "curr_course_name": "INTL NEGOT SIMULATN",
         "curr_course_fulfills": ""
     },
     {
@@ -1172,7 +1169,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 544",
         "curr_course_name": "SPACE LAW & POLICY",
         "curr_course_fulfills": ""
@@ -1227,7 +1224,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 555",
         "curr_course_name": "CYBERSECURITY",
         "curr_course_fulfills": ""
@@ -1254,7 +1251,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 555",
         "curr_course_name": "CYBERSECURITY",
         "curr_course_fulfills": ""
@@ -1281,7 +1278,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 555",
         "curr_course_name": "CYBERSECURITY",
         "curr_course_fulfills": ""
@@ -1308,7 +1305,7 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS B 555",
         "curr_course_name": "CYBERSECURITY",
         "curr_course_fulfills": ""

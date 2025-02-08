@@ -25,7 +25,7 @@
         "is_estimate": 0,
         "max_capacity": "180",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Al-Binni,Usama",
         "curr_course_code": "PHYS 114",
         "curr_course_name": "MECHANICS",
@@ -60,7 +60,7 @@
         "is_estimate": 0,
         "max_capacity": "180",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Depies,Matthew",
         "curr_course_code": "PHYS 114",
         "curr_course_name": "MECHANICS",
@@ -95,7 +95,7 @@
         "is_estimate": 0,
         "max_capacity": "180",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Stephanik,Brian",
         "curr_course_code": "PHYS 115",
         "curr_course_name": "HEAT FLUIDS E&M",
@@ -129,7 +129,8 @@
         "is_estimate": 0,
         "max_capacity": "195",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Taulu,Samu",
         "curr_course_code": "PHYS 115",
         "curr_course_name": "HEAT FLUIDS E&M",
         "curr_course_fulfills": [
@@ -162,7 +163,7 @@
         "is_estimate": 0,
         "max_capacity": "220",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Al-Binni,Usama",
         "curr_course_code": "PHYS 116",
         "curr_course_name": "WAVE OPTICS ATOMS",
@@ -196,7 +197,7 @@
         "is_estimate": 0,
         "max_capacity": "180",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Morales,Miguel",
         "curr_course_code": "PHYS 116",
         "curr_course_name": "WAVE OPTICS ATOMS",
@@ -288,7 +289,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 117",
         "curr_course_name": "GEN PHYS LAB MECHNCS",
@@ -410,7 +410,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 117",
         "curr_course_name": "GEN PHYS LAB MECHNCS",
@@ -442,7 +441,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 117",
         "curr_course_name": "GEN PHYS LAB MECHNCS",
@@ -534,7 +532,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 118",
         "curr_course_name": "HEAT & ELCTROMAG LAB",
@@ -566,7 +563,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 118",
         "curr_course_name": "HEAT & ELCTROMAG LAB",
@@ -598,7 +594,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 118",
         "curr_course_name": "HEAT & ELCTROMAG LAB",
@@ -690,7 +685,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 118",
         "curr_course_name": "HEAT & ELCTROMAG LAB",
@@ -722,7 +716,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 118",
         "curr_course_name": "HEAT & ELCTROMAG LAB",
@@ -754,7 +747,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 118",
         "curr_course_name": "HEAT & ELCTROMAG LAB",
@@ -786,10 +778,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -819,7 +810,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -849,7 +840,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -879,7 +870,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -909,7 +900,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -939,7 +930,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -969,7 +960,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -998,10 +989,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1030,10 +1020,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1062,10 +1051,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1095,7 +1083,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1125,7 +1113,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1155,7 +1143,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1185,7 +1173,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1214,10 +1202,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1246,10 +1233,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Xu,Xiaodong",
         "curr_course_code": "PHYS 119",
-        "curr_course_name": "GEN LAB MODERN PHYS ",
+        "curr_course_name": "GEN LAB MODERN PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1311,7 +1297,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1341,7 +1327,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1371,7 +1357,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1401,7 +1387,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1433,7 +1419,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1463,7 +1448,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1493,7 +1478,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1523,7 +1508,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1555,7 +1540,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1587,7 +1571,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1619,7 +1602,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1651,7 +1633,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1683,7 +1664,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1715,7 +1695,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1747,7 +1726,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1777,7 +1755,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1807,7 +1785,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1837,7 +1815,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1867,7 +1845,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1899,7 +1877,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1929,7 +1906,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1959,7 +1936,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -1989,7 +1966,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2021,7 +1998,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2053,7 +2029,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2120,7 +2095,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2150,7 +2124,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2180,7 +2154,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2210,7 +2184,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2242,7 +2216,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2272,7 +2245,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2302,7 +2275,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2332,7 +2305,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2362,7 +2335,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2394,7 +2367,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2426,7 +2398,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2458,7 +2429,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2490,7 +2460,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2522,7 +2491,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2552,7 +2520,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2582,7 +2550,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2612,7 +2580,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2642,7 +2610,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2672,7 +2640,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2702,7 +2670,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2732,7 +2700,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2764,7 +2732,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2796,7 +2763,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2861,7 +2827,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2893,7 +2859,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2923,7 +2888,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2953,7 +2918,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -2983,7 +2948,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3013,7 +2978,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3043,7 +3008,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3075,7 +3040,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3105,7 +3069,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3137,7 +3101,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3169,7 +3132,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3201,7 +3163,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3233,7 +3194,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3265,7 +3225,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3295,7 +3254,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3325,7 +3284,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3355,7 +3314,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3385,7 +3344,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3417,7 +3376,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3447,7 +3405,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3477,7 +3435,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3509,7 +3467,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3541,7 +3498,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 121",
         "curr_course_name": "MECHANICS",
         "curr_course_fulfills": [
@@ -3607,7 +3563,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3636,7 +3591,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3665,7 +3620,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3696,7 +3651,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3727,7 +3681,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3756,7 +3709,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3785,7 +3738,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3816,7 +3769,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3847,7 +3799,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3878,7 +3829,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3909,7 +3859,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3940,7 +3889,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -3971,7 +3919,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4000,7 +3947,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4029,7 +3976,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4058,7 +4005,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4089,7 +4036,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4120,7 +4066,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4149,7 +4094,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4180,7 +4125,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4211,7 +4155,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4242,7 +4185,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4307,7 +4249,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4336,7 +4277,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4365,7 +4306,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4396,7 +4337,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4427,7 +4367,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4456,7 +4395,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4485,7 +4424,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4516,7 +4455,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4547,7 +4485,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4578,7 +4515,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4609,7 +4545,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4640,7 +4575,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4671,7 +4605,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4700,7 +4633,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4729,7 +4662,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4758,7 +4691,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4789,7 +4722,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4820,7 +4752,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4849,7 +4780,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4880,7 +4811,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4911,7 +4841,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -4942,7 +4871,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 122",
         "curr_course_name": "ELECTROMAGNETISM",
         "curr_course_fulfills": [
@@ -5005,7 +4933,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5034,7 +4962,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5063,7 +4991,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5094,7 +5022,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5125,7 +5052,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5154,7 +5080,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5183,7 +5109,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5214,7 +5140,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5245,7 +5170,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5276,7 +5200,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5307,7 +5230,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5336,7 +5258,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5365,7 +5287,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5396,7 +5318,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5425,7 +5346,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5454,7 +5375,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5485,7 +5406,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5548,7 +5468,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5577,7 +5497,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5606,7 +5526,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5637,7 +5557,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5666,7 +5585,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5695,7 +5614,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5724,7 +5643,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5755,7 +5674,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5786,7 +5704,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5817,7 +5734,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5848,7 +5764,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5879,7 +5794,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5910,7 +5824,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5941,7 +5854,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5970,7 +5882,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -5999,7 +5911,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -6030,7 +5942,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -6059,7 +5970,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -6088,7 +5999,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -6119,7 +6030,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 123",
         "curr_course_name": "WAVES, LIGHT, & HEAT",
         "curr_course_fulfills": [
@@ -6182,7 +6092,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 143",
         "curr_course_name": "H-WAVES LIGHT HEAT",
         "curr_course_fulfills": [
@@ -6211,7 +6121,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 143",
         "curr_course_name": "H-WAVES LIGHT HEAT",
         "curr_course_fulfills": [
@@ -6240,7 +6150,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 143",
         "curr_course_name": "H-WAVES LIGHT HEAT",
         "curr_course_fulfills": [
@@ -6269,7 +6179,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 143",
         "curr_course_name": "H-WAVES LIGHT HEAT",
         "curr_course_fulfills": [
@@ -6298,7 +6208,7 @@
         "is_estimate": 0,
         "max_capacity": "180",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Depies,Matthew",
         "curr_course_code": "PHYS 224",
         "curr_course_name": "THERMAL PHYSICS",
@@ -6330,7 +6240,8 @@
         "is_estimate": 0,
         "max_capacity": "180",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rybka,Gray",
         "curr_course_code": "PHYS 226",
         "curr_course_name": "PARTICLES&SYMMETRY",
         "curr_course_fulfills": [
@@ -6359,7 +6270,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Garcia,Alejandro",
         "curr_course_code": "PHYS 228",
         "curr_course_name": "MATHEMATICAL PHYS II",
         "curr_course_fulfills": [
@@ -6390,7 +6302,8 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Buat,Quentin",
         "curr_course_code": "PHYS 321",
         "curr_course_name": "ELECTROMAGNETISM I",
         "curr_course_fulfills": [
@@ -6421,7 +6334,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 321",
         "curr_course_name": "ELECTROMAGNETISM I",
         "curr_course_fulfills": [
@@ -6452,7 +6364,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 321",
         "curr_course_name": "ELECTROMAGNETISM I",
         "curr_course_fulfills": [
@@ -6483,7 +6395,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 321",
         "curr_course_name": "ELECTROMAGNETISM I",
         "curr_course_fulfills": [
@@ -6514,7 +6426,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 321",
         "curr_course_name": "ELECTROMAGNETISM I",
         "curr_course_fulfills": [
@@ -6545,7 +6457,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 321",
         "curr_course_name": "ELECTROMAGNETISM I",
         "curr_course_fulfills": [
@@ -6576,7 +6488,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 321",
         "curr_course_name": "ELECTROMAGNETISM I",
         "curr_course_fulfills": [
@@ -6607,7 +6518,8 @@
         "is_estimate": 0,
         "max_capacity": "190",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Spivak,Boris",
         "curr_course_code": "PHYS 323",
         "curr_course_name": "ELECTROMAGNETISM III",
         "curr_course_fulfills": [
@@ -6638,7 +6550,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 323",
         "curr_course_name": "ELECTROMAGNETISM III",
         "curr_course_fulfills": [
@@ -6669,7 +6580,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 323",
         "curr_course_name": "ELECTROMAGNETISM III",
         "curr_course_fulfills": [
@@ -6700,7 +6611,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 323",
         "curr_course_name": "ELECTROMAGNETISM III",
         "curr_course_fulfills": [
@@ -6731,7 +6642,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 323",
         "curr_course_name": "ELECTROMAGNETISM III",
         "curr_course_fulfills": [
@@ -6762,7 +6673,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 323",
         "curr_course_name": "ELECTROMAGNETISM III",
         "curr_course_fulfills": [
@@ -6793,7 +6703,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 323",
         "curr_course_name": "ELECTROMAGNETISM III",
         "curr_course_fulfills": [
@@ -6824,7 +6733,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Barnard,Arthur",
         "curr_course_code": "PHYS 329",
         "curr_course_name": "MATH &CLAS MECHANICS",
         "curr_course_fulfills": [
@@ -6887,7 +6797,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 335",
         "curr_course_name": "ADV LAB-DIGITAL ELEC",
         "curr_course_fulfills": [
@@ -6916,7 +6825,7 @@
         "is_estimate": 0,
         "max_capacity": "17",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 335",
         "curr_course_name": "ADV LAB-DIGITAL ELEC",
         "curr_course_fulfills": [
@@ -6945,7 +6854,7 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 335",
         "curr_course_name": "ADV LAB-DIGITAL ELEC",
         "curr_course_fulfills": [
@@ -6974,7 +6883,7 @@
         "is_estimate": 0,
         "max_capacity": "14",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 335",
         "curr_course_name": "ADV LAB-DIGITAL ELEC",
         "curr_course_fulfills": [
@@ -7005,7 +6914,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 335",
         "curr_course_name": "ADV LAB-DIGITAL ELEC",
         "curr_course_fulfills": [
@@ -7036,7 +6945,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 335",
         "curr_course_name": "ADV LAB-DIGITAL ELEC",
         "curr_course_fulfills": [
@@ -7067,7 +6975,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 335",
         "curr_course_name": "ADV LAB-DIGITAL ELEC",
         "curr_course_fulfills": [
@@ -7098,7 +7005,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 335",
         "curr_course_name": "ADV LAB-DIGITAL ELEC",
         "curr_course_fulfills": [
@@ -7133,7 +7039,7 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Shaffer,Peter",
         "curr_course_code": "PHYS 401",
         "curr_course_name": "PHYS PEDGOGY/MECANCS",
         "curr_course_fulfills": ""
@@ -7166,7 +7072,6 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Smith,David",
         "curr_course_code": "PHYS 402",
         "curr_course_name": "PHYS PDGOGY/ELECTMAG",
@@ -7200,9 +7105,9 @@
         "is_estimate": 1,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Tolich,Kazumi",
         "curr_course_code": "PHYS 403",
-        "curr_course_name": "PHYS PEDAGOGY/WAVES ",
+        "curr_course_name": "PHYS PEDAGOGY/WAVES",
         "curr_course_fulfills": ""
     },
     {
@@ -7229,10 +7134,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Messina,Donna",
         "curr_course_code": "PHYS 409",
-        "curr_course_name": "PHYS BY INQUIRY III ",
+        "curr_course_name": "PHYS BY INQUIRY III",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -7287,7 +7191,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 417",
         "curr_course_name": "NEURL NET-ENGR & SCI",
         "curr_course_fulfills": ""
@@ -7314,7 +7218,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHYS 417",
         "curr_course_name": "NEURL NET-ENGR & SCI",
         "curr_course_fulfills": ""
@@ -7343,7 +7247,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 417",
         "curr_course_name": "NEURL NET-ENGR & SCI",
         "curr_course_fulfills": ""
@@ -7432,10 +7335,9 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Pengra,David B.",
         "curr_course_code": "PHYS 432",
-        "curr_course_name": "ADV LAB-ATOMIC PHYS ",
+        "curr_course_name": "ADV LAB-ATOMIC PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -7464,10 +7366,9 @@
         "is_estimate": 0,
         "max_capacity": "17",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Pengra,David B.",
         "curr_course_code": "PHYS 432",
-        "curr_course_name": "ADV LAB-ATOMIC PHYS ",
+        "curr_course_name": "ADV LAB-ATOMIC PHYS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -7496,10 +7397,9 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bulgac,Aurel",
         "curr_course_code": "PHYS 487",
-        "curr_course_name": "H-SR HONORS SEMINAR ",
+        "curr_course_name": "H-SR HONORS SEMINAR",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -7521,7 +7421,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bulgac,Aurel",
         "curr_course_code": "PHYS 488",
         "curr_course_name": "HONORS THESIS",
@@ -7551,7 +7450,8 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bulgac,Aurel",
         "curr_course_code": "PHYS 496",
         "curr_course_name": "SEM CURRENT PROBS",
         "curr_course_fulfills": [
@@ -7600,7 +7500,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -7735,7 +7634,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Rudner,Mark",
         "curr_course_code": "PHYS 505",
         "curr_course_name": "MECHANICS",
@@ -7765,10 +7664,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Turiaci,Gustavo",
         "curr_course_code": "PHYS 515",
-        "curr_course_name": "ELECTRMAG & RELTVTY ",
+        "curr_course_name": "ELECTRMAG & RELTVTY",
         "curr_course_fulfills": ""
     },
     {
@@ -7799,7 +7698,7 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Sharpe,Stephen",
         "curr_course_code": "PHYS 519",
         "curr_course_name": "QUANTUM MECHANICS",
@@ -7859,7 +7758,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Loverde,Marilena",
         "curr_course_code": "PHYS 565",
         "curr_course_name": "GENERAL RELATIVITY",
         "curr_course_fulfills": ""
@@ -7888,7 +7788,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Andreev,Anton",
         "curr_course_code": "PHYS 568",
         "curr_course_name": "THEORY OF SOLIDS",
         "curr_course_fulfills": ""
@@ -7920,7 +7821,7 @@
         "open_or_closed": "Open",
         "professor_name": "Beane,Silas R.",
         "curr_course_code": "PHYS 572",
-        "curr_course_name": "MOD QUANT FIELD THY ",
+        "curr_course_name": "MOD QUANT FIELD THY",
         "curr_course_fulfills": ""
     },
     {
@@ -7980,7 +7881,7 @@
         "open_or_closed": "Open",
         "professor_name": "Savage,Martin J.",
         "curr_course_code": "PHYS 578",
-        "curr_course_name": "SEL TPC THRTCL PHYS ",
+        "curr_course_name": "SEL TPC THRTCL PHYS",
         "curr_course_fulfills": ""
     },
     {
@@ -8010,7 +7911,7 @@
         "open_or_closed": "Open",
         "professor_name": "Paquette,Natalie",
         "curr_course_code": "PHYS 578",
-        "curr_course_name": "SEL TPC THRTCL PHYS ",
+        "curr_course_name": "SEL TPC THRTCL PHYS",
         "curr_course_fulfills": ""
     },
     {
@@ -8070,7 +7971,7 @@
         "open_or_closed": "Open",
         "professor_name": "Lubatti,Henry J",
         "curr_course_code": "PHYS 581",
-        "curr_course_name": "SMNR HGH ENRGY PHYS ",
+        "curr_course_name": "SMNR HGH ENRGY PHYS",
         "curr_course_fulfills": ""
     },
     {
@@ -8100,7 +8001,7 @@
         "open_or_closed": "Open",
         "professor_name": "Loverde,Marilena",
         "curr_course_code": "PHYS 582",
-        "curr_course_name": "SEM PARTICLE THEORY ",
+        "curr_course_name": "SEM PARTICLE THEORY",
         "curr_course_fulfills": ""
     },
     {
@@ -8121,9 +8022,8 @@
         "is_estimate": 0,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -8144,9 +8044,8 @@
         "is_estimate": 1,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHYS 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

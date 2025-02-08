@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "132",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ohta,Kaoru",
         "curr_course_code": "JAPAN 103",
         "curr_course_name": "1ST-YR JAPANESE",
         "curr_course_fulfills": ""
@@ -384,7 +385,8 @@
         "is_estimate": 0,
         "max_capacity": "132",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ohta,Kaoru",
         "curr_course_code": "JAPAN 103",
         "curr_course_name": "1ST-YR JAPANESE",
         "curr_course_fulfills": ""
@@ -747,7 +749,8 @@
         "is_estimate": 0,
         "max_capacity": "66",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Iwata,Akiko",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -776,7 +779,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -805,7 +808,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -834,7 +837,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -863,7 +866,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -892,7 +895,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Iwata,Akiko",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -921,7 +925,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -950,7 +954,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -979,7 +983,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1008,7 +1012,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 203",
         "curr_course_name": "2ND-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1067,7 +1071,8 @@
         "is_estimate": 0,
         "max_capacity": "44",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Matsuda,Izumi",
         "curr_course_code": "JAPAN 303",
         "curr_course_name": "3RD-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1096,7 +1101,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 303",
         "curr_course_name": "3RD-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1125,7 +1130,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 303",
         "curr_course_name": "3RD-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1154,7 +1159,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 303",
         "curr_course_name": "3RD-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1183,7 +1188,8 @@
         "is_estimate": 0,
         "max_capacity": "44",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Matsuda,Izumi",
         "curr_course_code": "JAPAN 303",
         "curr_course_name": "3RD-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1212,7 +1218,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 303",
         "curr_course_name": "3RD-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1243,7 +1249,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "JAPAN 303",
         "curr_course_name": "3RD-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1272,7 +1277,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JAPAN 303",
         "curr_course_name": "3RD-YR JAPANESE",
         "curr_course_fulfills": [
@@ -1301,7 +1306,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Arroyave,Juan",
         "curr_course_code": "JAPAN 360",
         "curr_course_name": "TPCS JAPAN CULTURE",
@@ -1331,9 +1336,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Jesty,Justin",
         "curr_course_code": "JAPAN 380",
-        "curr_course_name": "CONTEMP JPN ART&SOC ",
+        "curr_course_name": "CONTEMP JPN ART&SOC",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1360,7 +1366,8 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ohta,Kaoru",
         "curr_course_code": "JAPAN 412",
         "curr_course_name": "VIRTUAL TOKYO",
         "curr_course_fulfills": [
@@ -1389,7 +1396,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Bhowmik,Davinder",
         "curr_course_code": "JAPAN 432",
         "curr_course_name": "RDGS MOD JAPAN LIT",
@@ -1419,7 +1426,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Jesty,Justin",
         "curr_course_code": "JAPAN 435",
         "curr_course_name": "MODERN JAPAN LIT SEM",
         "curr_course_fulfills": [
@@ -1451,7 +1459,7 @@
         "open_or_closed": "Open",
         "professor_name": "TSUJIHARA,RIE",
         "curr_course_code": "JAPAN 443",
-        "curr_course_name": "JPNSE SOCIOLINGUIST ",
+        "curr_course_name": "JPNSE SOCIOLINGUIST",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -1480,7 +1488,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Takeda,Fumiko",
         "curr_course_code": "JAPAN 452",
         "curr_course_name": "JPNSE PROJECT WORK",
         "curr_course_fulfills": [
@@ -1509,7 +1517,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Atkins,Paul",
         "curr_course_code": "JAPAN 472",
         "curr_course_name": "RDGS CLASCL LIT I",
@@ -1532,7 +1540,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "JAPAN 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1559,7 +1567,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Atkins,Paul",
         "curr_course_code": "JAPAN 573",
         "curr_course_name": "ADV RDGS CLSCL LIT",

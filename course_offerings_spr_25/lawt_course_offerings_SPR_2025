@@ -26,7 +26,7 @@
         "open_or_closed": "Open",
         "professor_name": "Bernard,Michael J",
         "curr_course_code": "LAW T 502",
-        "curr_course_name": "FED TX CONTR & PROC ",
+        "curr_course_name": "FED TX CONTR & PROC",
         "curr_course_fulfills": ""
     },
     {
@@ -53,10 +53,9 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bernard,Michael J",
         "curr_course_code": "LAW T 502",
-        "curr_course_name": "FED TX CONTR & PROC ",
+        "curr_course_name": "FED TX CONTR & PROC",
         "curr_course_fulfills": ""
     },
     {
@@ -113,7 +112,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Adams,Jared E",
         "curr_course_code": "LAW T 513",
         "curr_course_name": "ESTATE PLANNING",
@@ -206,7 +204,7 @@
         "open_or_closed": "Open",
         "professor_name": "Reutter,Eric",
         "curr_course_code": "LAW T 514",
-        "curr_course_name": "DRAFT EST PLNG DOCS ",
+        "curr_course_name": "DRAFT EST PLNG DOCS",
         "curr_course_fulfills": ""
     },
     {
@@ -233,10 +231,9 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Reutter,Eric",
         "curr_course_code": "LAW T 514",
-        "curr_course_name": "DRAFT EST PLNG DOCS ",
+        "curr_course_name": "DRAFT EST PLNG DOCS",
         "curr_course_fulfills": ""
     },
     {
@@ -266,7 +263,7 @@
         "open_or_closed": "Open",
         "professor_name": "Reutter,Eric",
         "curr_course_code": "LAW T 514",
-        "curr_course_name": "DRAFT EST PLNG DOCS ",
+        "curr_course_name": "DRAFT EST PLNG DOCS",
         "curr_course_fulfills": ""
     },
     {
@@ -296,7 +293,7 @@
         "open_or_closed": "Open",
         "professor_name": "Reutter,Eric",
         "curr_course_code": "LAW T 514",
-        "curr_course_name": "DRAFT EST PLNG DOCS ",
+        "curr_course_name": "DRAFT EST PLNG DOCS",
         "curr_course_fulfills": ""
     },
     {
@@ -353,7 +350,6 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Medleau,Keith G",
         "curr_course_code": "LAW T 518",
         "curr_course_name": "TAX OF S CORPS",
@@ -443,7 +439,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Guenther,David",
         "curr_course_code": "LAW T 524",
         "curr_course_name": "TRANS PRIC SEM",
@@ -561,7 +556,6 @@
         "is_estimate": 0,
         "max_capacity": "23",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ortiz-Velez,Ramon E",
         "curr_course_code": "LAW T 526",
         "curr_course_name": "FEDERAL TAX CLINIC",
@@ -584,7 +578,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAW T 528",
         "curr_course_name": "GRAD TAX PRACTICUM",
         "curr_course_fulfills": ""
@@ -606,7 +600,7 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAW T 528",
         "curr_course_name": "GRAD TAX PRACTICUM",
         "curr_course_fulfills": ""
@@ -628,7 +622,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAW T 528",
         "curr_course_name": "GRAD TAX PRACTICUM",
         "curr_course_fulfills": ""
@@ -650,7 +644,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAW T 528",
         "curr_course_name": "GRAD TAX PRACTICUM",
         "curr_course_fulfills": ""
@@ -672,7 +666,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAW T 528",
         "curr_course_name": "GRAD TAX PRACTICUM",
         "curr_course_fulfills": ""
@@ -731,7 +725,6 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Beyzavi,Farinaz",
         "curr_course_code": "LAW T 530",
         "curr_course_name": "TAX ISSUES IN M&AS",

@@ -51,7 +51,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Markey,Veronica",
         "curr_course_code": "ART H 203",
         "curr_course_name": "SURV WEST ART-MOD",
@@ -81,7 +81,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ART H 203",
         "curr_course_name": "SURV WEST ART-MOD",
         "curr_course_fulfills": [
@@ -110,7 +110,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ribeiro,Mariah",
         "curr_course_code": "ART H 203",
         "curr_course_name": "SURV WEST ART-MOD",
         "curr_course_fulfills": [
@@ -139,7 +140,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ribeiro,Mariah",
         "curr_course_code": "ART H 203",
         "curr_course_name": "SURV WEST ART-MOD",
         "curr_course_fulfills": [
@@ -171,7 +173,7 @@
         "open_or_closed": "Open",
         "professor_name": "Rounthwaite,Adair",
         "curr_course_code": "ART H 209",
-        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_name": "ART H THEMES/TOPICS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -198,9 +200,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Yan,Jingrui",
         "curr_course_code": "ART H 209",
-        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_name": "ART H THEMES/TOPICS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -227,9 +230,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Yan,Jingrui",
         "curr_course_code": "ART H 209",
-        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_name": "ART H THEMES/TOPICS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -256,9 +260,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nadirashvili,Nikoloz",
         "curr_course_code": "ART H 209",
-        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_name": "ART H THEMES/TOPICS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -285,9 +290,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nadirashvili,Nikoloz",
         "curr_course_code": "ART H 209",
-        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_name": "ART H THEMES/TOPICS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -314,10 +320,10 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Enderle,Melanie",
         "curr_course_code": "ART H 209",
-        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_name": "ART H THEMES/TOPICS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -344,7 +350,8 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wang,Haicheng",
         "curr_course_code": "ART H 212",
         "curr_course_name": "CHINESE ART",
         "curr_course_fulfills": [
@@ -373,7 +380,8 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wieczorek,Marek",
         "curr_course_code": "ART H 309",
         "curr_course_name": "TOPICS IN ART HIST",
         "curr_course_fulfills": [
@@ -402,7 +410,7 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Lingo,Estelle",
         "curr_course_code": "ART H 309",
         "curr_course_name": "TOPICS IN ART HIST",
@@ -432,7 +440,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McClelland,Ashley",
         "curr_course_code": "ART H 309",
         "curr_course_name": "TOPICS IN ART HIST",
@@ -495,7 +503,7 @@
         "open_or_closed": "Open",
         "professor_name": "Levin-Richardson,Sarah",
         "curr_course_code": "ART H 342",
-        "curr_course_name": "ROMAN ART & ARCHLGY ",
+        "curr_course_name": "ROMAN ART & ARCHLGY",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -522,7 +530,7 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Lingo,Stuart",
         "curr_course_code": "ART H 361",
         "curr_course_name": "ITALIAN REN ART",
@@ -554,10 +562,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Baez,Jennifer",
         "curr_course_code": "ART H 400",
-        "curr_course_name": "ART H AND CRITICISM ",
+        "curr_course_name": "ART H AND CRITICISM",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -586,10 +594,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Rice,Kolya",
         "curr_course_code": "ART H 400",
-        "curr_course_name": "ART H AND CRITICISM ",
+        "curr_course_name": "ART H AND CRITICISM",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -619,7 +627,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chusid,Miriam",
         "curr_course_code": "ART H 416",
-        "curr_course_name": "JAPANESE ART TOPICS ",
+        "curr_course_name": "JAPANESE ART TOPICS",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -672,9 +680,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ART H 498",
-        "curr_course_name": "UNDERGRAD PRACTICUM ",
+        "curr_course_name": "UNDERGRAD PRACTICUM",
         "curr_course_fulfills": ""
     },
     {
@@ -695,9 +702,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ART H 499",
-        "curr_course_name": "INDIVIDUAL PROJECTS ",
+        "curr_course_name": "INDIVIDUAL PROJECTS",
         "curr_course_fulfills": ""
     },
     {
@@ -724,10 +730,10 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Baez,Jennifer",
         "curr_course_code": "ART H 509",
-        "curr_course_name": "SEM TOPICS ART HIST ",
+        "curr_course_name": "SEM TOPICS ART HIST",
         "curr_course_fulfills": ""
     },
     {
@@ -757,7 +763,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chusid,Miriam",
         "curr_course_code": "ART H 516",
-        "curr_course_name": "JAPANESE ART TOPICS ",
+        "curr_course_name": "JAPANESE ART TOPICS",
         "curr_course_fulfills": ""
     },
     {
@@ -785,7 +791,7 @@
         "open_or_closed": "Open",
         "professor_name": "Levin-Richardson,Sarah",
         "curr_course_code": "ART H 541",
-        "curr_course_name": "SEMINAR GRK ROM ART ",
+        "curr_course_name": "SEMINAR GRK ROM ART",
         "curr_course_fulfills": ""
     },
     {
@@ -810,10 +816,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Lingo,Stuart",
         "curr_course_code": "ART H 561",
-        "curr_course_name": "SEMINAR ITALIAN REN ",
+        "curr_course_name": "SEMINAR ITALIAN REN",
         "curr_course_fulfills": ""
     },
     {
@@ -831,9 +837,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ART H 597",
-        "curr_course_name": "GRADUATE INTERNSHIP ",
+        "curr_course_name": "GRADUATE INTERNSHIP",
         "curr_course_fulfills": ""
     },
     {
@@ -854,7 +860,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ART H 598",
         "curr_course_name": "MASTER'S PRACTICUM",
         "curr_course_fulfills": ""
@@ -877,7 +882,6 @@
         "is_estimate": 1,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ART H 599",
         "curr_course_name": "RDG-WRTG PROJECTS",
         "curr_course_fulfills": ""
@@ -900,7 +904,6 @@
         "is_estimate": 1,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ART H 599",
         "curr_course_name": "RDG-WRTG PROJECTS",
         "curr_course_fulfills": ""
@@ -923,9 +926,8 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ART H 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -945,7 +947,7 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ART H 602",
         "curr_course_name": "IND STDY/RSCH ROME",
         "curr_course_fulfills": ""
@@ -968,7 +970,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ART H 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -991,9 +992,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ART H 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

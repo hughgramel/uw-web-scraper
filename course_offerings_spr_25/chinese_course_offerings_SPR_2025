@@ -23,7 +23,7 @@
         "is_estimate": 0,
         "max_capacity": "66",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Ma,Xi",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -50,7 +50,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -77,7 +77,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -160,7 +160,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -187,7 +187,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -216,7 +216,7 @@
         "is_estimate": 0,
         "max_capacity": "66",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Ma,Xi",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -243,7 +243,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -270,7 +270,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -353,7 +353,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -380,7 +380,7 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 103",
         "curr_course_name": "1ST-YR CHIN-NH",
         "curr_course_fulfills": ""
@@ -407,7 +407,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 113",
         "curr_course_name": "1ST-YR CHIN-H",
         "curr_course_fulfills": [
@@ -436,7 +436,8 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Yu,Liping",
         "curr_course_code": "CHIN 203",
         "curr_course_name": "2ND-YR CHIN-NH",
         "curr_course_fulfills": [
@@ -467,7 +468,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Yu,Liping",
         "curr_course_code": "CHIN 203",
         "curr_course_name": "2ND-YR CHIN-NH",
         "curr_course_fulfills": [
@@ -498,7 +499,6 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cao,Yu",
         "curr_course_code": "CHIN 303",
         "curr_course_name": "3RD-YR CHIN-NH",
@@ -530,7 +530,6 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cao,Yu",
         "curr_course_code": "CHIN 303",
         "curr_course_name": "3RD-YR CHIN-NH",
@@ -592,9 +591,9 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Zhu,Yan",
         "curr_course_code": "CHIN 413",
-        "curr_course_name": "FOURTH-YEAR CHINESE ",
+        "curr_course_name": "FOURTH-YEAR CHINESE",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -623,7 +622,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Wang,Ping",
         "curr_course_code": "CHIN 452",
         "curr_course_name": "INTR CLASS CHIN PTRY",
         "curr_course_fulfills": [
@@ -647,7 +646,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHIN 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -674,9 +673,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Handel,Zev",
         "curr_course_code": "CHIN 540",
-        "curr_course_name": "SEMINAR LINGUISTICS ",
+        "curr_course_name": "SEMINAR LINGUISTICS",
         "curr_course_fulfills": ""
     }
 ]

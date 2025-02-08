@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "135",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brown,William",
         "curr_course_code": "BIOST 310",
         "curr_course_name": "BIOSTATISTICS",
         "curr_course_fulfills": [
@@ -50,7 +51,8 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brown,William",
         "curr_course_code": "BIOST 310",
         "curr_course_name": "BIOSTATISTICS",
         "curr_course_fulfills": [
@@ -79,7 +81,8 @@
         "is_estimate": 0,
         "max_capacity": "39",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brown,William",
         "curr_course_code": "BIOST 310",
         "curr_course_name": "BIOSTATISTICS",
         "curr_course_fulfills": [
@@ -108,7 +111,8 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brown,William",
         "curr_course_code": "BIOST 310",
         "curr_course_name": "BIOSTATISTICS",
         "curr_course_fulfills": [
@@ -137,7 +141,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brown,William",
         "curr_course_code": "BIOST 310",
         "curr_course_name": "BIOSTATISTICS",
         "curr_course_fulfills": [
@@ -166,7 +171,8 @@
         "is_estimate": 0,
         "max_capacity": "130",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "May,Susanne",
         "curr_course_code": "BIOST 513",
         "curr_course_name": "MED BIOMETRY III",
         "curr_course_fulfills": ""
@@ -193,7 +199,8 @@
         "is_estimate": 0,
         "max_capacity": "44",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "May,Susanne",
         "curr_course_code": "BIOST 513",
         "curr_course_name": "MED BIOMETRY III",
         "curr_course_fulfills": ""
@@ -220,7 +227,8 @@
         "is_estimate": 0,
         "max_capacity": "43",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "May,Susanne",
         "curr_course_code": "BIOST 513",
         "curr_course_name": "MED BIOMETRY III",
         "curr_course_fulfills": ""
@@ -277,7 +285,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Guthrie,Brandon L",
         "curr_course_code": "BIOST 520",
         "curr_course_name": "ADV EPI METHODS II",
@@ -399,7 +406,7 @@
         "is_estimate": 0,
         "max_capacity": "31",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOST 533",
         "curr_course_name": "THEORY LIN MODELS",
         "curr_course_fulfills": ""
@@ -426,7 +433,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOST 534",
         "curr_course_name": "STAT COMPUTING",
         "curr_course_fulfills": ""
@@ -456,7 +463,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chan,Kwun Chuen Gary",
         "curr_course_code": "BIOST 540",
-        "curr_course_name": "LONG MULTILEVEL DAT ",
+        "curr_course_name": "LONG MULTILEVEL DAT",
         "curr_course_fulfills": ""
     },
     {
@@ -481,7 +488,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOST 550",
         "curr_course_name": "STAT GENET I",
         "curr_course_fulfills": ""
@@ -541,7 +548,7 @@
         "open_or_closed": "Closed",
         "professor_name": "Richardson,Thomas S",
         "curr_course_code": "BIOST 572",
-        "curr_course_name": "PREP FOR RES PRELIM ",
+        "curr_course_name": "PREP FOR RES PRELIM",
         "curr_course_fulfills": ""
     },
     {
@@ -569,7 +576,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chan,Kwun Chuen Gary",
         "curr_course_code": "BIOST 572",
-        "curr_course_name": "PREP FOR RES PRELIM ",
+        "curr_course_name": "PREP FOR RES PRELIM",
         "curr_course_fulfills": ""
     },
     {
@@ -656,7 +663,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOST 582",
         "curr_course_name": "STUDENT SEMINAR",
         "curr_course_fulfills": ""
@@ -713,7 +720,6 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Heagerty,Patrick J.",
         "curr_course_code": "BIOST 590",
         "curr_course_name": "BIOSTAT CONSULTING",
@@ -736,9 +742,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOST 591",
-        "curr_course_name": "APPLD RESEARCH PROJ ",
+        "curr_course_name": "APPLD RESEARCH PROJ",
         "curr_course_fulfills": ""
     },
     {
@@ -758,9 +764,9 @@
         "is_estimate": 1,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOST 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -780,9 +786,9 @@
         "is_estimate": 1,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOST 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -802,7 +808,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOST 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -824,9 +830,9 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOST 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

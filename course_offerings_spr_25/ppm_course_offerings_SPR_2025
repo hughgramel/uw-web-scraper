@@ -26,7 +26,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hill,Heather D",
         "curr_course_code": "PPM 500",
-        "curr_course_name": "DOCTORAL PROSEMINAR ",
+        "curr_course_name": "DOCTORAL PROSEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -53,10 +53,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Martin,Karin",
         "curr_course_code": "PPM 510",
-        "curr_course_name": "PUBLIC POLICY ANLYS ",
+        "curr_course_name": "PUBLIC POLICY ANLYS",
         "curr_course_fulfills": ""
     },
     {
@@ -83,9 +83,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PPM 599",
-        "curr_course_name": "TOPICS PUB POL MGMT ",
+        "curr_course_name": "TOPICS PUB POL MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -106,7 +106,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PPM 600",
         "curr_course_name": "INDEPNDT STDY/RSCH",
         "curr_course_fulfills": ""
@@ -129,9 +128,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PPM 603",
-        "curr_course_name": "TEACHING MENTORSHIP ",
+        "curr_course_name": "TEACHING MENTORSHIP",
         "curr_course_fulfills": ""
     },
     {
@@ -152,7 +150,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PPM 800",
         "curr_course_name": "DISSERTATION",
         "curr_course_fulfills": ""

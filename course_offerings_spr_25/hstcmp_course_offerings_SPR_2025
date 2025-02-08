@@ -54,7 +54,7 @@
         "open_or_closed": "Open",
         "professor_name": "Dhavan,Purnima",
         "curr_course_code": "HSTCMP 221",
-        "curr_course_name": "GLOBAL ENVIR HISTRY ",
+        "curr_course_name": "GLOBAL ENVIR HISTRY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -82,9 +82,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSTCMP 221",
-        "curr_course_name": "GLOBAL ENVIR HISTRY ",
+        "curr_course_name": "GLOBAL ENVIR HISTRY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -112,9 +112,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSTCMP 221",
-        "curr_course_name": "GLOBAL ENVIR HISTRY ",
+        "curr_course_name": "GLOBAL ENVIR HISTRY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -205,7 +205,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hevly,Bruce",
         "curr_course_code": "HSTCMP 313",
-        "curr_course_name": "SCI&CIV-PHYS&ASTPHY ",
+        "curr_course_name": "SCI&CIV-PHYS&ASTPHY",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]

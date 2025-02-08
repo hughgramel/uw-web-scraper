@@ -83,7 +83,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 504",
         "curr_course_name": "SOC WRK SOC JUSTIC",
         "curr_course_fulfills": ""
@@ -202,7 +202,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "La Fazia,David",
         "curr_course_code": "SOC W 505",
         "curr_course_name": "SOC WELF RES",
@@ -232,7 +232,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Fredriksen-Goldsen,Karen",
         "curr_course_code": "SOC W 505",
         "curr_course_name": "SOC WELF RES",
@@ -262,7 +262,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 505",
         "curr_course_name": "SOC WELF RES",
         "curr_course_fulfills": ""
@@ -291,7 +291,8 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hoy-Ellis,CharlIe",
         "curr_course_code": "SOC W 505",
         "curr_course_name": "SOC WELF RES",
         "curr_course_fulfills": ""
@@ -320,7 +321,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 505",
         "curr_course_name": "SOC WELF RES",
         "curr_course_fulfills": ""
@@ -352,7 +353,7 @@
         "open_or_closed": "Open",
         "professor_name": "Stockard,Kristin Lynn",
         "curr_course_code": "SOC W 506",
-        "curr_course_name": "SOC WELF RES & EVAL ",
+        "curr_course_name": "SOC WELF RES & EVAL",
         "curr_course_fulfills": ""
     },
     {
@@ -379,10 +380,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Stockard,Kristin",
         "curr_course_code": "SOC W 506",
-        "curr_course_name": "SOC WELF RES & EVAL ",
+        "curr_course_name": "SOC WELF RES & EVAL",
         "curr_course_fulfills": ""
     },
     {
@@ -409,7 +410,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 513",
         "curr_course_name": "ORG PRACTICE",
         "curr_course_fulfills": ""
@@ -438,7 +439,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Duckworth,Sonia",
         "curr_course_code": "SOC W 513",
         "curr_course_name": "ORG PRACTICE",
@@ -468,7 +469,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Sky-Tucker,Joseph",
         "curr_course_code": "SOC W 513",
         "curr_course_name": "ORG PRACTICE",
@@ -498,7 +499,7 @@
         "is_estimate": 0,
         "max_capacity": "23",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Gray,Jullie",
         "curr_course_code": "SOC W 513",
         "curr_course_name": "ORG PRACTICE",
@@ -528,7 +529,8 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Briner,Leslie",
         "curr_course_code": "SOC W 513",
         "curr_course_name": "ORG PRACTICE",
         "curr_course_fulfills": ""
@@ -557,7 +559,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 513",
         "curr_course_name": "ORG PRACTICE",
         "curr_course_fulfills": ""
@@ -579,7 +581,6 @@
         "is_estimate": 1,
         "max_capacity": "150",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SOC W 524",
         "curr_course_name": "GENERALIST PRACT",
         "curr_course_fulfills": ""
@@ -739,7 +740,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SOC W 525",
         "curr_course_name": "SPECIALIZED PRACT",
         "curr_course_fulfills": ""
@@ -929,7 +929,7 @@
         "is_estimate": 0,
         "max_capacity": "29",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mugambe,Mpiima",
         "curr_course_code": "SOC W 527",
         "curr_course_name": "GLBZTN/TRNSNATL PRAC",
@@ -989,9 +989,9 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 551",
-        "curr_course_name": "HR MNGMNT, HUM SVCS ",
+        "curr_course_name": "HR MNGMNT, HUM SVCS",
         "curr_course_fulfills": ""
     },
     {
@@ -1021,7 +1021,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ryan,Alice Cagampang",
         "curr_course_code": "SOC W 557",
-        "curr_course_name": "CRITICL ILLNSS CARE ",
+        "curr_course_name": "CRITICL ILLNSS CARE",
         "curr_course_fulfills": ""
     },
     {
@@ -1051,7 +1051,7 @@
         "open_or_closed": "Open",
         "professor_name": "Winn,Scott",
         "curr_course_code": "SOC W 570",
-        "curr_course_name": "ANTI-RACIST ORGNZNG ",
+        "curr_course_name": "ANTI-RACIST ORGNZNG",
         "curr_course_fulfills": ""
     },
     {
@@ -1101,7 +1101,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 574",
         "curr_course_name": "COLAB CMTY PROG EVAL",
         "curr_course_fulfills": ""
@@ -1130,7 +1130,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Ellis,Mei",
         "curr_course_code": "SOC W 574",
         "curr_course_name": "COLAB CMTY PROG EVAL",
@@ -1160,7 +1160,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 580",
         "curr_course_name": "GRANT WRITING",
         "curr_course_fulfills": ""
@@ -1189,7 +1189,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Aisenberg,Gino",
         "curr_course_code": "SOC W 584",
         "curr_course_name": "MLTICL TRL MNTL HLTH",
         "curr_course_fulfills": ""
@@ -1221,7 +1222,7 @@
         "open_or_closed": "Open",
         "professor_name": "Sullenszino,Julie",
         "curr_course_code": "SOC W 588",
-        "curr_course_name": "SOC WORK IN SCHOOLS ",
+        "curr_course_name": "SOC WORK IN SCHOOLS",
         "curr_course_fulfills": ""
     },
     {
@@ -1251,7 +1252,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wilson,Stephen T.",
         "curr_course_code": "SOC W 592",
-        "curr_course_name": "AFRICAN-AMRICAN FAM ",
+        "curr_course_name": "AFRICAN-AMRICAN FAM",
         "curr_course_fulfills": ""
     },
     {
@@ -1274,7 +1275,7 @@
         "open_or_closed": "Open",
         "professor_name": "Jackson,Ron",
         "curr_course_code": "SOC W 593",
-        "curr_course_name": "CHEMDEP:ASSESS/CNSL ",
+        "curr_course_name": "CHEMDEP:ASSESS/CNSL",
         "curr_course_fulfills": ""
     },
     {
@@ -1361,7 +1362,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 596",
         "curr_course_name": "TOPICS SOCIAL WORK",
         "curr_course_fulfills": ""
@@ -1480,7 +1481,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Cunningham,Lev",
         "curr_course_code": "SOC W 596",
         "curr_course_name": "TOPICS SOCIAL WORK",
         "curr_course_fulfills": ""
@@ -1532,7 +1533,6 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "La Fazia,David M.",
         "curr_course_code": "SOC W 596",
         "curr_course_name": "TOPICS SOCIAL WORK",
@@ -1562,7 +1562,6 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lerner,Justin",
         "curr_course_code": "SOC W 596",
         "curr_course_name": "TOPICS SOCIAL WORK",
@@ -1595,7 +1594,7 @@
         "open_or_closed": "Open",
         "professor_name": "Zachary,Maggie",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1625,7 +1624,7 @@
         "open_or_closed": "Open",
         "professor_name": "Bahler,Bryce",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1655,7 +1654,7 @@
         "open_or_closed": "Open",
         "professor_name": "Deal,Andrew Glen",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1685,7 +1684,7 @@
         "open_or_closed": "Open",
         "professor_name": "Caliboso,Antonia",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1715,7 +1714,7 @@
         "open_or_closed": "Open",
         "professor_name": "Green,Barbara E",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1745,7 +1744,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wollemborg,Karen Natasha",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1775,7 +1774,7 @@
         "open_or_closed": "Open",
         "professor_name": "La Fazia,David M.",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1805,7 +1804,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ranchigoda,Tanya D",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1835,7 +1834,7 @@
         "open_or_closed": "Open",
         "professor_name": "Price,Katie",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1865,7 +1864,7 @@
         "open_or_closed": "Open",
         "professor_name": "Street,Griffin",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1895,7 +1894,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wells,Aida V",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1925,7 +1924,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ryan,Alice Cagampang",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1953,7 +1952,7 @@
         "open_or_closed": "Open",
         "professor_name": "Aisenberg,Gino",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1978,9 +1977,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC W 598",
-        "curr_course_name": "INTEGRATIVE SEMINAR ",
+        "curr_course_name": "INTEGRATIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -2001,7 +2000,6 @@
         "is_estimate": 1,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SOC W 599",
         "curr_course_name": "IND STDY SOC WK",
         "curr_course_fulfills": ""
@@ -2024,9 +2022,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SOC W 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -2047,7 +2044,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SOC W 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""

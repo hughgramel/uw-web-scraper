@@ -120,7 +120,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Yip,Jason",
         "curr_course_code": "INSC 572",
         "curr_course_name": "QUAL METH INFO SC",
@@ -150,9 +150,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Parvin,Nassim",
         "curr_course_code": "INSC 573",
-        "curr_course_name": "DSGN INQ MTHDS INFO ",
+        "curr_course_name": "DSGN INQ MTHDS INFO",
         "curr_course_fulfills": ""
     },
     {
@@ -216,7 +217,6 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "West,Jevin",
         "curr_course_code": "INSC 578",
         "curr_course_name": "RESEARCH SEMINAR",
@@ -241,7 +241,7 @@
         "curr_enrolled": "0",
         "open_or_closed": "Open",
         "curr_course_code": "INSC 590",
-        "curr_course_name": "INTERNSHIP INFO SCI ",
+        "curr_course_name": "INTERNSHIP INFO SCI",
         "curr_course_fulfills": ""
     },
     {
@@ -298,7 +298,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Saveski,Martin",
         "curr_course_code": "INSC 598",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""

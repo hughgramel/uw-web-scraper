@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Smallwood,Stephanie",
         "curr_course_code": "HSTAFM 151",
         "curr_course_name": "AFRIC ERA SLAVE TRAD",
         "curr_course_fulfills": [
@@ -82,9 +83,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Haddad-Fonda,Kyle",
         "curr_course_code": "HSTAFM 278",
-        "curr_course_name": "MODERN NORTH AFRICA ",
+        "curr_course_name": "MODERN NORTH AFRICA",
         "curr_course_fulfills": [
             "SSc",
             "DIV"

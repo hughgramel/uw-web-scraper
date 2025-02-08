@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "FARKAS,MATTHEW",
         "curr_course_code": "AMATH 301",
         "curr_course_name": "BEG SCI COMPUTING",
         "curr_course_fulfills": [
@@ -50,7 +51,8 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "FARKAS,MATTHEW",
         "curr_course_code": "AMATH 301",
         "curr_course_name": "BEG SCI COMPUTING",
         "curr_course_fulfills": [
@@ -79,7 +81,8 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "FARKAS,MATTHEW",
         "curr_course_code": "AMATH 301",
         "curr_course_name": "BEG SCI COMPUTING",
         "curr_course_fulfills": [
@@ -110,7 +113,8 @@
         "is_estimate": 0,
         "max_capacity": "85",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zhang,Shiheng",
         "curr_course_code": "AMATH 351",
         "curr_course_name": "DIFF EQUATIONS",
         "curr_course_fulfills": [
@@ -141,9 +145,10 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hosseini,Bamdad",
         "curr_course_code": "AMATH 352",
-        "curr_course_name": "LINR ALG & NUM ANLY ",
+        "curr_course_name": "LINR ALG & NUM ANLY",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -172,9 +177,10 @@
         "is_estimate": 0,
         "max_capacity": "85",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Semenova,Anastassiya",
         "curr_course_code": "AMATH 353",
-        "curr_course_name": "PRTL DIFF EQNS& WVS ",
+        "curr_course_name": "PRTL DIFF EQNS& WVS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -203,7 +209,8 @@
         "is_estimate": 0,
         "max_capacity": "85",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mamis,Konstantinos",
         "curr_course_code": "AMATH 383",
         "curr_course_name": "INTRODUCT MODELING",
         "curr_course_fulfills": [
@@ -237,7 +244,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kong,Fanze",
         "curr_course_code": "AMATH 403",
-        "curr_course_name": "METHODS PAR DIFF EQ ",
+        "curr_course_name": "METHODS PAR DIFF EQ",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -266,7 +273,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Roche,Kenneth",
         "curr_course_code": "AMATH 483",
         "curr_course_name": "HI-PRFM SCI COMPG",
@@ -290,7 +297,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "AMATH 498",
         "curr_course_name": "SR PROJECT/THESIS",
         "curr_course_fulfills": ""
@@ -313,7 +319,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "AMATH 499",
         "curr_course_name": "READING/RESEARCH",
         "curr_course_fulfills": ""
@@ -342,9 +347,9 @@
         "is_estimate": 1,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -374,7 +379,7 @@
         "open_or_closed": "Open",
         "professor_name": "Shea-Brown,Eric T.",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -401,9 +406,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -433,7 +438,7 @@
         "open_or_closed": "Open",
         "professor_name": "Shlizerman,Eli",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -453,9 +458,9 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -485,7 +490,7 @@
         "open_or_closed": "Open",
         "professor_name": "Deconinck,Bernard",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -503,9 +508,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -525,10 +530,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Trogdon,Thomas",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -551,7 +555,7 @@
         "open_or_closed": "Open",
         "professor_name": "Shlizerman,Eli",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -571,9 +575,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -603,7 +606,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hosseini,Bamdad",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -633,7 +636,7 @@
         "open_or_closed": "Open",
         "professor_name": "Deconinck,Bernard",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -663,7 +666,7 @@
         "open_or_closed": "Open",
         "professor_name": "Greenbaum,Anne",
         "curr_course_code": "AMATH 500",
-        "curr_course_name": "SPEC STDY APPL MATH ",
+        "curr_course_name": "SPEC STDY APPL MATH",
         "curr_course_fulfills": ""
     },
     {
@@ -693,7 +696,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kong,Fanze",
         "curr_course_code": "AMATH 503",
-        "curr_course_name": "METHODS PAR DIFF EQ ",
+        "curr_course_name": "METHODS PAR DIFF EQ",
         "curr_course_fulfills": ""
     },
     {
@@ -720,10 +723,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Kong,Fanze",
         "curr_course_code": "AMATH 503",
-        "curr_course_name": "METHODS PAR DIFF EQ ",
+        "curr_course_name": "METHODS PAR DIFF EQ",
         "curr_course_fulfills": ""
     },
     {
@@ -750,9 +752,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AMATH 516",
-        "curr_course_name": "NUMERICAL OPTIMIZTN ",
+        "curr_course_name": "NUMERICAL OPTIMIZTN",
         "curr_course_fulfills": ""
     },
     {
@@ -899,7 +901,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Roche,Kenneth J",
         "curr_course_code": "AMATH 583",
         "curr_course_name": "HI-PRFM SCI COMPG",
@@ -957,7 +958,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Trogdon,Thomas",
         "curr_course_code": "AMATH 590",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -986,7 +988,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Wan,Frederic",
         "curr_course_code": "AMATH 590",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1010,9 +1012,8 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "AMATH 600",
-        "curr_course_name": "INDEPNDNT RSCH/STDY ",
+        "curr_course_name": "INDEPNDNT RSCH/STDY",
         "curr_course_fulfills": ""
     },
     {
@@ -1033,7 +1034,6 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "AMATH 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -1056,7 +1056,6 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "AMATH 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1078,9 +1077,9 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AMATH 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

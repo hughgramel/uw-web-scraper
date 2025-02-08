@@ -21,9 +21,10 @@
         "is_estimate": 0,
         "max_capacity": "175",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zobeiry,Navid",
         "curr_course_code": "MSE 170",
-        "curr_course_name": "FUNDMNT MATERLS SCI ",
+        "curr_course_name": "FUNDMNT MATERLS SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -50,9 +51,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MSE 170",
-        "curr_course_name": "FUNDMNT MATERLS SCI ",
+        "curr_course_name": "FUNDMNT MATERLS SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -79,9 +80,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MSE 170",
-        "curr_course_name": "FUNDMNT MATERLS SCI ",
+        "curr_course_name": "FUNDMNT MATERLS SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -108,9 +109,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MSE 170",
-        "curr_course_name": "FUNDMNT MATERLS SCI ",
+        "curr_course_name": "FUNDMNT MATERLS SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -137,9 +138,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MSE 170",
-        "curr_course_name": "FUNDMNT MATERLS SCI ",
+        "curr_course_name": "FUNDMNT MATERLS SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -166,9 +167,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MSE 170",
-        "curr_course_name": "FUNDMNT MATERLS SCI ",
+        "curr_course_name": "FUNDMNT MATERLS SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -195,9 +196,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MSE 170",
-        "curr_course_name": "FUNDMNT MATERLS SCI ",
+        "curr_course_name": "FUNDMNT MATERLS SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -224,9 +225,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MSE 170",
-        "curr_course_name": "FUNDMNT MATERLS SCI ",
+        "curr_course_name": "FUNDMNT MATERLS SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -290,7 +291,7 @@
         "open_or_closed": "Open",
         "professor_name": "Fong,Hanson",
         "curr_course_code": "MSE 313",
-        "curr_course_name": "INTEG UNDGRAD LAB 3 ",
+        "curr_course_name": "INTEG UNDGRAD LAB 3",
         "curr_course_fulfills": ""
     },
     {
@@ -319,9 +320,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Fong,Hanson",
         "curr_course_code": "MSE 313",
-        "curr_course_name": "INTEG UNDGRAD LAB 3 ",
+        "curr_course_name": "INTEG UNDGRAD LAB 3",
         "curr_course_fulfills": ""
     },
     {
@@ -355,7 +357,7 @@
         "open_or_closed": "Open",
         "professor_name": "Fong,Hanson",
         "curr_course_code": "MSE 313",
-        "curr_course_name": "INTEG UNDGRAD LAB 3 ",
+        "curr_course_name": "INTEG UNDGRAD LAB 3",
         "curr_course_fulfills": ""
     },
     {
@@ -389,7 +391,7 @@
         "open_or_closed": "Open",
         "professor_name": "Fong,Hanson",
         "curr_course_code": "MSE 313",
-        "curr_course_name": "INTEG UNDGRAD LAB 3 ",
+        "curr_course_name": "INTEG UNDGRAD LAB 3",
         "curr_course_fulfills": ""
     },
     {
@@ -416,7 +418,7 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Idrobo,Juan",
         "curr_course_code": "MSE 333",
         "curr_course_name": "MTLS CHARACTERIZ",
@@ -446,7 +448,8 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "MacKenzie,Devin",
         "curr_course_code": "MSE 352",
         "curr_course_name": "PROP OF MATERIALS",
         "curr_course_fulfills": ""
@@ -475,7 +478,8 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zobeiry,Navid",
         "curr_course_code": "MSE 362",
         "curr_course_name": "MECH BEHAV MTLS I",
         "curr_course_fulfills": ""
@@ -502,7 +506,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Arola,Dwayne",
         "curr_course_code": "MSE 462",
         "curr_course_name": "MECH BEHAV MTLS II",
@@ -530,9 +534,10 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Adjorlolo,Alain",
         "curr_course_code": "MSE 463",
-        "curr_course_name": "CORROSN & WEAR MTLS ",
+        "curr_course_name": "CORROSN & WEAR MTLS",
         "curr_course_fulfills": ""
     },
     {
@@ -616,7 +621,7 @@
         "open_or_closed": "Open",
         "professor_name": "Arola,Dwayne D",
         "curr_course_code": "MSE 489",
-        "curr_course_name": "ADDITIVE MANUFACTUR ",
+        "curr_course_name": "ADDITIVE MANUFACTUR",
         "curr_course_fulfills": ""
     },
     {
@@ -644,7 +649,7 @@
         "open_or_closed": "Open",
         "professor_name": "Seaton,Charles",
         "curr_course_code": "MSE 490",
-        "curr_course_name": "COMPOSITE MATR MANU ",
+        "curr_course_name": "COMPOSITE MATR MANU",
         "curr_course_fulfills": ""
     },
     {
@@ -705,7 +710,7 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MSE 495",
         "curr_course_name": "DESIGN MTLS ENGRG II",
         "curr_course_fulfills": ""
@@ -727,7 +732,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MSE 497",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -778,7 +783,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MSE 499",
         "curr_course_name": "SENIOR PROJECT",
         "curr_course_fulfills": ""
@@ -801,7 +805,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MSE 499",
         "curr_course_name": "SENIOR PROJECT",
         "curr_course_fulfills": ""
@@ -858,10 +861,10 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Brush,Lucien",
         "curr_course_code": "MSE 525",
-        "curr_course_name": "KINETICS & PHASE TR ",
+        "curr_course_name": "KINETICS & PHASE TR",
         "curr_course_fulfills": ""
     },
     {
@@ -917,7 +920,7 @@
         "open_or_closed": "Open",
         "professor_name": "Vashisth,Aniruddh",
         "curr_course_code": "MSE 563",
-        "curr_course_name": "ADVANCED COMPOSITES ",
+        "curr_course_name": "ADVANCED COMPOSITES",
         "curr_course_fulfills": ""
     },
     {
@@ -947,7 +950,7 @@
         "open_or_closed": "Open",
         "professor_name": "Arola,Dwayne D",
         "curr_course_code": "MSE 589",
-        "curr_course_name": "ADDITIVE MANUFACTUR ",
+        "curr_course_name": "ADDITIVE MANUFACTUR",
         "curr_course_fulfills": ""
     },
     {
@@ -975,7 +978,7 @@
         "open_or_closed": "Open",
         "professor_name": "Seaton,Charles",
         "curr_course_code": "MSE 590",
-        "curr_course_name": "COMPOSITE MATR MANU ",
+        "curr_course_name": "COMPOSITE MATR MANU",
         "curr_course_fulfills": ""
     },
     {
@@ -1003,7 +1006,7 @@
         "open_or_closed": "Open",
         "professor_name": "Marcus,Charles M.",
         "curr_course_code": "MSE 599",
-        "curr_course_name": "SPEC TPCS MATLS SCI ",
+        "curr_course_name": "SPEC TPCS MATLS SCI",
         "curr_course_fulfills": ""
     },
     {
@@ -1024,7 +1027,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MSE 600",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -1047,7 +1049,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MSE 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1070,7 +1071,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MSE 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1093,9 +1093,8 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MSE 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

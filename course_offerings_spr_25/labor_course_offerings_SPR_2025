@@ -77,7 +77,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LABOR 496",
         "curr_course_name": "LABOR STDY INTRNSHIP",
         "curr_course_fulfills": ""
@@ -99,7 +98,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LABOR 499",
         "curr_course_name": "LABOR INDEP STUDY",
         "curr_course_fulfills": ""

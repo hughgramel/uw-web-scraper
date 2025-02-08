@@ -16,7 +16,6 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CONJ 505P",
         "curr_course_name": "P-PAIN CLINIC PCPT",
         "curr_course_fulfills": ""
@@ -38,7 +37,6 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Murray,Mitzi L",
         "curr_course_code": "CONJ 513",
         "curr_course_name": "CLIN MEDICAL GENET",
@@ -66,7 +64,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Aitchison,John",
         "curr_course_code": "CONJ 526",
         "curr_course_name": "INTRO TO SYS BIO",
         "curr_course_fulfills": ""
@@ -86,9 +85,9 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 535",
-        "curr_course_name": "RNA STRUC BIO FUNCT ",
+        "curr_course_name": "RNA STRUC BIO FUNCT",
         "curr_course_fulfills": ""
     },
     {
@@ -115,7 +114,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mittler,John",
         "curr_course_code": "CONJ 549",
         "curr_course_name": "POP BIOL MICROORG",
@@ -145,10 +144,10 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Sokurenko,Evgeni",
         "curr_course_code": "CONJ 557",
-        "curr_course_name": "MICROBIAL EVOLUTION ",
+        "curr_course_name": "MICROBIAL EVOLUTION",
         "curr_course_fulfills": ""
     },
     {
@@ -166,9 +165,9 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 602",
-        "curr_course_name": "INTRO PALL MHS SPOK ",
+        "curr_course_name": "INTRO PALL MHS SPOK",
         "curr_course_fulfills": ""
     },
     {
@@ -186,9 +185,9 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "CONJ 602",
-        "curr_course_name": "INTRO PALL MHS SPOK ",
+        "curr_course_name": "INTRO PALL MHS SPOK",
         "curr_course_fulfills": ""
     },
     {
@@ -206,7 +205,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 603",
         "curr_course_name": "INTRO SLEEP MED SPOK",
         "curr_course_fulfills": ""
@@ -226,7 +225,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 604P",
         "curr_course_name": "P-INTRO PALL BLLGS",
         "curr_course_fulfills": ""
@@ -246,7 +245,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 605P",
         "curr_course_name": "P-INTRO PALL CONS",
         "curr_course_fulfills": ""
@@ -266,7 +265,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 606P",
         "curr_course_name": "P-ADV PALL INP HOS",
         "curr_course_fulfills": ""
@@ -286,7 +285,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 607P",
         "curr_course_name": "P-ADV PALL CARE",
         "curr_course_fulfills": ""
@@ -306,9 +305,9 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 608P",
-        "curr_course_name": "P-INTR PALL CR ANMC ",
+        "curr_course_name": "P-INTR PALL CR ANMC",
         "curr_course_fulfills": ""
     },
     {
@@ -326,7 +325,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 610P",
         "curr_course_name": "P-INTR PALL CR OLY",
         "curr_course_fulfills": ""
@@ -346,7 +345,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 612P",
         "curr_course_name": "P-INTR PAL CR BOZE",
         "curr_course_fulfills": ""
@@ -366,9 +365,9 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 613P",
-        "curr_course_name": "P-INTR PAL CR BOISE ",
+        "curr_course_name": "P-INTR PAL CR BOISE",
         "curr_course_fulfills": ""
     },
     {
@@ -386,7 +385,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 614P",
         "curr_course_name": "P-COR ADCT MED",
         "curr_course_fulfills": ""
@@ -406,7 +405,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 615P",
         "curr_course_name": "P-ADV COR ADCT MED",
         "curr_course_fulfills": ""
@@ -426,7 +425,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 616",
         "curr_course_name": "ADV PALL CARE- OLY",
         "curr_course_fulfills": ""
@@ -446,7 +445,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 617P",
         "curr_course_name": "P-NEURO ICU SUB-I",
         "curr_course_fulfills": ""
@@ -466,7 +465,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 618P",
         "curr_course_name": "P-SLEEP MEDICINE",
         "curr_course_fulfills": ""
@@ -486,7 +485,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 619",
         "curr_course_name": "ADV PALL CARE",
         "curr_course_fulfills": ""
@@ -506,9 +505,9 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 620",
-        "curr_course_name": "OPIOID USE DISORDER ",
+        "curr_course_name": "OPIOID USE DISORDER",
         "curr_course_fulfills": ""
     },
     {
@@ -526,7 +525,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 621",
         "curr_course_name": "ADV PALL CARE-SPOKAN",
         "curr_course_fulfills": ""
@@ -546,7 +545,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 622",
         "curr_course_name": "ADV PALL CARE ID",
         "curr_course_fulfills": ""
@@ -566,7 +565,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 623",
         "curr_course_name": "ADULT & PED HOSP MED",
         "curr_course_fulfills": ""
@@ -586,9 +585,9 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 624",
-        "curr_course_name": "HOSP & PALL CARE MT ",
+        "curr_course_name": "HOSP & PALL CARE MT",
         "curr_course_fulfills": ""
     },
     {
@@ -606,7 +605,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 625",
         "curr_course_name": "GH CLINICAL",
         "curr_course_fulfills": ""
@@ -626,7 +625,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 626",
         "curr_course_name": "GLOBAL HIV MED",
         "curr_course_fulfills": ""
@@ -646,7 +645,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 627",
         "curr_course_name": "END OF LIFE HOME CRE",
         "curr_course_fulfills": ""
@@ -666,7 +665,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 628",
         "curr_course_name": "ADV PALL CARE-AK",
         "curr_course_fulfills": ""
@@ -686,7 +685,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 629",
         "curr_course_name": "CLINICAL PEDS DERM",
         "curr_course_fulfills": ""
@@ -706,7 +705,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 631",
         "curr_course_name": "HOSPC/PALL HOME CARE",
         "curr_course_fulfills": ""
@@ -726,7 +725,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 632",
         "curr_course_name": "INTR PAL CR MISSOULA",
         "curr_course_fulfills": ""
@@ -748,7 +747,7 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 696P",
         "curr_course_name": "P-WRITE ELECTIVES",
         "curr_course_fulfills": ""
@@ -770,9 +769,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CONJ 698P",
-        "curr_course_name": "P-FOREIGN MED CLERK ",
+        "curr_course_name": "P-FOREIGN MED CLERK",
         "curr_course_fulfills": ""
     },
     {
@@ -792,7 +790,7 @@
         "is_estimate": 1,
         "max_capacity": "400",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 699P",
         "curr_course_name": "P-CLIN CLERKSHIPS",
         "curr_course_fulfills": ""
@@ -814,7 +812,7 @@
         "is_estimate": 1,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CONJ 699P",
         "curr_course_name": "P-CLIN CLERKSHIPS",
         "curr_course_fulfills": ""

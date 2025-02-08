@@ -14,7 +14,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "IECMH 432",
         "curr_course_name": "INTRO IECMH",
         "curr_course_fulfills": [
@@ -36,7 +36,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "IECMH 433",
         "curr_course_name": "TRAUMA EARLY CHILD",
         "curr_course_fulfills": [
@@ -63,7 +63,7 @@
         "open_or_closed": "Open",
         "professor_name": "Dillon,Colleen O.",
         "curr_course_code": "IECMH 548",
-        "curr_course_name": "FRAME INF MENT HLTH ",
+        "curr_course_name": "FRAME INF MENT HLTH",
         "curr_course_fulfills": ""
     }
 ]

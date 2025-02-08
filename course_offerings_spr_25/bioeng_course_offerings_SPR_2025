@@ -23,7 +23,7 @@
         "is_estimate": 0,
         "max_capacity": "105",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Ratner,Daniel",
         "curr_course_code": "BIOEN 315",
         "curr_course_name": "BIOCH MOLEC BIOE",
@@ -53,9 +53,9 @@
         "is_estimate": 0,
         "max_capacity": "105",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Neils,Christopher",
         "curr_course_code": "BIOEN 316",
-        "curr_course_name": "SIGNALS AND SENSORS ",
+        "curr_course_name": "SIGNALS AND SENSORS",
         "curr_course_fulfills": ""
     },
     {
@@ -82,9 +82,9 @@
         "is_estimate": 0,
         "max_capacity": "21",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Neils,Christopher",
         "curr_course_code": "BIOEN 316",
-        "curr_course_name": "SIGNALS AND SENSORS ",
+        "curr_course_name": "SIGNALS AND SENSORS",
         "curr_course_fulfills": ""
     },
     {
@@ -111,9 +111,9 @@
         "is_estimate": 0,
         "max_capacity": "21",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Neils,Christopher",
         "curr_course_code": "BIOEN 316",
-        "curr_course_name": "SIGNALS AND SENSORS ",
+        "curr_course_name": "SIGNALS AND SENSORS",
         "curr_course_fulfills": ""
     },
     {
@@ -140,9 +140,9 @@
         "is_estimate": 0,
         "max_capacity": "21",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Neils,Christopher",
         "curr_course_code": "BIOEN 316",
-        "curr_course_name": "SIGNALS AND SENSORS ",
+        "curr_course_name": "SIGNALS AND SENSORS",
         "curr_course_fulfills": ""
     },
     {
@@ -169,9 +169,9 @@
         "is_estimate": 0,
         "max_capacity": "21",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Neils,Christopher",
         "curr_course_code": "BIOEN 316",
-        "curr_course_name": "SIGNALS AND SENSORS ",
+        "curr_course_name": "SIGNALS AND SENSORS",
         "curr_course_fulfills": ""
     },
     {
@@ -198,9 +198,9 @@
         "is_estimate": 0,
         "max_capacity": "21",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Neils,Christopher",
         "curr_course_code": "BIOEN 316",
-        "curr_course_name": "SIGNALS AND SENSORS ",
+        "curr_course_name": "SIGNALS AND SENSORS",
         "curr_course_fulfills": ""
     },
     {
@@ -227,10 +227,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Berndt,Andre",
         "curr_course_code": "BIOEN 317",
-        "curr_course_name": "SIGNALS SENSORS LAB ",
+        "curr_course_name": "SIGNALS SENSORS LAB",
         "curr_course_fulfills": ""
     },
     {
@@ -257,10 +256,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Berndt,Andre",
         "curr_course_code": "BIOEN 317",
-        "curr_course_name": "SIGNALS SENSORS LAB ",
+        "curr_course_name": "SIGNALS SENSORS LAB",
         "curr_course_fulfills": ""
     },
     {
@@ -287,10 +285,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Berndt,Andre",
         "curr_course_code": "BIOEN 317",
-        "curr_course_name": "SIGNALS SENSORS LAB ",
+        "curr_course_name": "SIGNALS SENSORS LAB",
         "curr_course_fulfills": ""
     },
     {
@@ -317,10 +314,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Berndt,Andre",
         "curr_course_code": "BIOEN 317",
-        "curr_course_name": "SIGNALS SENSORS LAB ",
+        "curr_course_name": "SIGNALS SENSORS LAB",
         "curr_course_fulfills": ""
     },
     {
@@ -347,9 +343,10 @@
         "is_estimate": 0,
         "max_capacity": "102",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Olanrewaju,Ayo",
         "curr_course_code": "BIOEN 345",
-        "curr_course_name": "FAILURE AND PHYSIOL ",
+        "curr_course_name": "FAILURE AND PHYSIOL",
         "curr_course_fulfills": ""
     },
     {
@@ -376,9 +373,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Scatena,Marta",
         "curr_course_code": "BIOEN 345",
-        "curr_course_name": "FAILURE AND PHYSIOL ",
+        "curr_course_name": "FAILURE AND PHYSIOL",
         "curr_course_fulfills": ""
     },
     {
@@ -405,9 +403,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Scatena,Marta",
         "curr_course_code": "BIOEN 345",
-        "curr_course_name": "FAILURE AND PHYSIOL ",
+        "curr_course_name": "FAILURE AND PHYSIOL",
         "curr_course_fulfills": ""
     },
     {
@@ -434,9 +433,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Scatena,Marta",
         "curr_course_code": "BIOEN 345",
-        "curr_course_name": "FAILURE AND PHYSIOL ",
+        "curr_course_name": "FAILURE AND PHYSIOL",
         "curr_course_fulfills": ""
     },
     {
@@ -463,9 +463,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Scatena,Marta",
         "curr_course_code": "BIOEN 345",
-        "curr_course_name": "FAILURE AND PHYSIOL ",
+        "curr_course_name": "FAILURE AND PHYSIOL",
         "curr_course_fulfills": ""
     },
     {
@@ -492,9 +493,10 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Boyle,Patrick",
         "curr_course_code": "BIOEN 400",
-        "curr_course_name": "DESIGN FUNDAMENTALS ",
+        "curr_course_name": "DESIGN FUNDAMENTALS",
         "curr_course_fulfills": ""
     },
     {
@@ -521,7 +523,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Folch,Albert",
         "curr_course_code": "BIOEN 401",
         "curr_course_name": "CAPSTONE PROPOSAL",
         "curr_course_fulfills": ""
@@ -551,9 +554,8 @@
         "is_estimate": 1,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIOEN 402",
-        "curr_course_name": "RESEARCH AND DESIGN ",
+        "curr_course_name": "RESEARCH AND DESIGN",
         "curr_course_fulfills": ""
     },
     {
@@ -580,7 +582,8 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Neils,Christopher",
         "curr_course_code": "BIOEN 405",
         "curr_course_name": "TEAM DESIGN II",
         "curr_course_fulfills": ""
@@ -609,7 +612,8 @@
         "is_estimate": 0,
         "max_capacity": "46",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "O'Donnell,Matt",
         "curr_course_code": "BIOEN 420",
         "curr_course_name": "MEDICAL IMAGING",
         "curr_course_fulfills": ""
@@ -791,7 +795,7 @@
         "open_or_closed": "Open",
         "professor_name": "Prybutok,Alex",
         "curr_course_code": "BIOEN 467",
-        "curr_course_name": "BIOCHEMICAL ENGRING ",
+        "curr_course_name": "BIOCHEMICAL ENGRING",
         "curr_course_fulfills": ""
     },
     {
@@ -1142,7 +1146,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIOEN 499",
         "curr_course_name": "SPECIAL PROJECTS",
         "curr_course_fulfills": ""
@@ -1171,7 +1174,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "BIOEN 505",
         "curr_course_name": "BIOMED ENTRE",
         "curr_course_fulfills": ""
@@ -1233,7 +1236,7 @@
         "open_or_closed": "Open",
         "professor_name": "Gamble,Lara",
         "curr_course_code": "BIOEN 511",
-        "curr_course_name": "BIOMATERIAL SEMINAR ",
+        "curr_course_name": "BIOMATERIAL SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -1290,7 +1293,8 @@
         "is_estimate": 0,
         "max_capacity": "46",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rajachar,Rupak",
         "curr_course_code": "BIOEN 543",
         "curr_course_name": "DESIGN SKILLS III",
         "curr_course_fulfills": ""
@@ -1379,10 +1383,10 @@
         "is_estimate": 0,
         "max_capacity": "32",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Pollack,Gerald",
         "curr_course_code": "BIOEN 555",
-        "curr_course_name": "WATER NAT BIOL FUNC ",
+        "curr_course_name": "WATER NAT BIOL FUNC",
         "curr_course_fulfills": ""
     },
     {
@@ -1643,7 +1647,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIOEN 598",
         "curr_course_name": "RESEARCH ROTATION",
         "curr_course_fulfills": ""
@@ -1786,9 +1789,8 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIOEN 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1809,7 +1811,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIOEN 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -1832,7 +1833,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIOEN 700",
         "curr_course_name": "MASTER'S THESIS",
         "curr_course_fulfills": ""
@@ -1855,9 +1855,8 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIOEN 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

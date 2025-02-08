@@ -72,10 +72,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ginger,David S.",
         "curr_course_code": "MOLENG 599",
-        "curr_course_name": "CURRENT TPCS MOLENG ",
+        "curr_course_name": "CURRENT TPCS MOLENG",
         "curr_course_fulfills": ""
     },
     {
@@ -95,10 +94,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Schwartz,Daniel T.",
         "curr_course_code": "MOLENG 599",
-        "curr_course_name": "CURRENT TPCS MOLENG ",
+        "curr_course_name": "CURRENT TPCS MOLENG",
         "curr_course_fulfills": ""
     },
     {
@@ -118,9 +116,9 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MOLENG 600",
-        "curr_course_name": "INDEPENDT STDY/RSCH ",
+        "curr_course_name": "INDEPENDT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -140,9 +138,9 @@
         "is_estimate": 1,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MOLENG 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

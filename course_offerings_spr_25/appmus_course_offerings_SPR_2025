@@ -17,7 +17,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSAP 133",
         "curr_course_name": "BASIC KEYBOARD",
         "curr_course_fulfills": [
@@ -42,7 +41,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSAP 134",
         "curr_course_name": "BASIC KEYBOARD",
         "curr_course_fulfills": [
@@ -67,7 +65,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSAP 135",
         "curr_course_name": "BASIC KEYBOARD",
         "curr_course_fulfills": [
@@ -96,7 +93,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSAP 210",
         "curr_course_name": "WIND TECHNIQUES",
         "curr_course_fulfills": [
@@ -127,7 +124,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Partington,Michael",
         "curr_course_code": "MUSAP 218",
         "curr_course_name": "GUITAR TECHNIQUES",
@@ -153,7 +149,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSAP 233",
         "curr_course_name": "SECONDARY PIANO",
         "curr_course_fulfills": [
@@ -178,7 +173,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSAP 234",
         "curr_course_name": "SECONDARY PIANO",
         "curr_course_fulfills": [
@@ -203,7 +197,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSAP 235",
         "curr_course_name": "SECONDARY PIANO",
         "curr_course_fulfills": [
@@ -228,7 +221,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSAP 239",
         "curr_course_name": "SECONDARY PIANO",
         "curr_course_fulfills": [
@@ -255,7 +247,7 @@
         "open_or_closed": "Open",
         "professor_name": "",
         "curr_course_code": "MUSAP 300",
-        "curr_course_name": "INTRO TO PIPE ORGAN ",
+        "curr_course_name": "INTRO TO PIPE ORGAN",
         "curr_course_fulfills": [
             "A&H"
         ]

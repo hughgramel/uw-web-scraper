@@ -23,7 +23,8 @@
         "is_estimate": 0,
         "max_capacity": "440",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Andelin,Adrian",
         "curr_course_code": "PSYCH 101",
         "curr_course_name": "INTRO TO PSYCH",
         "curr_course_fulfills": [
@@ -54,7 +55,8 @@
         "is_estimate": 0,
         "max_capacity": "300",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Graham,Lauren",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -85,7 +87,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -116,7 +118,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -147,7 +149,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -178,7 +180,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -209,7 +211,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -240,7 +242,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -271,7 +273,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -302,7 +304,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -333,7 +335,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -364,7 +366,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -395,7 +397,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -426,7 +428,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 202",
         "curr_course_name": "BIOPSYCH",
         "curr_course_fulfills": [
@@ -480,7 +482,8 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wu,Delancey",
         "curr_course_code": "PSYCH 209",
         "curr_course_name": "FDMNTLS PSYCH RSCH",
         "curr_course_fulfills": ""
@@ -513,7 +516,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 209",
         "curr_course_name": "FDMNTLS PSYCH RSCH",
         "curr_course_fulfills": ""
@@ -546,7 +549,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 209",
         "curr_course_name": "FDMNTLS PSYCH RSCH",
         "curr_course_fulfills": ""
@@ -579,7 +582,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 209",
         "curr_course_name": "FDMNTLS PSYCH RSCH",
         "curr_course_fulfills": ""
@@ -612,7 +615,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 209",
         "curr_course_name": "FDMNTLS PSYCH RSCH",
         "curr_course_fulfills": ""
@@ -645,7 +648,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 209",
         "curr_course_name": "FDMNTLS PSYCH RSCH",
         "curr_course_fulfills": ""
@@ -678,7 +681,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 209",
         "curr_course_name": "FDMNTLS PSYCH RSCH",
         "curr_course_fulfills": ""
@@ -711,7 +714,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 209",
         "curr_course_name": "FDMNTLS PSYCH RSCH",
         "curr_course_fulfills": ""
@@ -744,7 +747,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 209",
         "curr_course_name": "FDMNTLS PSYCH RSCH",
         "curr_course_fulfills": ""
@@ -775,7 +778,7 @@
         "is_estimate": 0,
         "max_capacity": "600",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McNichols,Nicole",
         "curr_course_code": "PSYCH 210",
         "curr_course_name": "HUMAN SEXUALITY",
@@ -825,7 +828,6 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Wu,Delancey",
         "curr_course_code": "PSYCH 296",
         "curr_course_name": "MENTORING PROGRAM",
@@ -855,7 +857,7 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Pendergraft,LomaJohn",
         "curr_course_code": "PSYCH 300",
         "curr_course_name": "ANIMAL BEHAVIOR",
@@ -887,7 +889,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 300",
         "curr_course_name": "ANIMAL BEHAVIOR",
         "curr_course_fulfills": [
@@ -918,7 +920,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 300",
         "curr_course_name": "ANIMAL BEHAVIOR",
         "curr_course_fulfills": [
@@ -949,7 +951,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 300",
         "curr_course_name": "ANIMAL BEHAVIOR",
         "curr_course_fulfills": [
@@ -980,7 +982,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 300",
         "curr_course_name": "ANIMAL BEHAVIOR",
         "curr_course_fulfills": [
@@ -1011,7 +1013,7 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Kim,Jeansok",
         "curr_course_code": "PSYCH 302",
         "curr_course_name": "NEUROSCIENCE OF MIND",
@@ -1043,7 +1045,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 302",
         "curr_course_name": "NEUROSCIENCE OF MIND",
         "curr_course_fulfills": [
@@ -1074,7 +1076,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 302",
         "curr_course_name": "NEUROSCIENCE OF MIND",
         "curr_course_fulfills": [
@@ -1105,7 +1107,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 302",
         "curr_course_name": "NEUROSCIENCE OF MIND",
         "curr_course_fulfills": [
@@ -1136,7 +1138,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 302",
         "curr_course_name": "NEUROSCIENCE OF MIND",
         "curr_course_fulfills": [
@@ -1167,7 +1169,7 @@
         "is_estimate": 0,
         "max_capacity": "150",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Forsyth,Jennifer",
         "curr_course_code": "PSYCH 305",
         "curr_course_name": "PSYCH/BEHAV DISORDRS",
@@ -1199,7 +1201,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 305",
         "curr_course_name": "PSYCH/BEHAV DISORDRS",
         "curr_course_fulfills": [
@@ -1230,7 +1232,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 305",
         "curr_course_name": "PSYCH/BEHAV DISORDRS",
         "curr_course_fulfills": [
@@ -1261,7 +1263,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 305",
         "curr_course_name": "PSYCH/BEHAV DISORDRS",
         "curr_course_fulfills": [
@@ -1292,7 +1294,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 305",
         "curr_course_name": "PSYCH/BEHAV DISORDRS",
         "curr_course_fulfills": [
@@ -1323,7 +1325,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 305",
         "curr_course_name": "PSYCH/BEHAV DISORDRS",
         "curr_course_fulfills": [
@@ -1354,7 +1356,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 305",
         "curr_course_name": "PSYCH/BEHAV DISORDRS",
         "curr_course_fulfills": [
@@ -1385,9 +1387,10 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bernier,Raphael",
         "curr_course_code": "PSYCH 306",
-        "curr_course_name": "DEVELOPMENTAL PSYCH ",
+        "curr_course_name": "DEVELOPMENTAL PSYCH",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1416,9 +1419,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 306",
-        "curr_course_name": "DEVELOPMENTAL PSYCH ",
+        "curr_course_name": "DEVELOPMENTAL PSYCH",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1447,9 +1450,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 306",
-        "curr_course_name": "DEVELOPMENTAL PSYCH ",
+        "curr_course_name": "DEVELOPMENTAL PSYCH",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1478,9 +1481,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 306",
-        "curr_course_name": "DEVELOPMENTAL PSYCH ",
+        "curr_course_name": "DEVELOPMENTAL PSYCH",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1509,9 +1512,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 306",
-        "curr_course_name": "DEVELOPMENTAL PSYCH ",
+        "curr_course_name": "DEVELOPMENTAL PSYCH",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1540,9 +1543,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 306",
-        "curr_course_name": "DEVELOPMENTAL PSYCH ",
+        "curr_course_name": "DEVELOPMENTAL PSYCH",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1571,9 +1574,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 306",
-        "curr_course_name": "DEVELOPMENTAL PSYCH ",
+        "curr_course_name": "DEVELOPMENTAL PSYCH",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1602,10 +1605,10 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Nelson,Dana",
         "curr_course_code": "PSYCH 315",
-        "curr_course_name": "UNDRSTD STATS PSYCH ",
+        "curr_course_name": "UNDRSTD STATS PSYCH",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -1634,9 +1637,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 315",
-        "curr_course_name": "UNDRSTD STATS PSYCH ",
+        "curr_course_name": "UNDRSTD STATS PSYCH",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -1665,9 +1668,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 315",
-        "curr_course_name": "UNDRSTD STATS PSYCH ",
+        "curr_course_name": "UNDRSTD STATS PSYCH",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -1696,9 +1699,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 315",
-        "curr_course_name": "UNDRSTD STATS PSYCH ",
+        "curr_course_name": "UNDRSTD STATS PSYCH",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -1727,9 +1730,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 315",
-        "curr_course_name": "UNDRSTD STATS PSYCH ",
+        "curr_course_name": "UNDRSTD STATS PSYCH",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -1762,7 +1765,7 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "PAULSEN,DEBORAH",
         "curr_course_code": "PSYCH 318",
         "curr_course_name": "STAT INFERENCE",
@@ -1798,7 +1801,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 318",
         "curr_course_name": "STAT INFERENCE",
         "curr_course_fulfills": [
@@ -1833,7 +1836,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 318",
         "curr_course_name": "STAT INFERENCE",
         "curr_course_fulfills": [
@@ -1868,7 +1871,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 318",
         "curr_course_name": "STAT INFERENCE",
         "curr_course_fulfills": [
@@ -1903,7 +1906,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 318",
         "curr_course_name": "STAT INFERENCE",
         "curr_course_fulfills": [
@@ -1937,7 +1940,7 @@
         "open_or_closed": "Open",
         "professor_name": "Pendergraft,LomaJohn T",
         "curr_course_code": "PSYCH 330",
-        "curr_course_name": "LAB ANIMAL BEHAVIOR ",
+        "curr_course_name": "LAB ANIMAL BEHAVIOR",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1969,7 +1972,7 @@
         "open_or_closed": "Open",
         "professor_name": "Gire,David Henry",
         "curr_course_code": "PSYCH 332",
-        "curr_course_name": "NEUROBEHAVIORAL LAB ",
+        "curr_course_name": "NEUROBEHAVIORAL LAB",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1998,7 +2001,8 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Andelin,Adrian",
         "curr_course_code": "PSYCH 333",
         "curr_course_name": "SEN/PERCPT PROCESS",
         "curr_course_fulfills": [
@@ -2029,7 +2033,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 333",
         "curr_course_name": "SEN/PERCPT PROCESS",
         "curr_course_fulfills": [
@@ -2060,7 +2064,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 333",
         "curr_course_name": "SEN/PERCPT PROCESS",
         "curr_course_fulfills": [
@@ -2091,7 +2095,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 333",
         "curr_course_name": "SEN/PERCPT PROCESS",
         "curr_course_fulfills": [
@@ -2122,7 +2126,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 333",
         "curr_course_name": "SEN/PERCPT PROCESS",
         "curr_course_fulfills": [
@@ -2157,7 +2161,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Cheryan,Sapna",
         "curr_course_code": "PSYCH 334",
         "curr_course_name": "LAB-SOCIAL PSYCH",
         "curr_course_fulfills": [
@@ -2220,7 +2225,8 @@
         "is_estimate": 0,
         "max_capacity": "150",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wu,Delancey",
         "curr_course_code": "PSYCH 345",
         "curr_course_name": "SOCIAL PSYCHOLOGY",
         "curr_course_fulfills": [
@@ -2251,7 +2257,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 345",
         "curr_course_name": "SOCIAL PSYCHOLOGY",
         "curr_course_fulfills": [
@@ -2282,7 +2288,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 345",
         "curr_course_name": "SOCIAL PSYCHOLOGY",
         "curr_course_fulfills": [
@@ -2313,7 +2319,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 345",
         "curr_course_name": "SOCIAL PSYCHOLOGY",
         "curr_course_fulfills": [
@@ -2344,7 +2350,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 345",
         "curr_course_name": "SOCIAL PSYCHOLOGY",
         "curr_course_fulfills": [
@@ -2375,7 +2381,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 345",
         "curr_course_name": "SOCIAL PSYCHOLOGY",
         "curr_course_fulfills": [
@@ -2406,7 +2412,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 345",
         "curr_course_name": "SOCIAL PSYCHOLOGY",
         "curr_course_fulfills": [
@@ -2440,7 +2446,7 @@
         "open_or_closed": "Open",
         "professor_name": "Culligan,Ann",
         "curr_course_code": "PSYCH 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -2470,9 +2476,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -2502,9 +2508,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -2534,9 +2540,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -2566,9 +2572,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -2598,9 +2604,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -2630,9 +2636,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -2662,9 +2668,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -2694,9 +2700,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -2790,7 +2796,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Graham,Lauren",
         "curr_course_code": "PSYCH 420",
         "curr_course_name": "DRUGS & BEHAVIOR",
         "curr_course_fulfills": [
@@ -2853,7 +2860,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Levine,Cynthia",
         "curr_course_code": "PSYCH 439",
         "curr_course_name": "HEALTH DISPARITIES",
@@ -2884,7 +2891,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bristol,Rachel",
         "curr_course_code": "PSYCH 447",
         "curr_course_name": "PSYCH OF LANGUAGE",
         "curr_course_fulfills": [
@@ -2915,7 +2923,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Covey,Ellen",
         "curr_course_code": "PSYCH 448",
         "curr_course_name": "TOPICS PSYCH SCIENCE",
         "curr_course_fulfills": ""
@@ -2944,7 +2953,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Gire,David",
         "curr_course_code": "PSYCH 448",
         "curr_course_name": "TOPICS PSYCH SCIENCE",
@@ -2974,7 +2983,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Stocco,Andrea",
         "curr_course_code": "PSYCH 448",
         "curr_course_name": "TOPICS PSYCH SCIENCE",
         "curr_course_fulfills": ""
@@ -3003,7 +3013,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "SABINE,SARENA",
         "curr_course_code": "PSYCH 448",
         "curr_course_name": "TOPICS PSYCH SCIENCE",
@@ -3033,7 +3042,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Manbeck,Katherine",
         "curr_course_code": "PSYCH 448",
         "curr_course_name": "TOPICS PSYCH SCIENCE",
         "curr_course_fulfills": ""
@@ -3062,7 +3072,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Murray,Scott",
         "curr_course_code": "PSYCH 448",
         "curr_course_name": "TOPICS PSYCH SCIENCE",
@@ -3092,7 +3102,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Little,Laura",
         "curr_course_code": "PSYCH 448",
         "curr_course_name": "TOPICS PSYCH SCIENCE",
         "curr_course_fulfills": ""
@@ -3119,7 +3129,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 448",
         "curr_course_name": "TOPICS PSYCH SCIENCE",
         "curr_course_fulfills": ""
@@ -3146,7 +3156,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 448",
         "curr_course_name": "TOPICS PSYCH SCIENCE",
         "curr_course_fulfills": ""
@@ -3178,7 +3188,7 @@
         "open_or_closed": "Open",
         "professor_name": "McNichols,Nicole K",
         "curr_course_code": "PSYCH 479",
-        "curr_course_name": "ADV HUMAN SEXUALITY ",
+        "curr_course_name": "ADV HUMAN SEXUALITY",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -3201,9 +3211,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 496",
-        "curr_course_name": "UNDERGRAD TEACH EXP ",
+        "curr_course_name": "UNDERGRAD TEACH EXP",
         "curr_course_fulfills": ""
     },
     {
@@ -3224,9 +3233,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 496",
-        "curr_course_name": "UNDERGRAD TEACH EXP ",
+        "curr_course_name": "UNDERGRAD TEACH EXP",
         "curr_course_fulfills": ""
     },
     {
@@ -3253,10 +3261,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Nelson,Dana C",
         "curr_course_code": "PSYCH 497",
-        "curr_course_name": "UNDERGRAD FIELDWORK ",
+        "curr_course_name": "UNDERGRAD FIELDWORK",
         "curr_course_fulfills": ""
     },
     {
@@ -3283,10 +3290,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Nelson,Dana C",
         "curr_course_code": "PSYCH 497",
-        "curr_course_name": "UNDERGRAD FIELDWORK ",
+        "curr_course_name": "UNDERGRAD FIELDWORK",
         "curr_course_fulfills": ""
     },
     {
@@ -3306,10 +3312,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Nelson,Dana C",
         "curr_course_code": "PSYCH 497",
-        "curr_course_name": "UNDERGRAD FIELDWORK ",
+        "curr_course_name": "UNDERGRAD FIELDWORK",
         "curr_course_fulfills": ""
     },
     {
@@ -3330,7 +3335,6 @@
         "is_estimate": 1,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 498",
         "curr_course_name": "DIRECTED READING",
         "curr_course_fulfills": ""
@@ -3353,7 +3357,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 498",
         "curr_course_name": "DIRECTED READING",
         "curr_course_fulfills": ""
@@ -3376,7 +3379,6 @@
         "is_estimate": 1,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -3405,7 +3407,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Repacholi,Betty",
         "curr_course_code": "PSYCH 515",
         "curr_course_name": "CORE CONCPT PERS&SOC",
         "curr_course_fulfills": ""
@@ -3464,7 +3467,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mizumori,Sheri J.",
         "curr_course_code": "PSYCH 542",
         "curr_course_name": "ADV TPCS NEURL & BEH",
@@ -3524,7 +3527,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Wilkins,Clara",
         "curr_course_code": "PSYCH 547",
         "curr_course_name": "ADV SOC-PERS PSYCH",
@@ -3674,7 +3677,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cheryan,Sapna",
         "curr_course_code": "PSYCH 557",
         "curr_course_name": "SMNR IN SOC/PERSON",
@@ -3697,7 +3699,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Flaherty,Brian P",
         "curr_course_code": "PSYCH 558",
         "curr_course_name": "SMNR QUANT PSYCH",
@@ -3723,7 +3724,7 @@
         "open_or_closed": "Open",
         "professor_name": "Shoda,Yuichi",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3746,7 +3747,7 @@
         "open_or_closed": "Open",
         "professor_name": "Gire,David Henry",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3769,7 +3770,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wang,Z Yan",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3796,10 +3797,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sisneros,Joseph A.",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3829,7 +3829,7 @@
         "open_or_closed": "Open",
         "professor_name": "Fine,Ione",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3852,7 +3852,7 @@
         "open_or_closed": "Open",
         "professor_name": "Mizumori,Sheri J. Y.",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3882,7 +3882,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kim,Jeansok J",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3912,7 +3912,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ahmed,Sama",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3939,10 +3939,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Starr,Ariel",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3965,7 +3964,7 @@
         "open_or_closed": "Open",
         "professor_name": "Jacques,Debrielle",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -3995,7 +3994,7 @@
         "open_or_closed": "Open",
         "professor_name": "Murray,Scott O.",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4022,10 +4021,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Williams,Amber D.",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4048,7 +4046,7 @@
         "open_or_closed": "Open",
         "professor_name": "Levine,Cynthia S",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4071,7 +4069,7 @@
         "open_or_closed": "Open",
         "professor_name": "Cheryan,Sapna",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4094,7 +4092,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kaiser,Cheryl",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4124,7 +4122,7 @@
         "open_or_closed": "Open",
         "professor_name": "Magis-Weinberg,Lucia",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4147,7 +4145,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wilkins,Clara L",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4177,7 +4175,7 @@
         "open_or_closed": "Open",
         "professor_name": "Flaherty,Brian P",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4207,7 +4205,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kahn,Peter",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4230,7 +4228,7 @@
         "open_or_closed": "Open",
         "professor_name": "JOSLYN,Susan L",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4257,10 +4255,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Prat,Chantel",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4287,10 +4284,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Boynton,Geoffrey M",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4313,7 +4309,7 @@
         "open_or_closed": "Open",
         "professor_name": "Stocco,Andrea",
         "curr_course_code": "PSYCH 560",
-        "curr_course_name": "RESEARCH STRATEGIES ",
+        "curr_course_name": "RESEARCH STRATEGIES",
         "curr_course_fulfills": ""
     },
     {
@@ -4333,7 +4329,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCH 596",
         "curr_course_name": "ADV TCHG PRACTICUM",
         "curr_course_fulfills": ""
@@ -4356,7 +4352,6 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 598",
         "curr_course_name": "DIRECTED READING",
         "curr_course_fulfills": ""
@@ -4379,7 +4374,6 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 598",
         "curr_course_name": "DIRECTED READING",
         "curr_course_fulfills": ""
@@ -4402,7 +4396,6 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 599",
         "curr_course_name": "DIR RESRCH PSYCH",
         "curr_course_fulfills": ""
@@ -4425,9 +4418,8 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -4448,9 +4440,8 @@
         "is_estimate": 1,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -4470,7 +4461,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -4492,7 +4482,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -4515,7 +4504,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -4538,7 +4526,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -4561,9 +4548,8 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     },
     {
@@ -4584,9 +4570,8 @@
         "is_estimate": 1,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PSYCH 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

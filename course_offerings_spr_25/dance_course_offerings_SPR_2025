@@ -17,7 +17,7 @@
         "open_or_closed": "Open",
         "professor_name": "Salk,Jennifer",
         "curr_course_code": "DANCE 100",
-        "curr_course_name": "UNDERSTANDING DANCE ",
+        "curr_course_name": "UNDERSTANDING DANCE",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -39,7 +39,7 @@
         "curr_enrolled": "0",
         "open_or_closed": "Open",
         "curr_course_code": "DANCE 100",
-        "curr_course_name": "UNDERSTANDING DANCE ",
+        "curr_course_name": "UNDERSTANDING DANCE",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -66,7 +66,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DANCE 102",
         "curr_course_name": "INTRO CONTEMP MODERN",
         "curr_course_fulfills": [
@@ -155,7 +155,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lethem,Cameo",
         "curr_course_code": "DANCE 117",
         "curr_course_name": "INTRO COMMRCIAL DNCE",
         "curr_course_fulfills": [
@@ -187,7 +188,7 @@
         "open_or_closed": "Open",
         "professor_name": "Alexander,Alethea",
         "curr_course_code": "DANCE 203",
-        "curr_course_name": "INTERMEDIATE BALLET ",
+        "curr_course_name": "INTERMEDIATE BALLET",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -217,7 +218,7 @@
         "open_or_closed": "Open",
         "professor_name": "Branch,Emily Schoen",
         "curr_course_code": "DANCE 203",
-        "curr_course_name": "INTERMEDIATE BALLET ",
+        "curr_course_name": "INTERMEDIATE BALLET",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -277,7 +278,7 @@
         "open_or_closed": "Open",
         "professor_name": "Rojas,Monica M.",
         "curr_course_code": "DANCE 218",
-        "curr_course_name": "AFRO-PERUVIAN DANCE ",
+        "curr_course_name": "AFRO-PERUVIAN DANCE",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -334,7 +335,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Isiguen,Alana",
         "curr_course_code": "DANCE 232",
         "curr_course_name": "SOMATIC MOVEMENT EDU",
         "curr_course_fulfills": [
@@ -366,7 +368,7 @@
         "open_or_closed": "Open",
         "professor_name": "McMains,Juliet",
         "curr_course_code": "DANCE 236",
-        "curr_course_name": "SALSA & AFROCARIBBN ",
+        "curr_course_name": "SALSA & AFROCARIBBN",
         "curr_course_fulfills": [
             "A&H",
             "DIV"
@@ -396,7 +398,8 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Moore,Paul",
         "curr_course_code": "DANCE 242",
         "curr_course_name": "MUSIC FOR DANCE",
         "curr_course_fulfills": [
@@ -430,7 +433,7 @@
         "open_or_closed": "Open",
         "professor_name": "Lincoln,Rachael",
         "curr_course_code": "DANCE 244",
-        "curr_course_name": "TPCS MOVEMENT PRACS ",
+        "curr_course_name": "TPCS MOVEMENT PRACS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -460,7 +463,7 @@
         "open_or_closed": "Open",
         "professor_name": "Grumman,Hilary",
         "curr_course_code": "DANCE 244",
-        "curr_course_name": "TPCS MOVEMENT PRACS ",
+        "curr_course_name": "TPCS MOVEMENT PRACS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -482,7 +485,6 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Salk,Jennifer",
         "curr_course_code": "DANCE 271",
         "curr_course_name": "DANCE PROD-CREW",
@@ -756,10 +758,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Franklin,Annie",
         "curr_course_code": "DANCE 343",
-        "curr_course_name": "H HOP/STR/CLB CULTR ",
+        "curr_course_name": "H HOP/STR/CLB CULTR",
         "curr_course_fulfills": [
             "A&H",
             "DIV"
@@ -874,7 +876,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Salk,Jennifer",
         "curr_course_code": "DANCE 370",
         "curr_course_name": "DANCE PERFORMANCE",
@@ -904,9 +905,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lincoln,Rachael",
         "curr_course_code": "DANCE 375",
-        "curr_course_name": "INTERMEDIATE IMPROV ",
+        "curr_course_name": "INTERMEDIATE IMPROV",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -929,7 +931,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DANCE 417",
         "curr_course_name": "DANCE HONORS",
         "curr_course_fulfills": [
@@ -954,7 +955,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DANCE 450",
         "curr_course_name": "DANCE INTERNSHIP",
         "curr_course_fulfills": [
@@ -1045,7 +1045,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Wiley,Hannah",
         "curr_course_code": "DANCE 493",
         "curr_course_name": "ANATOMY FOR DANCE",
@@ -1075,7 +1075,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Wiley,Hannah",
         "curr_course_code": "DANCE 493",
         "curr_course_name": "ANATOMY FOR DANCE",
@@ -1101,7 +1101,6 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DANCE 499",
         "curr_course_name": "UNDERGRAD IND STDY",
         "curr_course_fulfills": ""
@@ -1123,7 +1122,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Salk,Jennifer",
         "curr_course_code": "DANCE 531",
         "curr_course_name": "MFA PRODUCTION",
         "curr_course_fulfills": ""
@@ -1146,9 +1145,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DANCE 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     }
 ]

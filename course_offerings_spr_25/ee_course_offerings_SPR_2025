@@ -55,7 +55,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 201",
         "curr_course_name": "COMPUTER HW SKILLS",
         "curr_course_fulfills": [
@@ -86,7 +86,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 201",
         "curr_course_name": "COMPUTER HW SKILLS",
         "curr_course_fulfills": [
@@ -117,7 +117,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 201",
         "curr_course_name": "COMPUTER HW SKILLS",
         "curr_course_fulfills": [
@@ -148,7 +148,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 201",
         "curr_course_name": "COMPUTER HW SKILLS",
         "curr_course_fulfills": [
@@ -179,7 +179,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 201",
         "curr_course_name": "COMPUTER HW SKILLS",
         "curr_course_fulfills": [
@@ -242,7 +242,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 215",
         "curr_course_name": "INTRO TO E E",
         "curr_course_fulfills": [
@@ -273,7 +273,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 215",
         "curr_course_name": "INTRO TO E E",
         "curr_course_fulfills": [
@@ -304,7 +304,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 215",
         "curr_course_name": "INTRO TO E E",
         "curr_course_fulfills": [
@@ -335,7 +335,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 215",
         "curr_course_name": "INTRO TO E E",
         "curr_course_fulfills": [
@@ -366,7 +366,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 215",
         "curr_course_name": "INTRO TO E E",
         "curr_course_fulfills": [
@@ -397,7 +397,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 215",
         "curr_course_name": "INTRO TO E E",
         "curr_course_fulfills": [
@@ -428,7 +428,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 215",
         "curr_course_name": "INTRO TO E E",
         "curr_course_fulfills": [
@@ -487,7 +486,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 233",
         "curr_course_name": "CIRCUIT THEORY",
         "curr_course_fulfills": ""
@@ -514,7 +513,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 233",
         "curr_course_name": "CIRCUIT THEORY",
         "curr_course_fulfills": ""
@@ -541,7 +540,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 233",
         "curr_course_name": "CIRCUIT THEORY",
         "curr_course_fulfills": ""
@@ -570,7 +569,8 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "SAHABANDU,DINUKA",
         "curr_course_code": "E E 241",
         "curr_course_name": "PROGRAMMING SIG PROC",
         "curr_course_fulfills": ""
@@ -599,7 +599,8 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "SAHABANDU,DINUKA",
         "curr_course_code": "E E 241",
         "curr_course_name": "PROGRAMMING SIG PROC",
         "curr_course_fulfills": ""
@@ -628,7 +629,8 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "SAHABANDU,DINUKA",
         "curr_course_code": "E E 241",
         "curr_course_name": "PROGRAMMING SIG PROC",
         "curr_course_fulfills": ""
@@ -657,7 +659,8 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "SAHABANDU,DINUKA",
         "curr_course_code": "E E 241",
         "curr_course_name": "PROGRAMMING SIG PROC",
         "curr_course_fulfills": ""
@@ -686,7 +689,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "SAHABANDU,DINUKA",
         "curr_course_code": "E E 241",
         "curr_course_name": "PROGRAMMING SIG PROC",
         "curr_course_fulfills": ""
@@ -715,9 +718,10 @@
         "is_estimate": 0,
         "max_capacity": "120",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Roy,Sumit",
         "curr_course_code": "E E 242",
-        "curr_course_name": "SGNLS SYST & DATA I ",
+        "curr_course_name": "SGNLS SYST & DATA I",
         "curr_course_fulfills": ""
     },
     {
@@ -744,9 +748,9 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 242",
-        "curr_course_name": "SGNLS SYST & DATA I ",
+        "curr_course_name": "SGNLS SYST & DATA I",
         "curr_course_fulfills": ""
     },
     {
@@ -773,9 +777,9 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 242",
-        "curr_course_name": "SGNLS SYST & DATA I ",
+        "curr_course_name": "SGNLS SYST & DATA I",
         "curr_course_fulfills": ""
     },
     {
@@ -802,9 +806,9 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 242",
-        "curr_course_name": "SGNLS SYST & DATA I ",
+        "curr_course_name": "SGNLS SYST & DATA I",
         "curr_course_fulfills": ""
     },
     {
@@ -831,9 +835,8 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 242",
-        "curr_course_name": "SGNLS SYST & DATA I ",
+        "curr_course_name": "SGNLS SYST & DATA I",
         "curr_course_fulfills": ""
     },
     {
@@ -860,9 +863,9 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 242",
-        "curr_course_name": "SGNLS SYST & DATA I ",
+        "curr_course_name": "SGNLS SYST & DATA I",
         "curr_course_fulfills": ""
     },
     {
@@ -892,7 +895,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hussein,Rania",
         "curr_course_code": "E E 271",
-        "curr_course_name": "DIGITAL CIR & SYSTE ",
+        "curr_course_name": "DIGITAL CIR & SYSTE",
         "curr_course_fulfills": ""
     },
     {
@@ -947,7 +950,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 280",
         "curr_course_name": "EXPLORING DEVICES",
         "curr_course_fulfills": ""
@@ -976,7 +979,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 280",
         "curr_course_name": "EXPLORING DEVICES",
         "curr_course_fulfills": ""
@@ -1003,7 +1005,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 280",
         "curr_course_name": "EXPLORING DEVICES",
         "curr_course_fulfills": ""
@@ -1030,7 +1032,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 280",
         "curr_course_name": "EXPLORING DEVICES",
         "curr_course_fulfills": ""
@@ -1057,7 +1059,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 280",
         "curr_course_name": "EXPLORING DEVICES",
         "curr_course_fulfills": ""
@@ -1114,7 +1116,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 331",
         "curr_course_name": "DEVICES/CIRCUITS I",
         "curr_course_fulfills": ""
@@ -1141,7 +1143,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 331",
         "curr_course_name": "DEVICES/CIRCUITS I",
         "curr_course_fulfills": ""
@@ -1170,7 +1172,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 331",
         "curr_course_name": "DEVICES/CIRCUITS I",
         "curr_course_fulfills": ""
@@ -1202,7 +1203,7 @@
         "open_or_closed": "Open",
         "professor_name": "Naghavi,Hossein",
         "curr_course_code": "E E 332",
-        "curr_course_name": "DEVICES/CIRCUITS II ",
+        "curr_course_name": "DEVICES/CIRCUITS II",
         "curr_course_fulfills": ""
     },
     {
@@ -1227,9 +1228,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 332",
-        "curr_course_name": "DEVICES/CIRCUITS II ",
+        "curr_course_name": "DEVICES/CIRCUITS II",
         "curr_course_fulfills": ""
     },
     {
@@ -1254,9 +1255,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 332",
-        "curr_course_name": "DEVICES/CIRCUITS II ",
+        "curr_course_name": "DEVICES/CIRCUITS II",
         "curr_course_fulfills": ""
     },
     {
@@ -1283,7 +1284,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Ritcey,James",
         "curr_course_code": "E E 342",
         "curr_course_name": "SGNLS SYST & DATA II",
@@ -1311,7 +1312,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 342",
         "curr_course_name": "SGNLS SYST & DATA II",
         "curr_course_fulfills": ""
@@ -1338,7 +1339,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 342",
         "curr_course_name": "SGNLS SYST & DATA II",
         "curr_course_fulfills": ""
@@ -1367,7 +1368,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 342",
         "curr_course_name": "SGNLS SYST & DATA II",
         "curr_course_fulfills": ""
@@ -1424,7 +1424,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 351",
         "curr_course_name": "ENERGY SYSTEMS",
         "curr_course_fulfills": ""
@@ -1451,7 +1451,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 351",
         "curr_course_name": "ENERGY SYSTEMS",
         "curr_course_fulfills": ""
@@ -1478,7 +1478,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 351",
         "curr_course_name": "ENERGY SYSTEMS",
         "curr_course_fulfills": ""
@@ -1535,7 +1535,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 361",
         "curr_course_name": "APPLD ELECTROMAGNTCS",
         "curr_course_fulfills": ""
@@ -1564,7 +1564,6 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 361",
         "curr_course_name": "APPLD ELECTROMAGNTCS",
         "curr_course_fulfills": ""
@@ -1623,7 +1622,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Seelig,Georg",
         "curr_course_code": "E E 391",
         "curr_course_name": "PROB FOR INFO & COMM",
         "curr_course_fulfills": ""
@@ -1682,10 +1682,10 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Bohringer,Karl",
         "curr_course_code": "E E 398",
-        "curr_course_name": "PROFESSIONAL ISSUES ",
+        "curr_course_name": "PROFESSIONAL ISSUES",
         "curr_course_fulfills": ""
     },
     {
@@ -1745,7 +1745,7 @@
         "open_or_closed": "Open",
         "professor_name": "Gadre,Akshay",
         "curr_course_code": "E E 419",
-        "curr_course_name": "INTRO COMP NETWORKS ",
+        "curr_course_name": "INTRO COMP NETWORKS",
         "curr_course_fulfills": ""
     },
     {
@@ -1770,9 +1770,9 @@
         "is_estimate": 0,
         "max_capacity": "17",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 419",
-        "curr_course_name": "INTRO COMP NETWORKS ",
+        "curr_course_name": "INTRO COMP NETWORKS",
         "curr_course_fulfills": ""
     },
     {
@@ -1797,9 +1797,9 @@
         "is_estimate": 0,
         "max_capacity": "17",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 419",
-        "curr_course_name": "INTRO COMP NETWORKS ",
+        "curr_course_name": "INTRO COMP NETWORKS",
         "curr_course_fulfills": ""
     },
     {
@@ -1826,9 +1826,9 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 419",
-        "curr_course_name": "INTRO COMP NETWORKS ",
+        "curr_course_name": "INTRO COMP NETWORKS",
         "curr_course_fulfills": ""
     },
     {
@@ -1915,9 +1915,10 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hwang,Jenq-Neng",
         "curr_course_code": "E E 443",
-        "curr_course_name": "MACH LEARN SIG PROC ",
+        "curr_course_name": "MACH LEARN SIG PROC",
         "curr_course_fulfills": ""
     },
     {
@@ -1944,9 +1945,10 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hannaford,Blake",
         "curr_course_code": "E E 447",
-        "curr_course_name": "CONTROL SYS ANLYS I ",
+        "curr_course_name": "CONTROL SYS ANLYS I",
         "curr_course_fulfills": ""
     },
     {
@@ -1973,7 +1975,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zhang,Baosen",
         "curr_course_code": "E E 456",
         "curr_course_name": "CAD IN POWER SYST",
         "curr_course_fulfills": ""
@@ -2002,7 +2005,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ingraham,Kim",
         "curr_course_code": "E E 461",
         "curr_course_name": "NEURAL TECH STUDIO",
@@ -2155,7 +2157,7 @@
         "open_or_closed": "Open",
         "professor_name": "Li,Ang",
         "curr_course_code": "E E 478",
-        "curr_course_name": "DIG DESIGN PROJECTS ",
+        "curr_course_name": "DIG DESIGN PROJECTS",
         "curr_course_fulfills": ""
     },
     {
@@ -2207,7 +2209,7 @@
         "curr_enrolled": "0",
         "open_or_closed": "Open",
         "curr_course_code": "E E 490",
-        "curr_course_name": "READINGS & RESEARCH ",
+        "curr_course_name": "READINGS & RESEARCH",
         "curr_course_fulfills": ""
     },
     {
@@ -2251,7 +2253,6 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 499",
         "curr_course_name": "UG RSCH-SP PROJECT",
         "curr_course_fulfills": ""
@@ -2274,7 +2275,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 499",
         "curr_course_name": "UG RSCH-SP PROJECT",
         "curr_course_fulfills": ""
@@ -2333,7 +2333,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Bilmes,Jeffrey",
         "curr_course_code": "E E 512",
         "curr_course_name": "GRAPHICAL MODELS",
@@ -2363,7 +2363,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Mouradian,Sara",
         "curr_course_code": "E E 522",
         "curr_course_name": "QUANTUM INFO PRACT",
         "curr_course_fulfills": ""
@@ -2425,7 +2425,7 @@
         "open_or_closed": "Open",
         "professor_name": "Li,Ang",
         "curr_course_code": "E E 526",
-        "curr_course_name": "DIG DESIGN PROJECTS ",
+        "curr_course_name": "DIG DESIGN PROJECTS",
         "curr_course_fulfills": ""
     },
     {
@@ -2452,7 +2452,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Parsons,Maxwell",
         "curr_course_code": "E E 528",
         "curr_course_name": "QUANTUM OPTICS",
@@ -2512,9 +2512,8 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 539",
-        "curr_course_name": "TPCS IN SOLID STATE ",
+        "curr_course_name": "TPCS IN SOLID STATE",
         "curr_course_fulfills": ""
     },
     {
@@ -2544,7 +2543,7 @@
         "open_or_closed": "Open",
         "professor_name": "Patel,Shwetak N.",
         "curr_course_code": "E E 542",
-        "curr_course_name": "ADV EMBD SYS DESIGN ",
+        "curr_course_name": "ADV EMBD SYS DESIGN",
         "curr_course_fulfills": ""
     },
     {
@@ -2597,7 +2596,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Burden,Sam",
         "curr_course_code": "E E 546",
         "curr_course_name": "CONTROL SYS THEORY",
         "curr_course_fulfills": ""
@@ -2630,7 +2630,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Luo,Yiyue",
         "curr_course_code": "E E 546",
         "curr_course_name": "CONTROL SYS THEORY",
         "curr_course_fulfills": ""
@@ -2662,7 +2663,7 @@
         "open_or_closed": "Open",
         "professor_name": "Leung,Karen",
         "curr_course_code": "E E 548",
-        "curr_course_name": "LIN MULTVAR CONTROL ",
+        "curr_course_name": "LIN MULTVAR CONTROL",
         "curr_course_fulfills": ""
     },
     {
@@ -2719,7 +2720,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Choi,Jungwon",
         "curr_course_code": "E E 559",
         "curr_course_name": "TOPICS ELEC ENERGY",
         "curr_course_fulfills": ""
@@ -2748,7 +2750,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lukuyu,June",
         "curr_course_code": "E E 559",
         "curr_course_name": "TOPICS ELEC ENERGY",
         "curr_course_fulfills": ""
@@ -2835,7 +2838,7 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 565",
         "curr_course_name": "COMPUT-COMM NETS I",
         "curr_course_fulfills": ""
@@ -2862,7 +2865,7 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 565",
         "curr_course_name": "COMPUT-COMM NETS I",
         "curr_course_fulfills": ""
@@ -2889,7 +2892,7 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 565",
         "curr_course_name": "COMPUT-COMM NETS I",
         "curr_course_fulfills": ""
@@ -2921,7 +2924,7 @@
         "open_or_closed": "Open",
         "professor_name": "Moritz,Chet",
         "curr_course_code": "E E 569",
-        "curr_course_name": "ADV NEUROTECHNOLOGY ",
+        "curr_course_name": "ADV NEUROTECHNOLOGY",
         "curr_course_fulfills": ""
     },
     {
@@ -2948,7 +2951,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Reynolds,Matt",
         "curr_course_code": "E E 575",
         "curr_course_name": "RADAR REMOTE SENS",
         "curr_course_fulfills": ""
@@ -2980,7 +2984,7 @@
         "open_or_closed": "Open",
         "professor_name": "Sharawi,Mohammad S",
         "curr_course_code": "E E 579",
-        "curr_course_name": "TOPICS/EM,OPT,ACOUS ",
+        "curr_course_name": "TOPICS/EM,OPT,ACOUS",
         "curr_course_fulfills": ""
     },
     {
@@ -3007,7 +3011,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shlizerman,Eli",
         "curr_course_code": "E E 596",
         "curr_course_name": "ADV TPCS S&I PROC",
         "curr_course_fulfills": ""
@@ -3076,7 +3081,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 599",
         "curr_course_name": "SPECIAL PROJECTS",
         "curr_course_fulfills": ""
@@ -3098,7 +3102,7 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "E E 599",
         "curr_course_name": "SPECIAL PROJECTS",
         "curr_course_fulfills": ""
@@ -3121,9 +3125,8 @@
         "is_estimate": 0,
         "max_capacity": "125",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -3144,7 +3147,6 @@
         "is_estimate": 0,
         "max_capacity": "150",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -3167,9 +3169,8 @@
         "is_estimate": 0,
         "max_capacity": "150",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "E E 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

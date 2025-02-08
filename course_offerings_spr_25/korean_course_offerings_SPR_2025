@@ -23,7 +23,7 @@
         "is_estimate": 0,
         "max_capacity": "66",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Kim,JungHee",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -52,7 +52,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -81,7 +80,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -110,7 +108,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -139,7 +136,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -168,7 +164,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -197,7 +192,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -226,7 +220,7 @@
         "is_estimate": 0,
         "max_capacity": "66",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Kim,JungHee",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -255,7 +249,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -284,7 +277,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -313,7 +305,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -342,7 +333,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -371,7 +361,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -400,7 +389,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 103",
         "curr_course_name": "1ST-YR KOREAN",
         "curr_course_fulfills": ""
@@ -429,7 +417,7 @@
         "is_estimate": 0,
         "max_capacity": "44",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Kim,JungHee",
         "curr_course_code": "KOREAN 203",
         "curr_course_name": "2ND-YR KOREAN",
         "curr_course_fulfills": [
@@ -460,7 +448,6 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 203",
         "curr_course_name": "2ND-YR KOREAN",
         "curr_course_fulfills": [
@@ -491,7 +478,6 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 203",
         "curr_course_name": "2ND-YR KOREAN",
         "curr_course_fulfills": [
@@ -522,7 +508,6 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Choi,Sea",
         "curr_course_code": "KOREAN 303",
         "curr_course_name": "THIRD-YEAR KOREAN",
@@ -644,7 +629,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Cho,Heekyoung",
         "curr_course_code": "KOREAN 417",
         "curr_course_name": "RDNGS KOR LIT CLTR",
         "curr_course_fulfills": [
@@ -673,7 +658,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Choi,Sea",
         "curr_course_code": "KOREAN 440",
         "curr_course_name": "KOREAN LINGUISTICS",
@@ -699,7 +684,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "KOREAN 499",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""

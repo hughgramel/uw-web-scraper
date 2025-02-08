@@ -24,7 +24,7 @@
         "open_or_closed": "Open",
         "professor_name": "Woiak,Joanne",
         "curr_course_code": "LSJ 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -56,9 +56,9 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -90,9 +90,9 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -124,9 +124,9 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -158,9 +158,9 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -190,7 +190,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LSJ 320",
         "curr_course_name": "INTL HUMAN RIGHTS",
         "curr_course_fulfills": [
@@ -220,7 +219,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 320",
         "curr_course_name": "INTL HUMAN RIGHTS",
         "curr_course_fulfills": [
@@ -250,7 +249,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 320",
         "curr_course_name": "INTL HUMAN RIGHTS",
         "curr_course_fulfills": [
@@ -280,7 +279,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 320",
         "curr_course_name": "INTL HUMAN RIGHTS",
         "curr_course_fulfills": [
@@ -303,7 +302,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 320",
         "curr_course_name": "INTL HUMAN RIGHTS",
         "curr_course_fulfills": [
@@ -326,7 +325,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 320",
         "curr_course_name": "INTL HUMAN RIGHTS",
         "curr_course_fulfills": [
@@ -349,7 +348,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 320",
         "curr_course_name": "INTL HUMAN RIGHTS",
         "curr_course_fulfills": [
@@ -372,7 +371,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 320",
         "curr_course_name": "INTL HUMAN RIGHTS",
         "curr_course_fulfills": [
@@ -402,7 +401,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 320",
         "curr_course_name": "INTL HUMAN RIGHTS",
         "curr_course_fulfills": [
@@ -463,7 +462,7 @@
         "is_estimate": 0,
         "max_capacity": "21",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 321",
         "curr_course_name": "HUMAN RIGHTS LAW",
         "curr_course_fulfills": [
@@ -493,7 +492,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 321",
         "curr_course_name": "HUMAN RIGHTS LAW",
         "curr_course_fulfills": [
@@ -523,7 +522,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 321",
         "curr_course_name": "HUMAN RIGHTS LAW",
         "curr_course_fulfills": [
@@ -553,7 +552,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 321",
         "curr_course_name": "HUMAN RIGHTS LAW",
         "curr_course_fulfills": [
@@ -583,7 +582,7 @@
         "is_estimate": 0,
         "max_capacity": "21",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 321",
         "curr_course_name": "HUMAN RIGHTS LAW",
         "curr_course_fulfills": [
@@ -613,7 +612,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 321",
         "curr_course_name": "HUMAN RIGHTS LAW",
         "curr_course_fulfills": [
@@ -673,7 +672,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 363",
         "curr_course_name": "LAW IN SOCIETY",
         "curr_course_fulfills": [
@@ -702,7 +701,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 363",
         "curr_course_name": "LAW IN SOCIETY",
         "curr_course_fulfills": [
@@ -731,7 +730,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 363",
         "curr_course_name": "LAW IN SOCIETY",
         "curr_course_fulfills": [
@@ -762,7 +761,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 363",
         "curr_course_name": "LAW IN SOCIETY",
         "curr_course_fulfills": [
@@ -823,7 +822,7 @@
         "is_estimate": 0,
         "max_capacity": "31",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 375",
         "curr_course_name": "CRIME POL AND JUST",
         "curr_course_fulfills": [
@@ -852,7 +851,7 @@
         "is_estimate": 0,
         "max_capacity": "31",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 375",
         "curr_course_name": "CRIME POL AND JUST",
         "curr_course_fulfills": [
@@ -881,7 +880,7 @@
         "is_estimate": 0,
         "max_capacity": "31",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 375",
         "curr_course_name": "CRIME POL AND JUST",
         "curr_course_fulfills": [
@@ -912,7 +911,7 @@
         "is_estimate": 0,
         "max_capacity": "32",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 375",
         "curr_course_name": "CRIME POL AND JUST",
         "curr_course_fulfills": [
@@ -941,7 +940,8 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rubiano-Galvis,Sebastian",
         "curr_course_code": "LSJ 381",
         "curr_course_name": "ISSUES IN RIGHTS",
         "curr_course_fulfills": [
@@ -970,7 +970,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 381",
         "curr_course_name": "ISSUES IN RIGHTS",
         "curr_course_fulfills": [
@@ -999,7 +999,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 381",
         "curr_course_name": "ISSUES IN RIGHTS",
         "curr_course_fulfills": [
@@ -1030,7 +1030,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Mayerfeld,Jamie",
         "curr_course_code": "LSJ 401",
         "curr_course_name": "FIELD EXPERNCE LSJ",
@@ -1060,10 +1059,9 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Frost,Ann C",
         "curr_course_code": "LSJ 416",
-        "curr_course_name": "JVNILE PAROLE PRACT ",
+        "curr_course_name": "JVNILE PAROLE PRACT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1092,7 +1090,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LSJ 434",
         "curr_course_name": "CIV/HUMN RGTS LAW",
         "curr_course_fulfills": [
@@ -1124,10 +1122,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Vickers,Morgan",
         "curr_course_code": "LSJ 490",
-        "curr_course_name": "TOPICS LEGAL INSTIT ",
+        "curr_course_name": "TOPICS LEGAL INSTIT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1159,7 +1157,7 @@
         "open_or_closed": "Open",
         "professor_name": "Osanloo,Arzoo",
         "curr_course_code": "LSJ 490",
-        "curr_course_name": "TOPICS LEGAL INSTIT ",
+        "curr_course_name": "TOPICS LEGAL INSTIT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1188,7 +1186,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rubiano-Galvis,Sebastian",
         "curr_course_code": "LSJ 491",
         "curr_course_name": "TOPICS IN RIGHTS",
         "curr_course_fulfills": [
@@ -1245,7 +1244,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LSJ 499",
         "curr_course_name": "READINGS IN LSJ",
         "curr_course_fulfills": ""
@@ -1268,7 +1266,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LSJ 499",
         "curr_course_name": "READINGS IN LSJ",
         "curr_course_fulfills": ""
@@ -1291,7 +1288,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LSJ 499",
         "curr_course_name": "READINGS IN LSJ",
         "curr_course_fulfills": ""
@@ -1323,7 +1319,7 @@
         "open_or_closed": "Open",
         "professor_name": "Osanloo,Arzoo",
         "curr_course_code": "LSJ 510",
-        "curr_course_name": "TOPICS IN LAW & SOC ",
+        "curr_course_name": "TOPICS IN LAW & SOC",
         "curr_course_fulfills": ""
     }
 ]

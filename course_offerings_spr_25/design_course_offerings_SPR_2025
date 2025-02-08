@@ -26,7 +26,7 @@
         "open_or_closed": "Open",
         "professor_name": "Muren,Dominic L",
         "curr_course_code": "DESIGN 208",
-        "curr_course_name": "SURV OF DESIGN HIST ",
+        "curr_course_name": "SURV OF DESIGN HIST",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -117,10 +117,9 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Weis,Bridget",
         "curr_course_code": "DESIGN 215",
-        "curr_course_name": "VISUAL STORYTELLING ",
+        "curr_course_name": "VISUAL STORYTELLING",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -216,7 +215,7 @@
         "open_or_closed": "Open",
         "professor_name": "Liu,Meichun",
         "curr_course_code": "DESIGN 326",
-        "curr_course_name": "DIGITAL FABRICATION ",
+        "curr_course_name": "DIGITAL FABRICATION",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -307,7 +306,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DESIGN 372",
         "curr_course_name": "INTERFACE DESIGN 2",
         "curr_course_fulfills": [
@@ -457,7 +456,7 @@
         "is_estimate": 1,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "DESIGN 495",
         "curr_course_name": "DESIGN INTERNSHIP",
         "curr_course_fulfills": ""
@@ -479,10 +478,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Desjardins,Audrey",
         "curr_course_code": "DESIGN 496",
-        "curr_course_name": "RESEARCH IXD DESIGN ",
+        "curr_course_name": "RESEARCH IXD DESIGN",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -504,10 +502,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Pierce,James",
         "curr_course_code": "DESIGN 496",
-        "curr_course_name": "RESEARCH IXD DESIGN ",
+        "curr_course_name": "RESEARCH IXD DESIGN",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -529,7 +526,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DESIGN 499",
         "curr_course_name": "INDIV PROJ-DESIGN",
         "curr_course_fulfills": ""
@@ -551,7 +548,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DESIGN 501",
         "curr_course_name": "GRAD TEACH/MENTOR",
         "curr_course_fulfills": ""
@@ -613,7 +610,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hall,Chad P",
         "curr_course_code": "DESIGN 582",
-        "curr_course_name": "DESIGN STUDIO: GRAD ",
+        "curr_course_name": "DESIGN STUDIO: GRAD",
         "curr_course_fulfills": ""
     },
     {
@@ -631,9 +628,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DESIGN 582",
-        "curr_course_name": "DESIGN STUDIO: GRAD ",
+        "curr_course_name": "DESIGN STUDIO: GRAD",
         "curr_course_fulfills": ""
     },
     {
@@ -651,7 +648,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "DESIGN 590",
         "curr_course_name": "CURRENT ISSUES",
         "curr_course_fulfills": ""
@@ -673,7 +670,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Desjardins,Audrey",
         "curr_course_code": "DESIGN 596",
         "curr_course_name": "RESEARCH IXD",
@@ -696,7 +692,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Pierce,James",
         "curr_course_code": "DESIGN 596",
         "curr_course_name": "RESEARCH IXD",
@@ -719,9 +714,9 @@
         "is_estimate": 1,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "DESIGN 600",
-        "curr_course_name": "INDEPEND STDY/RESCH ",
+        "curr_course_name": "INDEPEND STDY/RESCH",
         "curr_course_fulfills": ""
     },
     {
@@ -741,7 +736,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "DESIGN 700",
         "curr_course_name": "MASTER'S THESIS",
         "curr_course_fulfills": ""

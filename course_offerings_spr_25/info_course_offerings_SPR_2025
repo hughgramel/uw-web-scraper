@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Cross,Katherine",
         "curr_course_code": "INFO 102",
         "curr_course_name": "GENDER & INFO TECH",
@@ -52,7 +52,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 102",
         "curr_course_name": "GENDER & INFO TECH",
         "curr_course_fulfills": [
@@ -82,7 +82,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 102",
         "curr_course_name": "GENDER & INFO TECH",
         "curr_course_fulfills": [
@@ -115,7 +115,7 @@
         "open_or_closed": "Open",
         "professor_name": "Thayer,Kyle",
         "curr_course_code": "INFO 103",
-        "curr_course_name": "SOC MED ETHICS AUTO ",
+        "curr_course_name": "SOC MED ETHICS AUTO",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -142,9 +142,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 103",
-        "curr_course_name": "SOC MED ETHICS AUTO ",
+        "curr_course_name": "SOC MED ETHICS AUTO",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -171,9 +171,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 103",
-        "curr_course_name": "SOC MED ETHICS AUTO ",
+        "curr_course_name": "SOC MED ETHICS AUTO",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -200,9 +200,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 103",
-        "curr_course_name": "SOC MED ETHICS AUTO ",
+        "curr_course_name": "SOC MED ETHICS AUTO",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -229,9 +229,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 103",
-        "curr_course_name": "SOC MED ETHICS AUTO ",
+        "curr_course_name": "SOC MED ETHICS AUTO",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -258,9 +258,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 103",
-        "curr_course_name": "SOC MED ETHICS AUTO ",
+        "curr_course_name": "SOC MED ETHICS AUTO",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -287,9 +287,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 103",
-        "curr_course_name": "SOC MED ETHICS AUTO ",
+        "curr_course_name": "SOC MED ETHICS AUTO",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -316,7 +316,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Calo,Ryan",
         "curr_course_code": "INFO 198",
         "curr_course_name": "EXPLORING INFORM",
         "curr_course_fulfills": ""
@@ -343,7 +344,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 198",
         "curr_course_name": "EXPLORING INFORM",
         "curr_course_fulfills": ""
@@ -370,7 +371,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 198",
         "curr_course_name": "EXPLORING INFORM",
         "curr_course_fulfills": ""
@@ -399,7 +400,8 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hill,Trent",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -428,7 +430,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -457,7 +459,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -486,7 +488,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -515,7 +517,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -544,7 +546,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -573,7 +575,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -602,7 +604,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -631,7 +633,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -662,7 +664,7 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "King,Wes",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
@@ -692,7 +694,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -721,7 +723,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -750,7 +752,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -779,7 +781,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -808,7 +810,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -839,7 +841,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -868,7 +869,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -897,7 +898,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 200",
         "curr_course_name": "INTELL FOUNDATIONS",
         "curr_course_fulfills": [
@@ -928,7 +929,8 @@
         "is_estimate": 0,
         "max_capacity": "214",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Toomet,Ott",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -957,7 +959,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -986,7 +988,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1017,7 +1019,6 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1046,7 +1047,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1075,7 +1076,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1104,7 +1105,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1133,7 +1134,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1162,7 +1163,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1193,7 +1194,7 @@
         "is_estimate": 0,
         "max_capacity": "214",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Miller",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
@@ -1223,7 +1224,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1252,7 +1253,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1281,7 +1282,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1310,7 +1311,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1339,7 +1340,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1368,7 +1369,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1397,7 +1398,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1426,7 +1427,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 201",
         "curr_course_name": "DATA SCI FOUNDATIONS",
         "curr_course_fulfills": [
@@ -1457,7 +1458,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "King,Wes",
         "curr_course_code": "INFO 300",
         "curr_course_name": "RESEARCH METHODS",
@@ -1485,7 +1486,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 300",
         "curr_course_name": "RESEARCH METHODS",
         "curr_course_fulfills": ""
@@ -1512,7 +1513,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 300",
         "curr_course_name": "RESEARCH METHODS",
         "curr_course_fulfills": ""
@@ -1541,7 +1542,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bristol,Rachel",
         "curr_course_code": "INFO 300",
         "curr_course_name": "RESEARCH METHODS",
         "curr_course_fulfills": ""
@@ -1568,7 +1570,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 300",
         "curr_course_name": "RESEARCH METHODS",
         "curr_course_fulfills": ""
@@ -1595,7 +1597,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 300",
         "curr_course_name": "RESEARCH METHODS",
         "curr_course_fulfills": ""
@@ -1628,9 +1630,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 310",
-        "curr_course_name": "INFO ASSR & CYBRSEC ",
+        "curr_course_name": "INFO ASSR & CYBRSEC",
         "curr_course_fulfills": [
             "SSc",
             "RSN"
@@ -1660,7 +1662,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Howe,Bill",
         "curr_course_code": "INFO 330",
         "curr_course_name": "DB & DATA MODELING",
         "curr_course_fulfills": [
@@ -1689,7 +1692,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 330",
         "curr_course_name": "DB & DATA MODELING",
         "curr_course_fulfills": [
@@ -1718,7 +1721,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 330",
         "curr_course_name": "DB & DATA MODELING",
         "curr_course_fulfills": [
@@ -1749,7 +1752,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 330",
         "curr_course_name": "DB & DATA MODELING",
         "curr_course_fulfills": [
@@ -1780,7 +1783,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 330",
         "curr_course_name": "DB & DATA MODELING",
         "curr_course_fulfills": [
@@ -1811,7 +1814,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 330",
         "curr_course_name": "DB & DATA MODELING",
         "curr_course_fulfills": [
@@ -1842,7 +1845,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 330",
         "curr_course_name": "DB & DATA MODELING",
         "curr_course_fulfills": [
@@ -1873,7 +1876,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 330",
         "curr_course_name": "DB & DATA MODELING",
         "curr_course_fulfills": [
@@ -1904,7 +1907,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 330",
         "curr_course_name": "DB & DATA MODELING",
         "curr_course_fulfills": [
@@ -1939,7 +1942,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 331",
         "curr_course_name": "INFO ARCHITECTURE",
         "curr_course_fulfills": ""
@@ -1968,7 +1971,8 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ross,Joel",
         "curr_course_code": "INFO 340",
         "curr_course_name": "CLIENT-SIDE DEV",
         "curr_course_fulfills": [
@@ -1999,7 +2003,7 @@
         "is_estimate": 0,
         "max_capacity": "37",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 340",
         "curr_course_name": "CLIENT-SIDE DEV",
         "curr_course_fulfills": [
@@ -2030,7 +2034,7 @@
         "is_estimate": 0,
         "max_capacity": "38",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 340",
         "curr_course_name": "CLIENT-SIDE DEV",
         "curr_course_fulfills": [
@@ -2061,7 +2065,8 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kirdani-Ryan,Mara",
         "curr_course_code": "INFO 340",
         "curr_course_name": "CLIENT-SIDE DEV",
         "curr_course_fulfills": [
@@ -2092,7 +2097,7 @@
         "is_estimate": 0,
         "max_capacity": "38",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 340",
         "curr_course_name": "CLIENT-SIDE DEV",
         "curr_course_fulfills": [
@@ -2123,7 +2128,7 @@
         "is_estimate": 0,
         "max_capacity": "37",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 340",
         "curr_course_name": "CLIENT-SIDE DEV",
         "curr_course_fulfills": [
@@ -2154,7 +2159,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Thayer,Kristen",
         "curr_course_code": "INFO 340",
         "curr_course_name": "CLIENT-SIDE DEV",
@@ -2186,7 +2191,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 340",
         "curr_course_name": "CLIENT-SIDE DEV",
         "curr_course_fulfills": [
@@ -2217,7 +2222,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 340",
         "curr_course_name": "CLIENT-SIDE DEV",
         "curr_course_fulfills": [
@@ -2248,9 +2253,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Gomez,Ricardo",
         "curr_course_code": "INFO 351",
-        "curr_course_name": "INFO ETHICS & POLCY ",
+        "curr_course_name": "INFO ETHICS & POLCY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -2280,9 +2286,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Gomez,Ricardo",
         "curr_course_code": "INFO 351",
-        "curr_course_name": "INFO ETHICS & POLCY ",
+        "curr_course_name": "INFO ETHICS & POLCY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -2312,7 +2319,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Odumosu,Temi",
         "curr_course_code": "INFO 352",
         "curr_course_name": "RACE GENDER & INFO",
         "curr_course_fulfills": [
@@ -2344,7 +2352,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Iribe",
         "curr_course_code": "INFO 352",
         "curr_course_name": "RACE GENDER & INFO",
@@ -2410,9 +2418,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 356",
-        "curr_course_name": "MORAL REASON & DSGN ",
+        "curr_course_name": "MORAL REASON & DSGN",
         "curr_course_fulfills": ""
     },
     {
@@ -2505,9 +2513,9 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2536,9 +2544,9 @@
         "is_estimate": 0,
         "max_capacity": "33",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2567,9 +2575,9 @@
         "is_estimate": 0,
         "max_capacity": "32",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2598,9 +2606,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2629,9 +2637,9 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2660,9 +2668,9 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2694,7 +2702,7 @@
         "open_or_closed": "Open",
         "professor_name": "Miller Rigoli,Carson",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2723,9 +2731,9 @@
         "is_estimate": 0,
         "max_capacity": "33",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2754,9 +2762,9 @@
         "is_estimate": 0,
         "max_capacity": "32",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2788,7 +2796,7 @@
         "open_or_closed": "Open",
         "professor_name": "Miller Rigoli,Carson",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2817,9 +2825,9 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2848,9 +2856,9 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 370",
-        "curr_course_name": "DATA SCIENCE METHDS ",
+        "curr_course_name": "DATA SCIENCE METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2882,7 +2890,7 @@
         "open_or_closed": "Open",
         "professor_name": "Toomet,Ott",
         "curr_course_code": "INFO 371",
-        "curr_course_name": "ADV DATA SCI METHDS ",
+        "curr_course_name": "ADV DATA SCI METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2911,9 +2919,9 @@
         "is_estimate": 0,
         "max_capacity": "33",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 371",
-        "curr_course_name": "ADV DATA SCI METHDS ",
+        "curr_course_name": "ADV DATA SCI METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2942,9 +2950,9 @@
         "is_estimate": 0,
         "max_capacity": "32",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 371",
-        "curr_course_name": "ADV DATA SCI METHDS ",
+        "curr_course_name": "ADV DATA SCI METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -2976,7 +2984,7 @@
         "open_or_closed": "Open",
         "professor_name": "Toomet,Ott",
         "curr_course_code": "INFO 371",
-        "curr_course_name": "ADV DATA SCI METHDS ",
+        "curr_course_name": "ADV DATA SCI METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -3005,9 +3013,9 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 371",
-        "curr_course_name": "ADV DATA SCI METHDS ",
+        "curr_course_name": "ADV DATA SCI METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -3036,9 +3044,9 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 371",
-        "curr_course_name": "ADV DATA SCI METHDS ",
+        "curr_course_name": "ADV DATA SCI METHDS",
         "curr_course_fulfills": [
             "RSN"
         ]
@@ -3097,7 +3105,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 380",
         "curr_course_name": "PRODUCT & IS MGMT",
         "curr_course_fulfills": ""
@@ -3126,7 +3134,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 380",
         "curr_course_name": "PRODUCT & IS MGMT",
         "curr_course_fulfills": ""
@@ -3185,7 +3193,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 380",
         "curr_course_name": "PRODUCT & IS MGMT",
         "curr_course_fulfills": ""
@@ -3214,7 +3222,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 380",
         "curr_course_name": "PRODUCT & IS MGMT",
         "curr_course_fulfills": ""
@@ -3243,7 +3251,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 380",
         "curr_course_name": "PRODUCT & IS MGMT",
         "curr_course_fulfills": ""
@@ -3272,7 +3280,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 380",
         "curr_course_name": "PRODUCT & IS MGMT",
         "curr_course_fulfills": ""
@@ -3301,7 +3309,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 380",
         "curr_course_name": "PRODUCT & IS MGMT",
         "curr_course_fulfills": ""
@@ -3330,7 +3338,8 @@
         "is_estimate": 0,
         "max_capacity": "36",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Schildkraut,Laura",
         "curr_course_code": "INFO 386",
         "curr_course_name": "PROFESSIONALISM",
         "curr_course_fulfills": ""
@@ -3359,7 +3368,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 415",
         "curr_course_name": "TOPICS IN CYBERSEC",
         "curr_course_fulfills": ""
@@ -3392,7 +3401,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 430",
         "curr_course_name": "DB DESIGN & MGMT",
         "curr_course_fulfills": ""
@@ -3425,7 +3434,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Thayer,Kyle",
         "curr_course_code": "INFO 441",
         "curr_course_name": "SERVER-SIDE DEV",
         "curr_course_fulfills": ""
@@ -3458,7 +3468,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zaretzky,Jeremy",
         "curr_course_code": "INFO 442",
         "curr_course_name": "COOP SOFTWARE DEV",
         "curr_course_fulfills": ""
@@ -3491,7 +3502,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kirdani-Ryan,Mara",
         "curr_course_code": "INFO 442",
         "curr_course_name": "COOP SOFTWARE DEV",
         "curr_course_fulfills": ""
@@ -3524,7 +3536,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Allen,Cheri",
         "curr_course_code": "INFO 442",
         "curr_course_name": "COOP SOFTWARE DEV",
         "curr_course_fulfills": ""
@@ -3557,7 +3570,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Neward,Theodore",
         "curr_course_code": "INFO 449",
         "curr_course_name": "IOS MOBILE DEV",
@@ -3621,9 +3634,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Williams,Spencer",
         "curr_course_code": "INFO 463",
-        "curr_course_name": "INPUT & INTERACTION ",
+        "curr_course_name": "INPUT & INTERACTION",
         "curr_course_fulfills": ""
     },
     {
@@ -3654,7 +3668,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Pratt,Wanda",
         "curr_course_code": "INFO 468",
         "curr_course_name": "DES PERS HLTH & WELL",
         "curr_course_fulfills": [
@@ -3759,7 +3774,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "INFO 481",
         "curr_course_name": "PROJECT MANAGEMENT",
         "curr_course_fulfills": ""
@@ -3788,9 +3803,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zaretzky,Jeremy",
         "curr_course_code": "INFO 491",
-        "curr_course_name": "CAPSTONE PROJECT II ",
+        "curr_course_name": "CAPSTONE PROJECT II",
         "curr_course_fulfills": ""
     },
     {
@@ -3817,9 +3833,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lurie,Ian",
         "curr_course_code": "INFO 491",
-        "curr_course_name": "CAPSTONE PROJECT II ",
+        "curr_course_name": "CAPSTONE PROJECT II",
         "curr_course_fulfills": ""
     },
     {
@@ -3846,9 +3863,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Anderson,Sasha",
         "curr_course_code": "INFO 491",
-        "curr_course_name": "CAPSTONE PROJECT II ",
+        "curr_course_name": "CAPSTONE PROJECT II",
         "curr_course_fulfills": ""
     },
     {
@@ -3875,9 +3893,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hales,Marlina",
         "curr_course_code": "INFO 491",
-        "curr_course_name": "CAPSTONE PROJECT II ",
+        "curr_course_name": "CAPSTONE PROJECT II",
         "curr_course_fulfills": ""
     },
     {
@@ -3904,9 +3923,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bearfield,Andre",
         "curr_course_code": "INFO 491",
-        "curr_course_name": "CAPSTONE PROJECT II ",
+        "curr_course_name": "CAPSTONE PROJECT II",
         "curr_course_fulfills": ""
     },
     {
@@ -3933,9 +3953,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hegg,Clare",
         "curr_course_code": "INFO 491",
-        "curr_course_name": "CAPSTONE PROJECT II ",
+        "curr_course_name": "CAPSTONE PROJECT II",
         "curr_course_fulfills": ""
     },
     {
@@ -3962,9 +3983,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Podmajersky,Torrey",
         "curr_course_code": "INFO 491",
-        "curr_course_name": "CAPSTONE PROJECT II ",
+        "curr_course_name": "CAPSTONE PROJECT II",
         "curr_course_fulfills": ""
     },
     {
@@ -4045,7 +4067,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "INFO 493",
         "curr_course_name": "RESEARCH CAPSTONE",
         "curr_course_fulfills": ""
@@ -4095,7 +4116,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Schildkraut,Laura",
         "curr_course_code": "INFO 495",
         "curr_course_name": "INTERNSHIP",
@@ -4125,7 +4145,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Landesman,Rotem",
         "curr_course_code": "INFO 498",
         "curr_course_name": "TOPIC INFORMATICS",
         "curr_course_fulfills": ""
@@ -4158,7 +4179,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Cargile,Andy",
         "curr_course_code": "INFO 498",
         "curr_course_name": "TOPIC INFORMATICS",
         "curr_course_fulfills": ""
@@ -4191,7 +4213,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "GREENDORFER,ELIAS",
         "curr_course_code": "INFO 498",
         "curr_course_name": "TOPIC INFORMATICS",
@@ -4221,7 +4243,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Huang,Richard",
         "curr_course_code": "INFO 498",
         "curr_course_name": "TOPIC INFORMATICS",
@@ -4251,7 +4273,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Prins,Jamie",
         "curr_course_code": "INFO 498",
         "curr_course_name": "TOPIC INFORMATICS",
@@ -4275,7 +4297,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "INFO 499",
         "curr_course_name": "IND STUDY",
         "curr_course_fulfills": ""
@@ -4298,7 +4319,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "INFO 499",
         "curr_course_name": "IND STUDY",
         "curr_course_fulfills": ""

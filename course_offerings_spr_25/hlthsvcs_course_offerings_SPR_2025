@@ -21,7 +21,7 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Meischke,Hendrika",
         "curr_course_code": "HSERV 204",
         "curr_course_name": "COMUN HLTH ISSUES",
@@ -49,7 +49,8 @@
         "is_estimate": 1,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Yunusa,Rabi",
         "curr_course_code": "HSERV 345",
         "curr_course_name": "COMM HLTH ASSMNT",
         "curr_course_fulfills": ""
@@ -137,7 +138,8 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ramaswamy,Megha",
         "curr_course_code": "HSERV 476",
         "curr_course_name": "INTRO APP QUAL MTHDS",
         "curr_course_fulfills": ""
@@ -190,7 +192,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "HSERV 499",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -217,10 +218,10 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Meischke,Hendrika",
         "curr_course_code": "HSERV 507",
-        "curr_course_name": "HLTH COM/MRKT PROMO ",
+        "curr_course_name": "HLTH COM/MRKT PROMO",
         "curr_course_fulfills": ""
     },
     {
@@ -247,7 +248,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "van Draanen,Jenna",
         "curr_course_code": "HSERV 514",
         "curr_course_name": "POP HLTH & DISPAR",
@@ -305,7 +305,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Basu,Anirban",
         "curr_course_code": "HSERV 525",
         "curr_course_name": "ADV RSCH METH III",
@@ -391,10 +390,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Graham,Susan M.",
         "curr_course_code": "HSERV 578",
-        "curr_course_name": "WRIT RSCH PROPOSALS ",
+        "curr_course_name": "WRIT RSCH PROPOSALS",
         "curr_course_fulfills": ""
     },
     {
@@ -422,7 +420,7 @@
         "open_or_closed": "Open",
         "professor_name": "Graham,Susan M.",
         "curr_course_code": "HSERV 578",
-        "curr_course_name": "WRIT RSCH PROPOSALS ",
+        "curr_course_name": "WRIT RSCH PROPOSALS",
         "curr_course_fulfills": ""
     },
     {
@@ -694,9 +692,8 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "HSERV 595",
-        "curr_course_name": "FIELDWORK IN COMM H ",
+        "curr_course_name": "FIELDWORK IN COMM H",
         "curr_course_fulfills": ""
     },
     {
@@ -716,7 +713,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSERV 599",
         "curr_course_name": "CAPSTONE PROJECT",
         "curr_course_fulfills": ""
@@ -738,9 +735,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSERV 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -760,7 +757,7 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSERV 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -782,9 +779,9 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSERV 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

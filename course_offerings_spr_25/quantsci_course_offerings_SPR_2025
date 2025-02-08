@@ -25,7 +25,8 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Sivandran,Gaj",
         "curr_course_code": "Q SCI 291",
         "curr_course_name": "CALC FOR NAT SYS I",
         "curr_course_fulfills": [
@@ -55,9 +56,10 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "WALLACE,BRENDAN",
         "curr_course_code": "Q SCI 292",
-        "curr_course_name": "CALC FOR NAT SYS II ",
+        "curr_course_name": "CALC FOR NAT SYS II",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -78,7 +80,7 @@
         "is_estimate": 0,
         "max_capacity": "150",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "Q SCI 381",
         "curr_course_name": "INTRO PROBABL & STAT",
         "curr_course_fulfills": [
@@ -108,7 +110,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "Q SCI 381",
         "curr_course_name": "INTRO PROBABL & STAT",
         "curr_course_fulfills": [
@@ -138,7 +140,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "Q SCI 381",
         "curr_course_name": "INTRO PROBABL & STAT",
         "curr_course_fulfills": [
@@ -168,7 +170,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "Q SCI 381",
         "curr_course_name": "INTRO PROBABL & STAT",
         "curr_course_fulfills": [
@@ -198,7 +200,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "Q SCI 381",
         "curr_course_name": "INTRO PROBABL & STAT",
         "curr_course_fulfills": [
@@ -228,7 +230,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "Q SCI 381",
         "curr_course_name": "INTRO PROBABL & STAT",
         "curr_course_fulfills": [
@@ -258,7 +260,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "Q SCI 381",
         "curr_course_name": "INTRO PROBABL & STAT",
         "curr_course_fulfills": [
@@ -292,7 +294,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "Q SCI 403",
         "curr_course_name": "RESAMPLING INFER",
         "curr_course_fulfills": [
@@ -325,7 +327,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "Q SCI 403",
         "curr_course_name": "RESAMPLING INFER",
         "curr_course_fulfills": [
@@ -361,7 +363,7 @@
         "open_or_closed": "Open",
         "professor_name": "Branch,Trevor A.",
         "curr_course_code": "Q SCI 458",
-        "curr_course_name": "QUANT CONSRV & MGMT ",
+        "curr_course_name": "QUANT CONSRV & MGMT",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -392,9 +394,9 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "Q SCI 483",
-        "curr_course_name": "STAT REGRES IN ECOL ",
+        "curr_course_name": "STAT REGRES IN ECOL",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -421,7 +423,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Sivandran,Gaj",
         "curr_course_code": "Q SCI 497",
         "curr_course_name": "SP TOPICS IN Q SCI",
         "curr_course_fulfills": [
@@ -446,7 +449,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "Q SCI 498",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": [
@@ -471,9 +473,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "Q SCI 499",
-        "curr_course_name": "RESEARCH EXPERIENCE ",
+        "curr_course_name": "RESEARCH EXPERIENCE",
         "curr_course_fulfills": ""
     }
 ]

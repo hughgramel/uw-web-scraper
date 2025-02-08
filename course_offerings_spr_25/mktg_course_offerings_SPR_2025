@@ -23,7 +23,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Valsesia,Francesca",
         "curr_course_code": "MKTG 301",
         "curr_course_name": "MARKETING CONCEPTS",
         "curr_course_fulfills": ""
@@ -52,7 +53,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Meyer,Stewart",
         "curr_course_code": "MKTG 301",
         "curr_course_name": "MARKETING CONCEPTS",
         "curr_course_fulfills": ""
@@ -81,7 +83,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Meyer,Stewart",
         "curr_course_code": "MKTG 301",
         "curr_course_name": "MARKETING CONCEPTS",
         "curr_course_fulfills": ""
@@ -108,9 +111,9 @@
         "is_estimate": 0,
         "max_capacity": "130",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MKTG 305",
-        "curr_course_name": "MRKTG SALES ESSNTLS ",
+        "curr_course_name": "MRKTG SALES ESSNTLS",
         "curr_course_fulfills": ""
     },
     {
@@ -165,7 +168,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Erickson,Barry",
         "curr_course_code": "MKTG 335",
         "curr_course_name": "PRIN OF SELLING",
         "curr_course_fulfills": ""
@@ -194,7 +198,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Matthews,Martha",
         "curr_course_code": "MKTG 370",
         "curr_course_name": "RETAILING",
@@ -224,7 +228,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Long,Vivienne",
         "curr_course_code": "MKTG 411",
         "curr_course_name": "BUS-TO-BUS MKTG",
         "curr_course_fulfills": ""
@@ -253,7 +258,8 @@
         "is_estimate": 0,
         "max_capacity": "26",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Erickson,Barry",
         "curr_course_code": "MKTG 430",
         "curr_course_name": "SALES FORCE MGMT",
         "curr_course_fulfills": ""
@@ -282,7 +288,7 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Matthews,Martha",
         "curr_course_code": "MKTG 450",
         "curr_course_name": "CONSUMER BEHAVIOR",
@@ -312,7 +318,7 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Matthews,Martha",
         "curr_course_code": "MKTG 450",
         "curr_course_name": "CONSUMER BEHAVIOR",
@@ -372,7 +378,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Schlosser,Ann",
         "curr_course_code": "MKTG 456",
         "curr_course_name": "ADVERTISING",
         "curr_course_fulfills": ""
@@ -401,7 +408,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Schlosser,Ann",
         "curr_course_code": "MKTG 456",
         "curr_course_name": "ADVERTISING",
         "curr_course_fulfills": ""
@@ -430,7 +438,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kleiman-Weiner,Max",
         "curr_course_code": "MKTG 460",
         "curr_course_name": "CONSUMER INSIGHTS",
         "curr_course_fulfills": ""
@@ -459,7 +468,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kleiman-Weiner,Max",
         "curr_course_code": "MKTG 460",
         "curr_course_name": "CONSUMER INSIGHTS",
         "curr_course_fulfills": ""
@@ -488,7 +498,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ye,Zikun",
         "curr_course_code": "MKTG 464",
         "curr_course_name": "ANALYTIC MKTG DEC",
         "curr_course_fulfills": ""
@@ -517,7 +528,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shafei,Shoresh",
         "curr_course_code": "MKTG 466",
         "curr_course_name": "DIGITAL MKTG ANLYTCS",
         "curr_course_fulfills": ""
@@ -546,7 +558,7 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Kautzky,Jennifer",
         "curr_course_code": "MKTG 496",
         "curr_course_name": "MKTG PRACTICUM",
         "curr_course_fulfills": ""
@@ -575,7 +587,7 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Erickson,Barry",
         "curr_course_code": "MKTG 496",
         "curr_course_name": "MKTG PRACTICUM",
         "curr_course_fulfills": ""
@@ -604,7 +616,7 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Erickson,Barry",
         "curr_course_code": "MKTG 496",
         "curr_course_name": "MKTG PRACTICUM",
         "curr_course_fulfills": ""
@@ -627,7 +639,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MKTG 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -656,7 +667,6 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Valsesia,Francesca",
         "curr_course_code": "MKTG 501",
         "curr_course_name": "MKTG MGT",
@@ -686,7 +696,6 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Valsesia,Francesca",
         "curr_course_code": "MKTG 501",
         "curr_course_name": "MKTG MGT",
@@ -716,7 +725,6 @@
         "is_estimate": 1,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Valsesia,Francesca",
         "curr_course_code": "MKTG 501",
         "curr_course_name": "MKTG MGT",
@@ -746,7 +754,6 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Valsesia,Francesca",
         "curr_course_code": "MKTG 501",
         "curr_course_name": "MKTG MGT",
@@ -776,7 +783,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Long,Vivienne",
         "curr_course_code": "MKTG 511",
         "curr_course_name": "BUS-TO-BUS MKTG",
@@ -806,7 +812,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Long,Vivienne",
         "curr_course_code": "MKTG 511",
         "curr_course_name": "BUS-TO-BUS MKTG",
@@ -858,10 +863,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Walker,Russell",
         "curr_course_code": "MKTG 535",
-        "curr_course_name": "ANLYTCS CONSULT LAB ",
+        "curr_course_name": "ANLYTCS CONSULT LAB",
         "curr_course_fulfills": ""
     },
     {
@@ -888,10 +892,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Walker,Russell",
         "curr_course_code": "MKTG 535",
-        "curr_course_name": "ANLYTCS CONSULT LAB ",
+        "curr_course_name": "ANLYTCS CONSULT LAB",
         "curr_course_fulfills": ""
     },
     {
@@ -918,7 +921,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Schlosser,Ann",
         "curr_course_code": "MKTG 556",
         "curr_course_name": "ADVTG & PROM MGMT",
@@ -948,7 +950,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Schlosser,Ann",
         "curr_course_code": "MKTG 556",
         "curr_course_name": "ADVTG & PROM MGMT",
@@ -978,7 +979,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Kleiman-Weiner,Max",
         "curr_course_code": "MKTG 560",
         "curr_course_name": "CONSUMER INSIGHTS",
@@ -1008,7 +1008,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Kleiman-Weiner,Max",
         "curr_course_code": "MKTG 560",
         "curr_course_name": "CONSUMER INSIGHTS",
@@ -1038,7 +1037,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ye,Zikun",
         "curr_course_code": "MKTG 564",
         "curr_course_name": "ANALYTICS MKTG DEC",
@@ -1068,7 +1066,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ye,Zikun",
         "curr_course_code": "MKTG 564",
         "curr_course_name": "ANALYTICS MKTG DEC",
@@ -1098,7 +1095,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sayedi,Amin",
         "curr_course_code": "MKTG 566",
         "curr_course_name": "DIGITAL MKTG ANLYTCS",
@@ -1128,7 +1124,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sayedi,Amin",
         "curr_course_code": "MKTG 566",
         "curr_course_name": "DIGITAL MKTG ANLYTCS",
@@ -1179,10 +1174,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Long,Vivienne",
         "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG ",
+        "curr_course_name": "SPEC TOPICS IN MKTG",
         "curr_course_fulfills": ""
     },
     {
@@ -1209,10 +1203,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Long,Vivienne",
         "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG ",
+        "curr_course_name": "SPEC TOPICS IN MKTG",
         "curr_course_fulfills": ""
     },
     {
@@ -1237,9 +1230,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG ",
+        "curr_course_name": "SPEC TOPICS IN MKTG",
         "curr_course_fulfills": ""
     },
     {
@@ -1264,9 +1257,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG ",
+        "curr_course_name": "SPEC TOPICS IN MKTG",
         "curr_course_fulfills": ""
     },
     {
@@ -1293,10 +1286,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Wright,Kelly Breslin",
         "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG ",
+        "curr_course_name": "SPEC TOPICS IN MKTG",
         "curr_course_fulfills": ""
     },
     {
@@ -1323,10 +1315,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Wright,Kelly Breslin",
         "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG ",
+        "curr_course_name": "SPEC TOPICS IN MKTG",
         "curr_course_fulfills": ""
     },
     {
@@ -1353,10 +1344,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Yoganarasimhan,Hema",
         "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG ",
+        "curr_course_name": "SPEC TOPICS IN MKTG",
         "curr_course_fulfills": ""
     },
     {
@@ -1383,10 +1373,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Yoganarasimhan,Hema",
         "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG ",
+        "curr_course_name": "SPEC TOPICS IN MKTG",
         "curr_course_fulfills": ""
     },
     {
@@ -1404,9 +1393,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mizik,Natalie",
         "curr_course_code": "MKTG 584",
-        "curr_course_name": "MKTG PRFORM MEASURE ",
+        "curr_course_name": "MKTG PRFORM MEASURE",
         "curr_course_fulfills": ""
     },
     {
@@ -1427,9 +1417,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MKTG 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1450,9 +1439,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MKTG 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     }
 ]

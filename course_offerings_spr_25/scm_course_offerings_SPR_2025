@@ -39,7 +39,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCM 504",
         "curr_course_name": "BUILD EFFCTV TEAMS",
         "curr_course_fulfills": ""
@@ -61,7 +61,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCM 521",
         "curr_course_name": "MANG SC PROJECTS",
         "curr_course_fulfills": ""
@@ -83,7 +83,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCM 533",
         "curr_course_name": "SP TOPICS IN SCM",
         "curr_course_fulfills": ""
@@ -112,7 +112,6 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SCM 599",
         "curr_course_name": "SC LEAD & PRACTICE",
         "curr_course_fulfills": ""

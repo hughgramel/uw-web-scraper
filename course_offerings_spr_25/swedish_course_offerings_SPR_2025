@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brekkan,Caroline",
         "curr_course_code": "SWED 103",
         "curr_course_name": "FIRST YEAR SWEDISH 3",
         "curr_course_fulfills": [
@@ -50,9 +51,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Filipsson,Karin",
         "curr_course_code": "SWED 203",
-        "curr_course_name": "SECOND-YEAR SWEDISH ",
+        "curr_course_name": "SECOND-YEAR SWEDISH",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -74,7 +76,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SWED 490",
         "curr_course_name": "SUPERVISED READING",
         "curr_course_fulfills": ""

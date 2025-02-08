@@ -21,9 +21,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Turley,Zachary",
         "curr_course_code": "A S 103",
-        "curr_course_name": "FOUNDATION USAF III ",
+        "curr_course_name": "FOUNDATION USAF III",
         "curr_course_fulfills": ""
     },
     {
@@ -48,9 +49,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Turley,Zachary",
         "curr_course_code": "A S 103",
-        "curr_course_name": "FOUNDATION USAF III ",
+        "curr_course_name": "FOUNDATION USAF III",
         "curr_course_fulfills": ""
     },
     {
@@ -75,9 +77,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A S 213",
-        "curr_course_name": "AIR & SPACE PWR III ",
+        "curr_course_name": "AIR & SPACE PWR III",
         "curr_course_fulfills": ""
     },
     {
@@ -95,9 +97,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A S 213",
-        "curr_course_name": "AIR & SPACE PWR III ",
+        "curr_course_name": "AIR & SPACE PWR III",
         "curr_course_fulfills": ""
     },
     {
@@ -122,9 +124,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A S 213",
-        "curr_course_name": "AIR & SPACE PWR III ",
+        "curr_course_name": "AIR & SPACE PWR III",
         "curr_course_fulfills": ""
     },
     {
@@ -142,9 +144,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A S 213",
-        "curr_course_name": "AIR & SPACE PWR III ",
+        "curr_course_name": "AIR & SPACE PWR III",
         "curr_course_fulfills": ""
     },
     {
@@ -200,7 +202,7 @@
         "open_or_closed": "Open",
         "professor_name": "McLane,Danny",
         "curr_course_code": "A S 333",
-        "curr_course_name": "AEROSPACE STDYS 300 ",
+        "curr_course_name": "AEROSPACE STDYS 300",
         "curr_course_fulfills": ""
     },
     {
@@ -228,7 +230,7 @@
         "open_or_closed": "Open",
         "professor_name": "Babbitt,Sarah",
         "curr_course_code": "A S 433",
-        "curr_course_name": "AEROSPACE STDYS 400 ",
+        "curr_course_name": "AEROSPACE STDYS 400",
         "curr_course_fulfills": [
             "SSc"
         ]

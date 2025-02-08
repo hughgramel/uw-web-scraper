@@ -17,7 +17,7 @@
         "open_or_closed": "Open",
         "professor_name": "Nuwer,Mikelle",
         "curr_course_code": "OCEAN 102",
-        "curr_course_name": "THE CHANGING OCEANS ",
+        "curr_course_name": "THE CHANGING OCEANS",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -44,7 +44,8 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nuwer,Mikelle",
         "curr_course_code": "OCEAN 200",
         "curr_course_name": "INTRO OCEANOGRAPHY",
         "curr_course_fulfills": [
@@ -73,7 +74,8 @@
         "is_estimate": 0,
         "max_capacity": "34",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nuwer,Mikelle",
         "curr_course_code": "OCEAN 200",
         "curr_course_name": "INTRO OCEANOGRAPHY",
         "curr_course_fulfills": [
@@ -102,7 +104,8 @@
         "is_estimate": 0,
         "max_capacity": "33",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nuwer,Mikelle",
         "curr_course_code": "OCEAN 200",
         "curr_course_name": "INTRO OCEANOGRAPHY",
         "curr_course_fulfills": [
@@ -131,7 +134,8 @@
         "is_estimate": 0,
         "max_capacity": "33",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nuwer,Mikelle",
         "curr_course_code": "OCEAN 200",
         "curr_course_name": "INTRO OCEANOGRAPHY",
         "curr_course_fulfills": [
@@ -222,7 +226,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Pavia,Frank",
         "curr_course_code": "OCEAN 210",
         "curr_course_name": "INTEGRATIVE OCEANS",
@@ -252,7 +256,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Pavia,Frank",
         "curr_course_code": "OCEAN 210",
         "curr_course_name": "INTEGRATIVE OCEANS",
@@ -282,7 +286,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Pavia,Frank",
         "curr_course_code": "OCEAN 210",
         "curr_course_name": "INTEGRATIVE OCEANS",
@@ -347,7 +351,7 @@
         "open_or_closed": "Open",
         "professor_name": "Seroy,Sasha",
         "curr_course_code": "OCEAN 261",
-        "curr_course_name": "OCN TECH: DES BLD I ",
+        "curr_course_name": "OCN TECH: DES BLD I",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -406,7 +410,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Ingalls,Anitra",
         "curr_course_code": "OCEAN 295",
         "curr_course_name": "MARINE ORG CHEM",
@@ -436,7 +440,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Ingalls,Anitra",
         "curr_course_code": "OCEAN 295",
         "curr_course_name": "MARINE ORG CHEM",
@@ -468,7 +472,8 @@
         "is_estimate": 0,
         "max_capacity": "145",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rocap,Gabrielle",
         "curr_course_code": "OCEAN 330",
         "curr_course_name": "MARINE BIOGEOCHEM",
         "curr_course_fulfills": [
@@ -497,7 +502,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rocap,Gabrielle",
         "curr_course_code": "OCEAN 330",
         "curr_course_name": "MARINE BIOGEOCHEM",
         "curr_course_fulfills": [
@@ -526,7 +532,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rocap,Gabrielle",
         "curr_course_code": "OCEAN 330",
         "curr_course_name": "MARINE BIOGEOCHEM",
         "curr_course_fulfills": [
@@ -555,7 +562,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rocap,Gabrielle",
         "curr_course_code": "OCEAN 330",
         "curr_course_name": "MARINE BIOGEOCHEM",
         "curr_course_fulfills": [
@@ -584,7 +592,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rocap,Gabrielle",
         "curr_course_code": "OCEAN 330",
         "curr_course_name": "MARINE BIOGEOCHEM",
         "curr_course_fulfills": [
@@ -615,7 +624,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rocap,Gabrielle",
         "curr_course_code": "OCEAN 330",
         "curr_course_name": "MARINE BIOGEOCHEM",
         "curr_course_fulfills": [
@@ -704,7 +714,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OCEAN 370",
         "curr_course_name": "MARINE EVOLN BIOL",
         "curr_course_fulfills": [
@@ -733,7 +743,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OCEAN 370",
         "curr_course_name": "MARINE EVOLN BIOL",
         "curr_course_fulfills": [
@@ -764,7 +774,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OCEAN 370",
         "curr_course_name": "MARINE EVOLN BIOL",
         "curr_course_fulfills": [
@@ -795,7 +805,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OCEAN 370",
         "curr_course_name": "MARINE EVOLN BIOL",
         "curr_course_fulfills": [
@@ -826,7 +836,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OCEAN 370",
         "curr_course_name": "MARINE EVOLN BIOL",
         "curr_course_fulfills": [
@@ -889,7 +899,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Armour,Kyle",
         "curr_course_code": "OCEAN 423",
         "curr_course_name": "OCEAN CIRC & CLIMATE",
         "curr_course_fulfills": [
@@ -921,7 +932,7 @@
         "open_or_closed": "Open",
         "professor_name": "Seroy,Sasha",
         "curr_course_code": "OCEAN 461",
-        "curr_course_name": "OCN TECH: PROJ MGMT ",
+        "curr_course_name": "OCN TECH: PROJ MGMT",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -966,7 +977,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Seroy,Sasha",
         "curr_course_code": "OCEAN 462",
         "curr_course_name": "OCEAN TECH STUDIO",
@@ -999,7 +1009,7 @@
         "open_or_closed": "Open",
         "professor_name": "Riser,Stephen C",
         "curr_course_code": "OCEAN 475",
-        "curr_course_name": "CLMT SCI RSRCH SMNR ",
+        "curr_course_name": "CLMT SCI RSRCH SMNR",
         "curr_course_fulfills": ""
     },
     {
@@ -1019,9 +1029,9 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OCEAN 479",
-        "curr_course_name": "MARINE BIO RESEARCH ",
+        "curr_course_name": "MARINE BIO RESEARCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1042,7 +1052,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 494",
         "curr_course_name": "FIELD EXP: OCEAN",
         "curr_course_fulfills": [
@@ -1067,7 +1076,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 494",
         "curr_course_name": "FIELD EXP: OCEAN",
         "curr_course_fulfills": [
@@ -1092,9 +1100,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 496",
-        "curr_course_name": "STUDY ABROAD: OCEAN ",
+        "curr_course_name": "STUDY ABROAD: OCEAN",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1117,9 +1124,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 496",
-        "curr_course_name": "STUDY ABROAD: OCEAN ",
+        "curr_course_name": "STUDY ABROAD: OCEAN",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1142,9 +1148,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 497",
-        "curr_course_name": "ADV SPEC TOP: OCEAN ",
+        "curr_course_name": "ADV SPEC TOP: OCEAN",
         "curr_course_fulfills": ""
     },
     {
@@ -1164,9 +1169,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OCEAN 497",
-        "curr_course_name": "ADV SPEC TOP: OCEAN ",
+        "curr_course_name": "ADV SPEC TOP: OCEAN",
         "curr_course_fulfills": ""
     },
     {
@@ -1187,7 +1192,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1210,7 +1214,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1290,7 +1293,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Johnson,Leah",
         "curr_course_code": "OCEAN 514",
         "curr_course_name": "WAVES",
         "curr_course_fulfills": ""
@@ -1320,7 +1324,7 @@
         "open_or_closed": "Open",
         "professor_name": "Armour,Kyle",
         "curr_course_code": "OCEAN 519",
-        "curr_course_name": "SMNR PHYSICAL OCEAN ",
+        "curr_course_name": "SMNR PHYSICAL OCEAN",
         "curr_course_fulfills": ""
     },
     {
@@ -1345,7 +1349,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Crusius,John",
         "curr_course_code": "OCEAN 521",
         "curr_course_name": "AQUATIC CHEMISTRY",
@@ -1373,7 +1377,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OCEAN 529",
         "curr_course_name": "SMNR IN CHEM OCEAN",
         "curr_course_fulfills": ""
@@ -1451,7 +1455,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wilcock,William",
         "curr_course_code": "OCEAN 540",
         "curr_course_name": "MAR GEOL & GEOPHYS",
         "curr_course_fulfills": ""
@@ -1511,7 +1516,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wilcock,William",
         "curr_course_code": "OCEAN 549",
-        "curr_course_name": "SMNR GEO/GPHY OCEAN ",
+        "curr_course_name": "SMNR GEO/GPHY OCEAN",
         "curr_course_fulfills": ""
     },
     {
@@ -1529,9 +1534,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wilcock,William",
         "curr_course_code": "OCEAN 549",
-        "curr_course_name": "SMNR GEO/GPHY OCEAN ",
+        "curr_course_name": "SMNR GEO/GPHY OCEAN",
         "curr_course_fulfills": ""
     },
     {
@@ -1549,10 +1555,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Ogston,Andrea",
         "curr_course_code": "OCEAN 549",
-        "curr_course_name": "SMNR GEO/GPHY OCEAN ",
+        "curr_course_name": "SMNR GEO/GPHY OCEAN",
         "curr_course_fulfills": ""
     },
     {
@@ -1577,10 +1583,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Deming,Jody",
         "curr_course_code": "OCEAN 570",
-        "curr_course_name": "MAR MICRO INTERACTN ",
+        "curr_course_name": "MAR MICRO INTERACTN",
         "curr_course_fulfills": ""
     },
     {
@@ -1651,9 +1657,8 @@
         "is_estimate": 1,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1674,7 +1679,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1697,9 +1701,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OCEAN 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

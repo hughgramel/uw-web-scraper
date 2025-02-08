@@ -23,9 +23,10 @@
         "is_estimate": 0,
         "max_capacity": "130",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bales,Bebe",
         "curr_course_code": "MGMT 200",
-        "curr_course_name": "INTRODUCTION TO LAW ",
+        "curr_course_name": "INTRODUCTION TO LAW",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -54,9 +55,10 @@
         "is_estimate": 0,
         "max_capacity": "130",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bergstrom,Tod",
         "curr_course_code": "MGMT 200",
-        "curr_course_name": "INTRODUCTION TO LAW ",
+        "curr_course_name": "INTRODUCTION TO LAW",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -85,9 +87,10 @@
         "is_estimate": 0,
         "max_capacity": "130",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bales,Bebe",
         "curr_course_code": "MGMT 200",
-        "curr_course_name": "INTRODUCTION TO LAW ",
+        "curr_course_name": "INTRODUCTION TO LAW",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -116,9 +119,10 @@
         "is_estimate": 0,
         "max_capacity": "49",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Muyia,Helen",
         "curr_course_code": "MGMT 300",
-        "curr_course_name": "LDRSHIP & ORG BEHAV ",
+        "curr_course_name": "LDRSHIP & ORG BEHAV",
         "curr_course_fulfills": ""
     },
     {
@@ -145,10 +149,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Bari,Asiya",
         "curr_course_code": "MGMT 300",
-        "curr_course_name": "LDRSHIP & ORG BEHAV ",
+        "curr_course_name": "LDRSHIP & ORG BEHAV",
         "curr_course_fulfills": ""
     },
     {
@@ -175,10 +179,10 @@
         "is_estimate": 0,
         "max_capacity": "49",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Li,Jessica",
         "curr_course_code": "MGMT 300",
-        "curr_course_name": "LDRSHIP & ORG BEHAV ",
+        "curr_course_name": "LDRSHIP & ORG BEHAV",
         "curr_course_fulfills": ""
     },
     {
@@ -205,9 +209,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Muyia,Helen",
         "curr_course_code": "MGMT 300",
-        "curr_course_name": "LDRSHIP & ORG BEHAV ",
+        "curr_course_name": "LDRSHIP & ORG BEHAV",
         "curr_course_fulfills": ""
     },
     {
@@ -237,7 +242,7 @@
         "open_or_closed": "Open",
         "professor_name": "Banerjee,Anusuya",
         "curr_course_code": "MGMT 305",
-        "curr_course_name": "MGMT & ENTRE ESSNTL ",
+        "curr_course_name": "MGMT & ENTRE ESSNTL",
         "curr_course_fulfills": ""
     },
     {
@@ -264,7 +269,7 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Huwe,Ruth",
         "curr_course_code": "MGMT 320",
         "curr_course_name": "BUS GOVT & SOC",
@@ -294,7 +299,7 @@
         "is_estimate": 0,
         "max_capacity": "79",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Huwe,Ruth",
         "curr_course_code": "MGMT 320",
         "curr_course_name": "BUS GOVT & SOC",
@@ -324,7 +329,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bergstrom,Tod",
         "curr_course_code": "MGMT 320",
         "curr_course_name": "BUS GOVT & SOC",
         "curr_course_fulfills": ""
@@ -353,7 +359,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Huwe,Ruth",
         "curr_course_code": "MGMT 403",
         "curr_course_name": "HIGH PERF TEAMS&ORGS",
@@ -383,7 +389,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Li,Jessica",
         "curr_course_code": "MGMT 411",
         "curr_course_name": "RECR,HIR &RETAIN TAL",
@@ -413,7 +419,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "McPherson,Rick",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -442,7 +449,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -471,7 +478,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -500,7 +507,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Heshmati,Mana",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -529,7 +537,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -558,7 +566,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -587,7 +595,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Allen,Ryan",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -616,7 +625,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -645,7 +654,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -674,7 +683,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "McPherson,Rick",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -703,7 +713,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -732,7 +742,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -761,7 +771,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Heshmati,Mana",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -790,7 +801,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -819,7 +830,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -848,7 +859,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Allen,Ryan",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -877,7 +889,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -906,7 +918,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Heshmati,Mana",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -935,7 +948,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MGMT 430",
         "curr_course_name": "STRATEGIC MGMT",
         "curr_course_fulfills": ""
@@ -964,9 +977,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Agrella,Renato",
         "curr_course_code": "MGMT 440",
-        "curr_course_name": "DVRS BUS CONSULTING ",
+        "curr_course_name": "DVRS BUS CONSULTING",
         "curr_course_fulfills": [
             "DIV"
         ]
@@ -993,10 +1007,10 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Funkhouser",
         "curr_course_code": "MGMT 450",
-        "curr_course_name": "WOMEN IN LEADERSHIP ",
+        "curr_course_name": "WOMEN IN LEADERSHIP",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -1019,7 +1033,6 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Reynolds,Scott J.",
         "curr_course_code": "MGMT 504",
         "curr_course_name": "ETHICAL LEADERSHIP",
@@ -1049,7 +1062,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Steensma,H Kevin",
         "curr_course_code": "MGMT 509",
         "curr_course_name": "GLOBAL STRATEGY",
@@ -1079,7 +1091,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Steensma,H Kevin",
         "curr_course_code": "MGMT 509",
         "curr_course_name": "GLOBAL STRATEGY",
@@ -1109,7 +1120,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Steensma,H Kevin",
         "curr_course_code": "MGMT 509",
         "curr_course_name": "GLOBAL STRATEGY",
@@ -1139,7 +1149,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Steensma,H Kevin",
         "curr_course_code": "MGMT 509",
         "curr_course_name": "GLOBAL STRATEGY",
@@ -1169,7 +1178,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hafenbrack,Andrew",
         "curr_course_code": "MGMT 547",
         "curr_course_name": "SUCCESS NEGOTIATIONS",
@@ -1199,7 +1207,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hafenbrack,Andrew",
         "curr_course_code": "MGMT 547",
         "curr_course_name": "SUCCESS NEGOTIATIONS",
@@ -1222,7 +1229,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Brown,Michael C",
         "curr_course_code": "MGMT 555",
         "curr_course_name": "BOARD FELLOWS",
@@ -1245,7 +1251,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Brown,Michael C",
         "curr_course_code": "MGMT 555",
         "curr_course_name": "BOARD FELLOWS",
@@ -1275,10 +1280,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Goethals,Cate",
         "curr_course_code": "MGMT 575",
-        "curr_course_name": "WOMEN IN LEADERSHIP ",
+        "curr_course_name": "WOMEN IN LEADERSHIP",
         "curr_course_fulfills": ""
     },
     {
@@ -1305,10 +1309,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Goethals,Cate",
         "curr_course_code": "MGMT 575",
-        "curr_course_name": "WOMEN IN LEADERSHIP ",
+        "curr_course_name": "WOMEN IN LEADERSHIP",
         "curr_course_fulfills": ""
     },
     {
@@ -1335,10 +1338,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Boeker,Warren",
         "curr_course_code": "MGMT 579",
-        "curr_course_name": "SPECIAL TOPICS MGMT ",
+        "curr_course_name": "SPECIAL TOPICS MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -1365,10 +1367,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Boeker,Warren",
         "curr_course_code": "MGMT 579",
-        "curr_course_name": "SPECIAL TOPICS MGMT ",
+        "curr_course_name": "SPECIAL TOPICS MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -1395,10 +1396,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Chen,Xiao-Ping",
         "curr_course_code": "MGMT 579",
-        "curr_course_name": "SPECIAL TOPICS MGMT ",
+        "curr_course_name": "SPECIAL TOPICS MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -1425,10 +1425,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Chen,Xiao-Ping",
         "curr_course_code": "MGMT 579",
-        "curr_course_name": "SPECIAL TOPICS MGMT ",
+        "curr_course_name": "SPECIAL TOPICS MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -1455,10 +1454,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hafenbrack,Andrew",
         "curr_course_code": "MGMT 579",
-        "curr_course_name": "SPECIAL TOPICS MGMT ",
+        "curr_course_name": "SPECIAL TOPICS MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -1485,10 +1483,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hafenbrack,Andrew",
         "curr_course_code": "MGMT 579",
-        "curr_course_name": "SPECIAL TOPICS MGMT ",
+        "curr_course_name": "SPECIAL TOPICS MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -1515,10 +1512,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bamburg,Jill",
         "curr_course_code": "MGMT 579",
-        "curr_course_name": "SPECIAL TOPICS MGMT ",
+        "curr_course_name": "SPECIAL TOPICS MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -1545,10 +1541,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bamburg,Jill",
         "curr_course_code": "MGMT 579",
-        "curr_course_name": "SPECIAL TOPICS MGMT ",
+        "curr_course_name": "SPECIAL TOPICS MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -1573,7 +1568,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hafenbrack,Andrew",
         "curr_course_code": "MGMT 580",
         "curr_course_name": "PSYCH FOUND OF OB",
         "curr_course_fulfills": ""
@@ -1622,7 +1618,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Boeker,Warren",
         "curr_course_code": "MGMT 591",
         "curr_course_name": "SOC FOUND ST MGMT",
         "curr_course_fulfills": ""
@@ -1675,9 +1672,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MGMT 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1698,9 +1694,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MGMT 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     }
 ]

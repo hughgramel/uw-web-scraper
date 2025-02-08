@@ -24,7 +24,7 @@
         "open_or_closed": "Open",
         "professor_name": "Woiak,Joanne",
         "curr_course_code": "DIS ST 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -56,9 +56,9 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DIS ST 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -90,9 +90,9 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DIS ST 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -124,9 +124,9 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DIS ST 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -158,9 +158,9 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DIS ST 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -188,7 +188,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DIS ST 337",
         "curr_course_name": "SOC OF MENTAL HEALTH",
         "curr_course_fulfills": [
@@ -217,7 +217,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DIS ST 337",
         "curr_course_name": "SOC OF MENTAL HEALTH",
         "curr_course_fulfills": [
@@ -246,7 +246,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DIS ST 337",
         "curr_course_name": "SOC OF MENTAL HEALTH",
         "curr_course_fulfills": [
@@ -277,10 +277,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Woiak,Joanne",
         "curr_course_code": "DIS ST 421",
-        "curr_course_name": "HISTORY OF EUGENICS ",
+        "curr_course_name": "HISTORY OF EUGENICS",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -307,7 +306,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DIS ST 434",
         "curr_course_name": "CIV/HUMN RGTS LAW",
         "curr_course_fulfills": [
@@ -333,7 +332,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DIS ST 499",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -355,7 +353,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DIS ST 499",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -384,7 +382,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Evans,Heather D.",
         "curr_course_code": "DIS ST 503",
         "curr_course_name": "SEM WRITING DISAB ST",
@@ -414,7 +411,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DIS ST 535",
         "curr_course_name": "GRAD SEM DISABILTY",
         "curr_course_fulfills": ""
@@ -437,9 +433,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DIS ST 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -460,9 +455,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DIS ST 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     }
 ]

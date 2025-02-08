@@ -17,7 +17,6 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OB GYN 498",
         "curr_course_name": "UNDERGRAD THESIS",
         "curr_course_fulfills": ""
@@ -40,7 +39,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OB GYN 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -62,9 +60,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 505P",
-        "curr_course_name": "P-OB GYN PRECEPTSHP ",
+        "curr_course_name": "P-OB GYN PRECEPTSHP",
         "curr_course_fulfills": ""
     },
     {
@@ -84,7 +82,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Fukeda,Sonya",
         "curr_course_code": "OB GYN 550P",
         "curr_course_name": "P-PREG TERM ISSUES",
@@ -107,7 +104,6 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sidhu,Jessica Kaur",
         "curr_course_code": "OB GYN 551",
         "curr_course_name": "PERINATAL CARE ELECT",
@@ -131,7 +127,6 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "OB GYN 579P",
         "curr_course_name": "P-OB&GYN INVESTIGA",
         "curr_course_fulfills": ""
@@ -153,9 +148,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 598",
-        "curr_course_name": "OB GYN IND STDY REM ",
+        "curr_course_name": "OB GYN IND STDY REM",
         "curr_course_fulfills": ""
     },
     {
@@ -173,7 +168,7 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 610P",
         "curr_course_name": "P-OB GY CLERK TFALLS",
         "curr_course_fulfills": ""
@@ -235,7 +230,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "OB GYN 621",
         "curr_course_name": "OB GYN REXBURG",
         "curr_course_fulfills": ""
@@ -255,7 +250,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "OB GYN 622",
         "curr_course_name": "OB GYN WHITEFISH",
         "curr_course_fulfills": ""
@@ -275,7 +270,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "OB GYN 623",
         "curr_course_name": "OB GYN BLACKFOOT",
         "curr_course_fulfills": ""
@@ -295,7 +290,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 624P",
         "curr_course_name": "P-OB GY INTRO ANMC",
         "curr_course_fulfills": ""
@@ -315,7 +310,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 625P",
         "curr_course_name": "P-INTRO OB GYN RURAL",
         "curr_course_fulfills": ""
@@ -335,7 +330,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 626",
         "curr_course_name": "MATERNAL FETAL MED",
         "curr_course_fulfills": ""
@@ -355,7 +350,7 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 627",
         "curr_course_name": "OB GYN- REI",
         "curr_course_fulfills": ""
@@ -375,7 +370,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 628P",
         "curr_course_name": "P- OB GY ELECT CEDAR",
         "curr_course_fulfills": ""
@@ -395,9 +390,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 629P",
-        "curr_course_name": "P-OB GY CLK WASILLA ",
+        "curr_course_name": "P-OB GY CLK WASILLA",
         "curr_course_fulfills": ""
     },
     {
@@ -415,9 +410,9 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 630P",
-        "curr_course_name": "P-WRITE OBG CLN CLK ",
+        "curr_course_name": "P-WRITE OBG CLN CLK",
         "curr_course_fulfills": ""
     },
     {
@@ -437,7 +432,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 632P",
         "curr_course_name": "P-OBGY-BELLINGHAM",
         "curr_course_fulfills": ""
@@ -459,7 +455,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 633P",
         "curr_course_name": "P-OB GYN SPO RKWD",
         "curr_course_fulfills": ""
@@ -479,7 +476,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 634P",
         "curr_course_name": "P-OB GYN OLY LIC",
         "curr_course_fulfills": ""
@@ -499,7 +496,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 635P",
         "curr_course_name": "P-OB GY GRT FLS",
         "curr_course_fulfills": ""
@@ -519,7 +516,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 636P",
         "curr_course_name": "P-OB GY CLK BUTTE MT",
         "curr_course_fulfills": ""
@@ -539,9 +536,9 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "OB GYN 638P",
-        "curr_course_name": "P-GYN PLND PRTHD WA ",
+        "curr_course_name": "P-GYN PLND PRTHD WA",
         "curr_course_fulfills": ""
     },
     {
@@ -559,7 +556,7 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 639P",
         "curr_course_name": "P-OB GYN ST ALPHON",
         "curr_course_fulfills": ""
@@ -579,7 +576,7 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 641P",
         "curr_course_name": "P-OB GY CLK NAMPA ID",
         "curr_course_fulfills": ""
@@ -601,7 +598,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 643P",
         "curr_course_name": "P-OB GYN POWELL",
         "curr_course_fulfills": ""
@@ -623,7 +621,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 644P",
         "curr_course_name": "P-OB GY GILLETTE",
         "curr_course_fulfills": ""
@@ -645,7 +644,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 645P",
         "curr_course_name": "P-OB GY SHERIDAN",
         "curr_course_fulfills": ""
@@ -667,9 +667,10 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 646",
-        "curr_course_name": "OB GYN ROCK SP MHSC ",
+        "curr_course_name": "OB GYN ROCK SP MHSC",
         "curr_course_fulfills": ""
     },
     {
@@ -689,7 +690,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 647P",
         "curr_course_name": "P-OB GYN NAMPA",
         "curr_course_fulfills": ""
@@ -709,7 +711,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 649P",
         "curr_course_name": "P-OB GY CLK FAIR TVC",
         "curr_course_fulfills": ""
@@ -731,7 +733,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 650P",
         "curr_course_name": "P-OB GY KALISPELL",
         "curr_course_fulfills": ""
@@ -753,7 +756,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 651P",
         "curr_course_name": "P-OB GY HELENA",
         "curr_course_fulfills": ""
@@ -775,7 +779,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 652P",
         "curr_course_name": "P-OB GY BOZ DWS",
         "curr_course_fulfills": ""
@@ -795,7 +800,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "OB GYN 653",
         "curr_course_name": "OB GYN ELLENSBURG",
         "curr_course_fulfills": ""
@@ -817,7 +822,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 664P",
         "curr_course_name": "P-OBGY - GH TACOMA",
         "curr_course_fulfills": ""
@@ -839,7 +845,8 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 677P",
         "curr_course_name": "P-OB GY ROCK SPRINGS",
         "curr_course_fulfills": ""
@@ -861,9 +868,10 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 683P",
-        "curr_course_name": "P-GYN/ONC SUB-I BOI ",
+        "curr_course_name": "P-GYN/ONC SUB-I BOI",
         "curr_course_fulfills": ""
     },
     {
@@ -883,7 +891,8 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 692P",
         "curr_course_name": "P-OBGY CLK BOZEMAN",
         "curr_course_fulfills": ""
@@ -905,9 +914,10 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 693P",
-        "curr_course_name": "P-OBGY VALLEYMEDCTR ",
+        "curr_course_name": "P-OBGY VALLEYMEDCTR",
         "curr_course_fulfills": ""
     },
     {
@@ -927,9 +937,10 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 695P",
-        "curr_course_name": "P-OBGY - TRI CITIES ",
+        "curr_course_name": "P-OBGY - TRI CITIES",
         "curr_course_fulfills": ""
     },
     {
@@ -949,7 +960,8 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mendiratta,Vicki",
         "curr_course_code": "OB GYN 699P",
         "curr_course_name": "P-WWAMI OB GYN ELECT",
         "curr_course_fulfills": ""

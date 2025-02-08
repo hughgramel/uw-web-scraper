@@ -17,7 +17,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "INDIV 493",
         "curr_course_name": "SENIOR STUDY",
         "curr_course_fulfills": ""

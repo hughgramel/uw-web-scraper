@@ -23,9 +23,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "JSIS A 213",
-        "curr_course_name": "KOREA/WRLD POLITICS ",
+        "curr_course_name": "KOREA/WRLD POLITICS",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -54,7 +53,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Giebel,Christoph",
         "curr_course_code": "JSIS A 221",
         "curr_course_name": "HISTORY OF SE ASIA",
@@ -88,7 +86,7 @@
         "open_or_closed": "Open",
         "professor_name": "Mawkanuli,Talant",
         "curr_course_code": "JSIS A 268",
-        "curr_course_name": "SILK ROAD & GLBLZTN ",
+        "curr_course_name": "SILK ROAD & GLBLZTN",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -119,7 +117,7 @@
         "open_or_closed": "Open",
         "professor_name": "McCarthy,Justin A",
         "curr_course_code": "JSIS A 270",
-        "curr_course_name": "NAT PEOPLE NW COAST ",
+        "curr_course_name": "NAT PEOPLE NW COAST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -150,7 +148,7 @@
         "open_or_closed": "Closed",
         "professor_name": "Weatherford,AM",
         "curr_course_code": "JSIS A 280",
-        "curr_course_name": "GLBL INDIGENOUS POL ",
+        "curr_course_name": "GLBL INDIGENOUS POL",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -526,9 +524,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Giebel,Christoph",
         "curr_course_code": "JSIS A 463",
-        "curr_course_name": "TOPICS-SE ASIAN HST ",
+        "curr_course_name": "TOPICS-SE ASIAN HST",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -555,7 +554,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mallory,Tabitha",
         "curr_course_code": "JSIS A 467",
         "curr_course_name": "CHINA'S RISE",
@@ -620,7 +619,7 @@
         "open_or_closed": "Open",
         "professor_name": "Montgomery,Scott L.",
         "curr_course_code": "JSIS A 476",
-        "curr_course_name": "ENERGY IN EAST ASIA ",
+        "curr_course_name": "ENERGY IN EAST ASIA",
         "curr_course_fulfills": ""
     },
     {
@@ -708,7 +707,7 @@
         "open_or_closed": "Open",
         "professor_name": "Klapaki,Nektaria",
         "curr_course_code": "JSIS A 494",
-        "curr_course_name": "EURO SENIOR SEMINAR ",
+        "curr_course_name": "EURO SENIOR SEMINAR",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -826,7 +825,7 @@
         "open_or_closed": "Open",
         "professor_name": "Christie,Patrick John",
         "curr_course_code": "JSIS A 582",
-        "curr_course_name": "SEM IN SE ASIAN HST ",
+        "curr_course_name": "SEM IN SE ASIAN HST",
         "curr_course_fulfills": ""
     },
     {

@@ -14,7 +14,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Panagiotides,Heracles",
         "curr_course_code": "JSIS E 111",
         "curr_course_name": "ELEM MODERN GREEK",
@@ -35,7 +35,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Panagiotides,Heracles",
         "curr_course_code": "JSIS E 112",
         "curr_course_name": "ELEM MODERN GREEK",
@@ -56,7 +56,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Panagiotides,Heracles",
         "curr_course_code": "JSIS E 113",
         "curr_course_name": "ELEM MODERN GREEK",
@@ -80,7 +80,7 @@
         "open_or_closed": "Open",
         "professor_name": "Panagiotides,Heracles S.",
         "curr_course_code": "JSIS E 211",
-        "curr_course_name": "SECOND YR MOD GREEK ",
+        "curr_course_name": "SECOND YR MOD GREEK",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -103,7 +103,7 @@
         "open_or_closed": "Open",
         "professor_name": "Panagiotides,Heracles S.",
         "curr_course_code": "JSIS E 212",
-        "curr_course_name": "SECOND YR MOD GREEK ",
+        "curr_course_name": "SECOND YR MOD GREEK",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -126,7 +126,7 @@
         "open_or_closed": "Open",
         "professor_name": "Panagiotides,Heracles S.",
         "curr_course_code": "JSIS E 213",
-        "curr_course_name": "SECOND YR MOD GREEK ",
+        "curr_course_name": "SECOND YR MOD GREEK",
         "curr_course_fulfills": [
             "A&H"
         ]

@@ -37,7 +37,7 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 101",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -151,7 +151,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 101",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -249,10 +249,10 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Polyak,Stephen",
         "curr_course_code": "G H 210",
-        "curr_course_name": "GLOBAL DISEASE BIOL ",
+        "curr_course_name": "GLOBAL DISEASE BIOL",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -279,7 +279,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 306",
         "curr_course_name": "RESPECTFL PARTNRSHPS",
         "curr_course_fulfills": [
@@ -312,9 +312,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Daniel-Ulloa,Jason",
         "curr_course_code": "G H 307",
-        "curr_course_name": "INTRO IMPLEMENT SCI ",
+        "curr_course_name": "INTRO IMPLEMENT SCI",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -429,7 +430,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 399",
         "curr_course_name": "GH STUDY ABROAD",
         "curr_course_fulfills": [
@@ -546,7 +547,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -568,7 +569,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -686,7 +687,7 @@
         "open_or_closed": "Open",
         "professor_name": "Lane,Jeff",
         "curr_course_code": "G H 523",
-        "curr_course_name": "POL DVLPMT & ADVOCY ",
+        "curr_course_name": "POL DVLPMT & ADVOCY",
         "curr_course_fulfills": ""
     },
     {
@@ -717,10 +718,9 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ghee,Annette E",
         "curr_course_code": "G H 531",
-        "curr_course_name": "M&E GLOBL HLTH PROG ",
+        "curr_course_name": "M&E GLOBL HLTH PROG",
         "curr_course_fulfills": ""
     },
     {
@@ -745,7 +745,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 533",
         "curr_course_name": "SURVEY RSRCH METHODS",
         "curr_course_fulfills": ""
@@ -806,7 +806,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Pfeiffer,James",
         "curr_course_code": "G H 538",
         "curr_course_name": "ADV QUAL HLTH METHDS",
         "curr_course_fulfills": ""
@@ -895,7 +895,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Sharma,Monisha",
         "curr_course_code": "G H 542",
         "curr_course_name": "INTRO ECON EVAL GH",
         "curr_course_fulfills": ""
@@ -1014,7 +1015,7 @@
         "open_or_closed": "Open",
         "professor_name": "Farquhar,Carey",
         "curr_course_code": "G H 562",
-        "curr_course_name": "AIDS MULTIDISC APPR ",
+        "curr_course_name": "AIDS MULTIDISC APPR",
         "curr_course_fulfills": ""
     },
     {
@@ -1067,7 +1068,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mugambi,Melissa",
         "curr_course_code": "G H 587",
         "curr_course_name": "LEAD PRA DOC SEM III",
@@ -1116,7 +1117,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Gloyd,Steve",
         "curr_course_code": "G H 590",
         "curr_course_name": "SELECTED TOPICS",
         "curr_course_fulfills": ""
@@ -1168,7 +1170,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 595",
         "curr_course_name": "MASTER'S PRACTICUM",
         "curr_course_fulfills": ""
@@ -1190,7 +1192,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 600",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -1212,7 +1214,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 600",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -1234,7 +1236,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 610",
         "curr_course_name": "LEAD & PRACT EXPER",
         "curr_course_fulfills": ""
@@ -1256,7 +1258,7 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 700",
         "curr_course_name": "MASTER'S THESIS",
         "curr_course_fulfills": ""
@@ -1278,7 +1280,7 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 701",
         "curr_course_name": "MASTER'S CAPSTONE",
         "curr_course_fulfills": ""
@@ -1300,9 +1302,9 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     },
     {
@@ -1322,7 +1324,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "G H 801",
         "curr_course_name": "DOCTORATE PROJECT",
         "curr_course_fulfills": ""

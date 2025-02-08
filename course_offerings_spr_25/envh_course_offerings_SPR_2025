@@ -21,10 +21,10 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mar,Therese",
         "curr_course_code": "ENV H 105",
-        "curr_course_name": "ENVHLTH ACAD SKILLS ",
+        "curr_course_name": "ENVHLTH ACAD SKILLS",
         "curr_course_fulfills": ""
     },
     {
@@ -79,7 +79,8 @@
         "is_estimate": 0,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Austin,Elena",
         "curr_course_code": "ENV H 205",
         "curr_course_name": "ENVIR HLTH MEDIA",
         "curr_course_fulfills": [
@@ -108,10 +109,10 @@
         "is_estimate": 0,
         "max_capacity": "150",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Busch Isaksen,Tania",
         "curr_course_code": "ENV H 311",
-        "curr_course_name": "INTRO TO ENV HEALTH ",
+        "curr_course_name": "INTRO TO ENV HEALTH",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -140,9 +141,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Marsillach,Judit",
         "curr_course_code": "ENV H 405",
-        "curr_course_name": "TOXICS & HUMAN HLTH ",
+        "curr_course_name": "TOXICS & HUMAN HLTH",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -172,7 +174,7 @@
         "open_or_closed": "Open",
         "professor_name": "Fuhrmeister,Erica",
         "curr_course_code": "ENV H 409",
-        "curr_course_name": "MICROBIOME&ENV HLTH ",
+        "curr_course_name": "MICROBIOME&ENV HLTH",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -199,9 +201,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Riederer,Anne",
         "curr_course_code": "ENV H 417",
-        "curr_course_name": "CHILD ENV HLTH DISP ",
+        "curr_course_name": "CHILD ENV HLTH DISP",
         "curr_course_fulfills": [
             "DIV"
         ]
@@ -230,7 +233,6 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Godwin,Hilary",
         "curr_course_code": "ENV H 428",
         "curr_course_name": "LEADERSHIP IN PH III",
@@ -299,7 +301,8 @@
         "is_estimate": 1,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hovis,Emily",
         "curr_course_code": "ENV H 442",
         "curr_course_name": "ZOONOTIC DISEASE",
         "curr_course_fulfills": [
@@ -333,7 +336,7 @@
         "open_or_closed": "Open",
         "professor_name": "Cangelosi,Jerry",
         "curr_course_code": "ENV H 447",
-        "curr_course_name": "ENV CHG INF DISEASE ",
+        "curr_course_name": "ENV CHG INF DISEASE",
         "curr_course_fulfills": ""
     },
     {
@@ -363,7 +366,7 @@
         "open_or_closed": "Open",
         "professor_name": "Meschke,John Scott",
         "curr_course_code": "ENV H 452",
-        "curr_course_name": "CONTRL ENV MICR HAZ ",
+        "curr_course_name": "CONTRL ENV MICR HAZ",
         "curr_course_fulfills": ""
     },
     {
@@ -393,7 +396,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kasner,Eddie",
         "curr_course_code": "ENV H 462",
-        "curr_course_name": "TECH ASP OCC SAFETY ",
+        "curr_course_name": "TECH ASP OCC SAFETY",
         "curr_course_fulfills": ""
     },
     {
@@ -476,7 +479,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Busch Isaksen,Tania",
         "curr_course_code": "ENV H 480",
         "curr_course_name": "UG SEMINAR",
@@ -499,7 +501,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Busch Isaksen,Tania Marie",
         "curr_course_code": "ENV H 482",
         "curr_course_name": "EH INTERNSHIP",
@@ -550,7 +551,6 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Busch Isaksen,Tania Marie",
         "curr_course_code": "ENV H 497",
         "curr_course_name": "ENVH SPEC ELECTVS",
@@ -574,7 +574,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENV H 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -597,7 +596,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENV H 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -626,9 +624,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Casey,Joan",
         "curr_course_code": "ENV H 504",
-        "curr_course_name": "ADV RSRCH PROP PREP ",
+        "curr_course_name": "ADV RSRCH PROP PREP",
         "curr_course_fulfills": ""
     },
     {
@@ -658,7 +657,7 @@
         "open_or_closed": "Open",
         "professor_name": "Fuhrmeister,Erica",
         "curr_course_code": "ENV H 509",
-        "curr_course_name": "MICROBIOME&ENV HLTH ",
+        "curr_course_name": "MICROBIOME&ENV HLTH",
         "curr_course_fulfills": ""
     },
     {
@@ -689,7 +688,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Cole,Toby",
         "curr_course_code": "ENV H 516",
         "curr_course_name": "TOXIC AGENTS",
         "curr_course_fulfills": ""
@@ -718,7 +718,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Godwin,Hilary",
         "curr_course_code": "ENV H 528",
         "curr_course_name": "LEADERSHIP IN PH III",
@@ -779,7 +778,7 @@
         "open_or_closed": "Open",
         "professor_name": "Cangelosi,Jerry",
         "curr_course_code": "ENV H 547",
-        "curr_course_name": "ENV CHG INF DISEASE ",
+        "curr_course_name": "ENV CHG INF DISEASE",
         "curr_course_fulfills": ""
     },
     {
@@ -808,7 +807,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Sack,Coralynn",
         "curr_course_code": "ENV H 550",
         "curr_course_name": "OCC ENV DISEASE",
         "curr_course_fulfills": ""
@@ -839,7 +839,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Sack,Coralynn",
         "curr_course_code": "ENV H 550",
         "curr_course_name": "OCC ENV DISEASE",
         "curr_course_fulfills": ""
@@ -871,7 +872,7 @@
         "open_or_closed": "Open",
         "professor_name": "Meschke,John Scott",
         "curr_course_code": "ENV H 552",
-        "curr_course_name": "CONTRL ENV MICR HAZ ",
+        "curr_course_name": "CONTRL ENV MICR HAZ",
         "curr_course_fulfills": ""
     },
     {
@@ -901,7 +902,7 @@
         "open_or_closed": "Open",
         "professor_name": "Simpson,Christopher",
         "curr_course_code": "ENV H 555",
-        "curr_course_name": "IND HYG METHODS LAB ",
+        "curr_course_name": "IND HYG METHODS LAB",
         "curr_course_fulfills": ""
     },
     {
@@ -931,7 +932,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kasner,Eddie",
         "curr_course_code": "ENV H 562",
-        "curr_course_name": "TECH ASP OCC SAFETY ",
+        "curr_course_name": "TECH ASP OCC SAFETY",
         "curr_course_fulfills": ""
     },
     {
@@ -958,7 +959,8 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Cohen,Marty",
         "curr_course_code": "ENV H 563",
         "curr_course_name": "HLTH & SAF PHYS AGNT",
         "curr_course_fulfills": ""
@@ -988,7 +990,7 @@
         "open_or_closed": "Open",
         "professor_name": "Casey,Joan",
         "curr_course_code": "ENV H 570",
-        "curr_course_name": "ENVIR & OCCUP EPIDM ",
+        "curr_course_name": "ENVIR & OCCUP EPIDM",
         "curr_course_fulfills": ""
     },
     {
@@ -1015,10 +1017,9 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Schwartz,Steve",
         "curr_course_code": "ENV H 573",
-        "curr_course_name": "BIOL MEASUR EPI RES ",
+        "curr_course_name": "BIOL MEASUR EPI RES",
         "curr_course_fulfills": ""
     },
     {
@@ -1161,7 +1162,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rabinowitz,Peter",
         "curr_course_code": "ENV H 586",
         "curr_course_name": "ONE HEALTH",
         "curr_course_fulfills": ""
@@ -1188,7 +1190,7 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ENV H 590",
         "curr_course_name": "SELECTED TOPICS",
         "curr_course_fulfills": ""
@@ -1245,10 +1247,10 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Faustman,Elaine",
         "curr_course_code": "ENV H 593",
-        "curr_course_name": "CURRENT TOPICS-RISK ",
+        "curr_course_name": "CURRENT TOPICS-RISK",
         "curr_course_fulfills": ""
     },
     {
@@ -1269,7 +1271,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENV H 595",
         "curr_course_name": "RESEARCH ROTATION",
         "curr_course_fulfills": ""
@@ -1299,7 +1300,7 @@
         "open_or_closed": "Open",
         "professor_name": "Cherry,Debbie",
         "curr_course_code": "ENV H 596",
-        "curr_course_name": "ISS OCCPTNL/ENV MED ",
+        "curr_course_name": "ISS OCCPTNL/ENV MED",
         "curr_course_fulfills": ""
     },
     {
@@ -1324,9 +1325,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Havens,Deborah",
         "curr_course_code": "ENV H 597",
-        "curr_course_name": "CASES ENVH OCC HLTH ",
+        "curr_course_name": "CASES ENVH OCC HLTH",
         "curr_course_fulfills": ""
     },
     {
@@ -1347,7 +1349,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENV H 598",
         "curr_course_name": "PROJECT/PORTFOLIO",
         "curr_course_fulfills": ""
@@ -1369,7 +1370,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ENV H 598",
         "curr_course_name": "PROJECT/PORTFOLIO",
         "curr_course_fulfills": ""
@@ -1391,7 +1392,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cohen,Marty",
         "curr_course_code": "ENV H 599",
         "curr_course_name": "FIELD STUDIES",
@@ -1414,7 +1414,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENV H 599",
         "curr_course_name": "FIELD STUDIES",
         "curr_course_fulfills": ""
@@ -1437,9 +1436,8 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENV H 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1460,9 +1458,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENV H 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1483,7 +1480,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENV H 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1506,9 +1502,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENV H 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

@@ -16,7 +16,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -45,7 +45,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Farah,Samira",
         "curr_course_code": "FAMED 534",
         "curr_course_name": "PRM CR CL SKL PRC WK",
@@ -127,7 +126,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FAMED 598",
         "curr_course_name": "FAMED IND STDY REM",
         "curr_course_fulfills": ""
@@ -149,7 +147,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 623P",
         "curr_course_name": "P-CLK FAMED ID FALLS",
         "curr_course_fulfills": ""
@@ -171,7 +169,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 624P",
         "curr_course_name": "P-CLRK FAMED ST LUKE",
         "curr_course_fulfills": ""
@@ -193,7 +191,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 625P",
         "curr_course_name": "P-CLCLK FAMED WASILL",
         "curr_course_fulfills": ""
@@ -215,7 +213,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 626P",
         "curr_course_name": "P-CLCLK FAMED MHS RO",
         "curr_course_fulfills": ""
@@ -237,7 +235,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 627P",
         "curr_course_name": "P-CLCLK FAMED MILESC",
         "curr_course_fulfills": ""
@@ -259,7 +257,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 628P",
         "curr_course_name": "P-CLCLK FAMED LEWIST",
         "curr_course_fulfills": ""
@@ -281,7 +279,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 629P",
         "curr_course_name": "P-CLCLK-EPFM",
         "curr_course_fulfills": ""
@@ -303,7 +301,7 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 630P",
         "curr_course_name": "P-WRITE FAMED CLK",
         "curr_course_fulfills": ""
@@ -325,7 +323,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 631P",
         "curr_course_name": "P-LIC FAMED OLY",
         "curr_course_fulfills": ""
@@ -347,9 +345,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 632P",
-        "curr_course_name": "P-CLCLK FAMED BOZEM ",
+        "curr_course_name": "P-CLCLK FAMED BOZEM",
         "curr_course_fulfills": ""
     },
     {
@@ -369,9 +367,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 633P",
-        "curr_course_name": "P-CLCLK FAMED LEAVN ",
+        "curr_course_name": "P-CLCLK FAMED LEAVN",
         "curr_course_fulfills": ""
     },
     {
@@ -391,9 +389,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 634P",
-        "curr_course_name": "P-CLCLK FAMED SITKA ",
+        "curr_course_name": "P-CLCLK FAMED SITKA",
         "curr_course_fulfills": ""
     },
     {
@@ -413,7 +411,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 635P",
         "curr_course_name": "P-CLCLK FAMED CHEYNE",
         "curr_course_fulfills": ""
@@ -435,7 +433,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 662P",
         "curr_course_name": "P-CLCLK FAMED BUF",
         "curr_course_fulfills": ""
@@ -457,7 +455,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 663P",
         "curr_course_name": "P-FAMED PETERSBURG",
         "curr_course_fulfills": ""
@@ -479,9 +477,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 664P",
-        "curr_course_name": "P-CLCLK FAMED BLNGS ",
+        "curr_course_name": "P-CLCLK FAMED BLNGS",
         "curr_course_fulfills": ""
     },
     {
@@ -501,9 +499,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 665P",
-        "curr_course_name": "P-CLCLK FAMED MISOU ",
+        "curr_course_name": "P-CLCLK FAMED MISOU",
         "curr_course_fulfills": ""
     },
     {
@@ -523,9 +521,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 666P",
-        "curr_course_name": "P-CLCLK FAMED TORNG ",
+        "curr_course_name": "P-CLCLK FAMED TORNG",
         "curr_course_fulfills": ""
     },
     {
@@ -545,7 +543,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 667P",
         "curr_course_name": "P-CLCK FAMED NW BREM",
         "curr_course_fulfills": ""
@@ -567,7 +565,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 669P",
         "curr_course_name": "P-CLCLK FAMED CDA",
         "curr_course_fulfills": ""
@@ -589,9 +587,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 673P",
-        "curr_course_name": "P-CLCLKFAMED SPO SH ",
+        "curr_course_name": "P-CLCLKFAMED SPO SH",
         "curr_course_fulfills": ""
     },
     {
@@ -611,7 +609,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 676P",
         "curr_course_name": "P-CLK FAMED LIBBY",
         "curr_course_fulfills": ""
@@ -633,9 +631,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 677P",
-        "curr_course_name": "P-CLK FAMED GR COUL ",
+        "curr_course_name": "P-CLK FAMED GR COUL",
         "curr_course_fulfills": ""
     },
     {
@@ -655,9 +653,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 678P",
-        "curr_course_name": "P-CLK FAMED PT ANGL ",
+        "curr_course_name": "P-CLK FAMED PT ANGL",
         "curr_course_fulfills": ""
     },
     {
@@ -677,7 +675,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 679P",
         "curr_course_name": "P-CLK FAMED FERNDALE",
         "curr_course_fulfills": ""
@@ -699,7 +697,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 681P",
         "curr_course_name": "P-CLCLK FAMED BOZEHE",
         "curr_course_fulfills": ""
@@ -721,9 +719,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 682P",
-        "curr_course_name": "P-CLK FAMED ELLNBRG ",
+        "curr_course_name": "P-CLK FAMED ELLNBRG",
         "curr_course_fulfills": ""
     },
     {
@@ -743,9 +741,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 683P",
-        "curr_course_name": "P-CLK FAMED LEWISTN ",
+        "curr_course_name": "P-CLK FAMED LEWISTN",
         "curr_course_fulfills": ""
     },
     {
@@ -765,7 +763,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 684P",
         "curr_course_name": "P-CLK FAMED BUTTE",
         "curr_course_fulfills": ""
@@ -787,7 +785,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 685P",
         "curr_course_name": "P-CLK FAMED JUNEAU",
         "curr_course_fulfills": ""
@@ -809,9 +807,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 686P",
-        "curr_course_name": "P-CLK FAMED PT TOWN ",
+        "curr_course_name": "P-CLK FAMED PT TOWN",
         "curr_course_fulfills": ""
     },
     {
@@ -831,7 +829,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 687P",
         "curr_course_name": "P-CLCLK FMED WSLMN",
         "curr_course_fulfills": ""
@@ -853,7 +851,7 @@
         "is_estimate": 1,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 688P",
         "curr_course_name": "P-FAM MED SUB-I",
         "curr_course_fulfills": ""
@@ -873,9 +871,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 690",
-        "curr_course_name": "ONE HLTH CLIN ELECT ",
+        "curr_course_name": "ONE HLTH CLIN ELECT",
         "curr_course_fulfills": ""
     },
     {
@@ -895,7 +893,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 691",
         "curr_course_name": "AMBULATRY TELEHEALTH",
         "curr_course_fulfills": ""
@@ -917,9 +915,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 692P",
-        "curr_course_name": "P-CLRK FAMED DILLON ",
+        "curr_course_name": "P-CLRK FAMED DILLON",
         "curr_course_fulfills": ""
     },
     {
@@ -939,7 +937,7 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 701",
         "curr_course_name": "WRITE ADV OPT CLKSHP",
         "curr_course_fulfills": ""
@@ -961,7 +959,7 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 702",
         "curr_course_name": "ADV FAMED OPT CLKSHP",
         "curr_course_fulfills": ""
@@ -983,9 +981,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 703",
-        "curr_course_name": "ADV LGBTQ PC CLKSHP ",
+        "curr_course_name": "ADV LGBTQ PC CLKSHP",
         "curr_course_fulfills": ""
     },
     {
@@ -1005,9 +1003,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 704",
-        "curr_course_name": "FM ADV INPT CLRKSHP ",
+        "curr_course_name": "FM ADV INPT CLRKSHP",
         "curr_course_fulfills": ""
     },
     {
@@ -1027,7 +1025,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 705",
         "curr_course_name": "CLCLKFAMED SEAMAREVT",
         "curr_course_fulfills": ""
@@ -1049,9 +1047,9 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 706",
-        "curr_course_name": "CLCLKFAMED NAMPA ID ",
+        "curr_course_name": "CLCLKFAMED NAMPA ID",
         "curr_course_fulfills": ""
     },
     {
@@ -1071,7 +1069,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FAMED 707",
         "curr_course_name": "CLCLKFAMED FEDERALWY",
         "curr_course_fulfills": ""

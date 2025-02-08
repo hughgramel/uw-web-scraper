@@ -51,7 +51,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "C LIT 240",
         "curr_course_name": "WRITING IN C LIT",
         "curr_course_fulfills": [
@@ -136,7 +136,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C LIT 295",
         "curr_course_name": "STUDY ABROAD",
         "curr_course_fulfills": ""
@@ -196,7 +195,7 @@
         "open_or_closed": "Open",
         "professor_name": "Dubrow,Jennifer E",
         "curr_course_code": "C LIT 322",
-        "curr_course_name": "ASIAN & WESTERN LIT ",
+        "curr_course_name": "ASIAN & WESTERN LIT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -226,7 +225,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hall,Emily Marie Anderson",
         "curr_course_code": "C LIT 322",
-        "curr_course_name": "ASIAN & WESTERN LIT ",
+        "curr_course_name": "ASIAN & WESTERN LIT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -256,7 +255,7 @@
         "open_or_closed": "Open",
         "professor_name": "Clare,Avery",
         "curr_course_code": "C LIT 322",
-        "curr_course_name": "ASIAN & WESTERN LIT ",
+        "curr_course_name": "ASIAN & WESTERN LIT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -316,7 +315,7 @@
         "open_or_closed": "Open",
         "professor_name": "Medill,Kathryn McConaughy",
         "curr_course_code": "C LIT 360",
-        "curr_course_name": "TPCS ANCNT &MED LIT ",
+        "curr_course_name": "TPCS ANCNT &MED LIT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -346,7 +345,7 @@
         "open_or_closed": "Open",
         "professor_name": "Levaniouk,Olga",
         "curr_course_code": "C LIT 360",
-        "curr_course_name": "TPCS ANCNT &MED LIT ",
+        "curr_course_name": "TPCS ANCNT &MED LIT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -369,7 +368,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C LIT 395",
         "curr_course_name": "STUDY ABROAD",
         "curr_course_fulfills": ""
@@ -399,7 +397,7 @@
         "open_or_closed": "Open",
         "professor_name": "Gilbert-Santamaria,Donald",
         "curr_course_code": "C LIT 400",
-        "curr_course_name": "INTRO THEORY & CRIT ",
+        "curr_course_name": "INTRO THEORY & CRIT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -452,7 +450,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C LIT 491",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -475,7 +472,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C LIT 495",
         "curr_course_name": "HONORS THESIS",
         "curr_course_fulfills": [
@@ -499,7 +495,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "C LIT 590",
         "curr_course_name": "MA ESSAY",
         "curr_course_fulfills": ""
@@ -522,9 +518,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C LIT 599",
-        "curr_course_name": "SPEC SEMINAR/CONFER ",
+        "curr_course_name": "SPEC SEMINAR/CONFER",
         "curr_course_fulfills": ""
     },
     {
@@ -545,9 +540,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C LIT 599",
-        "curr_course_name": "SPEC SEMINAR/CONFER ",
+        "curr_course_name": "SPEC SEMINAR/CONFER",
         "curr_course_fulfills": ""
     },
     {
@@ -568,9 +562,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C LIT 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -591,7 +584,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C LIT 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -614,9 +606,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "C LIT 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

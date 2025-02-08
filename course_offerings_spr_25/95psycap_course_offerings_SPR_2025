@@ -23,9 +23,9 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PSYCAP 512",
-        "curr_course_name": "SOC/EMOTION DEVELOP ",
+        "curr_course_name": "SOC/EMOTION DEVELOP",
         "curr_course_fulfills": ""
     },
     {
@@ -82,7 +82,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Keller,Marisa",
         "curr_course_code": "PSYCAP 538",
         "curr_course_name": "DBT YOUTH/ADOLESCNTS",
         "curr_course_fulfills": ""
@@ -111,7 +111,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Assaad,Lily",
         "curr_course_code": "PSYCAP 538",
         "curr_course_name": "DBT YOUTH/ADOLESCNTS",
         "curr_course_fulfills": ""
@@ -140,7 +140,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Mancil,Larissa",
         "curr_course_code": "PSYCAP 560",
         "curr_course_name": "APPLD PRACTICUM",
@@ -170,7 +169,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sedlar,Georganna",
         "curr_course_code": "PSYCAP 560",
         "curr_course_name": "APPLD PRACTICUM",

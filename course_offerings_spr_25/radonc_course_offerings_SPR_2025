@@ -17,7 +17,6 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "R ONC 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -39,9 +38,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "R ONC 505P",
-        "curr_course_name": "P-PRADONC PRECPTSHP ",
+        "curr_course_name": "P-PRADONC PRECPTSHP",
         "curr_course_fulfills": ""
     },
     {
@@ -61,9 +60,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "R ONC 600",
-        "curr_course_name": "INDEPENDT STDY/RSCH ",
+        "curr_course_name": "INDEPENDT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -81,7 +80,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "R ONC 601",
         "curr_course_name": "MULTI-D ONC CLRKSHIP",
         "curr_course_fulfills": ""
@@ -103,7 +102,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "R ONC 694P",
         "curr_course_name": "P-CANCER MGMT SCCA",
         "curr_course_fulfills": ""
@@ -125,7 +124,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "R ONC 699P",
         "curr_course_name": "P-WAMI R ONC ELECT",
         "curr_course_fulfills": ""

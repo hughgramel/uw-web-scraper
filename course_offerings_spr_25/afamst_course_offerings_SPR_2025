@@ -24,7 +24,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wray,Alekzandr",
         "curr_course_code": "AFRAM 150",
-        "curr_course_name": "INTRO AF AM HISTORY ",
+        "curr_course_name": "INTRO AF AM HISTORY",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -51,9 +51,10 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wray,Alekzandr",
         "curr_course_code": "AFRAM 272",
-        "curr_course_name": "SOUTH SINCE CVL WAR ",
+        "curr_course_name": "SOUTH SINCE CVL WAR",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -112,7 +113,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Retman,Sonnet",
         "curr_course_code": "AFRAM 330",
         "curr_course_name": "MUS & FKLR BLK SOC",
@@ -138,7 +139,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "AFRAM 499",
         "curr_course_name": "IND STUDY & RESEARCH",
         "curr_course_fulfills": ""
@@ -160,7 +160,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AFRAM 499",
         "curr_course_name": "IND STUDY & RESEARCH",
         "curr_course_fulfills": ""
@@ -182,7 +182,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AFRAM 499",
         "curr_course_name": "IND STUDY & RESEARCH",
         "curr_course_fulfills": ""

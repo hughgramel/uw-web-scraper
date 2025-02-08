@@ -23,7 +23,7 @@
         "is_estimate": 0,
         "max_capacity": "168",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Farooqi,Amna",
         "curr_course_code": "DRAMA 101",
         "curr_course_name": "INTRO TO THEATRE",
@@ -55,7 +55,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 101",
         "curr_course_name": "INTRO TO THEATRE",
         "curr_course_fulfills": [
@@ -86,7 +86,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 101",
         "curr_course_name": "INTRO TO THEATRE",
         "curr_course_fulfills": [
@@ -117,7 +117,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 101",
         "curr_course_name": "INTRO TO THEATRE",
         "curr_course_fulfills": [
@@ -148,7 +148,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 101",
         "curr_course_name": "INTRO TO THEATRE",
         "curr_course_fulfills": [
@@ -179,7 +179,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 101",
         "curr_course_name": "INTRO TO THEATRE",
         "curr_course_fulfills": [
@@ -210,7 +210,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 101",
         "curr_course_name": "INTRO TO THEATRE",
         "curr_course_fulfills": [
@@ -263,7 +263,7 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Armstrong,David",
         "curr_course_code": "DRAMA 171",
         "curr_course_name": "BROADWAY MUSICAL",
@@ -294,7 +294,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Korf,Geoff",
         "curr_course_code": "DRAMA 180",
         "curr_course_name": "COLLAB & INCLUSION",
         "curr_course_fulfills": [
@@ -323,7 +324,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 201",
         "curr_course_name": "PLAYS AND STYLES",
         "curr_course_fulfills": [
@@ -354,7 +355,6 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 212",
         "curr_course_name": "THEATRE TECH PRACT",
         "curr_course_fulfills": [
@@ -378,7 +378,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Dogg,M.L.",
         "curr_course_code": "DRAMA 221",
         "curr_course_name": "VISUAL NARRATIVE",
         "curr_course_fulfills": [
@@ -407,7 +408,8 @@
         "is_estimate": 0,
         "max_capacity": "36",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Connors,Bridget",
         "curr_course_code": "DRAMA 252",
         "curr_course_name": "ACTING",
         "curr_course_fulfills": [
@@ -436,7 +438,7 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 252",
         "curr_course_name": "ACTING",
         "curr_course_fulfills": [
@@ -465,7 +467,7 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 252",
         "curr_course_name": "ACTING",
         "curr_course_fulfills": [
@@ -496,7 +498,8 @@
         "is_estimate": 0,
         "max_capacity": "19",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wrenn,Bradley",
         "curr_course_code": "DRAMA 254",
         "curr_course_name": "INTROACTINGSKILLS",
         "curr_course_fulfills": [
@@ -520,7 +523,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 291",
         "curr_course_name": "TH TECH PRAC LAB",
         "curr_course_fulfills": [
@@ -544,7 +546,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 292",
         "curr_course_name": "TH TECH PRAC LAB",
         "curr_course_fulfills": [
@@ -568,7 +569,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Magelssen,Scott",
         "curr_course_code": "DRAMA 298",
         "curr_course_name": "THEATRE PRODUCTION",
@@ -600,7 +600,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Herren,Rachael",
         "curr_course_code": "DRAMA 302",
         "curr_course_name": "CRITICAL ANALYSIS",
         "curr_course_fulfills": [
@@ -631,9 +632,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Jones,Danny",
         "curr_course_code": "DRAMA 351",
-        "curr_course_name": "INTERMED SCENE STDY ",
+        "curr_course_name": "INTERMED SCENE STDY",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -655,7 +657,8 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Frace,Jeffrey",
         "curr_course_code": "DRAMA 353",
         "curr_course_name": "INTERMD ACTNG-PHYS",
         "curr_course_fulfills": [
@@ -679,7 +682,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mahmoud,Jasmine",
         "curr_course_code": "DRAMA 365",
         "curr_course_name": "DIVERSE VOICES",
@@ -712,9 +715,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Magelssen,Scott",
         "curr_course_code": "DRAMA 373",
-        "curr_course_name": "THEATRE HISTORY III ",
+        "curr_course_name": "THEATRE HISTORY III",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -736,9 +740,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 391",
-        "curr_course_name": "BEG TECHNICAL PRACT ",
+        "curr_course_name": "BEG TECHNICAL PRACT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -760,7 +763,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 396",
         "curr_course_name": "STUDY ABROAD",
         "curr_course_fulfills": [
@@ -785,9 +787,8 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 410",
-        "curr_course_name": "ADV THEAT TECH PRAC ",
+        "curr_course_name": "ADV THEAT TECH PRAC",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -816,7 +817,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Welch,Julia",
         "curr_course_code": "DRAMA 414",
         "curr_course_name": "SCENE DESIGN",
@@ -841,7 +842,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Trout,Deborah L",
         "curr_course_code": "DRAMA 430",
         "curr_course_name": "TEXTILE KNOWLDG & ID",
@@ -871,7 +871,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Yeboah,Nikki",
         "curr_course_code": "DRAMA 441",
         "curr_course_name": "BEGIN PLAYWRITING",
         "curr_course_fulfills": [
@@ -895,10 +896,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Curtis-Newton,Valerie",
         "curr_course_code": "DRAMA 451",
-        "curr_course_name": "ADV ACT-PRDCTN WKSP ",
+        "curr_course_name": "ADV ACT-PRDCTN WKSP",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -920,9 +921,10 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Madden,Catherine",
         "curr_course_code": "DRAMA 452",
-        "curr_course_name": "ADV ACTG-SCENE STDY ",
+        "curr_course_name": "ADV ACTG-SCENE STDY",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -944,7 +946,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mackey,Adrienne",
         "curr_course_code": "DRAMA 457",
         "curr_course_name": "CREATING DRAMA",
         "curr_course_fulfills": [
@@ -969,9 +972,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 490",
-        "curr_course_name": "SPEC STDY ACT-DIRCT ",
+        "curr_course_name": "SPEC STDY ACT-DIRCT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1000,9 +1002,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Connors,Bridget",
         "curr_course_code": "DRAMA 490",
-        "curr_course_name": "SPEC STDY ACT-DIRCT ",
+        "curr_course_name": "SPEC STDY ACT-DIRCT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1024,10 +1027,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Alm,Geoffrey",
         "curr_course_code": "DRAMA 490",
-        "curr_course_name": "SPEC STDY ACT-DIRCT ",
+        "curr_course_name": "SPEC STDY ACT-DIRCT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1052,7 +1054,7 @@
         "open_or_closed": "Open",
         "professor_name": "Yang,Chi-wang",
         "curr_course_code": "DRAMA 490",
-        "curr_course_name": "SPEC STDY ACT-DIRCT ",
+        "curr_course_name": "SPEC STDY ACT-DIRCT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1075,9 +1077,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 491",
-        "curr_course_name": "SPEC STDY DSGN-TECH ",
+        "curr_course_name": "SPEC STDY DSGN-TECH",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1099,7 +1100,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 493",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -1126,7 +1127,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Johnson,Odai",
         "curr_course_code": "DRAMA 494",
         "curr_course_name": "STUDIES THEA&DRAMA",
         "curr_course_fulfills": [
@@ -1150,9 +1152,9 @@
         "is_estimate": 1,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "DRAMA 495",
-        "curr_course_name": "DESIGN-TECH PRACTCM ",
+        "curr_course_name": "DESIGN-TECH PRACTCM",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1174,7 +1176,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 498",
         "curr_course_name": "THEATRE PRODUCTION",
         "curr_course_fulfills": [
@@ -1223,7 +1224,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1274,7 +1274,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 510",
         "curr_course_name": "DESIGN STUDIO",
         "curr_course_fulfills": ""
@@ -1387,9 +1387,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 520",
-        "curr_course_name": "ADV THEATRE PRACTCM ",
+        "curr_course_name": "ADV THEATRE PRACTCM",
         "curr_course_fulfills": ""
     },
     {
@@ -1439,7 +1438,8 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Connors,Bridget",
         "curr_course_code": "DRAMA 552",
         "curr_course_name": "TEACHING OF ACTING",
         "curr_course_fulfills": ""
@@ -1483,7 +1483,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Curtis-Newton,Valerie",
         "curr_course_code": "DRAMA 561",
         "curr_course_name": "DIRECTING PROJECTS",
@@ -1506,7 +1506,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 562",
         "curr_course_name": "PERFORMANCE STUDIO",
         "curr_course_fulfills": ""
@@ -1551,7 +1551,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 567",
         "curr_course_name": "ACTING PROCESS",
         "curr_course_fulfills": ""
@@ -1580,9 +1580,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Magelssen,Scott",
         "curr_course_code": "DRAMA 575",
-        "curr_course_name": "THEATRE HISTORY SEM ",
+        "curr_course_name": "THEATRE HISTORY SEM",
         "curr_course_fulfills": ""
     },
     {
@@ -1602,9 +1603,9 @@
         "is_estimate": 1,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DRAMA 599",
-        "curr_course_name": "ADV STDY THEATR ART ",
+        "curr_course_name": "ADV STDY THEATR ART",
         "curr_course_fulfills": ""
     },
     {
@@ -1626,7 +1627,7 @@
         "curr_enrolled": "0",
         "open_or_closed": "Open",
         "curr_course_code": "DRAMA 599",
-        "curr_course_name": "ADV STDY THEATR ART ",
+        "curr_course_name": "ADV STDY THEATR ART",
         "curr_course_fulfills": ""
     },
     {
@@ -1649,7 +1650,7 @@
         "open_or_closed": "Open",
         "professor_name": "Mackey,Adrienne",
         "curr_course_code": "DRAMA 599",
-        "curr_course_name": "ADV STDY THEATR ART ",
+        "curr_course_name": "ADV STDY THEATR ART",
         "curr_course_fulfills": ""
     },
     {
@@ -1670,9 +1671,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1692,9 +1692,10 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Johnson,Odai",
         "curr_course_code": "DRAMA 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1715,7 +1716,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1738,9 +1738,8 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DRAMA 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

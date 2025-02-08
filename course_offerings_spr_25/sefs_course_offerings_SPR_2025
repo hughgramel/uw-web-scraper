@@ -23,7 +23,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "SANTANA,FRANCISCA",
         "curr_course_code": "SEFS 504",
         "curr_course_name": "SOC SCI RES DES MTHD",
@@ -84,7 +84,7 @@
         "open_or_closed": "Open",
         "professor_name": "Doty,Sharon L.",
         "curr_course_code": "SEFS 521",
-        "curr_course_name": "CURR TOPICS FOR RES ",
+        "curr_course_name": "CURR TOPICS FOR RES",
         "curr_course_fulfills": ""
     },
     {
@@ -149,7 +149,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Toth,Sandor",
         "curr_course_code": "SEFS 540",
         "curr_course_name": "OPTIMIZATION TECH",
@@ -172,7 +172,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Toth,Sandor",
         "curr_course_code": "SEFS 550",
         "curr_course_name": "GRADUATE SEMINAR",
@@ -200,7 +200,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Harvey,Brian",
         "curr_course_code": "SEFS 550",
         "curr_course_name": "GRADUATE SEMINAR",
@@ -221,7 +221,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "SEFS 590",
         "curr_course_name": "GRADUATE STUDIES",
         "curr_course_fulfills": ""
@@ -250,7 +250,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "McInturff,Alex",
         "curr_course_code": "SEFS 590",
         "curr_course_name": "GRADUATE STUDIES",
         "curr_course_fulfills": ""
@@ -279,7 +280,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Shah,Sameer H.",
         "curr_course_code": "SEFS 590",
         "curr_course_name": "GRADUATE STUDIES",
@@ -302,7 +302,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SEFS 595",
         "curr_course_name": "TEACHING PRACTICUM",
         "curr_course_fulfills": ""
@@ -324,9 +324,9 @@
         "is_estimate": 1,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SEFS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -346,7 +346,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SEFS 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -368,7 +368,7 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SEFS 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -390,9 +390,9 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SEFS 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

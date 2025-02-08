@@ -16,7 +16,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FHL 375",
         "curr_course_name": "MAR MAMM SALISH",
         "curr_course_fulfills": [
@@ -40,7 +39,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FHL 403",
         "curr_course_name": "NOVEL MARINE ECOSYST",
         "curr_course_fulfills": [
@@ -64,7 +62,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FHL 430",
         "curr_course_name": "MARINE ZOOLOGY",
         "curr_course_fulfills": [
@@ -88,7 +85,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FHL 440",
         "curr_course_name": "MARINE BOTANY",
         "curr_course_fulfills": [
@@ -112,7 +108,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "McCloskey,Mitch",
         "curr_course_code": "FHL 450",
         "curr_course_name": "SHORE ECOL RES EXP",
@@ -137,7 +132,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cohen,Karly Elizabeth",
         "curr_course_code": "FHL 470",
         "curr_course_name": "RES IN MARINE BIOL",
@@ -162,7 +156,6 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FHL 490",
         "curr_course_name": "MARINE SCI SEMINAR",
         "curr_course_fulfills": [
@@ -186,9 +179,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FHL 495",
-        "curr_course_name": "SPEC TOPICS NAT SCI ",
+        "curr_course_name": "SPEC TOPICS NAT SCI",
         "curr_course_fulfills": ""
     }
 ]

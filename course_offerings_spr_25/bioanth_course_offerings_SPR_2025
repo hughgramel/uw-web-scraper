@@ -23,7 +23,7 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Harper,Christine",
         "curr_course_code": "BIO A 201",
         "curr_course_name": "PRIN BIOLOGCL ANTH",
@@ -53,7 +53,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Araiza,Isabella",
         "curr_course_code": "BIO A 201",
         "curr_course_name": "PRIN BIOLOGCL ANTH",
         "curr_course_fulfills": [
@@ -82,7 +83,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Araiza,Isabella",
         "curr_course_code": "BIO A 201",
         "curr_course_name": "PRIN BIOLOGCL ANTH",
         "curr_course_fulfills": [
@@ -111,7 +113,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Araiza,Isabella",
         "curr_course_code": "BIO A 201",
         "curr_course_name": "PRIN BIOLOGCL ANTH",
         "curr_course_fulfills": [
@@ -140,7 +143,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Araiza,Isabella",
         "curr_course_code": "BIO A 201",
         "curr_course_name": "PRIN BIOLOGCL ANTH",
         "curr_course_fulfills": [
@@ -169,7 +173,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hill,Alex",
         "curr_course_code": "BIO A 208",
         "curr_course_name": "SEX & EVOLUTION",
         "curr_course_fulfills": [
@@ -232,7 +237,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Duncan,Andrea",
         "curr_course_code": "BIO A 370",
         "curr_course_name": "NONHUMAN PRIMATES",
         "curr_course_fulfills": [
@@ -295,10 +301,9 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Eisenberg,Dan T.A.",
         "curr_course_code": "BIO A 459",
-        "curr_course_name": "GENETICS LAB METHOD ",
+        "curr_course_name": "GENETICS LAB METHOD",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -321,7 +326,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIO A 466",
         "curr_course_name": "BIO ANTH HONORS THES",
         "curr_course_fulfills": [
@@ -352,7 +356,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Hill,Alex",
         "curr_course_code": "BIO A 469",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -383,9 +387,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "OCHOA,MIGUEL",
         "curr_course_code": "BIO A 487",
-        "curr_course_name": "HUM&CMPRTV OSTEOLGY ",
+        "curr_course_name": "HUM&CMPRTV OSTEOLGY",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -408,7 +413,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIO A 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -430,9 +434,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIO A 502",
-        "curr_course_name": "PRECEPTORIAL READNG ",
+        "curr_course_name": "PRECEPTORIAL READNG",
         "curr_course_fulfills": ""
     },
     {
@@ -487,10 +490,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Eisenberg,Dan T.A.",
         "curr_course_code": "BIO A 559",
-        "curr_course_name": "GENETICS LAB METHOD ",
+        "curr_course_name": "GENETICS LAB METHOD",
         "curr_course_fulfills": ""
     },
     {
@@ -511,9 +513,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BIO A 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     }
 ]

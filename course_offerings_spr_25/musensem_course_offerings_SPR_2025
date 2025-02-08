@@ -121,7 +121,6 @@
         "is_estimate": 0,
         "max_capacity": "85",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Boers,Geoffrey Paul",
         "curr_course_code": "MUSEN 201",
         "curr_course_name": "UW TREBLE CHORUS",
@@ -153,10 +152,9 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Farris,Ryan Dakota",
         "curr_course_code": "MUSEN 210",
-        "curr_course_name": "CAMPUS PHL ORCHSTRA ",
+        "curr_course_name": "CAMPUS PHL ORCHSTRA",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -185,10 +183,9 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Stahly,Robert Joseph",
         "curr_course_code": "MUSEN 210",
-        "curr_course_name": "CAMPUS PHL ORCHSTRA ",
+        "curr_course_name": "CAMPUS PHL ORCHSTRA",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -217,7 +214,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Rahbee,David A",
         "curr_course_code": "MUSEN 300",
         "curr_course_name": "UW SYMPHONY",
@@ -313,10 +309,9 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Whiting,Bonnie",
         "curr_course_code": "MUSEN 304",
-        "curr_course_name": "PERCUSSION ENSEMBLE ",
+        "curr_course_name": "PERCUSSION ENSEMBLE",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -339,7 +334,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSEN 305",
         "curr_course_name": "BRASS ENSEMBLE",
         "curr_course_fulfills": [
@@ -363,7 +357,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSEN 306",
         "curr_course_name": "WOODWIND ENSEMBLE",
         "curr_course_fulfills": [
@@ -387,7 +381,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSEN 306",
         "curr_course_name": "WOODWIND ENSEMBLE",
         "curr_course_fulfills": [
@@ -538,7 +532,7 @@
         "is_estimate": 0,
         "max_capacity": "97",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSEN 309",
         "curr_course_name": "CONCERT BAND",
         "curr_course_fulfills": [
@@ -759,7 +753,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Perea,John-Carlos",
         "curr_course_code": "MUSEN 345",
         "curr_course_name": "JAZZ WORKSHOP",
@@ -855,7 +848,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Boers,Geoffrey Paul",
         "curr_course_code": "MUSEN 350",
         "curr_course_name": "UNIVERSITY CHORALE",
@@ -944,10 +936,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cunningham,Tekla Maria",
         "curr_course_code": "MUSEN 369",
-        "curr_course_name": "BAROQUE CHAMBER ENS ",
+        "curr_course_name": "BAROQUE CHAMBER ENS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -980,7 +971,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "ROMANICK,ANDREW JACOB",
         "curr_course_code": "MUSEN 375",
         "curr_course_name": "OPERA WORKSHOP",
@@ -1005,7 +995,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Watras,Melia",
         "curr_course_code": "MUSEN 381",
         "curr_course_name": "CHAMBER MUSIC",
@@ -1037,7 +1026,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Shin,Donna",
         "curr_course_code": "MUSEN 381",
         "curr_course_name": "CHAMBER MUSIC",
@@ -1062,7 +1050,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "MUSEN 381",
         "curr_course_name": "CHAMBER MUSIC",
         "curr_course_fulfills": [
@@ -1086,7 +1074,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lee,Christine",
         "curr_course_code": "MUSEN 381",
         "curr_course_name": "CHAMBER MUSIC",
@@ -1111,7 +1098,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lee Priday,Rachel",
         "curr_course_code": "MUSEN 381",
         "curr_course_name": "CHAMBER MUSIC",
@@ -1136,7 +1122,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Patterson,Ronald G",
         "curr_course_code": "MUSEN 381",
         "curr_course_name": "CHAMBER MUSIC",
@@ -1168,7 +1153,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Valdes,Cristina",
         "curr_course_code": "MUSEN 384",
         "curr_course_name": "MODERN ENSEMBLE",
@@ -1200,10 +1184,9 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "dos reis,silvio aleixo",
         "curr_course_code": "MUSEN 389",
-        "curr_course_name": "WRLD MUSIC ENSEMBLE ",
+        "curr_course_name": "WRLD MUSIC ENSEMBLE",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1232,7 +1215,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSEN 410",
         "curr_course_name": "STEELBAND",
         "curr_course_fulfills": [
@@ -1325,7 +1307,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Rahbee,David A",
         "curr_course_code": "MUSEN 500",
         "curr_course_name": "UW SYMPHONY",
@@ -1413,10 +1394,9 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Whiting,Bonnie",
         "curr_course_code": "MUSEN 504",
-        "curr_course_name": "PERCUSSION ENSEMBLE ",
+        "curr_course_name": "PERCUSSION ENSEMBLE",
         "curr_course_fulfills": ""
     },
     {
@@ -1437,7 +1417,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSEN 505",
         "curr_course_name": "BRASS ENSEMBLE",
         "curr_course_fulfills": ""
@@ -1459,7 +1438,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSEN 505",
         "curr_course_name": "BRASS ENSEMBLE",
         "curr_course_fulfills": ""
@@ -1481,7 +1460,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSEN 506",
         "curr_course_name": "WOODWIND ENSEMBLE",
         "curr_course_fulfills": ""
@@ -1503,7 +1482,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSEN 506",
         "curr_course_name": "WOODWIND ENSEMBLE",
         "curr_course_fulfills": ""
@@ -1798,7 +1777,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Perea,John-Carlos",
         "curr_course_code": "MUSEN 545",
         "curr_course_name": "JAZZ WORKSHOP",
@@ -1888,7 +1866,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Boers,Geoffrey Paul",
         "curr_course_code": "MUSEN 550",
         "curr_course_name": "UNIVERSITY CHORALE",
@@ -1971,10 +1948,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cunningham,Tekla Maria",
         "curr_course_code": "MUSEN 569",
-        "curr_course_name": "BAROQ CHAMBR ENSMBL ",
+        "curr_course_name": "BAROQ CHAMBR ENSMBL",
         "curr_course_fulfills": ""
     },
     {
@@ -2005,7 +1981,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "ROMANICK,ANDREW JACOB",
         "curr_course_code": "MUSEN 575",
         "curr_course_name": "OPERA WORKSHOP",
@@ -2028,7 +2003,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Watras,Melia",
         "curr_course_code": "MUSEN 581",
         "curr_course_name": "CHAMBER MUSIC",
@@ -2058,7 +2032,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Shin,Donna",
         "curr_course_code": "MUSEN 581",
         "curr_course_name": "CHAMBER MUSIC",
@@ -2081,7 +2054,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "MUSEN 581",
         "curr_course_name": "CHAMBER MUSIC",
         "curr_course_fulfills": ""
@@ -2103,7 +2076,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lee,Christine",
         "curr_course_code": "MUSEN 581",
         "curr_course_name": "CHAMBER MUSIC",
@@ -2126,7 +2098,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lee Priday,Rachel",
         "curr_course_code": "MUSEN 581",
         "curr_course_name": "CHAMBER MUSIC",
@@ -2149,7 +2120,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Patterson,Ronald G",
         "curr_course_code": "MUSEN 581",
         "curr_course_name": "CHAMBER MUSIC",
@@ -2179,7 +2149,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Valdes,Cristina",
         "curr_course_code": "MUSEN 584",
         "curr_course_name": "MODERN ENSEMBLE",
@@ -2209,10 +2178,9 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "dos reis,silvio aleixo",
         "curr_course_code": "MUSEN 589",
-        "curr_course_name": "WRLD MUSIC ENSEMBLE ",
+        "curr_course_name": "WRLD MUSIC ENSEMBLE",
         "curr_course_fulfills": [
             "A&H"
         ]

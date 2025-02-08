@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "425",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rahman,Anis",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -50,7 +51,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -81,7 +82,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -112,7 +113,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -143,7 +144,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -172,7 +173,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -201,7 +202,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -232,7 +233,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -263,7 +264,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -294,7 +295,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -323,7 +324,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -352,7 +353,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -381,7 +382,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -410,7 +411,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -439,7 +440,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -468,7 +469,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -497,7 +498,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -526,7 +527,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 200",
         "curr_course_name": "INTRO TO COM",
         "curr_course_fulfills": [
@@ -555,9 +556,10 @@
         "is_estimate": 0,
         "max_capacity": "165",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "McGarrity,Matt",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -586,9 +588,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -617,9 +619,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -648,9 +650,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -677,9 +679,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -706,9 +708,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -737,9 +739,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -768,9 +770,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -799,9 +801,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -828,9 +830,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -857,9 +859,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -886,9 +888,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 220",
-        "curr_course_name": "INTRO TO PUBLIC SPK ",
+        "curr_course_name": "INTRO TO PUBLIC SPK",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -946,7 +948,7 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 233",
         "curr_course_name": "LANGUAGE & SOCIETY",
         "curr_course_fulfills": [
@@ -976,7 +978,7 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 233",
         "curr_course_name": "LANGUAGE & SOCIETY",
         "curr_course_fulfills": [
@@ -1006,7 +1008,7 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 233",
         "curr_course_name": "LANGUAGE & SOCIETY",
         "curr_course_fulfills": [
@@ -1068,7 +1070,7 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 302",
         "curr_course_name": "CLTRL IMPACT TECH",
         "curr_course_fulfills": [
@@ -1099,7 +1101,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "McGarrity,Matt",
         "curr_course_code": "COM 320",
         "curr_course_name": "ADV PUBLIC SPK",
         "curr_course_fulfills": [
@@ -1156,7 +1159,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "COM 336",
         "curr_course_name": "SPEECH CONSULTING",
         "curr_course_fulfills": ""
@@ -1185,7 +1187,8 @@
         "is_estimate": 0,
         "max_capacity": "95",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Scher,Steven",
         "curr_course_code": "COM 351",
         "curr_course_name": "INTERVIEWING",
         "curr_course_fulfills": [
@@ -1216,10 +1219,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Straub-Cook,Polly",
         "curr_course_code": "COM 360",
-        "curr_course_name": "FNDS JOUR & PUB INT ",
+        "curr_course_name": "FNDS JOUR & PUB INT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1248,9 +1250,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Straub-Cook,Polly",
         "curr_course_code": "COM 360",
-        "curr_course_name": "FNDS JOUR & PUB INT ",
+        "curr_course_name": "FNDS JOUR & PUB INT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1343,7 +1346,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 364",
         "curr_course_name": "MEDIA RESP DIV SOC",
         "curr_course_fulfills": [
@@ -1375,9 +1378,10 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Liao,Wang",
         "curr_course_code": "COM 373",
-        "curr_course_name": "GROUP COMMUNICATION ",
+        "curr_course_name": "GROUP COMMUNICATION",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -1406,9 +1410,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Case,Tiana",
         "curr_course_code": "COM 373",
-        "curr_course_name": "GROUP COMMUNICATION ",
+        "curr_course_name": "GROUP COMMUNICATION",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -1437,9 +1442,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Case,Tiana",
         "curr_course_code": "COM 373",
-        "curr_course_name": "GROUP COMMUNICATION ",
+        "curr_course_name": "GROUP COMMUNICATION",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -1468,9 +1474,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Case,Tiana",
         "curr_course_code": "COM 373",
-        "curr_course_name": "GROUP COMMUNICATION ",
+        "curr_course_name": "GROUP COMMUNICATION",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -1499,7 +1506,7 @@
         "is_estimate": 0,
         "max_capacity": "95",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Pearce,Katy",
         "curr_course_code": "COM 382",
         "curr_course_name": "SOC SCI COMM RSRCH",
@@ -1819,7 +1826,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tomasic,John",
         "curr_course_code": "COM 457",
         "curr_course_name": "JOURN PORTFOLIO",
@@ -1851,7 +1858,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 460",
         "curr_course_name": "SPEC REPRTG TOPICS",
         "curr_course_fulfills": [
@@ -1882,7 +1889,7 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Underwood,Douglas",
         "curr_course_code": "COM 468",
         "curr_course_name": "MEDIA ETHICS",
@@ -1914,7 +1921,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tosaya,Lando",
         "curr_course_code": "COM 468",
         "curr_course_name": "MEDIA ETHICS",
@@ -1946,7 +1953,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tosaya,Lando",
         "curr_course_code": "COM 468",
         "curr_course_name": "MEDIA ETHICS",
@@ -1978,7 +1985,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tosaya,Lando",
         "curr_course_code": "COM 468",
         "curr_course_name": "MEDIA ETHICS",
@@ -2010,7 +2017,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "FRYER,ALEXANDER",
         "curr_course_code": "COM 495",
         "curr_course_name": "SPEC TOPICS COM",
@@ -2034,7 +2041,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "COM 497",
         "curr_course_name": "HONORS THESIS",
         "curr_course_fulfills": [
@@ -2059,7 +2065,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "COM 498",
         "curr_course_name": "INDEPENDENT RESEARCH",
         "curr_course_fulfills": ""
@@ -2082,7 +2087,6 @@
         "is_estimate": 1,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "COM 498",
         "curr_course_name": "INDEPENDENT RESEARCH",
         "curr_course_fulfills": ""
@@ -2105,7 +2109,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "COM 499",
         "curr_course_name": "DIRECTED RESEARCH",
         "curr_course_fulfills": ""
@@ -2128,7 +2131,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "COM 499",
         "curr_course_name": "DIRECTED RESEARCH",
         "curr_course_fulfills": ""
@@ -2157,10 +2159,10 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Hill,Benjamin",
         "curr_course_code": "COM 528",
-        "curr_course_name": "DESIGN INTERNET RES ",
+        "curr_course_name": "DESIGN INTERNET RES",
         "curr_course_fulfills": ""
     },
     {
@@ -2187,7 +2189,8 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Liao,Wang",
         "curr_course_code": "COM 577",
         "curr_course_name": "SMALL GRP COMMUNIC",
         "curr_course_fulfills": ""
@@ -2209,7 +2212,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 590",
         "curr_course_name": "SELECTED READINGS",
         "curr_course_fulfills": ""
@@ -2231,7 +2234,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 590",
         "curr_course_name": "SELECTED READINGS",
         "curr_course_fulfills": ""
@@ -2253,7 +2256,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 591",
         "curr_course_name": "INDEPENDENT RSRCH",
         "curr_course_fulfills": ""
@@ -2275,7 +2278,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 591",
         "curr_course_name": "INDEPENDENT RSRCH",
         "curr_course_fulfills": ""
@@ -2297,7 +2300,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 592",
         "curr_course_name": "DIRECTED RESEARCH",
         "curr_course_fulfills": ""
@@ -2319,7 +2322,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 592",
         "curr_course_name": "DIRECTED RESEARCH",
         "curr_course_fulfills": ""
@@ -2341,7 +2344,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 593",
         "curr_course_name": "COMMUN INTERNSHIP",
         "curr_course_fulfills": ""
@@ -2363,7 +2366,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 593",
         "curr_course_name": "COMMUN INTERNSHIP",
         "curr_course_fulfills": ""
@@ -2392,7 +2395,8 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Moy,Patricia",
         "curr_course_code": "COM 594",
         "curr_course_name": "PROFSNL PROSEMINAR",
         "curr_course_fulfills": ""
@@ -2421,7 +2425,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tounsel,Timeka",
         "curr_course_code": "COM 594",
         "curr_course_name": "PROFSNL PROSEMINAR",
@@ -2451,7 +2455,8 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Friz,Amanda",
         "curr_course_code": "COM 597",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -2473,9 +2478,9 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -2495,7 +2500,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -2517,9 +2522,9 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "COM 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

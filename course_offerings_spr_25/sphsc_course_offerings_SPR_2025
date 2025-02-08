@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Cler,Gabriel",
         "curr_course_code": "SPHSC 100",
         "curr_course_name": "VOICE&ARTIC IMPROV",
         "curr_course_fulfills": [
@@ -52,7 +53,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rodda,Amy",
         "curr_course_code": "SPHSC 303",
         "curr_course_name": "LANGUAGE SCIENCE",
         "curr_course_fulfills": [
@@ -86,7 +88,7 @@
         "open_or_closed": "Open",
         "professor_name": "Baylor,Carolyn",
         "curr_course_code": "SPHSC 405",
-        "curr_course_name": "CLNCL DEC MAKNG SLP ",
+        "curr_course_name": "CLNCL DEC MAKNG SLP",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -119,10 +121,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Burns,Michael",
         "curr_course_code": "SPHSC 425",
-        "curr_course_name": "SPCH LANG HRG BRAIN ",
+        "curr_course_name": "SPCH LANG HRG BRAIN",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -151,7 +153,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Glavin,Courtney",
         "curr_course_code": "SPHSC 461",
         "curr_course_name": "HEARING SCIENCE",
@@ -176,7 +178,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPHSC 461",
         "curr_course_name": "HEARING SCIENCE",
         "curr_course_fulfills": [
@@ -203,7 +205,7 @@
         "open_or_closed": "Open",
         "professor_name": "Dalessio,Julie",
         "curr_course_code": "SPHSC 495",
-        "curr_course_name": "GUIDED OBSERVATIONS ",
+        "curr_course_name": "GUIDED OBSERVATIONS",
         "curr_course_fulfills": ""
     },
     {
@@ -224,7 +226,6 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 498",
         "curr_course_name": "HONORS RESEARCH",
         "curr_course_fulfills": ""
@@ -247,7 +248,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -270,7 +270,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -299,7 +298,7 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPHSC 517",
         "curr_course_name": "REHAB HLTH DISPARITY",
         "curr_course_fulfills": ""
@@ -395,7 +394,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kover,Sara T",
         "curr_course_code": "SPHSC 536",
-        "curr_course_name": "SCHOOL-AGE COMM DIS ",
+        "curr_course_name": "SCHOOL-AGE COMM DIS",
         "curr_course_fulfills": ""
     },
     {
@@ -422,7 +421,6 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Daniels,Jacqueline L.",
         "curr_course_code": "SPHSC 548",
         "curr_course_name": "TBI SEMINAR",
@@ -475,7 +473,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 553",
         "curr_course_name": "PRACTICUM SLP",
         "curr_course_fulfills": ""
@@ -497,7 +494,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 553",
         "curr_course_name": "PRACTICUM SLP",
         "curr_course_fulfills": ""
@@ -519,7 +515,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 553",
         "curr_course_name": "PRACTICUM SLP",
         "curr_course_fulfills": ""
@@ -541,7 +536,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 553",
         "curr_course_name": "PRACTICUM SLP",
         "curr_course_fulfills": ""
@@ -563,7 +557,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPHSC 553",
         "curr_course_name": "PRACTICUM SLP",
         "curr_course_fulfills": ""
@@ -622,9 +616,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Pace,Amy",
         "curr_course_code": "SPHSC 559",
-        "curr_course_name": "TPCS SPCH/LANG/HEAR ",
+        "curr_course_name": "TPCS SPCH/LANG/HEAR",
         "curr_course_fulfills": ""
     },
     {
@@ -651,7 +646,8 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Max,Ludo",
         "curr_course_code": "SPHSC 560",
         "curr_course_name": "SPEECH SCIENCE",
         "curr_course_fulfills": ""
@@ -673,7 +669,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPHSC 564",
         "curr_course_name": "TEACHING PRACTICUM",
         "curr_course_fulfills": ""
@@ -730,7 +726,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 599",
         "curr_course_name": "RSCH PRACTICUM",
         "curr_course_fulfills": ""
@@ -753,9 +748,8 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -775,9 +769,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPHSC 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -797,9 +791,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPHSC 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -819,9 +813,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPHSC 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -841,9 +835,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPHSC 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -864,7 +858,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -887,9 +880,8 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPHSC 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

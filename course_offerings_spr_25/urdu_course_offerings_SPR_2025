@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ahmad,Jameel",
         "curr_course_code": "URDU 103",
         "curr_course_name": "ELEMENTARY URDU",
         "curr_course_fulfills": ""
@@ -48,7 +49,8 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ahmad,Jameel",
         "curr_course_code": "URDU 203",
         "curr_course_name": "INTERMEDIATE URDU",
         "curr_course_fulfills": [
@@ -110,7 +112,7 @@
         "open_or_closed": "Open",
         "professor_name": "Pauwels,Heidi R",
         "curr_course_code": "URDU 424",
-        "curr_course_name": "MOD HINDI LIT-DRAMA ",
+        "curr_course_name": "MOD HINDI LIT-DRAMA",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -133,7 +135,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "URDU 499",
         "curr_course_name": "URDU INDPT STDY",
         "curr_course_fulfills": ""
@@ -163,7 +164,7 @@
         "open_or_closed": "Open",
         "professor_name": "Pauwels,Heidi R",
         "curr_course_code": "URDU 524",
-        "curr_course_name": "MOD HINDI LIT-DRAMA ",
+        "curr_course_name": "MOD HINDI LIT-DRAMA",
         "curr_course_fulfills": ""
     }
 ]

@@ -19,7 +19,7 @@
         "open_or_closed": "Open",
         "professor_name": "Novetzke,Christian L",
         "curr_course_code": "RELIG 120",
-        "curr_course_name": "YOGA PAST & PRESENT ",
+        "curr_course_name": "YOGA PAST & PRESENT",
         "curr_course_fulfills": [
             "A&H/SSc",
             "DIV"
@@ -47,7 +47,8 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Marino,Joseph",
         "curr_course_code": "RELIG 202",
         "curr_course_name": "RELIGIONS,EASTERN",
         "curr_course_fulfills": [
@@ -106,7 +107,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RELIG 211",
         "curr_course_name": "MUSLIM BLIEFS/PRACTS",
         "curr_course_fulfills": [
@@ -135,7 +136,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RELIG 211",
         "curr_course_name": "MUSLIM BLIEFS/PRACTS",
         "curr_course_fulfills": [
@@ -169,7 +170,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ahuvia,Mika",
         "curr_course_code": "RELIG 334",
-        "curr_course_name": "GENDER, SEX & RELIG ",
+        "curr_course_name": "GENDER, SEX & RELIG",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -232,7 +233,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ahuvia,Mika",
         "curr_course_code": "RELIG 534",
-        "curr_course_name": "GENDER, SEX & RELIG ",
+        "curr_course_name": "GENDER, SEX & RELIG",
         "curr_course_fulfills": ""
     }
 ]

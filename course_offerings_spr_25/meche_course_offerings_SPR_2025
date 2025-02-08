@@ -24,7 +24,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -54,7 +54,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -84,7 +84,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -114,7 +114,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -144,7 +144,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -174,7 +174,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -204,7 +204,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -234,7 +234,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -266,7 +266,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -296,7 +296,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -326,7 +326,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -356,7 +356,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -386,7 +386,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -416,7 +416,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -446,7 +446,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -476,7 +476,7 @@
         "open_or_closed": "Open",
         "professor_name": "Williams,Tyler",
         "curr_course_code": "M E 123",
-        "curr_course_name": "VISUALIZATION & CAD ",
+        "curr_course_name": "VISUALIZATION & CAD",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -503,7 +503,8 @@
         "is_estimate": 0,
         "max_capacity": "265",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shen,Steve",
         "curr_course_code": "M E 230",
         "curr_course_name": "KINEMATICS & DYNS",
         "curr_course_fulfills": [
@@ -532,7 +533,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shen,Steve",
         "curr_course_code": "M E 230",
         "curr_course_name": "KINEMATICS & DYNS",
         "curr_course_fulfills": [
@@ -561,7 +563,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shen,Steve",
         "curr_course_code": "M E 230",
         "curr_course_name": "KINEMATICS & DYNS",
         "curr_course_fulfills": [
@@ -590,7 +593,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shen,Steve",
         "curr_course_code": "M E 230",
         "curr_course_name": "KINEMATICS & DYNS",
         "curr_course_fulfills": [
@@ -619,7 +623,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shen,Steve",
         "curr_course_code": "M E 230",
         "curr_course_name": "KINEMATICS & DYNS",
         "curr_course_fulfills": [
@@ -648,7 +653,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shen,Steve",
         "curr_course_code": "M E 230",
         "curr_course_name": "KINEMATICS & DYNS",
         "curr_course_fulfills": [
@@ -673,9 +679,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 299",
-        "curr_course_name": "INDEPENDENT PROJECT ",
+        "curr_course_name": "INDEPENDENT PROJECT",
         "curr_course_fulfills": ""
     },
     {
@@ -697,7 +702,7 @@
         "curr_enrolled": "0",
         "open_or_closed": "Open",
         "curr_course_code": "M E 299",
-        "curr_course_name": "INDEPENDENT PROJECT ",
+        "curr_course_name": "INDEPENDENT PROJECT",
         "curr_course_fulfills": ""
     },
     {
@@ -731,7 +736,7 @@
         "open_or_closed": "Open",
         "professor_name": "Palmore Jr,John",
         "curr_course_code": "M E 331",
-        "curr_course_name": "INTRO HEAT TRANSFER ",
+        "curr_course_name": "INTRO HEAT TRANSFER",
         "curr_course_fulfills": ""
     },
     {
@@ -765,7 +770,7 @@
         "open_or_closed": "Open",
         "professor_name": "del Alamo,Juan C",
         "curr_course_code": "M E 333",
-        "curr_course_name": "INTRO TO FLUID MECH ",
+        "curr_course_name": "INTRO TO FLUID MECH",
         "curr_course_fulfills": ""
     },
     {
@@ -820,7 +825,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 354",
         "curr_course_name": "MECH OF MAT LAB",
         "curr_course_fulfills": ""
@@ -847,7 +852,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 354",
         "curr_course_name": "MECH OF MAT LAB",
         "curr_course_fulfills": ""
@@ -874,7 +879,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 354",
         "curr_course_name": "MECH OF MAT LAB",
         "curr_course_fulfills": ""
@@ -901,7 +906,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 354",
         "curr_course_name": "MECH OF MAT LAB",
         "curr_course_fulfills": ""
@@ -928,7 +933,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 354",
         "curr_course_name": "MECH OF MAT LAB",
         "curr_course_fulfills": ""
@@ -955,7 +960,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 354",
         "curr_course_name": "MECH OF MAT LAB",
         "curr_course_fulfills": ""
@@ -1014,7 +1019,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McQuaide,Eamon",
         "curr_course_code": "M E 355",
         "curr_course_name": "INTRO MFG PROCESS",
@@ -1044,7 +1049,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McQuaide,Eamon",
         "curr_course_code": "M E 355",
         "curr_course_name": "INTRO MFG PROCESS",
@@ -1074,7 +1079,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McQuaide,Eamon",
         "curr_course_code": "M E 355",
         "curr_course_name": "INTRO MFG PROCESS",
@@ -1104,7 +1109,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McQuaide,Eamon",
         "curr_course_code": "M E 355",
         "curr_course_name": "INTRO MFG PROCESS",
@@ -1168,10 +1173,10 @@
         "is_estimate": 0,
         "max_capacity": "210",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Garbini,Joseph",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1198,10 +1203,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Garbini,Joseph",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1228,10 +1233,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Garbini,Joseph",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1258,10 +1263,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Garbini,Joseph",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1288,10 +1293,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Garbini,Joseph",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1318,10 +1323,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Garbini,Joseph",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1348,10 +1353,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Garbini,Joseph",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1378,10 +1383,10 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Garbini,Joseph",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1408,9 +1413,9 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1437,9 +1442,9 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 374",
-        "curr_course_name": "SYS DYN ANLYS & DES ",
+        "curr_course_name": "SYS DYN ANLYS & DES",
         "curr_course_fulfills": ""
     },
     {
@@ -1469,7 +1474,7 @@
         "open_or_closed": "Open",
         "professor_name": "Arola,Dwayne D",
         "curr_course_code": "M E 402",
-        "curr_course_name": "ADDITIVE MANUFACTUR ",
+        "curr_course_name": "ADDITIVE MANUFACTUR",
         "curr_course_fulfills": ""
     },
     {
@@ -1559,7 +1564,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hunt,Aidan",
         "curr_course_code": "M E 426",
-        "curr_course_name": "RENEWABLE ENERGY II ",
+        "curr_course_name": "RENEWABLE ENERGY II",
         "curr_course_fulfills": ""
     },
     {
@@ -1616,9 +1621,10 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kurt,Mehmet",
         "curr_course_code": "M E 469",
-        "curr_course_name": "APPL OF DYN IN ENGR ",
+        "curr_course_name": "APPL OF DYN IN ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -1652,7 +1658,7 @@
         "open_or_closed": "Open",
         "professor_name": "Moore,Stuart",
         "curr_course_code": "M E 478",
-        "curr_course_name": "FINTE ELEMENT ANLYS ",
+        "curr_course_name": "FINTE ELEMENT ANLYS",
         "curr_course_fulfills": ""
     },
     {
@@ -1709,7 +1715,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Chen,Xu",
         "curr_course_code": "M E 480",
         "curr_course_name": "CAD TECHNOLOGY",
         "curr_course_fulfills": ""
@@ -1738,7 +1745,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Chen,Xu",
         "curr_course_code": "M E 480",
         "curr_course_name": "CAD TECHNOLOGY",
         "curr_course_fulfills": ""
@@ -1767,7 +1775,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Chen,Xu",
         "curr_course_code": "M E 480",
         "curr_course_name": "CAD TECHNOLOGY",
         "curr_course_fulfills": ""
@@ -1796,7 +1805,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Chen,Xu",
         "curr_course_code": "M E 480",
         "curr_course_name": "CAD TECHNOLOGY",
         "curr_course_fulfills": ""
@@ -1848,7 +1858,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 495",
         "curr_course_name": "CAPSTONE DESIGN II",
         "curr_course_fulfills": ""
@@ -1877,7 +1887,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 495",
         "curr_course_name": "CAPSTONE DESIGN II",
         "curr_course_fulfills": ""
@@ -1906,7 +1916,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 495",
         "curr_course_name": "CAPSTONE DESIGN II",
         "curr_course_fulfills": ""
@@ -1977,7 +1987,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Patten,Eli",
         "curr_course_code": "M E 495",
         "curr_course_name": "CAPSTONE DESIGN II",
         "curr_course_fulfills": ""
@@ -2009,7 +2020,7 @@
         "open_or_closed": "Open",
         "professor_name": "Reinhall,Per G",
         "curr_course_code": "M E 498",
-        "curr_course_name": "SPEC TPCS MECH ENGR ",
+        "curr_course_name": "SPEC TPCS MECH ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -2039,7 +2050,7 @@
         "open_or_closed": "Open",
         "professor_name": "Robinson,Jenny",
         "curr_course_code": "M E 498",
-        "curr_course_name": "SPEC TPCS MECH ENGR ",
+        "curr_course_name": "SPEC TPCS MECH ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -2069,7 +2080,7 @@
         "open_or_closed": "Open",
         "professor_name": "Meza,Lucas R",
         "curr_course_code": "M E 498",
-        "curr_course_name": "SPEC TPCS MECH ENGR ",
+        "curr_course_name": "SPEC TPCS MECH ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -2099,7 +2110,7 @@
         "open_or_closed": "Open",
         "professor_name": "Sun,Shijing",
         "curr_course_code": "M E 498",
-        "curr_course_name": "SPEC TPCS MECH ENGR ",
+        "curr_course_name": "SPEC TPCS MECH ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -2129,7 +2140,7 @@
         "open_or_closed": "Open",
         "professor_name": "Gao,Dayong",
         "curr_course_code": "M E 498",
-        "curr_course_name": "SPEC TPCS MECH ENGR ",
+        "curr_course_name": "SPEC TPCS MECH ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -2159,7 +2170,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xiao,Jie",
         "curr_course_code": "M E 498",
-        "curr_course_name": "SPEC TPCS MECH ENGR ",
+        "curr_course_name": "SPEC TPCS MECH ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -2179,9 +2190,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Polagye,Brian",
         "curr_course_code": "M E 498",
-        "curr_course_name": "SPEC TPCS MECH ENGR ",
+        "curr_course_name": "SPEC TPCS MECH ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -2202,7 +2213,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 499",
         "curr_course_name": "SPECIAL PROJECTS",
         "curr_course_fulfills": ""
@@ -2225,7 +2235,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 499",
         "curr_course_name": "SPECIAL PROJECTS",
         "curr_course_fulfills": ""
@@ -2254,7 +2263,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sun,Shijing",
         "curr_course_code": "M E 499",
         "curr_course_name": "SPECIAL PROJECTS",
@@ -2277,7 +2285,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 499",
         "curr_course_name": "SPECIAL PROJECTS",
         "curr_course_fulfills": ""
@@ -2304,9 +2311,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 500",
-        "curr_course_name": "ADV COMPOSITE STRUC ",
+        "curr_course_name": "ADV COMPOSITE STRUC",
         "curr_course_fulfills": ""
     },
     {
@@ -2334,7 +2341,7 @@
         "open_or_closed": "Open",
         "professor_name": "Arola,Dwayne D",
         "curr_course_code": "M E 506",
-        "curr_course_name": "ADDITIVE MANUFACTUR ",
+        "curr_course_name": "ADDITIVE MANUFACTUR",
         "curr_course_fulfills": ""
     },
     {
@@ -2359,7 +2366,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 511",
         "curr_course_name": "BIOFRAMEWORKS",
         "curr_course_fulfills": ""
@@ -2386,9 +2393,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 516",
-        "curr_course_name": "ADV MFG ENERGY TECH ",
+        "curr_course_name": "ADV MFG ENERGY TECH",
         "curr_course_fulfills": ""
     },
     {
@@ -2473,7 +2480,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 532",
         "curr_course_name": "CONVECT HEAT TRANS",
         "curr_course_fulfills": ""
@@ -2558,9 +2565,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 540",
-        "curr_course_name": "RENEWABLE ENERGY II ",
+        "curr_course_name": "RENEWABLE ENERGY II",
         "curr_course_fulfills": ""
     },
     {
@@ -2618,7 +2625,7 @@
         "open_or_closed": "Open",
         "professor_name": "Leung,Karen",
         "curr_course_code": "M E 548",
-        "curr_course_name": "LIN MULTVAR CONTROL ",
+        "curr_course_name": "LIN MULTVAR CONTROL",
         "curr_course_fulfills": ""
     },
     {
@@ -2674,7 +2681,7 @@
         "open_or_closed": "Open",
         "professor_name": "Vashisth,Aniruddh",
         "curr_course_code": "M E 563",
-        "curr_course_name": "ADVANCED COMPOSITES ",
+        "curr_course_name": "ADVANCED COMPOSITES",
         "curr_course_fulfills": ""
     },
     {
@@ -2699,7 +2706,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 572",
         "curr_course_name": "CONCEPTUAL DESIGN",
         "curr_course_fulfills": ""
@@ -2726,7 +2733,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 574",
         "curr_course_name": "APPL PAR COMPUTING",
         "curr_course_fulfills": ""
@@ -2776,7 +2783,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 598",
         "curr_course_name": "GRAD PROJECTS",
         "curr_course_fulfills": ""
@@ -2798,7 +2805,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 598",
         "curr_course_name": "GRAD PROJECTS",
         "curr_course_fulfills": ""
@@ -2827,7 +2834,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 598",
         "curr_course_name": "GRAD PROJECTS",
         "curr_course_fulfills": ""
@@ -3002,7 +3008,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 599",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -3029,7 +3034,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 599",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -3058,7 +3063,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 599",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -3087,7 +3092,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 599",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -3116,7 +3120,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "M E 599",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -3139,9 +3143,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -3162,9 +3165,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -3185,7 +3187,6 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -3208,7 +3209,6 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -3231,9 +3231,8 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     },
     {
@@ -3254,9 +3253,8 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "M E 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

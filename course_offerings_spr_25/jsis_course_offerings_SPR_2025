@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Govindrajan,Radhika",
         "curr_course_code": "JSIS 202",
         "curr_course_name": "CLTR & PWR INTL STDY",
         "curr_course_fulfills": [
@@ -50,7 +51,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS 202",
         "curr_course_name": "CLTR & PWR INTL STDY",
         "curr_course_fulfills": [
@@ -79,7 +80,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS 202",
         "curr_course_name": "CLTR & PWR INTL STDY",
         "curr_course_fulfills": [
@@ -108,7 +109,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS 202",
         "curr_course_name": "CLTR & PWR INTL STDY",
         "curr_course_fulfills": [
@@ -137,7 +138,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS 202",
         "curr_course_name": "CLTR & PWR INTL STDY",
         "curr_course_fulfills": [
@@ -166,7 +167,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS 202",
         "curr_course_name": "CLTR & PWR INTL STDY",
         "curr_course_fulfills": [
@@ -195,7 +196,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS 202",
         "curr_course_name": "CLTR & PWR INTL STDY",
         "curr_course_fulfills": [
@@ -224,7 +225,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS 202",
         "curr_course_name": "CLTR & PWR INTL STDY",
         "curr_course_fulfills": [
@@ -253,7 +254,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS 202",
         "curr_course_name": "CLTR & PWR INTL STDY",
         "curr_course_fulfills": [
@@ -282,7 +283,7 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Kale,Sunila",
         "curr_course_code": "JSIS 203",
         "curr_course_name": "RISE OF ASIA",
@@ -345,9 +346,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Das,Debamanyu",
         "curr_course_code": "JSIS 222",
-        "curr_course_name": "MARKETS & ECONOMIES ",
+        "curr_course_name": "MARKETS & ECONOMIES",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -377,7 +379,7 @@
         "open_or_closed": "Open",
         "professor_name": "Mawkanuli,Talant",
         "curr_course_code": "JSIS 287",
-        "curr_course_name": "TPCS MID EAST STDYS ",
+        "curr_course_name": "TPCS MID EAST STDYS",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -406,7 +408,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Pursell,Fred",
         "curr_course_code": "JSIS 478",
         "curr_course_name": "SPEC TOPICS GLOBAL",
         "curr_course_fulfills": [
@@ -465,7 +468,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Likitsrikarnchana,Ink",
         "curr_course_code": "JSIS 478",
         "curr_course_name": "SPEC TOPICS GLOBAL",
@@ -495,7 +498,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JSIS 478",
         "curr_course_name": "SPEC TOPICS GLOBAL",
         "curr_course_fulfills": [
@@ -524,7 +527,8 @@
         "is_estimate": 0,
         "max_capacity": "115",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hoffman,Danny",
         "curr_course_code": "JSIS 478",
         "curr_course_name": "SPEC TOPICS GLOBAL",
         "curr_course_fulfills": [
@@ -613,10 +617,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Likitsrikarnchana,Ink",
         "curr_course_code": "JSIS 486",
-        "curr_course_name": "SPEC TOPICS SE ASIA ",
+        "curr_course_name": "SPEC TOPICS SE ASIA",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -643,10 +647,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Likitsrikarnchana,Ink",
         "curr_course_code": "JSIS 486",
-        "curr_course_name": "SPEC TOPICS SE ASIA ",
+        "curr_course_name": "SPEC TOPICS SE ASIA",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -676,7 +680,7 @@
         "open_or_closed": "Open",
         "professor_name": "Win,Than Than",
         "curr_course_code": "JSIS 486",
-        "curr_course_name": "SPEC TOPICS SE ASIA ",
+        "curr_course_name": "SPEC TOPICS SE ASIA",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -705,7 +709,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Kale,Sunila",
         "curr_course_code": "JSIS 495",
         "curr_course_name": "TASK FORCE",
@@ -762,7 +766,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Meyers,Stephen",
         "curr_course_code": "JSIS 495",
         "curr_course_name": "TASK FORCE",
@@ -810,7 +813,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "JSIS 497",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -903,7 +905,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lin,James",
         "curr_course_code": "JSIS 498",
         "curr_course_name": "ADVANCED READINGS",
         "curr_course_fulfills": [
@@ -992,7 +995,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Mallory,Tabitha",
         "curr_course_code": "JSIS 531",
         "curr_course_name": "ASIA IN THE WORLD",
@@ -1044,9 +1046,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "JSIS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1068,7 +1069,7 @@
         "curr_enrolled": "0",
         "open_or_closed": "Open",
         "curr_course_code": "JSIS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1089,7 +1090,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "JSIS 700",
         "curr_course_name": "MASTER'S THESIS",
         "curr_course_fulfills": ""
@@ -1112,9 +1112,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "JSIS 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

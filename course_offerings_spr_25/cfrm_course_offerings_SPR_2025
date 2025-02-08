@@ -86,7 +86,7 @@
         "open_or_closed": "Open",
         "professor_name": "Shirai,Yoshihiro",
         "curr_course_code": "CFRM 421",
-        "curr_course_name": "MACHINE LRN FINANCE ",
+        "curr_course_name": "MACHINE LRN FINANCE",
         "curr_course_fulfills": ""
     },
     {
@@ -113,10 +113,9 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Thompson,Lowell F.",
         "curr_course_code": "CFRM 505",
-        "curr_course_name": "MONTECARLO MTHD FIN ",
+        "curr_course_name": "MONTECARLO MTHD FIN",
         "curr_course_fulfills": ""
     },
     {
@@ -143,10 +142,9 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Shirai,Yoshihiro",
         "curr_course_code": "CFRM 521",
-        "curr_course_name": "MACHINE LRN FINANCE ",
+        "curr_course_name": "MACHINE LRN FINANCE",
         "curr_course_fulfills": ""
     },
     {
@@ -173,10 +171,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hansen,Benjamin",
         "curr_course_code": "CFRM 523",
-        "curr_course_name": "ADV TRADING SYSTEMS ",
+        "curr_course_name": "ADV TRADING SYSTEMS",
         "curr_course_fulfills": ""
     }
 ]

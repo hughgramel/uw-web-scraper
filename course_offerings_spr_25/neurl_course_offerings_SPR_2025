@@ -17,7 +17,6 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "NEURL 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -39,7 +38,6 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Kraus,Eric",
         "curr_course_code": "NEURL 505P",
         "curr_course_name": "P-PRECEPT NEUROL",
@@ -88,7 +86,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 630P",
         "curr_course_name": "P-INT-NEURL-HELENA",
         "curr_course_fulfills": ""
@@ -108,7 +106,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 631P",
         "curr_course_name": "P-NEURL-CHEYENNE",
         "curr_course_fulfills": ""
@@ -130,7 +128,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 632P",
         "curr_course_name": "P-INT NEURL CASPER",
         "curr_course_fulfills": ""
@@ -152,7 +150,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 633P",
         "curr_course_name": "P-NEURL-ANC AK",
         "curr_course_fulfills": ""
@@ -174,7 +172,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 634P",
         "curr_course_name": "P-NEURL-ANMC AK",
         "curr_course_fulfills": ""
@@ -196,7 +194,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 635P",
         "curr_course_name": "P-INT NEURL GF-ATLAS",
         "curr_course_fulfills": ""
@@ -216,7 +214,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 636P",
         "curr_course_name": "P-INT NUERL KLSPL",
         "curr_course_fulfills": ""
@@ -238,9 +236,9 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 637P",
-        "curr_course_name": "P-INT NEURL-MISSOU1 ",
+        "curr_course_name": "P-INT NEURL-MISSOU1",
         "curr_course_fulfills": ""
     },
     {
@@ -260,9 +258,9 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 638P",
-        "curr_course_name": "P-INT NEURL-GRTFLLS ",
+        "curr_course_name": "P-INT NEURL-GRTFLLS",
         "curr_course_fulfills": ""
     },
     {
@@ -282,7 +280,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 639P",
         "curr_course_name": "P-NEURL-BLLNG RNC",
         "curr_course_fulfills": ""
@@ -304,9 +302,9 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 640P",
-        "curr_course_name": "P-INT NEURL-BLLNGS1 ",
+        "curr_course_name": "P-INT NEURL-BLLNGS1",
         "curr_course_fulfills": ""
     },
     {
@@ -324,7 +322,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 641P",
         "curr_course_name": "P-NEURL-BOZEMAN",
         "curr_course_fulfills": ""
@@ -346,7 +344,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 642P",
         "curr_course_name": "P-INTRO NEURL-STLUKE",
         "curr_course_fulfills": ""
@@ -368,7 +366,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 643P",
         "curr_course_name": "P-INT NEURL-BOISE2",
         "curr_course_fulfills": ""
@@ -390,9 +388,9 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 644P",
-        "curr_course_name": "P-NEURL-IDFLLS EINA ",
+        "curr_course_name": "P-NEURL-IDFLLS EINA",
         "curr_course_fulfills": ""
     },
     {
@@ -412,7 +410,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 645P",
         "curr_course_name": "P-NEURL-ID FALLS",
         "curr_course_fulfills": ""
@@ -434,7 +432,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 647P",
         "curr_course_name": "P-NEURL-BOISE ST ALF",
         "curr_course_fulfills": ""
@@ -456,9 +454,9 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 648P",
-        "curr_course_name": "P-NEURL-COEURDALENE ",
+        "curr_course_name": "P-NEURL-COEURDALENE",
         "curr_course_fulfills": ""
     },
     {
@@ -478,7 +476,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 649P",
         "curr_course_name": "P-INT NEURL ST JO",
         "curr_course_fulfills": ""
@@ -500,7 +498,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 650P",
         "curr_course_name": "P-INT NEURL LACEY",
         "curr_course_fulfills": ""
@@ -522,7 +520,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 651P",
         "curr_course_name": "P-ING NEURL KIRK",
         "curr_course_fulfills": ""
@@ -544,7 +542,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 652P",
         "curr_course_name": "P-INT NEURL ROCKW",
         "curr_course_fulfills": ""
@@ -566,9 +564,9 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 654P",
-        "curr_course_name": "P-INT NEURL-SELKIRK ",
+        "curr_course_name": "P-INT NEURL-SELKIRK",
         "curr_course_fulfills": ""
     },
     {
@@ -588,7 +586,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 655P",
         "curr_course_name": "P-INT NEURL-SPOK",
         "curr_course_fulfills": ""
@@ -610,9 +608,9 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 656P",
-        "curr_course_name": "P-INT NEURL-WENATCH ",
+        "curr_course_name": "P-INT NEURL-WENATCH",
         "curr_course_fulfills": ""
     },
     {
@@ -630,9 +628,9 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 656P",
-        "curr_course_name": "P-INT NEURL-WENATCH ",
+        "curr_course_name": "P-INT NEURL-WENATCH",
         "curr_course_fulfills": ""
     },
     {
@@ -652,7 +650,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 657P",
         "curr_course_name": "P-NEURL-YAKIMA",
         "curr_course_fulfills": ""
@@ -674,9 +672,9 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 658P",
-        "curr_course_name": "P-INT NEURL-OLYNEUR ",
+        "curr_course_name": "P-INT NEURL-OLYNEUR",
         "curr_course_fulfills": ""
     },
     {
@@ -696,7 +694,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 659P",
         "curr_course_name": "P-INT NEURL-LKWOOD",
         "curr_course_fulfills": ""
@@ -718,9 +716,9 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 660P",
-        "curr_course_name": "P-INT NEURL-MADIGAN ",
+        "curr_course_name": "P-INT NEURL-MADIGAN",
         "curr_course_fulfills": ""
     },
     {
@@ -740,7 +738,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 661P",
         "curr_course_name": "P-NEURL-MULTICARE",
         "curr_course_fulfills": ""
@@ -762,7 +760,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 662P",
         "curr_course_name": "P-INT NEURL-GH TAC",
         "curr_course_fulfills": ""
@@ -784,9 +782,9 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 663P",
-        "curr_course_name": "P-INT NEURL-GH EAST ",
+        "curr_course_name": "P-INT NEURL-GH EAST",
         "curr_course_fulfills": ""
     },
     {
@@ -806,7 +804,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 664P",
         "curr_course_name": "P-INT NEURL-BURIEN",
         "curr_course_fulfills": ""
@@ -839,7 +837,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Kraus,Eric",
         "curr_course_code": "NEURL 665P",
         "curr_course_name": "P-INTRO NEURL-UWMC",
@@ -862,7 +860,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 666P",
         "curr_course_name": "P-INT NEURL - HMC",
         "curr_course_fulfills": ""
@@ -884,7 +882,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 667P",
         "curr_course_name": "P-INT NEURL - VA",
         "curr_course_fulfills": ""
@@ -906,7 +904,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 668P",
         "curr_course_name": "P-INT NEURL - NW",
         "curr_course_fulfills": ""
@@ -928,7 +926,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 669P",
         "curr_course_name": "P-INT NEURL - VM",
         "curr_course_fulfills": ""
@@ -950,7 +948,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 670P",
         "curr_course_name": "P-INT NEURL - MJ",
         "curr_course_fulfills": ""
@@ -972,7 +970,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 671P",
         "curr_course_name": "P-INT NEURL - SWED",
         "curr_course_fulfills": ""
@@ -994,7 +992,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 672P",
         "curr_course_name": "P-INT NEURL-GH SEA",
         "curr_course_fulfills": ""
@@ -1016,7 +1014,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 673P",
         "curr_course_name": "P-INT NEURL-VALLEY",
         "curr_course_fulfills": ""
@@ -1038,7 +1036,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 675P",
         "curr_course_name": "P-INT NEURL- VANC",
         "curr_course_fulfills": ""
@@ -1058,7 +1056,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 688P",
         "curr_course_name": "P-CHILD-NEUROLOGY",
         "curr_course_fulfills": ""
@@ -1078,7 +1076,7 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 688P",
         "curr_course_name": "P-CHILD-NEUROLOGY",
         "curr_course_fulfills": ""
@@ -1100,9 +1098,9 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 697",
-        "curr_course_name": "NEURL AWAY ELECTIVE ",
+        "curr_course_name": "NEURL AWAY ELECTIVE",
         "curr_course_fulfills": ""
     },
     {
@@ -1122,9 +1120,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NEURL 699",
-        "curr_course_name": "WWAMI NEURL SP ELEC ",
+        "curr_course_name": "WWAMI NEURL SP ELEC",
         "curr_course_fulfills": ""
     }
 ]

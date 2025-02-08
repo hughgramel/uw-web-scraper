@@ -51,7 +51,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Dimaio,Frank",
         "curr_course_code": "BPSD 542",
         "curr_course_name": "LIT REVIEW BMSD",
         "curr_course_fulfills": ""
@@ -74,9 +74,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "BPSD 599",
-        "curr_course_name": "INTRO RESEARCH BMSD ",
+        "curr_course_name": "INTRO RESEARCH BMSD",
         "curr_course_fulfills": ""
     }
 ]

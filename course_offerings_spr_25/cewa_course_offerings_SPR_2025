@@ -150,7 +150,7 @@
         "open_or_closed": "Open",
         "professor_name": "Derakhti,Morteza",
         "curr_course_code": "CEWA 573",
-        "curr_course_name": "COAST WAVES FOR ENG ",
+        "curr_course_name": "COAST WAVES FOR ENG",
         "curr_course_fulfills": ""
     },
     {
@@ -214,7 +214,7 @@
         "open_or_closed": "Open",
         "professor_name": "Lundquist,Jessica D",
         "curr_course_code": "CEWA 578",
-        "curr_course_name": "WATER SYS MGMT & OP ",
+        "curr_course_name": "WATER SYS MGMT & OP",
         "curr_course_fulfills": ""
     }
 ]

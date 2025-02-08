@@ -26,7 +26,7 @@
         "open_or_closed": "Open",
         "professor_name": "GAUL,JENNIFER",
         "curr_course_code": "EDC&I 351",
-        "curr_course_name": "TEACHING PROFESSION ",
+        "curr_course_name": "TEACHING PROFESSION",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -59,7 +59,7 @@
         "open_or_closed": "Open",
         "professor_name": "GAUL,JENNIFER",
         "curr_course_code": "EDC&I 351",
-        "curr_course_name": "TEACHING PROFESSION ",
+        "curr_course_name": "TEACHING PROFESSION",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -184,7 +184,7 @@
         "open_or_closed": "Open",
         "professor_name": "Debbs,Khavin Joseph",
         "curr_course_code": "EDC&I 495",
-        "curr_course_name": "IMPRVMNT OF TEACHNG ",
+        "curr_course_name": "IMPRVMNT OF TEACHNG",
         "curr_course_fulfills": ""
     },
     {
@@ -205,7 +205,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDC&I 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -227,7 +226,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Dietrich,Lynn",
         "curr_course_code": "EDC&I 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -249,10 +248,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Saliba,Liz Hartwell",
         "curr_course_code": "EDC&I 505",
-        "curr_course_name": "SEM IN CURR & INSTR ",
+        "curr_course_name": "SEM IN CURR & INSTR",
         "curr_course_fulfills": ""
     },
     {
@@ -272,10 +270,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Kelley-Petersen,Megan M",
         "curr_course_code": "EDC&I 505",
-        "curr_course_name": "SEM IN CURR & INSTR ",
+        "curr_course_name": "SEM IN CURR & INSTR",
         "curr_course_fulfills": ""
     },
     {
@@ -295,10 +292,9 @@
         "is_estimate": 1,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bird,Erin M.",
         "curr_course_code": "EDC&I 505",
-        "curr_course_name": "SEM IN CURR & INSTR ",
+        "curr_course_name": "SEM IN CURR & INSTR",
         "curr_course_fulfills": ""
     },
     {
@@ -325,7 +321,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Varghese,Manka M",
         "curr_course_code": "EDC&I 506",
         "curr_course_name": "TOPICS RSCH MTHDS",
@@ -355,7 +350,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Santiago,Maribel",
         "curr_course_code": "EDC&I 506",
         "curr_course_name": "TOPICS RSCH MTHDS",
@@ -385,10 +379,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Rodriguez,Haydee Marie",
         "curr_course_code": "EDC&I 540",
-        "curr_course_name": "IMMIGRANT SCHOOLING ",
+        "curr_course_name": "IMMIGRANT SCHOOLING",
         "curr_course_fulfills": ""
     },
     {
@@ -415,9 +408,9 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Cohen,Shoshanna",
         "curr_course_code": "EDC&I 542",
-        "curr_course_name": "ESL ASSESSMENT K-12 ",
+        "curr_course_name": "ESL ASSESSMENT K-12",
         "curr_course_fulfills": ""
     },
     {
@@ -444,7 +437,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Williams,Thad",
         "curr_course_code": "EDC&I 545",
         "curr_course_name": "MLTI-LING SOC&DVLPMT",
@@ -474,7 +466,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Yi-Cline,Fenglan",
         "curr_course_code": "EDC&I 548",
         "curr_course_name": "TEACHING ESL",
         "curr_course_fulfills": ""
@@ -503,7 +495,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Shank,Renee",
         "curr_course_code": "EDC&I 549",
         "curr_course_name": "PRAC TCH MLTLNGL LRN",
@@ -529,7 +520,7 @@
         "open_or_closed": "Open",
         "professor_name": "Bagley,Sylvia Stralberg",
         "curr_course_code": "EDC&I 553",
-        "curr_course_name": "DATA USE SCHL IMPRV ",
+        "curr_course_name": "DATA USE SCHL IMPRV",
         "curr_course_fulfills": ""
     },
     {
@@ -556,10 +547,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Kazemi,Elham",
         "curr_course_code": "EDC&I 577",
-        "curr_course_name": "CURR ISSUES MATH ED ",
+        "curr_course_name": "CURR ISSUES MATH ED",
         "curr_course_fulfills": ""
     },
     {
@@ -586,7 +576,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Paris,Django",
         "curr_course_code": "EDC&I 579",
         "curr_course_name": "CULTURALLY SUS PEDAG",
         "curr_course_fulfills": ""
@@ -609,7 +599,6 @@
         "is_estimate": 1,
         "max_capacity": "14",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDC&I 599",
         "curr_course_name": "INDEP STUDIES EDUC",
         "curr_course_fulfills": ""
@@ -632,9 +621,8 @@
         "is_estimate": 1,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDC&I 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -655,7 +643,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDC&I 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""

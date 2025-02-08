@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "240",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Laws,Chris",
         "curr_course_code": "ASTR 101",
         "curr_course_name": "ASTRONOMY",
         "curr_course_fulfills": [
@@ -51,7 +52,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 101",
         "curr_course_name": "ASTRONOMY",
         "curr_course_fulfills": [
@@ -81,7 +82,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 101",
         "curr_course_name": "ASTRONOMY",
         "curr_course_fulfills": [
@@ -111,7 +112,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 101",
         "curr_course_name": "ASTRONOMY",
         "curr_course_fulfills": [
@@ -141,7 +142,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 101",
         "curr_course_name": "ASTRONOMY",
         "curr_course_fulfills": [
@@ -171,7 +172,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 101",
         "curr_course_name": "ASTRONOMY",
         "curr_course_fulfills": [
@@ -201,7 +202,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 101",
         "curr_course_name": "ASTRONOMY",
         "curr_course_fulfills": [
@@ -255,7 +256,7 @@
         "is_estimate": 0,
         "max_capacity": "240",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Cisneros,Sophia",
         "curr_course_code": "ASTR 150",
         "curr_course_name": "THE PLANETS",
@@ -286,7 +287,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 150",
         "curr_course_name": "THE PLANETS",
         "curr_course_fulfills": [
@@ -316,7 +317,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 150",
         "curr_course_name": "THE PLANETS",
         "curr_course_fulfills": [
@@ -346,7 +347,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 150",
         "curr_course_name": "THE PLANETS",
         "curr_course_fulfills": [
@@ -376,7 +377,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 150",
         "curr_course_name": "THE PLANETS",
         "curr_course_fulfills": [
@@ -406,7 +407,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 150",
         "curr_course_name": "THE PLANETS",
         "curr_course_fulfills": [
@@ -436,7 +437,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 150",
         "curr_course_name": "THE PLANETS",
         "curr_course_fulfills": [
@@ -493,7 +494,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kamai,Brittany",
         "curr_course_code": "ASTR 190",
-        "curr_course_name": "TOPICS IN ASTRONOMY ",
+        "curr_course_name": "TOPICS IN ASTRONOMY",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -520,10 +521,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Anderson,Scott",
         "curr_course_code": "ASTR 190",
-        "curr_course_name": "TOPICS IN ASTRONOMY ",
+        "curr_course_name": "TOPICS IN ASTRONOMY",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -550,7 +551,7 @@
         "is_estimate": 1,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Smith,Toby",
         "curr_course_code": "ASTR 216",
         "curr_course_name": "IMPACT EARTH",
@@ -580,10 +581,10 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Davenport,James R",
         "curr_course_code": "ASTR 270",
-        "curr_course_name": "PUBLIC OUTRCH ASTRO ",
+        "curr_course_name": "PUBLIC OUTRCH ASTRO",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -610,7 +611,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Juric,Mario",
         "curr_course_code": "ASTR 302",
         "curr_course_name": "PYTHON FOR ASTRONOMY",
         "curr_course_fulfills": [
@@ -643,7 +645,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hevly,Bruce",
         "curr_course_code": "ASTR 313",
-        "curr_course_name": "SCI&CIV-PHYS&ASTPHY ",
+        "curr_course_name": "SCI&CIV-PHYS&ASTPHY",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -672,7 +674,7 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Smith,Toby",
         "curr_course_code": "ASTR 321",
         "curr_course_name": "SOLAR SYSTEM",
@@ -702,7 +704,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Juric,Mario",
         "curr_course_code": "ASTR 324",
         "curr_course_name": "ASTROSTATISTICS",
         "curr_course_fulfills": [
@@ -737,7 +740,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Sanchez-Gallego,Jose",
         "curr_course_code": "ASTR 480",
         "curr_course_name": "ASTRO DATA ANALYS",
         "curr_course_fulfills": [
@@ -768,7 +772,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Levesque,Emily",
         "curr_course_code": "ASTR 482",
         "curr_course_name": "SCIENTIFIC WRITING",
@@ -791,7 +795,7 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 498",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": [
@@ -816,7 +820,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ASTR 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -845,10 +848,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Long,Arianna",
         "curr_course_code": "ASTR 512",
-        "curr_course_name": "EXTRAGALACTIC ASTRN ",
+        "curr_course_name": "EXTRAGALACTIC ASTRN",
         "curr_course_fulfills": ""
     },
     {
@@ -875,10 +878,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McQuinn,Matthew",
         "curr_course_code": "ASTR 513",
-        "curr_course_name": "COSMOL/PART ASTRPHY ",
+        "curr_course_name": "COSMOL/PART ASTRPHY",
         "curr_course_fulfills": ""
     },
     {
@@ -968,7 +971,7 @@
         "open_or_closed": "Open",
         "professor_name": "Kamai,Brittany",
         "curr_course_code": "ASTR 597",
-        "curr_course_name": "TOPICS OBS ASTROPHY ",
+        "curr_course_name": "TOPICS OBS ASTROPHY",
         "curr_course_fulfills": ""
     },
     {
@@ -988,9 +991,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASTR 598",
-        "curr_course_name": "TPCS THEOR ASTRPHYS ",
+        "curr_course_name": "TPCS THEOR ASTRPHYS",
         "curr_course_fulfills": ""
     },
     {
@@ -1011,9 +1014,8 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ASTR 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1034,9 +1036,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ASTR 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

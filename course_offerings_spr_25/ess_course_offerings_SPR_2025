@@ -51,7 +51,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -80,7 +80,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -109,7 +109,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -138,7 +138,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -167,7 +167,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -196,7 +196,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -225,7 +225,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -254,7 +254,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -283,7 +283,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -312,7 +312,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -341,7 +341,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -370,7 +370,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -399,7 +399,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -428,7 +428,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -457,7 +457,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -486,7 +486,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 101",
         "curr_course_name": "GEOLOGY & SOCIETY",
         "curr_course_fulfills": [
@@ -920,7 +920,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -949,7 +949,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -978,7 +978,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -1007,7 +1007,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -1036,7 +1036,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -1065,7 +1065,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -1094,7 +1094,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -1123,7 +1123,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -1152,7 +1152,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -1183,7 +1183,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ESS 102",
         "curr_course_name": "SPACE&SPACE TRAVEL",
         "curr_course_fulfills": [
@@ -1212,7 +1211,8 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Martin,Ruth",
         "curr_course_code": "ESS 104",
         "curr_course_name": "PREHISTORIC LIFE",
         "curr_course_fulfills": [
@@ -1241,7 +1241,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 104",
         "curr_course_name": "PREHISTORIC LIFE",
         "curr_course_fulfills": [
@@ -1270,7 +1270,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 104",
         "curr_course_name": "PREHISTORIC LIFE",
         "curr_course_fulfills": [
@@ -1299,7 +1299,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 104",
         "curr_course_name": "PREHISTORIC LIFE",
         "curr_course_fulfills": [
@@ -1328,7 +1328,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 104",
         "curr_course_name": "PREHISTORIC LIFE",
         "curr_course_fulfills": [
@@ -1357,10 +1357,10 @@
         "is_estimate": 0,
         "max_capacity": "195",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Harrell,Michael",
         "curr_course_code": "ESS 106",
-        "curr_course_name": "LIVING WITH VOLCANO ",
+        "curr_course_name": "LIVING WITH VOLCANO",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -1417,7 +1417,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 213",
         "curr_course_name": "EVOLUTION OF EARTH",
         "curr_course_fulfills": [
@@ -1446,7 +1446,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 213",
         "curr_course_name": "EVOLUTION OF EARTH",
         "curr_course_fulfills": [
@@ -1477,7 +1477,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ESS 213",
         "curr_course_name": "EVOLUTION OF EARTH",
         "curr_course_fulfills": [
@@ -1508,7 +1507,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ESS 213",
         "curr_course_name": "EVOLUTION OF EARTH",
         "curr_course_fulfills": [
@@ -1537,7 +1535,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Condit,Cailey",
         "curr_course_code": "ESS 312",
         "curr_course_name": "EARTH MATERIALS",
         "curr_course_fulfills": [
@@ -1566,7 +1565,7 @@
         "is_estimate": 0,
         "max_capacity": "23",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 312",
         "curr_course_name": "EARTH MATERIALS",
         "curr_course_fulfills": [
@@ -1595,7 +1594,7 @@
         "is_estimate": 0,
         "max_capacity": "23",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 312",
         "curr_course_name": "EARTH MATERIALS",
         "curr_course_fulfills": [
@@ -1626,7 +1625,6 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ESS 312",
         "curr_course_name": "EARTH MATERIALS",
         "curr_course_fulfills": [
@@ -1655,7 +1653,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tobin,Harold",
         "curr_course_code": "ESS 314",
         "curr_course_name": "GEOPHYSICS",
@@ -1685,7 +1683,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 314",
         "curr_course_name": "GEOPHYSICS",
         "curr_course_fulfills": [
@@ -1714,7 +1712,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 314",
         "curr_course_name": "GEOPHYSICS",
         "curr_course_fulfills": [
@@ -1743,9 +1741,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Walters,Steven",
         "curr_course_code": "ESS 420",
-        "curr_course_name": "INTRO GIS EARTH SCI ",
+        "curr_course_name": "INTRO GIS EARTH SCI",
         "curr_course_fulfills": ""
     },
     {
@@ -1770,9 +1769,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 420",
-        "curr_course_name": "INTRO GIS EARTH SCI ",
+        "curr_course_name": "INTRO GIS EARTH SCI",
         "curr_course_fulfills": ""
     },
     {
@@ -1797,9 +1796,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 420",
-        "curr_course_name": "INTRO GIS EARTH SCI ",
+        "curr_course_name": "INTRO GIS EARTH SCI",
         "curr_course_fulfills": ""
     },
     {
@@ -1829,7 +1828,7 @@
         "open_or_closed": "Open",
         "professor_name": "Christianson,Knut",
         "curr_course_code": "ESS 431",
-        "curr_course_name": "PRINS OF GLACIOLOGY ",
+        "curr_course_name": "PRINS OF GLACIOLOGY",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1856,10 +1855,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Swanson,Terry",
         "curr_course_code": "ESS 433",
-        "curr_course_name": "ENV OF GLACIAL AGES ",
+        "curr_course_name": "ENV OF GLACIAL AGES",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1886,9 +1885,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 433",
-        "curr_course_name": "ENV OF GLACIAL AGES ",
+        "curr_course_name": "ENV OF GLACIAL AGES",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1945,7 +1944,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 445",
         "curr_course_name": "ECONOMIC GEOLOGY",
         "curr_course_fulfills": [
@@ -1974,7 +1973,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 454",
         "curr_course_name": "HYDROGEOLOGY",
         "curr_course_fulfills": [
@@ -2003,7 +2002,7 @@
         "is_estimate": 0,
         "max_capacity": "17",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 454",
         "curr_course_name": "HYDROGEOLOGY",
         "curr_course_fulfills": [
@@ -2032,7 +2031,7 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 454",
         "curr_course_name": "HYDROGEOLOGY",
         "curr_course_fulfills": [
@@ -2091,7 +2090,7 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 456",
         "curr_course_name": "SED GEO",
         "curr_course_fulfills": [
@@ -2120,7 +2119,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "ESS 456",
         "curr_course_name": "SED GEO",
         "curr_course_fulfills": [
@@ -2152,7 +2151,7 @@
         "open_or_closed": "Open",
         "professor_name": "Riser,Stephen C",
         "curr_course_code": "ESS 475",
-        "curr_course_name": "CLMT SCI RSRCH SMNR ",
+        "curr_course_name": "CLMT SCI RSRCH SMNR",
         "curr_course_fulfills": ""
     },
     {
@@ -2209,7 +2208,7 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 482",
         "curr_course_name": "ENV GEOCHEM LAB",
         "curr_course_fulfills": [
@@ -2238,7 +2237,7 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 482",
         "curr_course_name": "ENV GEOCHEM LAB",
         "curr_course_fulfills": [
@@ -2301,7 +2300,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Muth,Michelle",
         "curr_course_code": "ESS 490",
         "curr_course_name": "SPECIAL TOPICS",
@@ -2333,7 +2331,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ESS 490",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -2357,7 +2354,6 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ESS 490",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -2381,7 +2377,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ESS 490",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -2405,7 +2400,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Swanson,Terry W",
         "curr_course_code": "ESS 492",
         "curr_course_name": "EDU EARTH SCI",
@@ -2430,7 +2424,6 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Martin,Ruth",
         "curr_course_code": "ESS 492",
         "curr_course_name": "EDU EARTH SCI",
@@ -2455,7 +2448,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ESS 492",
         "curr_course_name": "EDU EARTH SCI",
         "curr_course_fulfills": [
@@ -2479,7 +2471,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 498",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -2501,7 +2493,7 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -2523,7 +2515,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -2580,7 +2572,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Walters,Steven",
         "curr_course_code": "ESS 521",
         "curr_course_name": "ADVGEOSPAT EARTH SCI",
         "curr_course_fulfills": ""
@@ -2628,7 +2621,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "ESS 540",
         "curr_course_name": "ADV IGNEOUS PETROL",
         "curr_course_fulfills": ""
@@ -2686,7 +2679,7 @@
         "open_or_closed": "Open",
         "professor_name": "Tobin,Harold J",
         "curr_course_code": "ESS 562",
-        "curr_course_name": "OBSERVATNAL SEISMOL ",
+        "curr_course_name": "OBSERVATNAL SEISMOL",
         "curr_course_fulfills": ""
     },
     {
@@ -2771,7 +2764,7 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 582",
         "curr_course_name": "ENV GEOCHEM LAB",
         "curr_course_fulfills": [
@@ -2800,7 +2793,7 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 582",
         "curr_course_name": "ENV GEOCHEM LAB",
         "curr_course_fulfills": [
@@ -2829,7 +2822,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 584",
         "curr_course_name": "SPACE LAW & POLICY",
         "curr_course_fulfills": ""
@@ -2914,7 +2907,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Cantine,Marjorie",
         "curr_course_code": "ESS 590",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -2934,7 +2927,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Journaux,Baptiste",
         "curr_course_code": "ESS 590",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -2954,7 +2948,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Huntington,Katharine",
         "curr_course_code": "ESS 590",
         "curr_course_name": "SPECIAL TOPICS",
@@ -2975,7 +2969,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "ESS 590",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -3004,7 +2998,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 594",
         "curr_course_name": "INTRO ESS RSRCH",
         "curr_course_fulfills": ""
@@ -3076,9 +3070,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 597",
-        "curr_course_name": "APP GEOSCI INVESTGN ",
+        "curr_course_name": "APP GEOSCI INVESTGN",
         "curr_course_fulfills": ""
     },
     {
@@ -3128,9 +3122,9 @@
         "is_estimate": 1,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -3150,7 +3144,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -3172,9 +3166,9 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESS 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

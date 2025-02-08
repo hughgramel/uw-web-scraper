@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "UKR 403",
         "curr_course_name": "1ST YR UKRAINIAN",
         "curr_course_fulfills": ""

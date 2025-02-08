@@ -53,7 +53,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bravo,Nesley",
         "curr_course_code": "SOC WF 312",
         "curr_course_name": "SOCL WELF PRAC III",
         "curr_course_fulfills": ""
@@ -82,7 +83,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rixen,Nicole",
         "curr_course_code": "SOC WF 312",
         "curr_course_name": "SOCL WELF PRAC III",
         "curr_course_fulfills": ""
@@ -111,7 +113,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hernandez,Elizabeth",
         "curr_course_code": "SOC WF 315",
         "curr_course_name": "COMM SERV LEARNING",
         "curr_course_fulfills": ""
@@ -140,7 +143,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Stein,J.J.",
         "curr_course_code": "SOC WF 315",
         "curr_course_name": "COMM SERV LEARNING",
         "curr_course_fulfills": ""
@@ -173,9 +177,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 320",
-        "curr_course_name": "SOCL WELFARE POLICY ",
+        "curr_course_name": "SOCL WELFARE POLICY",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -197,7 +201,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 415",
         "curr_course_name": "BEGIN FIELD INSTR",
         "curr_course_fulfills": ""
@@ -217,7 +221,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 415",
         "curr_course_name": "BEGIN FIELD INSTR",
         "curr_course_fulfills": ""
@@ -237,7 +241,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 415",
         "curr_course_name": "BEGIN FIELD INSTR",
         "curr_course_fulfills": ""
@@ -266,9 +270,9 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 460",
-        "curr_course_name": "CHEMICAL DEPENDENCY ",
+        "curr_course_name": "CHEMICAL DEPENDENCY",
         "curr_course_fulfills": ""
     },
     {
@@ -295,9 +299,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 465",
-        "curr_course_name": "SW CAPSTONE SEMINAR ",
+        "curr_course_name": "SW CAPSTONE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -324,9 +328,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 465",
-        "curr_course_name": "SW CAPSTONE SEMINAR ",
+        "curr_course_name": "SW CAPSTONE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -347,9 +351,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SOC WF 490",
-        "curr_course_name": "IND RESEARCH SOC WF ",
+        "curr_course_name": "IND RESEARCH SOC WF",
         "curr_course_fulfills": ""
     },
     {
@@ -400,7 +403,6 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SOC WF 492",
         "curr_course_name": "HONORS THESIS I",
         "curr_course_fulfills": ""
@@ -423,7 +425,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SOC WF 493",
         "curr_course_name": "HONORS THESIS II",
         "curr_course_fulfills": ""
@@ -452,7 +453,7 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -481,7 +482,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -510,7 +511,8 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Gonzalez,Glen",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -537,7 +539,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -564,7 +566,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -591,7 +593,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -618,7 +620,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -645,7 +647,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -672,7 +674,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -699,7 +701,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -726,7 +728,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -753,7 +755,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -780,7 +782,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -807,7 +809,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -834,7 +836,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -861,7 +863,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -888,7 +890,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -915,7 +917,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -942,7 +944,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -969,7 +971,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -996,7 +998,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1023,7 +1025,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1050,7 +1052,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1077,7 +1079,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1104,7 +1106,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 495",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1127,7 +1129,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SOC WF 499",
         "curr_course_name": "IND STDY SOC WF",
         "curr_course_fulfills": ""
@@ -1149,7 +1150,7 @@
         "is_estimate": 1,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SOC WF 499",
         "curr_course_name": "IND STDY SOC WF",
         "curr_course_fulfills": ""

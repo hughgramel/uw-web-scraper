@@ -21,9 +21,10 @@
         "is_estimate": 0,
         "max_capacity": "240",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mackenzie-Helnwein,Peter",
         "curr_course_code": "CEE 220",
-        "curr_course_name": "INTRO MECH OF MATLS ",
+        "curr_course_name": "INTRO MECH OF MATLS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -50,9 +51,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 220",
-        "curr_course_name": "INTRO MECH OF MATLS ",
+        "curr_course_name": "INTRO MECH OF MATLS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -79,9 +80,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 220",
-        "curr_course_name": "INTRO MECH OF MATLS ",
+        "curr_course_name": "INTRO MECH OF MATLS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -108,9 +109,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 220",
-        "curr_course_name": "INTRO MECH OF MATLS ",
+        "curr_course_name": "INTRO MECH OF MATLS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -137,9 +138,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 220",
-        "curr_course_name": "INTRO MECH OF MATLS ",
+        "curr_course_name": "INTRO MECH OF MATLS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -166,9 +167,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 220",
-        "curr_course_name": "INTRO MECH OF MATLS ",
+        "curr_course_name": "INTRO MECH OF MATLS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -195,9 +196,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 220",
-        "curr_course_name": "INTRO MECH OF MATLS ",
+        "curr_course_name": "INTRO MECH OF MATLS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -224,9 +225,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 220",
-        "curr_course_name": "INTRO MECH OF MATLS ",
+        "curr_course_name": "INTRO MECH OF MATLS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -248,7 +249,7 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "LE,TOM",
         "curr_course_code": "CEE 291",
         "curr_course_name": "INTRO CAD CIVIL ENGR",
@@ -274,7 +275,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CEE 297",
         "curr_course_name": "FOREIGN STUDY",
         "curr_course_fulfills": ""
@@ -297,9 +297,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CEE 299",
-        "curr_course_name": "INDEPENDENT PROJECT ",
+        "curr_course_name": "INDEPENDENT PROJECT",
         "curr_course_fulfills": ""
     },
     {
@@ -356,7 +355,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 337",
         "curr_course_name": "CONSTR MATERIALS",
         "curr_course_fulfills": ""
@@ -385,7 +384,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 337",
         "curr_course_name": "CONSTR MATERIALS",
         "curr_course_fulfills": ""
@@ -414,7 +413,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 337",
         "curr_course_name": "CONSTR MATERIALS",
         "curr_course_fulfills": ""
@@ -443,7 +442,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 337",
         "curr_course_name": "CONSTR MATERIALS",
         "curr_course_fulfills": ""
@@ -472,7 +471,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 337",
         "curr_course_name": "CONSTR MATERIALS",
         "curr_course_fulfills": ""
@@ -501,7 +500,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CEE 337",
         "curr_course_name": "CONSTR MATERIALS",
         "curr_course_fulfills": ""
@@ -534,7 +532,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nijssen,Bart",
         "curr_course_code": "CEE 348",
         "curr_course_name": "HYDROLOGY",
         "curr_course_fulfills": ""
@@ -563,7 +562,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Kolodziej,Edward",
         "curr_course_code": "CEE 356",
         "curr_course_name": "SUSTAINABILITY TOOLS",
@@ -593,7 +592,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Brett,Michael",
         "curr_course_code": "CEE 357",
         "curr_course_name": "ENVIRONMENTAL ENGR",
@@ -623,7 +622,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Brett,Michael",
         "curr_course_code": "CEE 357",
         "curr_course_name": "ENVIRONMENTAL ENGR",
@@ -653,7 +652,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Brett,Michael",
         "curr_course_code": "CEE 357",
         "curr_course_name": "ENVIRONMENTAL ENGR",
@@ -713,7 +712,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 367",
         "curr_course_name": "GEOTECHNICAL ENGR",
         "curr_course_fulfills": ""
@@ -742,7 +741,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 367",
         "curr_course_name": "GEOTECHNICAL ENGR",
         "curr_course_fulfills": ""
@@ -771,7 +770,7 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 367",
         "curr_course_name": "GEOTECHNICAL ENGR",
         "curr_course_fulfills": ""
@@ -800,7 +799,7 @@
         "is_estimate": 0,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Berman,Jeffrey",
         "curr_course_code": "CEE 378",
         "curr_course_name": "STRUCT ANALYSIS",
@@ -828,7 +827,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Berman,Jeffrey",
         "curr_course_code": "CEE 378",
         "curr_course_name": "STRUCT ANALYSIS",
@@ -858,7 +857,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Berman,Jeffrey",
         "curr_course_code": "CEE 378",
         "curr_course_name": "STRUCT ANALYSIS",
@@ -1018,10 +1017,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Kuznicki,Scott",
         "curr_course_code": "CEE 441",
-        "curr_course_name": "TRANS CONST CPSTONE ",
+        "curr_course_name": "TRANS CONST CPSTONE",
         "curr_course_fulfills": ""
     },
     {
@@ -1048,10 +1047,10 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Lehman,Dawn",
         "curr_course_code": "CEE 442",
-        "curr_course_name": "STRUCT GEO CAPSTONE ",
+        "curr_course_name": "STRUCT GEO CAPSTONE",
         "curr_course_fulfills": ""
     },
     {
@@ -1076,9 +1075,10 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Maurer,Brett",
         "curr_course_code": "CEE 442",
-        "curr_course_name": "STRUCT GEO CAPSTONE ",
+        "curr_course_name": "STRUCT GEO CAPSTONE",
         "curr_course_fulfills": ""
     },
     {
@@ -1105,7 +1105,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hossain,Faisal",
         "curr_course_code": "CEE 444",
         "curr_course_name": "HYDRAULIC CAPSTONE",
         "curr_course_fulfills": ""
@@ -1134,7 +1135,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Korshin,Gregory",
         "curr_course_code": "CEE 445",
         "curr_course_name": "ENV ENG DES CAPSTONE",
         "curr_course_fulfills": ""
@@ -1166,7 +1168,7 @@
         "open_or_closed": "Open",
         "professor_name": "Gordon,Bethany M",
         "curr_course_code": "CEE 450",
-        "curr_course_name": "BEHAV SCI ENGR DSGN ",
+        "curr_course_name": "BEHAV SCI ENGR DSGN",
         "curr_course_fulfills": ""
     },
     {
@@ -1193,7 +1195,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Motley,Michael",
         "curr_course_code": "CEE 457",
         "curr_course_name": "ADV STRUCT I",
         "curr_course_fulfills": ""
@@ -1342,7 +1345,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Reed,Dorothy",
         "curr_course_code": "CEE 498",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1372,7 +1375,7 @@
         "is_estimate": 0,
         "max_capacity": "26",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Yamaura,Julian",
         "curr_course_code": "CEE 498",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1395,7 +1398,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CEE 499",
         "curr_course_name": "INDPNDT STUDY/RSCH",
         "curr_course_fulfills": ""
@@ -1418,7 +1420,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CEE 499",
         "curr_course_name": "INDPNDT STUDY/RSCH",
         "curr_course_fulfills": ""
@@ -1441,7 +1442,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CEE 499",
         "curr_course_name": "INDPNDT STUDY/RSCH",
         "curr_course_fulfills": ""
@@ -1517,7 +1517,6 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CEE 600",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -1539,7 +1538,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CEE 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -1562,7 +1561,6 @@
         "is_estimate": 0,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CEE 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1585,9 +1583,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CEE 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "229",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Beins,Almira",
         "curr_course_code": "MICROM 301",
         "curr_course_name": "GEN MICROBIOLOGY",
@@ -355,7 +355,7 @@
         "is_estimate": 0,
         "max_capacity": "110",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Parsek,Matthew",
         "curr_course_code": "MICROM 412",
         "curr_course_name": "PROKARYOTIC DIVERS",
@@ -385,7 +385,7 @@
         "is_estimate": 0,
         "max_capacity": "185",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Smith,Jason",
         "curr_course_code": "MICROM 445",
         "curr_course_name": "MEDICAL VIROLOGY",
@@ -415,7 +415,7 @@
         "is_estimate": 1,
         "max_capacity": "112",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Achterman,Rebecca",
         "curr_course_code": "MICROM 460",
         "curr_course_name": "MED MYC & PARASIT",
@@ -445,10 +445,9 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Beins,Almira S",
         "curr_course_code": "MICROM 461",
-        "curr_course_name": "MED MYC&PARASIT LAB ",
+        "curr_course_name": "MED MYC&PARASIT LAB",
         "curr_course_fulfills": ""
     },
     {
@@ -475,10 +474,9 @@
         "is_estimate": 0,
         "max_capacity": "24",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Beins,Almira S",
         "curr_course_code": "MICROM 461",
-        "curr_course_name": "MED MYC&PARASIT LAB ",
+        "curr_course_name": "MED MYC&PARASIT LAB",
         "curr_course_fulfills": ""
     },
     {
@@ -499,7 +497,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MICROM 482",
         "curr_course_name": "PEER TEACHING",
         "curr_course_fulfills": ""
@@ -522,9 +519,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MICROM 495",
-        "curr_course_name": "HONORS UNDERGR RSCH ",
+        "curr_course_name": "HONORS UNDERGR RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -545,9 +541,8 @@
         "is_estimate": 1,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MICROM 496",
-        "curr_course_name": "UNDERGRAD LIBR RSCH ",
+        "curr_course_name": "UNDERGRAD LIBR RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -568,9 +563,8 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MICROM 499",
-        "curr_course_name": "UNDERGRAD LAB RSRCH ",
+        "curr_course_name": "UNDERGRAD LAB RSRCH",
         "curr_course_fulfills": ""
     },
     {
@@ -591,7 +585,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MICROM 500",
         "curr_course_name": "INTRO TO RESEARCH",
         "curr_course_fulfills": ""
@@ -734,9 +727,8 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MICROM 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -757,7 +749,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MICROM 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -780,9 +771,8 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MICROM 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

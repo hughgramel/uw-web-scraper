@@ -21,9 +21,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Campbell,Elena",
         "curr_course_code": "HSTEU 245",
-        "curr_course_name": "ST.PETERSBRG/LENGRD ",
+        "curr_course_name": "ST.PETERSBRG/LENGRD",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -52,7 +53,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "HSTEU 290",
         "curr_course_name": "TOPICS EUR HIST",
         "curr_course_fulfills": [
@@ -84,7 +84,7 @@
         "open_or_closed": "Open",
         "professor_name": "Smidchens,Guntis",
         "curr_course_code": "HSTEU 381",
-        "curr_course_name": "HST SCAND SNCE 1720 ",
+        "curr_course_name": "HST SCAND SNCE 1720",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -111,7 +111,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Johnson,Eric",
         "curr_course_code": "HSTEU 415",
         "curr_course_name": "THE SECOND WORLD WAR",
@@ -145,7 +145,7 @@
         "open_or_closed": "Open",
         "professor_name": "Jonas,Raymond",
         "curr_course_code": "HSTEU 422",
-        "curr_course_name": "FR RV&NAP 1789-1815 ",
+        "curr_course_name": "FR RV&NAP 1789-1815",
         "curr_course_fulfills": [
             "SSc"
         ]

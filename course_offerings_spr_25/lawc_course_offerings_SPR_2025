@@ -16,7 +16,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Schumacher,Scott A",
         "curr_course_code": "LAW C 530",
         "curr_course_name": "SM FIRM EXTERN",
@@ -39,7 +38,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Schumacher,Scott A",
         "curr_course_code": "LAW C 530",
         "curr_course_name": "SM FIRM EXTERN",
@@ -62,10 +60,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Schumacher,Scott A",
         "curr_course_code": "LAW C 535",
-        "curr_course_name": "CORP COUNSEL EXTERN ",
+        "curr_course_name": "CORP COUNSEL EXTERN",
         "curr_course_fulfills": ""
     },
     {
@@ -85,10 +82,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Schumacher,Scott A",
         "curr_course_code": "LAW C 535",
-        "curr_course_name": "CORP COUNSEL EXTERN ",
+        "curr_course_name": "CORP COUNSEL EXTERN",
         "curr_course_fulfills": ""
     }
 ]

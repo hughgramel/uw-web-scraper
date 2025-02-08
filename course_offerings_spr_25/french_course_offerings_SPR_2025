@@ -49,7 +49,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Markina,Irina",
         "curr_course_code": "FRENCH 101",
         "curr_course_name": "ELEMENTARY FRENCH",
         "curr_course_fulfills": ""
@@ -78,7 +79,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "WAGENSEIL,CLAIRE",
         "curr_course_code": "FRENCH 102",
         "curr_course_name": "ELEMENTARY FRENCH",
@@ -136,7 +137,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Chevalier,Emy",
         "curr_course_code": "FRENCH 103",
         "curr_course_name": "ELEMENTARY FRENCH",
@@ -166,7 +167,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Poole,Madeleine",
         "curr_course_code": "FRENCH 103",
         "curr_course_name": "ELEMENTARY FRENCH",
         "curr_course_fulfills": ""
@@ -195,7 +197,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Meyer,Hedwige",
         "curr_course_code": "FRENCH 103",
         "curr_course_name": "ELEMENTARY FRENCH",
         "curr_course_fulfills": ""
@@ -224,7 +227,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "WAGENSEIL,CLAIRE",
         "curr_course_code": "FRENCH 103",
         "curr_course_name": "ELEMENTARY FRENCH",
@@ -254,9 +257,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Giachetti,Lorenzo",
         "curr_course_code": "FRENCH 202",
-        "curr_course_name": "INTERMEDIATE FRENCH ",
+        "curr_course_name": "INTERMEDIATE FRENCH",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -285,9 +289,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Meyer,Hedwige",
         "curr_course_code": "FRENCH 203",
-        "curr_course_name": "INTERMEDIATE FRENCH ",
+        "curr_course_name": "INTERMEDIATE FRENCH",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -317,7 +322,7 @@
         "open_or_closed": "Open",
         "professor_name": "Watts,Richard H.",
         "curr_course_code": "FRENCH 228",
-        "curr_course_name": "LIT/FILM H20 CRISIS ",
+        "curr_course_name": "LIT/FILM H20 CRISIS",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -344,9 +349,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Skrzypczyk,Matthew",
         "curr_course_code": "FRENCH 302",
-        "curr_course_name": "CLTRS FRNCOPHN WRLD ",
+        "curr_course_name": "CLTRS FRNCOPHN WRLD",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -375,7 +381,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Skrzypczyk,Matthew",
         "curr_course_code": "FRENCH 303",
         "curr_course_name": "PATHWYS FRNCH STDY",
         "curr_course_fulfills": [
@@ -404,7 +411,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mezzour-Hodson,Lamia",
         "curr_course_code": "FRENCH 320",
         "curr_course_name": "FR LANG & IDENTITY",
@@ -430,7 +437,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FRENCH 390",
         "curr_course_name": "SUPERVISED STUDY",
         "curr_course_fulfills": ""
@@ -459,10 +465,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mezzour-Hodson,Lamia",
         "curr_course_code": "FRENCH 420",
-        "curr_course_name": "INTRDIS APPROCH LIT ",
+        "curr_course_name": "INTRDIS APPROCH LIT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -491,10 +497,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Turnovsky,Geoffrey",
         "curr_course_code": "FRENCH 420",
-        "curr_course_name": "INTRDIS APPROCH LIT ",
+        "curr_course_name": "INTRDIS APPROCH LIT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -516,7 +521,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FRENCH 490",
         "curr_course_name": "HONORS SEMINAR",
         "curr_course_fulfills": [
@@ -541,7 +545,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FRENCH 499",
         "curr_course_name": "SPEC TOPICS",
         "curr_course_fulfills": ""
@@ -592,7 +595,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FRENCH 590",
         "curr_course_name": "SPEC SMNR & CONFER",
         "curr_course_fulfills": ""
@@ -615,9 +617,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FRENCH 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     }
 ]

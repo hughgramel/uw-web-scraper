@@ -17,7 +17,6 @@
         "is_estimate": 1,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LAW E 500",
         "curr_course_name": "INDPT ADV WRITING",
         "curr_course_fulfills": ""
@@ -46,7 +45,6 @@
         "is_estimate": 0,
         "max_capacity": "41",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lemker,Jeannine D.",
         "curr_course_code": "LAW E 502",
         "curr_course_name": "WHITE COLLAR CRIME",
@@ -76,7 +74,6 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lemker,Jeannine D.",
         "curr_course_code": "LAW E 502",
         "curr_course_name": "WHITE COLLAR CRIME",
@@ -196,7 +193,6 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Halasz,Benjamin",
         "curr_course_code": "LAW E 508",
         "curr_course_name": "PERSUASIVE WRITING",
@@ -226,7 +222,6 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Myhre,Theodore A",
         "curr_course_code": "LAW E 508",
         "curr_course_name": "PERSUASIVE WRITING",
@@ -256,7 +251,6 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Myhre,Theodore A",
         "curr_course_code": "LAW E 508",
         "curr_course_name": "PERSUASIVE WRITING",
@@ -286,7 +280,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Nguyen,Xuanthao N.",
         "curr_course_code": "LAW E 511",
         "curr_course_name": "VENTURE CAP DEALS",
@@ -316,7 +309,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Nguyen,Xuanthao N.",
         "curr_course_code": "LAW E 511",
         "curr_course_name": "VENTURE CAP DEALS",
@@ -406,7 +398,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bosch,Anna B.",
         "curr_course_code": "LAW E 512",
         "curr_course_name": "RULE OF LAW",
@@ -436,7 +427,6 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bosch,Anna B.",
         "curr_course_code": "LAW E 512",
         "curr_course_name": "RULE OF LAW",
@@ -526,10 +516,9 @@
         "is_estimate": 0,
         "max_capacity": "43",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Brunner,Helen J.",
         "curr_course_code": "LAW E 516",
-        "curr_course_name": "CRIM PRO: ADJUDICAT ",
+        "curr_course_name": "CRIM PRO: ADJUDICAT",
         "curr_course_fulfills": ""
     },
     {
@@ -556,10 +545,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Brunner,Helen J.",
         "curr_course_code": "LAW E 516",
-        "curr_course_name": "CRIM PRO: ADJUDICAT ",
+        "curr_course_name": "CRIM PRO: ADJUDICAT",
         "curr_course_fulfills": ""
     },
     {
@@ -586,7 +574,6 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lemker,Jeannine D.",
         "curr_course_code": "LAW E 523",
         "curr_course_name": "ENTREPRE LAW CLINC",
@@ -616,7 +603,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lemker,Jeannine D.",
         "curr_course_code": "LAW E 523",
         "curr_course_name": "ENTREPRE LAW CLINC",
@@ -646,7 +632,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Nguyen,Huy C.",
         "curr_course_code": "LAW E 525",
         "curr_course_name": "POVERTY LAW",
@@ -676,7 +661,6 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Nguyen,Huy C.",
         "curr_course_code": "LAW E 525",
         "curr_course_name": "POVERTY LAW",
@@ -759,7 +743,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAW E 528",
         "curr_course_name": "MJ PRACTICUM",
         "curr_course_fulfills": ""
@@ -782,7 +766,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LAW E 528",
         "curr_course_name": "MJ PRACTICUM",
         "curr_course_fulfills": ""
@@ -805,7 +788,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LAW E 528",
         "curr_course_name": "MJ PRACTICUM",
         "curr_course_fulfills": ""
@@ -827,7 +809,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAW E 528",
         "curr_course_name": "MJ PRACTICUM",
         "curr_course_fulfills": ""
@@ -849,7 +831,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAW E 528",
         "curr_course_name": "MJ PRACTICUM",
         "curr_course_fulfills": ""
@@ -871,7 +853,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAW E 528",
         "curr_course_name": "MJ PRACTICUM",
         "curr_course_fulfills": ""
@@ -900,10 +882,9 @@
         "is_estimate": 0,
         "max_capacity": "19",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Williams,Brenda E",
         "curr_course_code": "LAW E 529",
-        "curr_course_name": "TRIBAL COURT CLINIC ",
+        "curr_course_name": "TRIBAL COURT CLINIC",
         "curr_course_fulfills": ""
     },
     {
@@ -930,10 +911,9 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Williams,Brenda E",
         "curr_course_code": "LAW E 529",
-        "curr_course_name": "TRIBAL COURT CLINIC ",
+        "curr_course_name": "TRIBAL COURT CLINIC",
         "curr_course_fulfills": ""
     },
     {
@@ -960,10 +940,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ambrose,Kimberly D",
         "curr_course_code": "LAW E 530",
-        "curr_course_name": "RACE & JUSTICE CLNC ",
+        "curr_course_name": "RACE & JUSTICE CLNC",
         "curr_course_fulfills": ""
     },
     {
@@ -990,10 +969,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Mills,Monte",
         "curr_course_code": "LAW E 531",
-        "curr_course_name": "INDIGENOUS ECON DEV ",
+        "curr_course_name": "INDIGENOUS ECON DEV",
         "curr_course_fulfills": ""
     },
     {
@@ -1020,10 +998,9 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Mills,Monte",
         "curr_course_code": "LAW E 531",
-        "curr_course_name": "INDIGENOUS ECON DEV ",
+        "curr_course_name": "INDIGENOUS ECON DEV",
         "curr_course_fulfills": ""
     },
     {
@@ -1053,7 +1030,7 @@
         "open_or_closed": "Open",
         "professor_name": "Mills,Monte",
         "curr_course_code": "LAW E 531",
-        "curr_course_name": "INDIGENOUS ECON DEV ",
+        "curr_course_name": "INDIGENOUS ECON DEV",
         "curr_course_fulfills": ""
     },
     {
@@ -1080,10 +1057,9 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Owens,David B.",
         "curr_course_code": "LAW E 532",
-        "curr_course_name": "CIVIL RIGHTS CLINIC ",
+        "curr_course_name": "CIVIL RIGHTS CLINIC",
         "curr_course_fulfills": ""
     },
     {
@@ -1110,7 +1086,6 @@
         "is_estimate": 0,
         "max_capacity": "21",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Boxx,Karen E",
         "curr_course_code": "LAW E 541",
         "curr_course_name": "CANNABIS LAW SEM",
@@ -1140,7 +1115,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Boxx,Karen E",
         "curr_course_code": "LAW E 541",
         "curr_course_name": "CANNABIS LAW SEM",
@@ -1230,10 +1204,9 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Zang,Dongsheng",
         "curr_course_code": "LAW E 546",
-        "curr_course_name": "INTL COMM ARBITRATN ",
+        "curr_course_name": "INTL COMM ARBITRATN",
         "curr_course_fulfills": ""
     },
     {
@@ -1260,10 +1233,9 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Zang,Dongsheng",
         "curr_course_code": "LAW E 546",
-        "curr_course_name": "INTL COMM ARBITRATN ",
+        "curr_course_name": "INTL COMM ARBITRATN",
         "curr_course_fulfills": ""
     },
     {
@@ -1293,7 +1265,7 @@
         "open_or_closed": "Open",
         "professor_name": "Zang,Dongsheng",
         "curr_course_code": "LAW E 546",
-        "curr_course_name": "INTL COMM ARBITRATN ",
+        "curr_course_name": "INTL COMM ARBITRATN",
         "curr_course_fulfills": ""
     },
     {
@@ -1323,7 +1295,7 @@
         "open_or_closed": "Open",
         "professor_name": "Zang,Dongsheng",
         "curr_course_code": "LAW E 546",
-        "curr_course_name": "INTL COMM ARBITRATN ",
+        "curr_course_name": "INTL COMM ARBITRATN",
         "curr_course_fulfills": ""
     },
     {
@@ -1350,7 +1322,6 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Tobin,Tommy",
         "curr_course_code": "LAW E 550",
         "curr_course_name": "COMPLEX LITIGATION",
@@ -1380,7 +1351,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Tobin,Tommy",
         "curr_course_code": "LAW E 550",
         "curr_course_name": "COMPLEX LITIGATION",
@@ -1440,10 +1410,9 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Wale,Carla",
         "curr_course_code": "LAW E 553",
-        "curr_course_name": "TECH LAW PUB POLICY ",
+        "curr_course_name": "TECH LAW PUB POLICY",
         "curr_course_fulfills": ""
     },
     {
@@ -1470,10 +1439,9 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Wale,Carla",
         "curr_course_code": "LAW E 553",
-        "curr_course_name": "TECH LAW PUB POLICY ",
+        "curr_course_name": "TECH LAW PUB POLICY",
         "curr_course_fulfills": ""
     },
     {
@@ -1503,7 +1471,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wale,Carla",
         "curr_course_code": "LAW E 553",
-        "curr_course_name": "TECH LAW PUB POLICY ",
+        "curr_course_name": "TECH LAW PUB POLICY",
         "curr_course_fulfills": ""
     },
     {
@@ -1533,7 +1501,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wale,Carla",
         "curr_course_code": "LAW E 553",
-        "curr_course_name": "TECH LAW PUB POLICY ",
+        "curr_course_name": "TECH LAW PUB POLICY",
         "curr_course_fulfills": ""
     },
     {
@@ -1563,7 +1531,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wale,Carla",
         "curr_course_code": "LAW E 553",
-        "curr_course_name": "TECH LAW PUB POLICY ",
+        "curr_course_name": "TECH LAW PUB POLICY",
         "curr_course_fulfills": ""
     },
     {
@@ -1590,10 +1558,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hutson,Jevan A",
         "curr_course_code": "LAW E 554",
-        "curr_course_name": "TECH PUB POL CLINIC ",
+        "curr_course_name": "TECH PUB POL CLINIC",
         "curr_course_fulfills": ""
     },
     {
@@ -1623,7 +1590,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hutson,Jevan A",
         "curr_course_code": "LAW E 554",
-        "curr_course_name": "TECH PUB POL CLINIC ",
+        "curr_course_name": "TECH PUB POL CLINIC",
         "curr_course_fulfills": ""
     },
     {
@@ -1653,7 +1620,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hutson,Jevan A",
         "curr_course_code": "LAW E 554",
-        "curr_course_name": "TECH PUB POL CLINIC ",
+        "curr_course_name": "TECH PUB POL CLINIC",
         "curr_course_fulfills": ""
     },
     {
@@ -1680,10 +1647,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hutson,Jevan A",
         "curr_course_code": "LAW E 554",
-        "curr_course_name": "TECH PUB POL CLINIC ",
+        "curr_course_name": "TECH PUB POL CLINIC",
         "curr_course_fulfills": ""
     },
     {
@@ -1710,10 +1676,9 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Gonza,Alejandra",
         "curr_course_code": "LAW E 557",
-        "curr_course_name": "HUMAN RIGHTS ADVOCY ",
+        "curr_course_name": "HUMAN RIGHTS ADVOCY",
         "curr_course_fulfills": ""
     },
     {
@@ -1740,10 +1705,9 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Gonza,Alejandra",
         "curr_course_code": "LAW E 557",
-        "curr_course_name": "HUMAN RIGHTS ADVOCY ",
+        "curr_course_name": "HUMAN RIGHTS ADVOCY",
         "curr_course_fulfills": ""
     },
     {
@@ -1773,7 +1737,7 @@
         "open_or_closed": "Open",
         "professor_name": "Gonza,Alejandra",
         "curr_course_code": "LAW E 557",
-        "curr_course_name": "HUMAN RIGHTS ADVOCY ",
+        "curr_course_name": "HUMAN RIGHTS ADVOCY",
         "curr_course_fulfills": ""
     },
     {
@@ -1800,7 +1764,6 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ortiz-Velez,Ramon",
         "curr_course_code": "LAW E 575",
         "curr_course_name": "VETERANS LAW",
@@ -1830,7 +1793,6 @@
         "is_estimate": 0,
         "max_capacity": "43",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sanford,Carrie",
         "curr_course_code": "LAW E 578",
         "curr_course_name": "FDN LAW BAR EXAM",
@@ -1860,7 +1822,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sanford,Carrie",
         "curr_course_code": "LAW E 578",
         "curr_course_name": "FDN LAW BAR EXAM",
@@ -1920,7 +1881,6 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Swanes,Maya",
         "curr_course_code": "LAW E 586",
         "curr_course_name": "LOW BONO LEGAL RSRCH",
@@ -1950,7 +1910,6 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Swanes,Maya",
         "curr_course_code": "LAW E 586",
         "curr_course_name": "LOW BONO LEGAL RSRCH",
@@ -1980,7 +1939,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "CR/N",
-        "open_or_closed": "",
         "curr_course_code": "LAW E 587",
         "curr_course_name": "HOUSE JUSTICE CLINIC",
         "curr_course_fulfills": ""

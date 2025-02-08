@@ -23,7 +23,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ACADEM 198",
         "curr_course_name": "RESEARCH SEMINARS",
         "curr_course_fulfills": ""
@@ -50,7 +49,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ACADEM 199",
         "curr_course_name": "RESEARCH SEMINARS",
         "curr_course_fulfills": ""

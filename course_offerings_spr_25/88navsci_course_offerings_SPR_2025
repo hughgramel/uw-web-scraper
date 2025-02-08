@@ -139,7 +139,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "VanOs,Warner",
         "curr_course_code": "N SCI 203",
         "curr_course_name": "NAVIGATION II",
@@ -169,7 +169,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "VanOs,Warner",
         "curr_course_code": "N SCI 203",
         "curr_course_name": "NAVIGATION II",
@@ -194,7 +194,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "N SCI 203",
         "curr_course_name": "NAVIGATION II",
         "curr_course_fulfills": [
@@ -223,9 +223,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Fogt,Kymber",
         "curr_course_code": "N SCI 303",
-        "curr_course_name": "NAVAL WEAPON SYSTMS ",
+        "curr_course_name": "NAVAL WEAPON SYSTMS",
         "curr_course_fulfills": ""
     },
     {
@@ -245,9 +246,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "N SCI 303",
-        "curr_course_name": "NAVAL WEAPON SYSTMS ",
+        "curr_course_name": "NAVAL WEAPON SYSTMS",
         "curr_course_fulfills": ""
     },
     {
@@ -326,9 +327,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bassett,Emily",
         "curr_course_code": "N SCI 402",
-        "curr_course_name": "NVL LDRSHP & ETHICS ",
+        "curr_course_name": "NVL LDRSHP & ETHICS",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -350,9 +352,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "N SCI 402",
-        "curr_course_name": "NVL LDRSHP & ETHICS ",
+        "curr_course_name": "NVL LDRSHP & ETHICS",
         "curr_course_fulfills": [
             "SSc"
         ]

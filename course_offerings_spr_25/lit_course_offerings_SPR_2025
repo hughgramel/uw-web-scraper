@@ -24,7 +24,7 @@
         "open_or_closed": "Open",
         "professor_name": "Watts,Richard H.",
         "curr_course_code": "LIT 228",
-        "curr_course_name": "LIT/FILM H20 CRISIS ",
+        "curr_course_name": "LIT/FILM H20 CRISIS",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -51,9 +51,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LIT 298",
-        "curr_course_name": "TOPICS LIT &CULTURE ",
+        "curr_course_name": "TOPICS LIT &CULTURE",
         "curr_course_fulfills": [
             "A&H"
         ]

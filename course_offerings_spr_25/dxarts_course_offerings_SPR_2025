@@ -17,7 +17,7 @@
         "open_or_closed": "Open",
         "professor_name": "Deumer,Stephanie",
         "curr_course_code": "DXARTS 200",
-        "curr_course_name": "DIGTL ART NEW MEDIA ",
+        "curr_course_name": "DIGTL ART NEW MEDIA",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -46,7 +46,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Rice,Tivon C.",
         "curr_course_code": "DXARTS 452",
         "curr_course_name": "EXP VIDEO ART II",
@@ -78,7 +77,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Peterson,Daniel Martin",
         "curr_course_code": "DXARTS 462",
         "curr_course_name": "DIG SOUND PROCESSING",
@@ -110,7 +108,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Psarra,Afroditi",
         "curr_course_code": "DXARTS 472",
         "curr_course_name": "MECHATRONIC ART II",
@@ -172,7 +169,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Karpen,Richard",
         "curr_course_code": "DXARTS 495",
         "curr_course_name": "PRODUCTION STUDIO",
         "curr_course_fulfills": [
@@ -196,7 +193,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DXARTS 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -225,7 +222,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Psarra,Afroditi",
         "curr_course_code": "DXARTS 500",
         "curr_course_name": "RESEARCH STUDIO",
         "curr_course_fulfills": ""
@@ -248,7 +246,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "DXARTS 600",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -270,9 +267,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "DXARTS 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

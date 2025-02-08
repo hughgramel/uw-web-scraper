@@ -21,7 +21,8 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Schumacher,Austin",
         "curr_course_code": "HMS 512",
         "curr_course_name": "MORTALITY METRICS",
         "curr_course_fulfills": ""
@@ -48,9 +49,10 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Dirac,Mae",
         "curr_course_code": "HMS 530",
-        "curr_course_name": "GBD MTHDS & RESULTS ",
+        "curr_course_name": "GBD MTHDS & RESULTS",
         "curr_course_fulfills": ""
     },
     {
@@ -79,7 +81,7 @@
         "is_estimate": 0,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HMS 537",
         "curr_course_name": "ADVD MTHDS GH III",
         "curr_course_fulfills": ""
@@ -166,7 +168,8 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Reiner,Bobby",
         "curr_course_code": "HMS 581",
         "curr_course_name": "INFEC DISEASE MODELS",
         "curr_course_fulfills": ""
@@ -193,7 +196,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HMS 592",
         "curr_course_name": "HLTH MTR SEM",
         "curr_course_fulfills": ""
@@ -222,7 +225,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Dwyer-Lindgren,Laura",
         "curr_course_code": "HMS 594",
         "curr_course_name": "CAPSTONE I",
         "curr_course_fulfills": ""
@@ -244,7 +248,7 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HMS 600",
         "curr_course_name": "INDPDNT STDY/RSCH",
         "curr_course_fulfills": ""
@@ -266,7 +270,7 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HMS 800",
         "curr_course_name": "DCTRL DSRTN",
         "curr_course_fulfills": ""

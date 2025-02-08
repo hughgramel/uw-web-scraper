@@ -24,7 +24,7 @@
         "open_or_closed": "Open",
         "professor_name": "Harris,Gregory Keith",
         "curr_course_code": "L ARCH 212",
-        "curr_course_name": "DESGNING THE FUTURE ",
+        "curr_course_name": "DESGNING THE FUTURE",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -54,7 +54,7 @@
         "open_or_closed": "Open",
         "professor_name": "Harris,Gregory Keith",
         "curr_course_code": "L ARCH 212",
-        "curr_course_name": "DESGNING THE FUTURE ",
+        "curr_course_name": "DESGNING THE FUTURE",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -113,7 +113,7 @@
         "is_estimate": 0,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Balderas",
         "curr_course_code": "L ARCH 363",
         "curr_course_name": "ECO DESIGN & PLAN",
@@ -145,7 +145,7 @@
         "is_estimate": 0,
         "max_capacity": "38",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Balderas",
         "curr_course_code": "L ARCH 403",
         "curr_course_name": "ECO SYSTEMS STUDIO",
@@ -175,7 +175,7 @@
         "is_estimate": 0,
         "max_capacity": "38",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Balderas",
         "curr_course_code": "L ARCH 403",
         "curr_course_name": "ECO SYSTEMS STUDIO",
@@ -205,7 +205,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "L ARCH 423",
         "curr_course_name": "PLANT ID & MGMT",
         "curr_course_fulfills": ""
@@ -264,7 +264,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Grosser,Matt",
         "curr_course_code": "L ARCH 434",
         "curr_course_name": "URB SOILS HYDRLGY",
         "curr_course_fulfills": ""
@@ -293,9 +294,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Umbanhowar,Elizabeth",
         "curr_course_code": "L ARCH 454",
-        "curr_course_name": "HIST URBAN LNDSCAPE ",
+        "curr_course_name": "HIST URBAN LNDSCAPE",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -383,7 +385,6 @@
         "is_estimate": 0,
         "max_capacity": "32",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Parrett,Julie",
         "curr_course_code": "L ARCH 476",
         "curr_course_name": "INTERNSHIP",
@@ -404,7 +405,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Butler,Shaunta",
         "curr_course_code": "L ARCH 498",
         "curr_course_name": "SPECIAL PROJECTS",
         "curr_course_fulfills": ""
@@ -483,7 +485,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "L ARCH 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -512,7 +513,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "L ARCH 503",
         "curr_course_name": "ADV STUDIO VI",
         "curr_course_fulfills": ""
@@ -541,7 +541,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Balderas",
         "curr_course_code": "L ARCH 563",
         "curr_course_name": "ECO DESIGN & PLAN",
@@ -601,7 +601,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Manzo,Lynne",
         "curr_course_code": "L ARCH 572",
         "curr_course_name": "RESEARCH METHODS",
@@ -625,9 +625,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "L ARCH 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -647,7 +646,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Parrett,Julie",
         "curr_course_code": "L ARCH 601",
         "curr_course_name": "INTERNSHIP",
@@ -671,7 +669,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "L ARCH 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""

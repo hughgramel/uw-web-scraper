@@ -21,9 +21,10 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Jenner,Lars",
         "curr_course_code": "SCAND 100",
-        "curr_course_name": "INTRO SCAND CULTURE ",
+        "curr_course_name": "INTRO SCAND CULTURE",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -50,9 +51,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Suuniitty,Eveliina",
         "curr_course_code": "SCAND 151",
-        "curr_course_name": "FINN LIT/CULTR HIST ",
+        "curr_course_name": "FINN LIT/CULTR HIST",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -79,7 +81,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Miklasevica,Liga",
         "curr_course_code": "SCAND 152",
         "curr_course_name": "LATV LIT/CULT HIST",
         "curr_course_fulfills": [
@@ -108,7 +111,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Holvoet,Gina",
         "curr_course_code": "SCAND 153",
         "curr_course_name": "LITH LIT/CLTR HIST",
         "curr_course_fulfills": [
@@ -170,7 +174,7 @@
         "open_or_closed": "Open",
         "professor_name": "Stecher-Hansen,Marianne",
         "curr_course_code": "SCAND 232",
-        "curr_course_name": "ANDERSEN FAIRY TALE ",
+        "curr_course_name": "ANDERSEN FAIRY TALE",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -197,7 +201,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bourns,Timothy",
         "curr_course_code": "SCAND 330",
         "curr_course_name": "SCAND MYTHOLOGY",
         "curr_course_fulfills": [
@@ -226,9 +231,10 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Jenner,Lars",
         "curr_course_code": "SCAND 334",
-        "curr_course_name": "IMMIG & ETNIC FLKLR ",
+        "curr_course_name": "IMMIG & ETNIC FLKLR",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -255,7 +261,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCAND 360",
         "curr_course_name": "SCAND CINEMA",
         "curr_course_fulfills": [
@@ -284,7 +290,7 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Gunn,Olivia",
         "curr_course_code": "SCAND 367",
         "curr_course_name": "SEXUALITY IN SCAND",
@@ -317,7 +323,7 @@
         "open_or_closed": "Open",
         "professor_name": "Smidchens,Guntis",
         "curr_course_code": "SCAND 381",
-        "curr_course_name": "HST SCAND SNCE 1720 ",
+        "curr_course_name": "HST SCAND SNCE 1720",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -344,7 +350,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Connors,Colin",
         "curr_course_code": "SCAND 431",
         "curr_course_name": "NORTH EURO BALLAD",
@@ -374,7 +380,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nestingen,Andrew",
         "curr_course_code": "SCAND 490",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -396,7 +403,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCAND 498",
         "curr_course_name": "SR CAPSTONE",
         "curr_course_fulfills": ""
@@ -418,7 +425,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCAND 498",
         "curr_course_name": "SR CAPSTONE",
         "curr_course_fulfills": ""
@@ -440,7 +447,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCAND 499",
         "curr_course_name": "INDEP STUDY/RSRCH",
         "curr_course_fulfills": ""
@@ -463,7 +470,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SCAND 499",
         "curr_course_name": "INDEP STUDY/RSRCH",
         "curr_course_fulfills": ""
@@ -485,9 +491,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCAND 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -507,9 +513,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCAND 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -529,7 +535,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCAND 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -551,7 +557,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCAND 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -573,9 +579,9 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SCAND 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

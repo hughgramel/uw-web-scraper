@@ -17,7 +17,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "TURKIC 490",
         "curr_course_name": "SUPERVISED STUDY",
         "curr_course_fulfills": ""
@@ -40,7 +39,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "TURKIC 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -63,7 +61,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "TURKIC 600",
         "curr_course_name": "INDEPNDNT STDY/RES",
         "curr_course_fulfills": ""

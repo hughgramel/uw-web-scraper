@@ -17,7 +17,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ANEST 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -40,7 +39,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ANEST 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -62,9 +60,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 501P",
-        "curr_course_name": "P-PRECEP ANESTHESIA ",
+        "curr_course_name": "P-PRECEP ANESTHESIA",
         "curr_course_fulfills": ""
     },
     {
@@ -82,7 +80,7 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 654P",
         "curr_course_name": "P-CHC/PAIN AK NAPM",
         "curr_course_fulfills": ""
@@ -102,7 +100,7 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 657P",
         "curr_course_name": "P-CHC VAMC SEA",
         "curr_course_fulfills": ""
@@ -122,7 +120,7 @@
         "is_estimate": 0,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 662P",
         "curr_course_name": "P-CHC/FAIRBANKS APCA",
         "curr_course_fulfills": ""
@@ -144,7 +142,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 663",
         "curr_course_name": "BASIC ANEST CHEY",
         "curr_course_fulfills": ""
@@ -166,7 +164,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 665P",
         "curr_course_name": "P-BASIC ANEST ANCH",
         "curr_course_fulfills": ""
@@ -186,7 +184,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "ANEST 670P",
         "curr_course_name": "P-ADV ANEST GALLITAN",
         "curr_course_fulfills": ""
@@ -208,7 +206,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 672",
         "curr_course_name": "B ANEST BOISE VA",
         "curr_course_fulfills": ""
@@ -230,7 +228,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 673",
         "curr_course_name": "O/P PX REHAB - MT",
         "curr_course_fulfills": ""
@@ -250,7 +248,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "ANEST 675P",
         "curr_course_name": "P-BASIC ANEST DEACON",
         "curr_course_fulfills": ""
@@ -272,7 +270,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 683P",
         "curr_course_name": "P-ADV ANEST VAMC",
         "curr_course_fulfills": ""
@@ -294,7 +292,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 684P",
         "curr_course_name": "P-ADV ANEST SPK",
         "curr_course_fulfills": ""
@@ -314,7 +312,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "ANEST 685P",
         "curr_course_name": "P-ADV ANEST DEACON",
         "curr_course_fulfills": ""
@@ -334,7 +332,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "ANEST 685P",
         "curr_course_name": "P-ADV ANEST DEACON",
         "curr_course_fulfills": ""
@@ -354,7 +352,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 686",
         "curr_course_name": "BASIC ANEST KALISPEL",
         "curr_course_fulfills": ""
@@ -374,9 +372,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 687",
-        "curr_course_name": "ADV ANEST KALISPELL ",
+        "curr_course_name": "ADV ANEST KALISPELL",
         "curr_course_fulfills": ""
     },
     {
@@ -396,7 +394,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 688",
         "curr_course_name": "ADV ANEST CHEY",
         "curr_course_fulfills": ""
@@ -416,7 +414,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 690",
         "curr_course_name": "BASIC ANEST WENATCHE",
         "curr_course_fulfills": ""
@@ -436,9 +434,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 691",
-        "curr_course_name": "ADV ANEST WENATCHEE ",
+        "curr_course_name": "ADV ANEST WENATCHEE",
         "curr_course_fulfills": ""
     },
     {
@@ -456,7 +454,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 692",
         "curr_course_name": "BASIC ANEST LAND",
         "curr_course_fulfills": ""
@@ -476,7 +474,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 693P",
         "curr_course_name": "P-ADV ANEST LAND",
         "curr_course_fulfills": ""
@@ -496,7 +494,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 694",
         "curr_course_name": "BASIC ANEST BILLINGS",
         "curr_course_fulfills": ""
@@ -516,7 +514,7 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 695P",
         "curr_course_name": "P-CHC/PM-ROOS",
         "curr_course_fulfills": ""
@@ -536,7 +534,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "ANEST 696",
         "curr_course_name": "ADV ANEST BILLINGS",
         "curr_course_fulfills": ""
@@ -558,9 +556,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 697P",
-        "curr_course_name": "P-ANEST SPEC ELCTVS ",
+        "curr_course_name": "P-ANEST SPEC ELCTVS",
         "curr_course_fulfills": ""
     },
     {
@@ -580,9 +578,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ANEST 699P",
-        "curr_course_name": "P-WWAMI ANEST ELECT ",
+        "curr_course_name": "P-WWAMI ANEST ELECT",
         "curr_course_fulfills": ""
     }
 ]

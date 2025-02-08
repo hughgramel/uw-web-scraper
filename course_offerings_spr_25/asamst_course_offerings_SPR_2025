@@ -54,7 +54,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AAS 101",
         "curr_course_name": "ASIAN AM STUDIES",
         "curr_course_fulfills": [
@@ -86,7 +86,7 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AAS 101",
         "curr_course_name": "ASIAN AM STUDIES",
         "curr_course_fulfills": [
@@ -118,7 +118,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AAS 101",
         "curr_course_name": "ASIAN AM STUDIES",
         "curr_course_fulfills": [
@@ -150,7 +150,7 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AAS 101",
         "curr_course_name": "ASIAN AM STUDIES",
         "curr_course_fulfills": [
@@ -182,7 +182,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AAS 101",
         "curr_course_name": "ASIAN AM STUDIES",
         "curr_course_fulfills": [
@@ -214,7 +214,7 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AAS 101",
         "curr_course_name": "ASIAN AM STUDIES",
         "curr_course_fulfills": [
@@ -248,7 +248,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "So,Connie",
         "curr_course_code": "AAS 210",
         "curr_course_name": "ASIAN AM PAC IS IDEN",
@@ -279,9 +279,10 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zheng,Jennifer",
         "curr_course_code": "AAS 220",
-        "curr_course_name": "ASIAN AM STEREOTYPE ",
+        "curr_course_name": "ASIAN AM STEREOTYPE",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -310,10 +311,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "So,Connie",
         "curr_course_code": "AAS 405",
-        "curr_course_name": "ADV ASIAN AM SOCSCI ",
+        "curr_course_name": "ADV ASIAN AM SOCSCI",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -343,7 +343,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "So,Connie",
         "curr_course_code": "AAS 498",
         "curr_course_name": "SPECIAL TOPICS",
@@ -368,7 +367,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AAS 499",
         "curr_course_name": "UNDERGRAD IND STDY",
         "curr_course_fulfills": ""
@@ -390,7 +389,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AAS 499",
         "curr_course_name": "UNDERGRAD IND STDY",
         "curr_course_fulfills": ""
@@ -412,7 +411,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "AAS 499",
         "curr_course_name": "UNDERGRAD IND STDY",
         "curr_course_fulfills": ""

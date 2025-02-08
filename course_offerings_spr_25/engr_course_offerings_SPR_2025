@@ -16,7 +16,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ENGR 106",
         "curr_course_name": "EXPERIENCE ENGR",
         "curr_course_fulfills": ""
@@ -98,10 +98,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Levias,Sheldon R",
         "curr_course_code": "ENGR 191",
-        "curr_course_name": "MATH PROB SOLV ENGR ",
+        "curr_course_name": "MATH PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -121,9 +120,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 191",
-        "curr_course_name": "MATH PROB SOLV ENGR ",
+        "curr_course_name": "MATH PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -143,9 +141,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 191",
-        "curr_course_name": "MATH PROB SOLV ENGR ",
+        "curr_course_name": "MATH PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -165,9 +162,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 191",
-        "curr_course_name": "MATH PROB SOLV ENGR ",
+        "curr_course_name": "MATH PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -187,9 +183,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 191",
-        "curr_course_name": "MATH PROB SOLV ENGR ",
+        "curr_course_name": "MATH PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -209,10 +204,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Mills,Carrie",
         "curr_course_code": "ENGR 191",
-        "curr_course_name": "MATH PROB SOLV ENGR ",
+        "curr_course_name": "MATH PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -232,9 +226,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 192",
-        "curr_course_name": "CHEM PROB SOLV ENGR ",
+        "curr_course_name": "CHEM PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -254,9 +247,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 192",
-        "curr_course_name": "CHEM PROB SOLV ENGR ",
+        "curr_course_name": "CHEM PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -276,9 +268,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 192",
-        "curr_course_name": "CHEM PROB SOLV ENGR ",
+        "curr_course_name": "CHEM PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -298,9 +289,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 193",
-        "curr_course_name": "PHYS PROB SOLV ENGR ",
+        "curr_course_name": "PHYS PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -320,9 +310,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 193",
-        "curr_course_name": "PHYS PROB SOLV ENGR ",
+        "curr_course_name": "PHYS PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -342,9 +331,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 193",
-        "curr_course_name": "PHYS PROB SOLV ENGR ",
+        "curr_course_name": "PHYS PROB SOLV ENGR",
         "curr_course_fulfills": ""
     },
     {
@@ -364,7 +352,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ENGR 194",
         "curr_course_name": "ENGR FUND PROB SOL",
         "curr_course_fulfills": ""
@@ -386,7 +374,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Mills,Carrie",
         "curr_course_code": "ENGR 197",
         "curr_course_name": "ENGR STARS PROB SOLV",
@@ -409,7 +396,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Mills,Carrie",
         "curr_course_code": "ENGR 197",
         "curr_course_name": "ENGR STARS PROB SOLV",
@@ -432,7 +418,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ohashi,Kaytie",
         "curr_course_code": "ENGR 202",
         "curr_course_name": "SPECIAL TOPICS",
@@ -455,7 +440,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ohashi,Kaytie",
         "curr_course_code": "ENGR 202",
         "curr_course_name": "SPECIAL TOPICS",
@@ -478,7 +462,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 295",
         "curr_course_name": "ALVA INTRN EXPRIENCE",
         "curr_course_fulfills": ""
@@ -500,7 +483,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "More,Michael S",
         "curr_course_code": "ENGR 321",
         "curr_course_name": "ENGR INTERN EDUC",
@@ -523,7 +505,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "More,Michael S",
         "curr_course_code": "ENGR 321",
         "curr_course_name": "ENGR INTERN EDUC",
@@ -586,7 +567,6 @@
         "is_estimate": 1,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Carpenter,Allie E",
         "curr_course_code": "ENGR 490",
         "curr_course_name": "ENGR LEADERSHIP",
@@ -616,7 +596,6 @@
         "is_estimate": 1,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Williams,Eli",
         "curr_course_code": "ENGR 490",
         "curr_course_name": "ENGR LEADERSHIP",
@@ -646,7 +625,6 @@
         "is_estimate": 1,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Caudle,Dei",
         "curr_course_code": "ENGR 490",
         "curr_course_name": "ENGR LEADERSHIP",
@@ -669,7 +647,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Neumann,Becca",
         "curr_course_code": "ENGR 498",
         "curr_course_name": "SPECIAL TOPICS",
@@ -692,7 +669,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Mackenzie-Helnwein,Peter",
         "curr_course_code": "ENGR 498",
         "curr_course_name": "SPECIAL TOPICS",
@@ -715,7 +691,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Wiebe,Richard",
         "curr_course_code": "ENGR 498",
         "curr_course_name": "SPECIAL TOPICS",
@@ -766,7 +741,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "More,Michael S",
         "curr_course_code": "ENGR 601",
         "curr_course_name": "INTERNSHIP",
@@ -789,7 +763,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ENGR 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""

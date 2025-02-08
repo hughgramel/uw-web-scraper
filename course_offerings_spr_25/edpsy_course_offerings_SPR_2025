@@ -19,7 +19,7 @@
         "open_or_closed": "Open",
         "professor_name": "Feng,Xinxin",
         "curr_course_code": "EDPSY 302",
-        "curr_course_name": "CHILD DVLPMNT &LRNG ",
+        "curr_course_name": "CHILD DVLPMNT &LRNG",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -44,7 +44,7 @@
         "open_or_closed": "Open",
         "professor_name": "Feng,Xinxin",
         "curr_course_code": "EDPSY 302",
-        "curr_course_name": "CHILD DVLPMNT &LRNG ",
+        "curr_course_name": "CHILD DVLPMNT &LRNG",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -140,7 +140,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ikeru,Mack",
         "curr_course_code": "EDPSY 406",
-        "curr_course_name": "LRN TEACH CHG WORLD ",
+        "curr_course_name": "LRN TEACH CHG WORLD",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -172,7 +172,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ikeru,Mack",
         "curr_course_code": "EDPSY 406",
-        "curr_course_name": "LRN TEACH CHG WORLD ",
+        "curr_course_name": "LRN TEACH CHG WORLD",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -201,9 +201,9 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "EDPSY 490",
-        "curr_course_name": "BASIC EDUC STATSTCS ",
+        "curr_course_name": "BASIC EDUC STATSTCS",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -227,7 +227,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDPSY 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -260,7 +259,6 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Matlack,Alexa",
         "curr_course_code": "EDPSY 508",
         "curr_course_name": "ADV PRACTICUM SMH",
@@ -290,7 +288,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Duncheon,Julia",
         "curr_course_code": "EDPSY 514",
         "curr_course_name": "INTRO QUALTATV INQRY",
@@ -350,7 +347,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Shea,Molly",
         "curr_course_code": "EDPSY 526",
         "curr_course_name": "QUAL MTHD ED RSH III",
@@ -380,9 +376,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Martinez-Cano,Carlos",
         "curr_course_code": "EDPSY 532",
-        "curr_course_name": "ADOLESCENCE & YOUTH ",
+        "curr_course_name": "ADOLESCENCE & YOUTH",
         "curr_course_fulfills": ""
     },
     {
@@ -469,7 +466,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Li,Min",
         "curr_course_code": "EDPSY 559",
         "curr_course_name": "VALIDITY THEORY",
         "curr_course_fulfills": ""
@@ -502,7 +500,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Holland,Elizabeth",
         "curr_course_code": "EDPSY 565",
         "curr_course_name": "ADV PRACTM CLIN PRAC",
@@ -532,7 +529,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Taylor,Katie",
         "curr_course_code": "EDPSY 569",
         "curr_course_name": "INTERACTION ANALYSIS",
@@ -562,10 +559,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Olvera",
         "curr_course_code": "EDPSY 575",
-        "curr_course_name": "STRUC EQ MODELING I ",
+        "curr_course_name": "STRUC EQ MODELING I",
         "curr_course_fulfills": ""
     },
     {
@@ -592,7 +589,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Holland,Elizabeth Anne",
         "curr_course_code": "EDPSY 579",
         "curr_course_name": "ADV PRAC ASSMT INVTN",
@@ -622,7 +618,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Shah,Niral",
         "curr_course_code": "EDPSY 581",
         "curr_course_name": "SMNR EDUC PSYCH",
         "curr_course_fulfills": ""
@@ -651,7 +647,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Joseph,Gail",
         "curr_course_code": "EDPSY 581",
         "curr_course_name": "SMNR EDUC PSYCH",
@@ -711,7 +706,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Elliott,Emma",
         "curr_course_code": "EDPSY 581",
         "curr_course_name": "SMNR EDUC PSYCH",
@@ -771,7 +765,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "NICHOLSON,JANICE A.",
         "curr_course_code": "EDPSY 585",
         "curr_course_name": "CNTMP ISS SCHL PSY",
@@ -801,7 +794,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Sanders,Elizabeth",
         "curr_course_code": "EDPSY 596",
         "curr_course_name": "EXPERIM DSGN & ANLYS",
@@ -834,7 +827,7 @@
         "open_or_closed": "Open",
         "professor_name": "Li,Min",
         "curr_course_code": "EDPSY 598",
-        "curr_course_name": "MEAS & STAT PRO-SEM ",
+        "curr_course_name": "MEAS & STAT PRO-SEM",
         "curr_course_fulfills": ""
     },
     {
@@ -855,7 +848,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDPSY 599",
         "curr_course_name": "INDEP STUDIES EDUC",
         "curr_course_fulfills": ""
@@ -878,9 +870,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDPSY 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -901,7 +892,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDPSY 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""

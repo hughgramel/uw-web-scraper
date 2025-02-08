@@ -46,7 +46,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDCH 495",
         "curr_course_name": "SPECIAL STUDIES",
         "curr_course_fulfills": ""
@@ -68,7 +68,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDCH 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -128,7 +128,7 @@
         "open_or_closed": "Open",
         "professor_name": "Rettie,Allan Edward",
         "curr_course_code": "MEDCH 527",
-        "curr_course_name": "ADV DRUG METABOLISM ",
+        "curr_course_name": "ADV DRUG METABOLISM",
         "curr_course_fulfills": ""
     },
     {
@@ -181,7 +181,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Whittington,Dale",
         "curr_course_code": "MEDCH 541",
         "curr_course_name": "BIO MASS SPEC",
         "curr_course_fulfills": ""
@@ -206,7 +207,7 @@
         "open_or_closed": "Open",
         "professor_name": "Rettie,Allan Edward",
         "curr_course_code": "MEDCH 551",
-        "curr_course_name": "OXYGENASES MED CHEM ",
+        "curr_course_name": "OXYGENASES MED CHEM",
         "curr_course_fulfills": ""
     },
     {
@@ -229,7 +230,7 @@
         "open_or_closed": "Open",
         "professor_name": "Bhardwaj,Gaurav",
         "curr_course_code": "MEDCH 552",
-        "curr_course_name": "COMP PEPTIDE DESIGN ",
+        "curr_course_name": "COMP PEPTIDE DESIGN",
         "curr_course_fulfills": ""
     },
     {
@@ -298,7 +299,7 @@
         "open_or_closed": "Open",
         "professor_name": "Nath,Abhinav",
         "curr_course_code": "MEDCH 555",
-        "curr_course_name": "BIOP PHARM DYN PROT ",
+        "curr_course_name": "BIOP PHARM DYN PROT",
         "curr_course_fulfills": ""
     },
     {
@@ -367,7 +368,7 @@
         "open_or_closed": "Open",
         "professor_name": "Xu,Libin",
         "curr_course_code": "MEDCH 559",
-        "curr_course_name": "BIOSYN MET ANLY LIP ",
+        "curr_course_name": "BIOSYN MET ANLY LIP",
         "curr_course_fulfills": ""
     },
     {
@@ -398,7 +399,7 @@
         "is_estimate": 0,
         "max_capacity": "105",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Totah,Rheem",
         "curr_course_code": "MEDCH 561",
         "curr_course_name": "IMM&ANTIMICRO AGTS",
@@ -472,9 +473,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDCH 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -494,7 +495,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDCH 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -516,9 +517,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDCH 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "56",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -51,7 +51,7 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -81,7 +81,7 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -111,7 +111,7 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -141,7 +141,7 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -171,7 +171,7 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -201,7 +201,7 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -231,7 +231,7 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -261,7 +261,7 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -291,7 +291,7 @@
         "is_estimate": 0,
         "max_capacity": "17",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 322",
         "curr_course_name": "SOCIAL STATISTICS II",
         "curr_course_fulfills": [
@@ -321,7 +321,7 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 322",
         "curr_course_name": "SOCIAL STATISTICS II",
         "curr_course_fulfills": [
@@ -351,7 +351,7 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 322",
         "curr_course_name": "SOCIAL STATISTICS II",
         "curr_course_fulfills": [
@@ -383,9 +383,8 @@
         "is_estimate": 0,
         "max_capacity": "440",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CS&SS 490",
-        "curr_course_name": "DATA SCI COMMUN SEM ",
+        "curr_course_name": "DATA SCI COMMUN SEM",
         "curr_course_fulfills": ""
     },
     {
@@ -442,9 +441,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 507",
-        "curr_course_name": "MTHD QUANT TECH SOC ",
+        "curr_course_name": "MTHD QUANT TECH SOC",
         "curr_course_fulfills": ""
     },
     {
@@ -471,9 +470,9 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 508",
-        "curr_course_name": "INTRO R FOR SOC SCI ",
+        "curr_course_name": "INTRO R FOR SOC SCI",
         "curr_course_fulfills": ""
     },
     {
@@ -526,7 +525,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 527",
         "curr_course_name": "SURVEY RSRCH METHODS",
         "curr_course_fulfills": ""
@@ -619,7 +618,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CS&SS 590",
         "curr_course_name": "CSSS SEMINAR",
         "curr_course_fulfills": ""

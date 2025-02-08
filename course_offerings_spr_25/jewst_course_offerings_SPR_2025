@@ -114,10 +114,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Glenn,Susan A.",
         "curr_course_code": "JEW ST 337",
-        "curr_course_name": "HOLOCAUST & AMERICA ",
+        "curr_course_name": "HOLOCAUST & AMERICA",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -145,9 +144,9 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "JEW ST 337",
-        "curr_course_name": "HOLOCAUST & AMERICA ",
+        "curr_course_name": "HOLOCAUST & AMERICA",
         "curr_course_fulfills": [
             "SSc",
             "DIV"

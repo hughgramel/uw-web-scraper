@@ -17,7 +17,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "P BIO 498",
         "curr_course_name": "UNDERGRAD THESIS",
         "curr_course_fulfills": ""
@@ -40,7 +39,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "P BIO 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -63,7 +61,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "P BIO 508",
         "curr_course_name": "PHYSIOLOGY LAB",
         "curr_course_fulfills": ""
@@ -92,9 +89,9 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "P BIO 519",
-        "curr_course_name": "MEM & MUS BIOPHY SM ",
+        "curr_course_name": "MEM & MUS BIOPHY SM",
         "curr_course_fulfills": ""
     },
     {
@@ -114,7 +111,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "P BIO 520",
         "curr_course_name": "PHYSIOLOGY SEMINAR",
         "curr_course_fulfills": ""
@@ -136,7 +133,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "P BIO 521",
         "curr_course_name": "BIOPHYSICS SEMINAR",
         "curr_course_fulfills": ""
@@ -158,9 +155,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "P BIO 527",
-        "curr_course_name": "RDGS ADV PHYS & BIO ",
+        "curr_course_name": "RDGS ADV PHYS & BIO",
         "curr_course_fulfills": ""
     },
     {
@@ -211,9 +208,8 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "P BIO 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -234,7 +230,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "P BIO 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -257,9 +252,8 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "P BIO 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

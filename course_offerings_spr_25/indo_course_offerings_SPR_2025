@@ -21,10 +21,10 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Sandjaja,Desiana",
         "curr_course_code": "INDO 113",
-        "curr_course_name": "ELEMNTRY INDONESIAN ",
+        "curr_course_name": "ELEMNTRY INDONESIAN",
         "curr_course_fulfills": ""
     },
     {
@@ -49,10 +49,10 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Sandjaja,Desiana",
         "curr_course_code": "INDO 213",
-        "curr_course_name": "INTERMED INDONESIAN ",
+        "curr_course_name": "INTERMED INDONESIAN",
         "curr_course_fulfills": [
             "A&H"
         ]

@@ -27,10 +27,10 @@
         "is_estimate": 1,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McDonough,Karen",
         "curr_course_code": "MEDSCI 506P",
-        "curr_course_name": "P-FOUNDATN CLIN MED ",
+        "curr_course_name": "P-FOUNDATN CLIN MED",
         "curr_course_fulfills": ""
     },
     {
@@ -50,10 +50,10 @@
         "is_estimate": 1,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McDonough,Karen",
         "curr_course_code": "MEDSCI 506P",
-        "curr_course_name": "P-FOUNDATN CLIN MED ",
+        "curr_course_name": "P-FOUNDATN CLIN MED",
         "curr_course_fulfills": ""
     },
     {
@@ -119,7 +119,7 @@
         "is_estimate": 1,
         "max_capacity": "105",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Luks,Andrew",
         "curr_course_code": "MEDSCI 553P",
         "curr_course_name": "P-RESPIRATE REGULATE",
@@ -142,7 +142,7 @@
         "is_estimate": 1,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Luks,Andrew",
         "curr_course_code": "MEDSCI 553P",
         "curr_course_name": "P-RESPIRATE REGULATE",
@@ -165,7 +165,7 @@
         "is_estimate": 1,
         "max_capacity": "105",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Silverstein,Bruce",
         "curr_course_code": "MEDSCI 556P",
         "curr_course_name": "P-HEAD NECK GUT",
@@ -188,7 +188,7 @@
         "is_estimate": 1,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Silverstein,Bruce",
         "curr_course_code": "MEDSCI 556P",
         "curr_course_name": "P-HEAD NECK GUT",
@@ -257,7 +257,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDSCI 587P",
         "curr_course_name": "P-IND STDY THEME MED",
         "curr_course_fulfills": ""
@@ -279,9 +279,9 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDSCI 597P",
-        "curr_course_name": "P-USMLE 1 IND STUDY ",
+        "curr_course_name": "P-USMLE 1 IND STUDY",
         "curr_course_fulfills": ""
     },
     {
@@ -301,9 +301,9 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDSCI 598P",
-        "curr_course_name": "P-USMLE 2 IND STUDY ",
+        "curr_course_name": "P-USMLE 2 IND STUDY",
         "curr_course_fulfills": ""
     },
     {
@@ -323,7 +323,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDSCI 599P",
         "curr_course_name": "P-IND STUDY",
         "curr_course_fulfills": ""
@@ -345,7 +345,7 @@
         "is_estimate": 1,
         "max_capacity": "300",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDSCI 600P",
         "curr_course_name": "P-TRANS TO RESIDENCY",
         "curr_course_fulfills": ""
@@ -367,7 +367,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MEDSCI 699",
         "curr_course_name": "CLINICAL INDEP STUDY",
         "curr_course_fulfills": ""

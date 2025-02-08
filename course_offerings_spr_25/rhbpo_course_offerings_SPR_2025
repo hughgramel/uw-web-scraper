@@ -57,7 +57,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RHB PO 512",
         "curr_course_name": "UL PROSTHETICS II",
         "curr_course_fulfills": ""
@@ -86,7 +86,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RHB PO 512",
         "curr_course_name": "UL PROSTHETICS II",
         "curr_course_fulfills": ""
@@ -115,7 +115,7 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Roehr,Bryan",
         "curr_course_code": "RHB PO 527",
         "curr_course_name": "P&O PEDS",
@@ -149,7 +149,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kapp,Susan",
         "curr_course_code": "RHB PO 528",
         "curr_course_name": "LLP III THEORY",
         "curr_course_fulfills": ""
@@ -214,7 +215,8 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Spaulding,Sue",
         "curr_course_code": "RHB PO 541",
         "curr_course_name": "ENGR CONCEPTS",
         "curr_course_fulfills": ""

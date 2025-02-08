@@ -27,7 +27,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Jia,Grace",
         "curr_course_code": "CET 515",
         "curr_course_name": "MACHINE LRN CIV ENGR",
@@ -60,7 +59,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ugurel,Ekin",
         "curr_course_code": "CET 581",
-        "curr_course_name": "TRAVEL DEMAND FCAST ",
+        "curr_course_name": "TRAVEL DEMAND FCAST",
         "curr_course_fulfills": ""
     },
     {
@@ -148,7 +147,7 @@
         "open_or_closed": "Open",
         "professor_name": "Maxner,Tom",
         "curr_course_code": "CET 587",
-        "curr_course_name": "TRANSPRTN LOGISTICS ",
+        "curr_course_name": "TRANSPRTN LOGISTICS",
         "curr_course_fulfills": ""
     },
     {

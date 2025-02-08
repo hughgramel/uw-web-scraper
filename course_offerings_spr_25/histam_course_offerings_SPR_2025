@@ -24,7 +24,7 @@
         "open_or_closed": "Open",
         "professor_name": "Wray,Alekzandr",
         "curr_course_code": "HSTAA 150",
-        "curr_course_name": "INTRO AF AM HISTORY ",
+        "curr_course_name": "INTRO AF AM HISTORY",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -54,7 +54,7 @@
         "open_or_closed": "Open",
         "professor_name": "Jung,Moon-Ho",
         "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST ",
+        "curr_course_name": "ASIAN AMERICAN HIST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -82,9 +82,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST ",
+        "curr_course_name": "ASIAN AMERICAN HIST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -112,9 +112,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST ",
+        "curr_course_name": "ASIAN AMERICAN HIST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -142,9 +142,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST ",
+        "curr_course_name": "ASIAN AMERICAN HIST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -172,9 +172,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST ",
+        "curr_course_name": "ASIAN AMERICAN HIST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -202,9 +202,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST ",
+        "curr_course_name": "ASIAN AMERICAN HIST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -232,9 +232,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST ",
+        "curr_course_name": "ASIAN AMERICAN HIST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -262,10 +262,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Roberts,Nathan",
         "curr_course_code": "HSTAA 212",
-        "curr_course_name": "MILITARY HIST OF US ",
+        "curr_course_name": "MILITARY HIST OF US",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -294,10 +294,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Glenn,Susan A.",
         "curr_course_code": "HSTAA 337",
-        "curr_course_name": "HOLOCAUST & AMERICA ",
+        "curr_course_name": "HOLOCAUST & AMERICA",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -325,9 +324,9 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HSTAA 337",
-        "curr_course_name": "HOLOCAUST & AMERICA ",
+        "curr_course_name": "HOLOCAUST & AMERICA",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -355,10 +354,10 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Roberts,Nathan",
         "curr_course_code": "HSTAA 351",
-        "curr_course_name": "AMERICAN CONST HIST ",
+        "curr_course_name": "AMERICAN CONST HIST",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -418,7 +417,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "O'Mara,Margaret",
         "curr_course_code": "HSTAA 522",
         "curr_course_name": "AM HST-INTERPRET",
         "curr_course_fulfills": ""

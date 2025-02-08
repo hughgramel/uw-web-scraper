@@ -21,9 +21,10 @@
         "is_estimate": 0,
         "max_capacity": "200",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Knoth,Jenny",
         "curr_course_code": "ESRM 101",
-        "curr_course_name": "FORESTS AND SOCIETY ",
+        "curr_course_name": "FORESTS AND SOCIETY",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -50,7 +51,7 @@
         "is_estimate": 0,
         "max_capacity": "150",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Wirsing,Aaron",
         "curr_course_code": "ESRM 150",
         "curr_course_name": "WILDLIFE MOD WORLD",
@@ -80,7 +81,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 150",
         "curr_course_name": "WILDLIFE MOD WORLD",
         "curr_course_fulfills": [
@@ -109,7 +110,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 150",
         "curr_course_name": "WILDLIFE MOD WORLD",
         "curr_course_fulfills": [
@@ -138,7 +139,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Wirsing,Aaron",
         "curr_course_code": "ESRM 150",
         "curr_course_name": "WILDLIFE MOD WORLD",
@@ -168,7 +169,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 150",
         "curr_course_name": "WILDLIFE MOD WORLD",
         "curr_course_fulfills": [
@@ -197,7 +198,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 150",
         "curr_course_name": "WILDLIFE MOD WORLD",
         "curr_course_fulfills": [
@@ -226,7 +227,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Wirsing,Aaron",
         "curr_course_code": "ESRM 150",
         "curr_course_name": "WILDLIFE MOD WORLD",
@@ -288,7 +289,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hill,Olivia",
         "curr_course_code": "ESRM 200",
         "curr_course_name": "SOC & ENVIRONMENTS",
         "curr_course_fulfills": [
@@ -349,7 +351,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Willing,Claire",
         "curr_course_code": "ESRM 201",
         "curr_course_name": "PAC NW ECOSYSTEMS",
         "curr_course_fulfills": [
@@ -378,7 +381,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Willing,Claire",
         "curr_course_code": "ESRM 201",
         "curr_course_name": "PAC NW ECOSYSTEMS",
         "curr_course_fulfills": [
@@ -531,7 +535,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Turnblom,Eric",
         "curr_course_code": "ESRM 304",
         "curr_course_name": "ENV RES ASSESSMENT",
         "curr_course_fulfills": [
@@ -561,7 +566,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Turnblom,Eric",
         "curr_course_code": "ESRM 304",
         "curr_course_name": "ENV RES ASSESSMENT",
         "curr_course_fulfills": [
@@ -632,7 +638,7 @@
         "open_or_closed": "Open",
         "professor_name": "Prugh,Laura R",
         "curr_course_code": "ESRM 351",
-        "curr_course_name": "WILD RES TECHNIQUES ",
+        "curr_course_name": "WILD RES TECHNIQUES",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -668,7 +674,7 @@
         "open_or_closed": "Open",
         "professor_name": "Prugh,Laura R",
         "curr_course_code": "ESRM 351",
-        "curr_course_name": "WILD RES TECHNIQUES ",
+        "curr_course_name": "WILD RES TECHNIQUES",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -690,7 +696,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 399",
         "curr_course_name": "FIELD/TEACH INTERN",
         "curr_course_fulfills": ""
@@ -712,7 +718,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Maddox,Sandra",
         "curr_course_code": "ESRM 399",
         "curr_course_name": "FIELD/TEACH INTERN",
@@ -745,7 +750,7 @@
         "open_or_closed": "Open",
         "professor_name": "Johnson,Brittany",
         "curr_course_code": "ESRM 410",
-        "curr_course_name": "FOR SOILS SITE PROD ",
+        "curr_course_name": "FOR SOILS SITE PROD",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -874,7 +879,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Alvarado,Ernesto",
         "curr_course_code": "ESRM 420",
         "curr_course_name": "WILDLAND FIRE MGT",
         "curr_course_fulfills": [
@@ -905,7 +911,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Alvarado,Ernesto",
         "curr_course_code": "ESRM 420",
         "curr_course_name": "WILDLAND FIRE MGT",
         "curr_course_fulfills": [
@@ -936,7 +943,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Gough,Heidi",
         "curr_course_code": "ESRM 426",
         "curr_course_name": "WILDLAND HYDROLOGY",
@@ -975,7 +982,7 @@
         "open_or_closed": "Open",
         "professor_name": "Swan,Robert James",
         "curr_course_code": "ESRM 428",
-        "curr_course_name": "PRINCP SILVICULTURE ",
+        "curr_course_name": "PRINCP SILVICULTURE",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1070,7 +1077,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tobin,Patrick",
         "curr_course_code": "ESRM 435",
         "curr_course_name": "INSECT ECOLOGY",
@@ -1134,7 +1141,7 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 447",
         "curr_course_name": "WATERSHED ECOL",
         "curr_course_fulfills": [
@@ -1165,7 +1172,7 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 447",
         "curr_course_name": "WATERSHED ECOL",
         "curr_course_fulfills": [
@@ -1199,7 +1206,7 @@
         "open_or_closed": "Open",
         "professor_name": "Prugh,Laura R",
         "curr_course_code": "ESRM 453",
-        "curr_course_name": "BIOL & ECOL MAMMALS ",
+        "curr_course_name": "BIOL & ECOL MAMMALS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1231,7 +1238,7 @@
         "open_or_closed": "Open",
         "professor_name": "Prugh,Laura R",
         "curr_course_code": "ESRM 453",
-        "curr_course_name": "BIOL & ECOL MAMMALS ",
+        "curr_course_name": "BIOL & ECOL MAMMALS",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1253,7 +1260,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Marzluff,John M.",
         "curr_course_code": "ESRM 459",
         "curr_course_name": "WILDLF CONS IN NW",
@@ -1322,7 +1328,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Toth,Sandor",
         "curr_course_code": "ESRM 461",
         "curr_course_name": "FOR MGT ECONOMICS",
@@ -1386,7 +1392,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Updegrave,Cynthia",
         "curr_course_code": "ESRM 464",
         "curr_course_name": "RESTORATION ECOL 3",
@@ -1409,7 +1414,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "ESRM 490",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1438,7 +1443,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Shah,Sameer H.",
         "curr_course_code": "ESRM 490",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1461,7 +1465,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 494",
         "curr_course_name": "CAPSTONE PROPOSAL",
         "curr_course_fulfills": ""
@@ -1483,7 +1487,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 494",
         "curr_course_name": "CAPSTONE PROPOSAL",
         "curr_course_fulfills": ""
@@ -1505,7 +1509,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 495",
         "curr_course_name": "SENIOR PROJECT",
         "curr_course_fulfills": ""
@@ -1527,7 +1531,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 496",
         "curr_course_name": "SENIOR THESIS",
         "curr_course_fulfills": ""
@@ -1549,7 +1553,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 496",
         "curr_course_name": "SENIOR THESIS",
         "curr_course_fulfills": ""
@@ -1571,7 +1575,7 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1593,7 +1597,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1615,7 +1619,7 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ESRM 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1637,7 +1641,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Marzluff,John M.",
         "curr_course_code": "ESRM 499",
         "curr_course_name": "UNDERGRAD RESEARCH",

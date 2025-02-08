@@ -44,7 +44,8 @@
         "is_estimate": 0,
         "max_capacity": "210",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Huybers,Kat",
         "curr_course_code": "ATM S 211",
         "curr_course_name": "CLIMATE CHANGE",
         "curr_course_fulfills": [
@@ -73,7 +74,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 211",
         "curr_course_name": "CLIMATE CHANGE",
         "curr_course_fulfills": [
@@ -104,7 +105,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ATM S 211",
         "curr_course_name": "CLIMATE CHANGE",
         "curr_course_fulfills": [
@@ -133,7 +133,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 211",
         "curr_course_name": "CLIMATE CHANGE",
         "curr_course_fulfills": [
@@ -162,7 +162,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 211",
         "curr_course_name": "CLIMATE CHANGE",
         "curr_course_fulfills": [
@@ -191,7 +191,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 211",
         "curr_course_name": "CLIMATE CHANGE",
         "curr_course_fulfills": [
@@ -220,7 +220,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 211",
         "curr_course_name": "CLIMATE CHANGE",
         "curr_course_fulfills": [
@@ -251,7 +251,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ATM S 211",
         "curr_course_name": "CLIMATE CHANGE",
         "curr_course_fulfills": [
@@ -306,7 +305,7 @@
         "open_or_closed": "Open",
         "professor_name": "Huybers,Kat",
         "curr_course_code": "ATM S 220",
-        "curr_course_name": "EXPLORING ATMOS SCI ",
+        "curr_course_name": "EXPLORING ATMOS SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -333,7 +332,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Frierson,Dargan",
         "curr_course_code": "ATM S 321",
         "curr_course_name": "SCIENCE OF CLIMATE",
@@ -363,9 +362,10 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Fu,Qiang",
         "curr_course_code": "ATM S 341",
-        "curr_course_name": "ATM RADIATIVE TRANS ",
+        "curr_course_name": "ATM RADIATIVE TRANS",
         "curr_course_fulfills": ""
     },
     {
@@ -390,7 +390,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Turner,Alex",
         "curr_course_code": "ATM S 358",
         "curr_course_name": "ATMOSPHERIC CHEM",
         "curr_course_fulfills": [
@@ -414,7 +415,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 390",
         "curr_course_name": "H-TUTORIAL ATM SCI",
         "curr_course_fulfills": ""
@@ -445,7 +446,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mass,Clifford",
         "curr_course_code": "ATM S 452",
         "curr_course_name": "FORECASTING LAB",
@@ -499,7 +500,7 @@
         "open_or_closed": "Open",
         "professor_name": "Riser,Stephen C",
         "curr_course_code": "ATM S 475",
-        "curr_course_name": "CLMT SCI RSRCH SMNR ",
+        "curr_course_name": "CLMT SCI RSRCH SMNR",
         "curr_course_fulfills": ""
     },
     {
@@ -556,7 +557,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 490",
         "curr_course_name": "WEATHER ANALYSIS",
         "curr_course_fulfills": [
@@ -580,7 +581,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 497",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -602,9 +603,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 498",
-        "curr_course_name": "HON SYNTHESIS & COM ",
+        "curr_course_name": "HON SYNTHESIS & COM",
         "curr_course_fulfills": ""
     },
     {
@@ -624,7 +625,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -657,7 +658,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McMurdie,Lynn",
         "curr_course_code": "ATM S 502",
         "curr_course_name": "INTRO SYNOPTIC MET",
@@ -778,7 +779,7 @@
         "open_or_closed": "Open",
         "professor_name": "Jaegle,Lyatt",
         "curr_course_code": "ATM S 523",
-        "curr_course_name": "SMNR ATMS PHYS&CHEM ",
+        "curr_course_name": "SMNR ATMS PHYS&CHEM",
         "curr_course_fulfills": ""
     },
     {
@@ -835,10 +836,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Hakim,Gregory",
         "curr_course_code": "ATM S 542",
-        "curr_course_name": "SYNOP/MESOSCALE DYN ",
+        "curr_course_name": "SYNOP/MESOSCALE DYN",
         "curr_course_fulfills": ""
     },
     {
@@ -863,7 +864,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Hartmann,Dennis",
         "curr_course_code": "ATM S 552",
         "curr_course_name": "OBJECTIVE ANALYSIS",
@@ -947,7 +948,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 591",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -991,7 +992,7 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 597",
         "curr_course_name": "DIRECTED DISC & PRES",
         "curr_course_fulfills": ""
@@ -1014,9 +1015,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ATM S 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1036,7 +1036,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ATM S 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -1059,7 +1059,6 @@
         "is_estimate": 1,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ATM S 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1082,9 +1081,8 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ATM S 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

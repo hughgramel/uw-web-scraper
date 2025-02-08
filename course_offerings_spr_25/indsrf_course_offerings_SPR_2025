@@ -180,7 +180,7 @@
         "open_or_closed": "Open",
         "professor_name": "Weiman,Samantha",
         "curr_course_code": "EDUC 210",
-        "curr_course_name": "CURRENT ISSUES EDUC ",
+        "curr_course_name": "CURRENT ISSUES EDUC",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -299,7 +299,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mazza,James",
         "curr_course_code": "EDUC 215",
         "curr_course_name": "COLLEGE RESILIENCE",
@@ -329,7 +329,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mazza,James",
         "curr_course_code": "EDUC 215",
         "curr_course_name": "COLLEGE RESILIENCE",
@@ -359,7 +359,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mazza,James",
         "curr_course_code": "EDUC 215",
         "curr_course_name": "COLLEGE RESILIENCE",
@@ -389,7 +389,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mazza,James",
         "curr_course_code": "EDUC 215",
         "curr_course_name": "COLLEGE RESILIENCE",
@@ -419,7 +419,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mazza,James",
         "curr_course_code": "EDUC 215",
         "curr_course_name": "COLLEGE RESILIENCE",
@@ -449,7 +449,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mazza,James",
         "curr_course_code": "EDUC 215",
         "curr_course_name": "COLLEGE RESILIENCE",
@@ -479,7 +479,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Mazza,James",
         "curr_course_code": "EDUC 215",
         "curr_course_name": "COLLEGE RESILIENCE",
@@ -659,7 +659,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lally,Jaclyn",
         "curr_course_code": "EDUC 216",
         "curr_course_name": "PATH TO HAPPINESS",
         "curr_course_fulfills": [
@@ -688,7 +689,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lally,Jaclyn",
         "curr_course_code": "EDUC 216",
         "curr_course_name": "PATH TO HAPPINESS",
         "curr_course_fulfills": [
@@ -717,7 +719,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lally,Jaclyn",
         "curr_course_code": "EDUC 216",
         "curr_course_name": "PATH TO HAPPINESS",
         "curr_course_fulfills": [
@@ -746,7 +749,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lally,Jaclyn",
         "curr_course_code": "EDUC 216",
         "curr_course_name": "PATH TO HAPPINESS",
         "curr_course_fulfills": [
@@ -812,7 +816,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chen,Jondou",
         "curr_course_code": "EDUC 251",
-        "curr_course_name": "ED EQUITY/DIVERSITY ",
+        "curr_course_name": "ED EQUITY/DIVERSITY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -845,7 +849,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chen,Jondou",
         "curr_course_code": "EDUC 251",
-        "curr_course_name": "ED EQUITY/DIVERSITY ",
+        "curr_course_name": "ED EQUITY/DIVERSITY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -878,7 +882,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chen,Jondou",
         "curr_course_code": "EDUC 251",
-        "curr_course_name": "ED EQUITY/DIVERSITY ",
+        "curr_course_name": "ED EQUITY/DIVERSITY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -911,7 +915,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chen,Jondou",
         "curr_course_code": "EDUC 251",
-        "curr_course_name": "ED EQUITY/DIVERSITY ",
+        "curr_course_name": "ED EQUITY/DIVERSITY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -944,7 +948,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chen,Jondou",
         "curr_course_code": "EDUC 251",
-        "curr_course_name": "ED EQUITY/DIVERSITY ",
+        "curr_course_name": "ED EQUITY/DIVERSITY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -977,7 +981,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chen,Jondou",
         "curr_course_code": "EDUC 251",
-        "curr_course_name": "ED EQUITY/DIVERSITY ",
+        "curr_course_name": "ED EQUITY/DIVERSITY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -1000,10 +1004,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Chen,Jondou",
         "curr_course_code": "EDUC 251",
-        "curr_course_name": "ED EQUITY/DIVERSITY ",
+        "curr_course_name": "ED EQUITY/DIVERSITY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -1029,7 +1032,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chen,Jondou",
         "curr_course_code": "EDUC 251",
-        "curr_course_name": "ED EQUITY/DIVERSITY ",
+        "curr_course_name": "ED EQUITY/DIVERSITY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -1059,7 +1062,6 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Love,Rashida N",
         "curr_course_code": "EDUC 255",
         "curr_course_name": "SISTERHOOD SEMINAR I",
@@ -1211,10 +1213,10 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Chin,Lisa",
         "curr_course_code": "EDUC 300",
-        "curr_course_name": "SPECIAL TOPICS EDUC ",
+        "curr_course_name": "SPECIAL TOPICS EDUC",
         "curr_course_fulfills": ""
     },
     {
@@ -1241,10 +1243,9 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lott",
         "curr_course_code": "EDUC 300",
-        "curr_course_name": "SPECIAL TOPICS EDUC ",
+        "curr_course_name": "SPECIAL TOPICS EDUC",
         "curr_course_fulfills": ""
     },
     {
@@ -1265,7 +1266,7 @@
         "open_or_closed": "Open",
         "professor_name": "Bagley,Sylvia Stralberg",
         "curr_course_code": "EDUC 300",
-        "curr_course_name": "SPECIAL TOPICS EDUC ",
+        "curr_course_name": "SPECIAL TOPICS EDUC",
         "curr_course_fulfills": ""
     },
     {
@@ -1292,9 +1293,9 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "EDUC 300",
-        "curr_course_name": "SPECIAL TOPICS EDUC ",
+        "curr_course_name": "SPECIAL TOPICS EDUC",
         "curr_course_fulfills": ""
     },
     {
@@ -1321,7 +1322,6 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lott",
         "curr_course_code": "EDUC 303",
         "curr_course_name": "BI LEADERSHIP II",
@@ -1413,7 +1413,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDUC 355",
         "curr_course_name": "SISTERHOOD SEMINR II",
         "curr_course_fulfills": [
@@ -1497,7 +1496,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Dietrich,Lynn",
         "curr_course_code": "EDUC 400",
         "curr_course_name": "EDUC STDIES CAPSTONE",
@@ -1528,7 +1526,7 @@
         "open_or_closed": "Open",
         "professor_name": "Lee,Maria Tsen",
         "curr_course_code": "EDUC 401",
-        "curr_course_name": "PRACT COMM SERV ACT ",
+        "curr_course_name": "PRACT COMM SERV ACT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1558,7 +1556,7 @@
         "open_or_closed": "Open",
         "professor_name": "Lee,Maria Tsen",
         "curr_course_code": "EDUC 401",
-        "curr_course_name": "PRACT COMM SERV ACT ",
+        "curr_course_name": "PRACT COMM SERV ACT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1580,10 +1578,9 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lee,Maria Tsen",
         "curr_course_code": "EDUC 401",
-        "curr_course_name": "PRACT COMM SERV ACT ",
+        "curr_course_name": "PRACT COMM SERV ACT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1612,10 +1609,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Parra,Richard Alejandro",
         "curr_course_code": "EDUC 401",
-        "curr_course_name": "PRACT COMM SERV ACT ",
+        "curr_course_name": "PRACT COMM SERV ACT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1637,10 +1633,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Acosta,Nicole",
         "curr_course_code": "EDUC 401",
-        "curr_course_name": "PRACT COMM SERV ACT ",
+        "curr_course_name": "PRACT COMM SERV ACT",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1669,10 +1664,9 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Macarro,Avelaka",
         "curr_course_code": "EDUC 411",
-        "curr_course_name": "PRACT COMM SERV ACT ",
+        "curr_course_name": "PRACT COMM SERV ACT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1718,7 +1712,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Peck,Charles A",
         "curr_course_code": "EDUC 440",
         "curr_course_name": "ART ED CLIMTE JUSTCE",
@@ -1811,7 +1804,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Elliott,Emma",
         "curr_course_code": "EDUC 473",
         "curr_course_name": "COMMUNITY RESEARCH",
         "curr_course_fulfills": ""
@@ -1840,7 +1834,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Aguilar,Edmundo",
         "curr_course_code": "EDUC 483",
         "curr_course_name": "COMMUNITY CAPSTONE 3",
@@ -1870,7 +1864,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Aguilar,Edmundo",
         "curr_course_code": "EDUC 483",
         "curr_course_name": "COMMUNITY CAPSTONE 3",
@@ -1893,7 +1887,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Chen,Jondou",
         "curr_course_code": "EDUC 503",
         "curr_course_name": "ED EQTY SCTY CLLQUIM",
@@ -1917,7 +1910,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDUC 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1940,9 +1932,8 @@
         "is_estimate": 0,
         "max_capacity": "99",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDUC 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

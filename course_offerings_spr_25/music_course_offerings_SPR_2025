@@ -40,7 +40,7 @@
         "open_or_closed": "Open",
         "professor_name": "Rumph,Stephen C",
         "curr_course_code": "MUSIC 120",
-        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_name": "INTRO CLASSICAL MUS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -67,9 +67,9 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 120",
-        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_name": "INTRO CLASSICAL MUS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -96,9 +96,9 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 120",
-        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_name": "INTRO CLASSICAL MUS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -125,9 +125,9 @@
         "is_estimate": 0,
         "max_capacity": "21",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 120",
-        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_name": "INTRO CLASSICAL MUS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -154,9 +154,9 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 120",
-        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_name": "INTRO CLASSICAL MUS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -183,9 +183,9 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 120",
-        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_name": "INTRO CLASSICAL MUS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -212,9 +212,9 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 120",
-        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_name": "INTRO CLASSICAL MUS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -241,9 +241,9 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 120",
-        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_name": "INTRO CLASSICAL MUS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -270,9 +270,9 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 120",
-        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_name": "INTRO CLASSICAL MUS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -370,7 +370,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 162",
         "curr_course_name": "AMER POP SONG",
         "curr_course_fulfills": [
@@ -400,7 +400,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 162",
         "curr_course_name": "AMER POP SONG",
         "curr_course_fulfills": [
@@ -455,7 +455,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Reece,Frederick",
         "curr_course_code": "MUSIC 202",
         "curr_course_name": "1ST YEAR THEORY II",
         "curr_course_fulfills": [
@@ -484,7 +485,8 @@
         "is_estimate": 0,
         "max_capacity": "19",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "NAGARAJ,SANDESH",
         "curr_course_code": "MUSIC 202",
         "curr_course_name": "1ST YEAR THEORY II",
         "curr_course_fulfills": [
@@ -513,7 +515,8 @@
         "is_estimate": 0,
         "max_capacity": "19",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "NAGARAJ,SANDESH",
         "curr_course_code": "MUSIC 202",
         "curr_course_name": "1ST YEAR THEORY II",
         "curr_course_fulfills": [
@@ -544,7 +547,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "NAGARAJ,SANDESH",
         "curr_course_code": "MUSIC 205",
         "curr_course_name": "1ST YR EAR TRN II",
         "curr_course_fulfills": [
@@ -575,7 +579,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "NAGARAJ,SANDESH",
         "curr_course_code": "MUSIC 205",
         "curr_course_name": "1ST YR EAR TRN II",
         "curr_course_fulfills": [
@@ -606,7 +611,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "NAGARAJ,SANDESH",
         "curr_course_code": "MUSIC 205",
         "curr_course_name": "1ST YR EAR TRN II",
         "curr_course_fulfills": [
@@ -637,7 +643,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Dougherty,William",
         "curr_course_code": "MUSIC 218",
         "curr_course_name": "INTRODUCTORY COMP",
         "curr_course_fulfills": [
@@ -661,7 +668,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lynch,Mary",
         "curr_course_code": "MUSIC 240",
         "curr_course_name": "REEDMAKING",
         "curr_course_fulfills": [
@@ -685,7 +693,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rafanelli,Paul",
         "curr_course_code": "MUSIC 240",
         "curr_course_name": "REEDMAKING",
         "curr_course_fulfills": [
@@ -717,7 +726,7 @@
         "open_or_closed": "Open",
         "professor_name": "Mawkanuli,Talant",
         "curr_course_code": "MUSIC 269",
-        "curr_course_name": "MUSIC CULTR SILK RD ",
+        "curr_course_name": "MUSIC CULTR SILK RD",
         "curr_course_fulfills": [
             "A&H/SSc",
             "DIV"
@@ -747,7 +756,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hodge,Huck",
         "curr_course_code": "MUSIC 302",
         "curr_course_name": "2ND YR THEORY II",
         "curr_course_fulfills": [
@@ -778,7 +788,8 @@
         "is_estimate": 0,
         "max_capacity": "23",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zeitlinger,Justin",
         "curr_course_code": "MUSIC 302",
         "curr_course_name": "2ND YR THEORY II",
         "curr_course_fulfills": [
@@ -807,7 +818,8 @@
         "is_estimate": 0,
         "max_capacity": "23",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zeitlinger,Justin",
         "curr_course_code": "MUSIC 302",
         "curr_course_name": "2ND YR THEORY II",
         "curr_course_fulfills": [
@@ -836,7 +848,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zeitlinger,Justin",
         "curr_course_code": "MUSIC 305",
         "curr_course_name": "2ND YR EAR TRN II",
         "curr_course_fulfills": [
@@ -867,7 +880,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zeitlinger,Justin",
         "curr_course_code": "MUSIC 305",
         "curr_course_name": "2ND YR EAR TRN II",
         "curr_course_fulfills": [
@@ -929,7 +943,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sheppard,Craig",
         "curr_course_code": "MUSIC 328",
         "curr_course_name": "REPERTOIRE",
@@ -959,7 +972,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Partington,Michael",
         "curr_course_code": "MUSIC 328",
         "curr_course_name": "REPERTOIRE",
         "curr_course_fulfills": [
@@ -983,7 +997,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 379",
         "curr_course_name": "JUNIOR RECITAL",
         "curr_course_fulfills": [
@@ -1007,7 +1021,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Price,Stephen",
         "curr_course_code": "MUSIC 390",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1039,7 +1053,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 391",
         "curr_course_name": "COMPOSITION",
         "curr_course_fulfills": [
@@ -1070,7 +1084,6 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSIC 402",
         "curr_course_name": "DIG SOUND PROCESSING",
         "curr_course_fulfills": [
@@ -1101,7 +1114,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Vu,Cuong",
         "curr_course_code": "MUSIC 413",
         "curr_course_name": "FREE IMP JZ COMP 3",
         "curr_course_fulfills": [
@@ -1130,7 +1144,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Shaw,Carrie",
         "curr_course_code": "MUSIC 436",
         "curr_course_name": "PEDAGOGY",
@@ -1160,7 +1174,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Patterson,Ronald",
         "curr_course_code": "MUSIC 436",
         "curr_course_name": "PEDAGOGY",
@@ -1192,7 +1206,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Rommel,Sarah",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
         "curr_course_fulfills": [
@@ -1223,7 +1237,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Watras,Melia",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
         "curr_course_fulfills": [
@@ -1258,7 +1272,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Shin,Donna",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
         "curr_course_fulfills": [
@@ -1289,7 +1303,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lee",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
@@ -1314,7 +1327,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "TURMAN,JOHN",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
         "curr_course_fulfills": [
@@ -1338,7 +1351,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Brockman,Michael",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
@@ -1361,7 +1373,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lulich,Benjamin",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
         "curr_course_fulfills": [
@@ -1392,7 +1405,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Anderson,Jordan",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
         "curr_course_fulfills": [
@@ -1414,7 +1427,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "DiCesare,John",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
         "curr_course_fulfills": [
@@ -1436,7 +1450,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Garza,Eden",
         "curr_course_code": "MUSIC 437",
         "curr_course_name": "STUDIO CLASS",
@@ -1466,9 +1480,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Morford,James",
         "curr_course_code": "MUSIC 445",
-        "curr_course_name": "SEL TOPICS IN ETHNO ",
+        "curr_course_name": "SEL TOPICS IN ETHNO",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -1497,7 +1512,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sheppard,Craig",
         "curr_course_code": "MUSIC 449",
         "curr_course_name": "ADVANCED PIANO REP",
@@ -1529,7 +1543,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Poor,Ted",
         "curr_course_code": "MUSIC 464",
         "curr_course_name": "JAZZ LAB",
         "curr_course_fulfills": [
@@ -1560,7 +1575,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Kitchens,Kelly",
         "curr_course_code": "MUSIC 465",
         "curr_course_name": "ACTING FOR SINGERS",
         "curr_course_fulfills": [
@@ -1591,10 +1606,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Seales,Marc",
         "curr_course_code": "MUSIC 469",
-        "curr_course_name": "ADV JAZZ IMPROV III ",
+        "curr_course_name": "ADV JAZZ IMPROV III",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1621,10 +1636,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Price,Stephen",
         "curr_course_code": "MUSIC 475",
-        "curr_course_name": "FIG BASS REALZATION ",
+        "curr_course_name": "FIG BASS REALZATION",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1646,7 +1661,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 479",
         "curr_course_name": "SENIOR RECITAL",
         "curr_course_fulfills": [
@@ -1675,9 +1690,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Dougherty,William",
         "curr_course_code": "MUSIC 485",
-        "curr_course_name": "ANALYSIS AMER MUSIC ",
+        "curr_course_name": "ANALYSIS AMER MUSIC",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -1706,7 +1722,6 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Nicolas,Peter",
         "curr_course_code": "MUSIC 486",
         "curr_course_name": "SPEC TOPIC MUSIC/LAW",
@@ -1736,7 +1751,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 491",
         "curr_course_name": "COMPOSITION",
         "curr_course_fulfills": [
@@ -1765,7 +1780,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kolat,Yigit",
         "curr_course_code": "MUSIC 497",
         "curr_course_name": "ORCHESTRATION",
         "curr_course_fulfills": [
@@ -1789,7 +1805,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 498",
         "curr_course_name": "SENIOR THESIS",
         "curr_course_fulfills": [
@@ -1813,7 +1829,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1840,7 +1856,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Solis,Gabriel",
         "curr_course_code": "MUSIC 504",
         "curr_course_name": "ETHNOGRAPH RES MUS",
         "curr_course_fulfills": ""
@@ -1869,10 +1886,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Boers,Geoffrey",
         "curr_course_code": "MUSIC 553",
-        "curr_course_name": "ADV CHORAL TECHNIQS ",
+        "curr_course_name": "ADV CHORAL TECHNIQS",
         "curr_course_fulfills": ""
     },
     {
@@ -1893,7 +1910,6 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSIC 559",
         "curr_course_name": "MASTERS RECITAL",
         "curr_course_fulfills": ""
@@ -1920,9 +1936,10 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kolat,Yigit",
         "curr_course_code": "MUSIC 572",
-        "curr_course_name": "ADV TOP CMPTR MUSIC ",
+        "curr_course_name": "ADV TOP CMPTR MUSIC",
         "curr_course_fulfills": ""
     },
     {
@@ -1942,10 +1959,10 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Rahbee,David",
         "curr_course_code": "MUSIC 582",
-        "curr_course_name": "ADVANCED CONDUCTING ",
+        "curr_course_name": "ADVANCED CONDUCTING",
         "curr_course_fulfills": ""
     },
     {
@@ -1972,10 +1989,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Salzman,Timothy",
         "curr_course_code": "MUSIC 582",
-        "curr_course_name": "ADVANCED CONDUCTING ",
+        "curr_course_name": "ADVANCED CONDUCTING",
         "curr_course_fulfills": ""
     },
     {
@@ -2002,10 +2018,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Boers,Geoffrey",
         "curr_course_code": "MUSIC 583",
-        "curr_course_name": "ADV CHORAL CONDUCTG ",
+        "curr_course_name": "ADV CHORAL CONDUCTG",
         "curr_course_fulfills": ""
     },
     {
@@ -2025,7 +2041,7 @@
         "is_estimate": 1,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 590",
         "curr_course_name": "KEYBOARD RECITAL",
         "curr_course_fulfills": ""
@@ -2055,7 +2071,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "MUSIC 591",
         "curr_course_name": "GRADUATE COMP",
         "curr_course_fulfills": ""
@@ -2082,10 +2097,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Reyes,Francisco",
         "curr_course_code": "MUSIC 599",
-        "curr_course_name": "ADV SELECTED TOPICS ",
+        "curr_course_name": "ADV SELECTED TOPICS",
         "curr_course_fulfills": ""
     },
     {
@@ -2110,9 +2125,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Whiting,Bonnie",
         "curr_course_code": "MUSIC 599",
-        "curr_course_name": "ADV SELECTED TOPICS ",
+        "curr_course_name": "ADV SELECTED TOPICS",
         "curr_course_fulfills": ""
     },
     {
@@ -2132,9 +2148,9 @@
         "is_estimate": 1,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -2154,7 +2170,7 @@
         "is_estimate": 1,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -2176,9 +2192,9 @@
         "is_estimate": 1,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     },
     {
@@ -2198,9 +2214,9 @@
         "is_estimate": 1,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     },
     {
@@ -2220,9 +2236,9 @@
         "is_estimate": 1,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUSIC 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

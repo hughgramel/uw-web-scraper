@@ -152,7 +152,7 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 180",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -250,7 +250,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 180",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -279,7 +279,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 180",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -308,7 +308,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 180",
         "curr_course_name": "INTRO TO GLOBAL HLTH",
         "curr_course_fulfills": [
@@ -337,9 +337,10 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brown,Michael",
         "curr_course_code": "GEOG 200",
-        "curr_course_name": "INTRO TO HUMAN GEOG ",
+        "curr_course_name": "INTRO TO HUMAN GEOG",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -366,9 +367,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 200",
-        "curr_course_name": "INTRO TO HUMAN GEOG ",
+        "curr_course_name": "INTRO TO HUMAN GEOG",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -395,9 +396,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 200",
-        "curr_course_name": "INTRO TO HUMAN GEOG ",
+        "curr_course_name": "INTRO TO HUMAN GEOG",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -424,9 +425,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 200",
-        "curr_course_name": "INTRO TO HUMAN GEOG ",
+        "curr_course_name": "INTRO TO HUMAN GEOG",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -453,7 +454,8 @@
         "is_estimate": 0,
         "max_capacity": "120",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ellis,Mark",
         "curr_course_code": "GEOG 208",
         "curr_course_name": "GEOG WORLD ECONOMY",
         "curr_course_fulfills": [
@@ -482,7 +484,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 208",
         "curr_course_name": "GEOG WORLD ECONOMY",
         "curr_course_fulfills": [
@@ -511,7 +513,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 208",
         "curr_course_name": "GEOG WORLD ECONOMY",
         "curr_course_fulfills": [
@@ -540,7 +542,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 208",
         "curr_course_name": "GEOG WORLD ECONOMY",
         "curr_course_fulfills": [
@@ -569,7 +571,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 208",
         "curr_course_name": "GEOG WORLD ECONOMY",
         "curr_course_fulfills": [
@@ -598,7 +600,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 208",
         "curr_course_name": "GEOG WORLD ECONOMY",
         "curr_course_fulfills": [
@@ -627,7 +629,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 208",
         "curr_course_name": "GEOG WORLD ECONOMY",
         "curr_course_fulfills": [
@@ -656,7 +658,7 @@
         "is_estimate": 0,
         "max_capacity": "120",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Sneegas,Gretchen",
         "curr_course_code": "GEOG 270",
         "curr_course_name": "GEOG DVLP & ENVIRO",
@@ -686,7 +688,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 270",
         "curr_course_name": "GEOG DVLP & ENVIRO",
         "curr_course_fulfills": [
@@ -715,7 +717,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 270",
         "curr_course_name": "GEOG DVLP & ENVIRO",
         "curr_course_fulfills": [
@@ -744,7 +746,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 270",
         "curr_course_name": "GEOG DVLP & ENVIRO",
         "curr_course_fulfills": [
@@ -773,7 +775,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 270",
         "curr_course_name": "GEOG DVLP & ENVIRO",
         "curr_course_fulfills": [
@@ -802,7 +804,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 270",
         "curr_course_name": "GEOG DVLP & ENVIRO",
         "curr_course_fulfills": [
@@ -831,7 +833,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 270",
         "curr_course_name": "GEOG DVLP & ENVIRO",
         "curr_course_fulfills": [
@@ -860,7 +862,8 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "lopez,tish",
         "curr_course_code": "GEOG 280",
         "curr_course_name": "GEOG AND HEALTH",
         "curr_course_fulfills": [
@@ -889,7 +892,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 280",
         "curr_course_name": "GEOG AND HEALTH",
         "curr_course_fulfills": [
@@ -918,7 +921,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 280",
         "curr_course_name": "GEOG AND HEALTH",
         "curr_course_fulfills": [
@@ -947,7 +950,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 280",
         "curr_course_name": "GEOG AND HEALTH",
         "curr_course_fulfills": [
@@ -978,7 +981,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ellis,Mark",
         "curr_course_code": "GEOG 310",
         "curr_course_name": "IMMIGRANT AMERICA",
         "curr_course_fulfills": [
@@ -1010,7 +1014,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Sneegas,Gretchen",
         "curr_course_code": "GEOG 315",
         "curr_course_name": "EXPLAN UNDSTN GEOG",
@@ -1042,7 +1046,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 315",
         "curr_course_name": "EXPLAN UNDSTN GEOG",
         "curr_course_fulfills": [
@@ -1073,7 +1077,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 315",
         "curr_course_name": "EXPLAN UNDSTN GEOG",
         "curr_course_fulfills": [
@@ -1162,7 +1166,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "England,Kim",
         "curr_course_code": "GEOG 342",
         "curr_course_name": "GEOG INEQUALITY",
         "curr_course_fulfills": [
@@ -1216,7 +1221,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 360",
         "curr_course_name": "GIS AND MAPPING",
         "curr_course_fulfills": [
@@ -1246,7 +1251,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 360",
         "curr_course_name": "GIS AND MAPPING",
         "curr_course_fulfills": [
@@ -1278,7 +1283,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 360",
         "curr_course_name": "GIS AND MAPPING",
         "curr_course_fulfills": [
@@ -1310,7 +1315,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 360",
         "curr_course_name": "GIS AND MAPPING",
         "curr_course_fulfills": [
@@ -1374,7 +1379,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Oloukoi,Chrystel",
         "curr_course_code": "GEOG 425",
         "curr_course_name": "QUAL METHODS IN GEOG",
         "curr_course_fulfills": [
@@ -1401,7 +1407,7 @@
         "open_or_closed": "Open",
         "professor_name": "OH,GUNWHA",
         "curr_course_code": "GEOG 450",
-        "curr_course_name": "VISUALIZING SEATTLE ",
+        "curr_course_name": "VISUALIZING SEATTLE",
         "curr_course_fulfills": [
             "SSc",
             "RSN"
@@ -1431,9 +1437,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 450",
-        "curr_course_name": "VISUALIZING SEATTLE ",
+        "curr_course_name": "VISUALIZING SEATTLE",
         "curr_course_fulfills": [
             "SSc",
             "RSN"
@@ -1463,9 +1469,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 450",
-        "curr_course_name": "VISUALIZING SEATTLE ",
+        "curr_course_name": "VISUALIZING SEATTLE",
         "curr_course_fulfills": [
             "SSc",
             "RSN"
@@ -1495,9 +1501,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 450",
-        "curr_course_name": "VISUALIZING SEATTLE ",
+        "curr_course_name": "VISUALIZING SEATTLE",
         "curr_course_fulfills": [
             "SSc",
             "RSN"
@@ -1527,9 +1533,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 450",
-        "curr_course_name": "VISUALIZING SEATTLE ",
+        "curr_course_name": "VISUALIZING SEATTLE",
         "curr_course_fulfills": [
             "SSc",
             "RSN"
@@ -1559,10 +1565,10 @@
         "is_estimate": 0,
         "max_capacity": "31",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Withers,Suzanne",
         "curr_course_code": "GEOG 455",
-        "curr_course_name": "GENEALOGY GEOGRAPHY ",
+        "curr_course_name": "GENEALOGY GEOGRAPHY",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1615,7 +1621,6 @@
         "is_estimate": 1,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GEOG 494",
         "curr_course_name": "SENIOR ESSAY",
         "curr_course_fulfills": [
@@ -1640,7 +1645,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GEOG 496",
         "curr_course_name": "INTERNSHIP IN GEOG",
         "curr_course_fulfills": ""
@@ -1694,7 +1698,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 499",
         "curr_course_name": "SPECIAL STUDIES",
         "curr_course_fulfills": ""
@@ -1716,7 +1720,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 499",
         "curr_course_name": "SPECIAL STUDIES",
         "curr_course_fulfills": ""
@@ -1745,7 +1749,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zhao,Bo",
         "curr_course_code": "GEOG 521",
         "curr_course_name": "CRITICAL GIS",
         "curr_course_fulfills": ""
@@ -1774,7 +1779,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brown,Michael",
         "curr_course_code": "GEOG 525",
         "curr_course_name": "ADV QUAL MTHD GEOG",
         "curr_course_fulfills": ""
@@ -1856,9 +1862,9 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1878,9 +1884,9 @@
         "is_estimate": 1,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "GEOG 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1900,7 +1906,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1922,7 +1928,7 @@
         "is_estimate": 1,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "GEOG 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1944,9 +1950,9 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GEOG 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     },
     {
@@ -1966,9 +1972,9 @@
         "is_estimate": 1,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "GEOG 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

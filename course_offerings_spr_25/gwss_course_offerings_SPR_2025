@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "95",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Lee,Regina",
         "curr_course_code": "GWSS 200",
         "curr_course_name": "INTRO TO GWSS",
@@ -52,7 +52,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 200",
         "curr_course_name": "INTRO TO GWSS",
         "curr_course_fulfills": [
@@ -82,7 +82,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 200",
         "curr_course_name": "INTRO TO GWSS",
         "curr_course_fulfills": [
@@ -112,7 +112,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 200",
         "curr_course_name": "INTRO TO GWSS",
         "curr_course_fulfills": [
@@ -142,7 +142,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 200",
         "curr_course_name": "INTRO TO GWSS",
         "curr_course_fulfills": [
@@ -172,7 +172,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Chung,Christina Yuen",
         "curr_course_code": "GWSS 251",
         "curr_course_name": "GENDER/POP CULTURE",
@@ -207,7 +207,7 @@
         "is_estimate": 0,
         "max_capacity": "95",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Yee,Shirley",
         "curr_course_code": "GWSS 262",
         "curr_course_name": "GENDER AND SPORT",
@@ -240,9 +240,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 290",
-        "curr_course_name": "SPEC TOP WOMEN STDY ",
+        "curr_course_name": "SPEC TOP WOMEN STDY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -273,7 +272,7 @@
         "open_or_closed": "Open",
         "professor_name": "Perez Brower,Margaret Tere",
         "curr_course_code": "GWSS 313",
-        "curr_course_name": "GENDER AND POLITICS ",
+        "curr_course_name": "GENDER AND POLITICS",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -301,9 +300,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 313",
-        "curr_course_name": "GENDER AND POLITICS ",
+        "curr_course_name": "GENDER AND POLITICS",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -324,9 +323,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 313",
-        "curr_course_name": "GENDER AND POLITICS ",
+        "curr_course_name": "GENDER AND POLITICS",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -419,7 +418,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ahuvia,Mika",
         "curr_course_code": "GWSS 334",
-        "curr_course_name": "GENDER, SEX & RELIG ",
+        "curr_course_name": "GENDER, SEX & RELIG",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -450,7 +449,7 @@
         "open_or_closed": "Open",
         "professor_name": "Culligan,Ann",
         "curr_course_code": "GWSS 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -478,9 +477,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -508,9 +507,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -538,9 +537,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -568,9 +567,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -598,9 +597,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -628,9 +627,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -658,9 +657,9 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -688,9 +687,9 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 357",
-        "curr_course_name": "PSYCHOBIOL OF WOMEN ",
+        "curr_course_name": "PSYCHOBIOL OF WOMEN",
         "curr_course_fulfills": [
             "NSc",
             "DIV"
@@ -751,9 +750,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 390",
-        "curr_course_name": "INTERMEDIATE TOPICS ",
+        "curr_course_name": "INTERMEDIATE TOPICS",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -783,9 +781,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 390",
-        "curr_course_name": "INTERMEDIATE TOPICS ",
+        "curr_course_name": "INTERMEDIATE TOPICS",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -813,7 +810,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ramamurthy,Priti",
         "curr_course_code": "GWSS 420",
         "curr_course_name": "GENDR SEXUALTY INDIA",
         "curr_course_fulfills": [
@@ -843,10 +841,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Sorma,Mediha",
         "curr_course_code": "GWSS 490",
-        "curr_course_name": "SPEC TOP WOMEN STDY ",
+        "curr_course_name": "SPEC TOP WOMEN STDY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -876,10 +874,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Welland,Sasha Su-Ling",
         "curr_course_code": "GWSS 490",
-        "curr_course_name": "SPEC TOP WOMEN STDY ",
+        "curr_course_name": "SPEC TOP WOMEN STDY",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -909,7 +906,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ramamurthy,Priti",
         "curr_course_code": "GWSS 494",
         "curr_course_name": "CAPSTONE",
         "curr_course_fulfills": [
@@ -934,9 +932,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 495",
-        "curr_course_name": "TUTORING WOMEN STDY ",
+        "curr_course_name": "TUTORING WOMEN STDY",
         "curr_course_fulfills": ""
     },
     {
@@ -957,7 +954,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 496",
         "curr_course_name": "GLOBAL FEMINISMS",
         "curr_course_fulfills": [
@@ -989,7 +985,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 497",
         "curr_course_name": "FIELDWORK IN GWSS",
         "curr_course_fulfills": ""
@@ -1011,7 +1006,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 497",
         "curr_course_name": "FIELDWORK IN GWSS",
         "curr_course_fulfills": ""
@@ -1034,7 +1029,6 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1057,7 +1051,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1087,7 +1080,7 @@
         "open_or_closed": "Open",
         "professor_name": "Swarr,Amanda L",
         "curr_course_code": "GWSS 502",
-        "curr_course_name": "FEM QUEER TRANS INQ ",
+        "curr_course_name": "FEM QUEER TRANS INQ",
         "curr_course_fulfills": ""
     },
     {
@@ -1112,7 +1105,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Ramamurthy,Priti",
         "curr_course_code": "GWSS 520",
         "curr_course_name": "GENDR SEXUALTY INDIA",
         "curr_course_fulfills": ""
@@ -1142,7 +1136,7 @@
         "open_or_closed": "Open",
         "professor_name": "Ahuvia,Mika",
         "curr_course_code": "GWSS 534",
-        "curr_course_name": "GENDER, SEX & RELIG ",
+        "curr_course_name": "GENDER, SEX & RELIG",
         "curr_course_fulfills": ""
     },
     {
@@ -1169,7 +1163,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Welland,Sasha Su-Ling",
         "curr_course_code": "GWSS 590",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1199,7 +1192,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 590",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1222,7 +1215,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 598",
         "curr_course_name": "DIRECTED READINGS",
         "curr_course_fulfills": ""
@@ -1245,7 +1237,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 598",
         "curr_course_name": "DIRECTED READINGS",
         "curr_course_fulfills": ""
@@ -1268,9 +1259,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1290,9 +1280,9 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "GWSS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1313,7 +1303,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 700",
         "curr_course_name": "MA THESIS",
         "curr_course_fulfills": ""
@@ -1336,7 +1325,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 701",
         "curr_course_name": "MA PRACTICUM",
         "curr_course_fulfills": ""
@@ -1359,9 +1347,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "GWSS 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

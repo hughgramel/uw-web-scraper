@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "405",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Midnight,Yael",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -53,7 +54,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -83,7 +84,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -113,7 +114,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -145,7 +146,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -177,7 +178,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -209,7 +210,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -239,7 +240,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -269,7 +270,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -299,7 +300,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -329,7 +330,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 200",
         "curr_course_name": "INTRO MICROECON",
         "curr_course_fulfills": [
@@ -359,7 +360,8 @@
         "is_estimate": 0,
         "max_capacity": "360",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "O'Dea,Dennis",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -389,7 +391,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -419,7 +421,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -449,7 +451,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -479,7 +481,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -509,7 +511,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -539,7 +541,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -569,7 +571,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -599,7 +601,7 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -629,7 +631,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -659,7 +661,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -689,7 +691,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 201",
         "curr_course_name": "INTRO MACROECON",
         "curr_course_fulfills": [
@@ -719,7 +721,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 230",
         "curr_course_name": "ECONOMICS FISH&OCN",
         "curr_course_fulfills": [
@@ -781,7 +783,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Khalil,Fahad",
         "curr_course_code": "ECON 300",
         "curr_course_name": "INTERMED MICROECON",
         "curr_course_fulfills": [
@@ -812,7 +815,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 300",
         "curr_course_name": "INTERMED MICROECON",
         "curr_course_fulfills": [
@@ -843,7 +846,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 300",
         "curr_course_name": "INTERMED MICROECON",
         "curr_course_fulfills": [
@@ -874,7 +877,8 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kerwin,Jason",
         "curr_course_code": "ECON 300",
         "curr_course_name": "INTERMED MICROECON",
         "curr_course_fulfills": [
@@ -905,7 +909,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 300",
         "curr_course_name": "INTERMED MICROECON",
         "curr_course_fulfills": [
@@ -936,7 +940,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 300",
         "curr_course_name": "INTERMED MICROECON",
         "curr_course_fulfills": [
@@ -967,7 +971,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 300",
         "curr_course_name": "INTERMED MICROECON",
         "curr_course_fulfills": [
@@ -998,7 +1002,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 300",
         "curr_course_name": "INTERMED MICROECON",
         "curr_course_fulfills": [
@@ -1029,9 +1033,10 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Karimirad,Ali",
         "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON ",
+        "curr_course_name": "INTERMED MACRO-ECON",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1060,9 +1065,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON ",
+        "curr_course_name": "INTERMED MACRO-ECON",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1091,9 +1096,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON ",
+        "curr_course_name": "INTERMED MACRO-ECON",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1122,9 +1127,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON ",
+        "curr_course_name": "INTERMED MACRO-ECON",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1153,9 +1158,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON ",
+        "curr_course_name": "INTERMED MACRO-ECON",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1190,7 +1195,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Tao,Jing",
         "curr_course_code": "ECON 382",
         "curr_course_name": "INTRO ECONOMETRICS",
         "curr_course_fulfills": [
@@ -1221,10 +1227,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Midnight,Yael",
         "curr_course_code": "ECON 396",
-        "curr_course_name": "HONORS RESEARCH SEM ",
+        "curr_course_name": "HONORS RESEARCH SEM",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1254,7 +1259,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ECON 399",
         "curr_course_name": "ECON INTERNSHIP",
         "curr_course_fulfills": ""
@@ -1283,7 +1287,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "O'Dea,Dennis",
         "curr_course_code": "ECON 400",
         "curr_course_name": "ADVANCED MICROECON",
         "curr_course_fulfills": [
@@ -1314,7 +1319,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Ghironi,Fabio",
         "curr_course_code": "ECON 401",
         "curr_course_name": "ADVANCED MACROECON",
@@ -1346,7 +1351,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Ghironi,Fabio",
         "curr_course_code": "ECON 401",
         "curr_course_name": "ADVANCED MACROECON",
@@ -1378,7 +1383,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tapia,Christina",
         "curr_course_code": "ECON 408",
         "curr_course_name": "LAW & ECONOMICS",
@@ -1411,7 +1416,7 @@
         "open_or_closed": "Open",
         "professor_name": "Adolph,Christopher",
         "curr_course_code": "ECON 409",
-        "curr_course_name": "UNDERG SEM-POL ECON ",
+        "curr_course_name": "UNDERG SEM-POL ECON",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1440,7 +1445,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Griffith,Alan",
         "curr_course_code": "ECON 410",
         "curr_course_name": "ECON OF NETWORKS",
         "curr_course_fulfills": [
@@ -1471,7 +1477,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Greaney,Brian",
         "curr_course_code": "ECON 412",
         "curr_course_name": "MACROECN & INEQLTY",
         "curr_course_fulfills": [
@@ -1503,9 +1510,10 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brock,Philip",
         "curr_course_code": "ECON 421",
-        "curr_course_name": "MNY CRDT & THE ECON ",
+        "curr_course_name": "MNY CRDT & THE ECON",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1534,7 +1542,7 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tapia,Christina",
         "curr_course_code": "ECON 423",
         "curr_course_name": "TOPICS IN FIN ECON",
@@ -1566,7 +1574,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Zivot,Eric",
         "curr_course_code": "ECON 424",
         "curr_course_name": "COMPUTATNL FINANCE",
         "curr_course_fulfills": [
@@ -1597,7 +1606,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Karimirad,Ali",
         "curr_course_code": "ECON 426",
         "curr_course_name": "ADV FINANCIAL ECON",
         "curr_course_fulfills": [
@@ -1628,7 +1638,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Takahashi,Yuya",
         "curr_course_code": "ECON 432",
         "curr_course_name": "EMPIRICAL INDSTR ORG",
         "curr_course_fulfills": ""
@@ -1655,7 +1666,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 436",
         "curr_course_name": "ENVIRONMENTAL ECON",
         "curr_course_fulfills": [
@@ -1718,9 +1729,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Eicher,Theo",
         "curr_course_code": "ECON 471",
-        "curr_course_name": "INTERNATIONAL TRADE ",
+        "curr_course_name": "INTERNATIONAL TRADE",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -1749,7 +1761,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Eicher,Theo",
         "curr_course_code": "ECON 472",
         "curr_course_name": "INTERNATL FINANCE",
         "curr_course_fulfills": [
@@ -1780,9 +1793,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kim,Chang-Jin",
         "curr_course_code": "ECON 482",
-        "curr_course_name": "ECONOMETRIC THRY&PR ",
+        "curr_course_name": "ECONOMETRIC THRY&PR",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1811,9 +1825,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ECON 482",
-        "curr_course_name": "ECONOMETRIC THRY&PR ",
+        "curr_course_name": "ECONOMETRIC THRY&PR",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1846,10 +1860,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Duncan,Gregory",
         "curr_course_code": "ECON 484",
-        "curr_course_name": "ECNMTRCS & DATA SCI ",
+        "curr_course_name": "ECNMTRCS & DATA SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1878,7 +1892,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lawarree,Jacques",
         "curr_course_code": "ECON 485",
         "curr_course_name": "GAME THEORY",
         "curr_course_fulfills": [
@@ -1909,7 +1924,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bunting,Jackson",
         "curr_course_code": "ECON 488",
         "curr_course_name": "CAUSAL INFERENCE",
         "curr_course_fulfills": [
@@ -1934,7 +1950,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ECON 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1967,7 +1982,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Khalil,Fahad",
         "curr_course_code": "ECON 508",
         "curr_course_name": "MICROECN ANLYS III",
         "curr_course_fulfills": ""
@@ -2000,9 +2016,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Greaney,Brian",
         "curr_course_code": "ECON 509",
-        "curr_course_name": "MACROECON ANLYS III ",
+        "curr_course_name": "MACROECON ANLYS III",
         "curr_course_fulfills": ""
     },
     {
@@ -2029,7 +2046,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wen,Quan",
         "curr_course_code": "ECON 511",
         "curr_course_name": "ADV MICRO-EC THRY",
         "curr_course_fulfills": ""
@@ -2058,7 +2076,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Greaney,Brian",
         "curr_course_code": "ECON 527",
         "curr_course_name": "MACRO EMPIR & THRY",
         "curr_course_fulfills": ""
@@ -2087,7 +2106,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Takahashi,Yuya",
         "curr_course_code": "ECON 534",
         "curr_course_name": "EMPIRICAL IND ORG II",
         "curr_course_fulfills": ""
@@ -2148,7 +2168,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Tao,Jing",
         "curr_course_code": "ECON 582",
         "curr_course_name": "ECONOMETRICS III",
         "curr_course_fulfills": ""
@@ -2177,7 +2198,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kim,Chang-Jin",
         "curr_course_code": "ECON 586",
         "curr_course_name": "TIME SERIES ANALYSIS",
         "curr_course_fulfills": ""
@@ -2206,9 +2228,10 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Brock,Philip",
         "curr_course_code": "ECON 592",
-        "curr_course_name": "FIN MKTS & ECON DEV ",
+        "curr_course_name": "FIN MKTS & ECON DEV",
         "curr_course_fulfills": ""
     },
     {
@@ -2238,7 +2261,7 @@
         "open_or_closed": "Open",
         "professor_name": "Griffith,Alan",
         "curr_course_code": "ECON 593",
-        "curr_course_name": "TPCS DVLPMT ECON II ",
+        "curr_course_name": "TPCS DVLPMT ECON II",
         "curr_course_fulfills": ""
     },
     {
@@ -2268,7 +2291,7 @@
         "open_or_closed": "Open",
         "professor_name": "Fan,Yanqin",
         "curr_course_code": "ECON 599",
-        "curr_course_name": "ISSUES ECONOMETRICS ",
+        "curr_course_name": "ISSUES ECONOMETRICS",
         "curr_course_fulfills": ""
     },
     {
@@ -2289,9 +2312,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ECON 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -2312,7 +2334,6 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ECON 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -2335,9 +2356,8 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ECON 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

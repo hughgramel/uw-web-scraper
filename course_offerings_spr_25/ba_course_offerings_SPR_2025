@@ -23,7 +23,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Fong,Christina",
         "curr_course_code": "B A 490",
         "curr_course_name": "SPECIAL TOPICS",
@@ -54,7 +53,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "B A 495",
         "curr_course_name": "BUS INTERNSHIP",
         "curr_course_fulfills": ""
@@ -84,7 +82,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "B A 495",
         "curr_course_name": "BUS INTERNSHIP",
         "curr_course_fulfills": ""
@@ -114,7 +111,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "B A 495",
         "curr_course_name": "BUS INTERNSHIP",
         "curr_course_fulfills": ""
@@ -143,7 +139,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Shunko,Masha",
         "curr_course_code": "B A 502",
         "curr_course_name": "BUSINESS ADMIN III",
         "curr_course_fulfills": ""
@@ -172,7 +168,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Shunko,Masha",
         "curr_course_code": "B A 502",
         "curr_course_name": "BUSINESS ADMIN III",
         "curr_course_fulfills": ""
@@ -195,7 +191,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "B A 560",
         "curr_course_name": "CO-OP IN BUSINESS",
         "curr_course_fulfills": ""
@@ -218,7 +213,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "B A 560",
         "curr_course_name": "CO-OP IN BUSINESS",
         "curr_course_fulfills": ""
@@ -241,9 +235,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "B A 578",
-        "curr_course_name": "STRG MGMT PRACTICUM ",
+        "curr_course_name": "STRG MGMT PRACTICUM",
         "curr_course_fulfills": ""
     },
     {
@@ -264,9 +257,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "B A 578",
-        "curr_course_name": "STRG MGMT PRACTICUM ",
+        "curr_course_name": "STRG MGMT PRACTICUM",
         "curr_course_fulfills": ""
     }
 ]

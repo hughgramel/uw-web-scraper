@@ -23,7 +23,7 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Jenkins,Amy",
         "curr_course_code": "HIHIM 414",
         "curr_course_name": "ICD/DOC/REVENUE MGMT",
@@ -53,9 +53,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lalani,Karima",
         "curr_course_code": "HIHIM 455",
-        "curr_course_name": "LDRSHP & STRAT MGMT ",
+        "curr_course_name": "LDRSHP & STRAT MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -82,7 +83,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kaelin,Carrie",
         "curr_course_code": "HIHIM 456",
         "curr_course_name": "QUAL IMPR/HLTHCARE",
         "curr_course_fulfills": ""
@@ -111,7 +113,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Condon,Jim",
         "curr_course_code": "HIHIM 461",
         "curr_course_name": "PROF DEV & NTWRKNG",
         "curr_course_fulfills": ""
@@ -200,9 +203,10 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Condon,Jim",
         "curr_course_code": "HIHIM 480",
-        "curr_course_name": "HIM OPS & PROJ MGMT ",
+        "curr_course_name": "HIM OPS & PROJ MGMT",
         "curr_course_fulfills": ""
     },
     {
@@ -223,7 +227,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "HIHIM 499",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -245,7 +248,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "HIHIM 499",
         "curr_course_name": "INDEPENDENT STUDY",
         "curr_course_fulfills": ""
@@ -277,7 +280,7 @@
         "open_or_closed": "Open",
         "professor_name": "White,Ken",
         "curr_course_code": "HIHIM 524",
-        "curr_course_name": "HLTH DATA ANALYTICS ",
+        "curr_course_name": "HLTH DATA ANALYTICS",
         "curr_course_fulfills": ""
     },
     {
@@ -307,7 +310,7 @@
         "open_or_closed": "Open",
         "professor_name": "Hartgraves,John",
         "curr_course_code": "HIHIM 530",
-        "curr_course_name": "PRIVACY SEC E-ENVIR ",
+        "curr_course_name": "PRIVACY SEC E-ENVIR",
         "curr_course_fulfills": ""
     },
     {

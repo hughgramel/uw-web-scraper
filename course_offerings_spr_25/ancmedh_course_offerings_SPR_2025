@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Walker,Joel",
         "curr_course_code": "HSTAM 250",
         "curr_course_name": "MONGOL EMPIRE",
@@ -53,9 +53,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "HSTAM 290",
-        "curr_course_name": "TOPICS ANC/MED HIST ",
+        "curr_course_name": "TOPICS ANC/MED HIST",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -82,7 +81,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lange,Tyler",
         "curr_course_code": "HSTAM 334",
         "curr_course_name": "SOC/CLT HST PMOD EUR",
         "curr_course_fulfills": [
@@ -175,7 +175,7 @@
         "open_or_closed": "Open",
         "professor_name": "Bringman,Joseph",
         "curr_course_code": "HSTAM 420",
-        "curr_course_name": "FREE-ROME/MOD WORLD ",
+        "curr_course_name": "FREE-ROME/MOD WORLD",
         "curr_course_fulfills": [
             "A&H/SSc",
             "DIV"

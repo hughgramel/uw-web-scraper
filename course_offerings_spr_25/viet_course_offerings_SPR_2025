@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Turner,Bich-Ngoc",
         "curr_course_code": "VIET 103",
         "curr_course_name": "1ST-YR NH VIETNAMESE",
         "curr_course_fulfills": ""
@@ -48,9 +49,10 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Le,Diep",
         "curr_course_code": "VIET 123",
-        "curr_course_name": "1ST-YR H VIETNAMESE ",
+        "curr_course_name": "1ST-YR H VIETNAMESE",
         "curr_course_fulfills": ""
     },
     {
@@ -75,9 +77,10 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Turner,Bich-Ngoc",
         "curr_course_code": "VIET 213",
-        "curr_course_name": "INTERMED VIETNAMESE ",
+        "curr_course_name": "INTERMED VIETNAMESE",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -104,9 +107,10 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Le,Diep",
         "curr_course_code": "VIET 313",
-        "curr_course_name": "ADVANCED VIETNAMESE ",
+        "curr_course_name": "ADVANCED VIETNAMESE",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -129,7 +133,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "VIET 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""

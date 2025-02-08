@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 101",
         "curr_course_name": "ELEMENTARY SPANISH",
         "curr_course_fulfills": ""
@@ -48,7 +48,7 @@
         "is_estimate": 0,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 102",
         "curr_course_name": "ELEMENTARY SPANISH",
         "curr_course_fulfills": ""
@@ -75,7 +75,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 103",
         "curr_course_name": "ELEMENTARY SPANISH",
         "curr_course_fulfills": ""
@@ -102,7 +102,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Gonzalez-Casanova,Jorge",
         "curr_course_code": "SPAN 103",
         "curr_course_name": "ELEMENTARY SPANISH",
         "curr_course_fulfills": ""
@@ -129,7 +130,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Gonzalez-Casanova,Jorge",
         "curr_course_code": "SPAN 103",
         "curr_course_name": "ELEMENTARY SPANISH",
         "curr_course_fulfills": ""
@@ -156,7 +158,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 110",
         "curr_course_name": "ACCEL ELEM SPANISH",
         "curr_course_fulfills": ""
@@ -183,7 +185,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 201",
         "curr_course_name": "INTERMEDIATE SPAN",
         "curr_course_fulfills": [
@@ -212,7 +214,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 202",
         "curr_course_name": "INTERMEDIATE SPAN",
         "curr_course_fulfills": [
@@ -241,7 +243,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 203",
         "curr_course_name": "INTERMEDIATE SPAN",
         "curr_course_fulfills": [
@@ -270,7 +272,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 203",
         "curr_course_name": "INTERMEDIATE SPAN",
         "curr_course_fulfills": [
@@ -301,7 +303,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPAN 216",
         "curr_course_name": "HERITAGE LEARNERS",
         "curr_course_fulfills": [
@@ -482,9 +483,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPAN 314",
-        "curr_course_name": "FOR HERITAGE STDNTS ",
+        "curr_course_name": "FOR HERITAGE STDNTS",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -513,7 +513,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPAN 315",
         "curr_course_name": "HERITAGE STDNTS II",
         "curr_course_fulfills": [
@@ -544,7 +543,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPAN 316",
         "curr_course_name": "COMP FOR HERITAGE",
         "curr_course_fulfills": [
@@ -573,10 +571,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Robles,Jose",
         "curr_course_code": "SPAN 336",
-        "curr_course_name": "CREATV STORYTELLING ",
+        "curr_course_name": "CREATV STORYTELLING",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -633,7 +631,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 374",
         "curr_course_name": "SPAN HLTH PROFESS",
         "curr_course_fulfills": ""
@@ -656,7 +654,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPAN 390",
         "curr_course_name": "SUPERVISED STUDY",
         "curr_course_fulfills": ""
@@ -683,9 +680,10 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hochberg,Elizabeth",
         "curr_course_code": "SPAN 395",
-        "curr_course_name": "SPEC TOP -LATAM LIT ",
+        "curr_course_name": "SPEC TOP -LATAM LIT",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -712,7 +710,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bolel,Canan",
         "curr_course_code": "SPAN 396",
         "curr_course_name": "SPAN CLTRL STDYS",
         "curr_course_fulfills": [
@@ -741,9 +740,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Gilbert-Santamaria,Donald",
         "curr_course_code": "SPAN 423",
-        "curr_course_name": "SP PTRY GA, 16C-17C ",
+        "curr_course_name": "SP PTRY GA, 16C-17C",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -770,7 +770,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hochberg,Elizabeth",
         "curr_course_code": "SPAN 474",
         "curr_course_name": "CONT LAT-AM FICT",
         "curr_course_fulfills": [
@@ -795,7 +796,6 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPAN 490",
         "curr_course_name": "HONORS SEMINAR",
         "curr_course_fulfills": [
@@ -824,7 +824,8 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Amezcua,Angelica",
         "curr_course_code": "SPAN 498",
         "curr_course_name": "LINGUISTICS TOPICS",
         "curr_course_fulfills": [
@@ -849,7 +850,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPAN 499",
         "curr_course_name": "SPEC TOPICS",
         "curr_course_fulfills": ""
@@ -878,7 +878,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Rodriguez",
         "curr_course_code": "SPAN 591",
         "curr_course_name": "LIT PROB-MID AGES",
@@ -931,9 +931,9 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -954,7 +954,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPAN 610",
         "curr_course_name": "GRAD EXAMS READING",
         "curr_course_fulfills": ""
@@ -976,7 +975,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPAN 700",
         "curr_course_name": "MASTER'S THESIS",
         "curr_course_fulfills": ""
@@ -999,9 +998,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPAN 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

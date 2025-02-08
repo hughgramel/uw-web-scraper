@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Gogarten,Jennifer",
         "curr_course_code": "PHG 301",
         "curr_course_name": "INTRO GENETIC EPI",
@@ -51,7 +51,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHG 301",
         "curr_course_name": "INTRO GENETIC EPI",
         "curr_course_fulfills": [
@@ -80,7 +80,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHG 301",
         "curr_course_name": "INTRO GENETIC EPI",
         "curr_course_fulfills": [
@@ -113,10 +113,10 @@
         "is_estimate": 1,
         "max_capacity": "140",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Gogarten,Jennifer",
         "curr_course_code": "PHG 303",
-        "curr_course_name": "DTC GEN TEST ISSUES ",
+        "curr_course_name": "DTC GEN TEST ISSUES",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -143,9 +143,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHG 303",
-        "curr_course_name": "DTC GEN TEST ISSUES ",
+        "curr_course_name": "DTC GEN TEST ISSUES",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -172,9 +172,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHG 303",
-        "curr_course_name": "DTC GEN TEST ISSUES ",
+        "curr_course_name": "DTC GEN TEST ISSUES",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -201,9 +201,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHG 303",
-        "curr_course_name": "DTC GEN TEST ISSUES ",
+        "curr_course_name": "DTC GEN TEST ISSUES",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -230,9 +230,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PHG 303",
-        "curr_course_name": "DTC GEN TEST ISSUES ",
+        "curr_course_name": "DTC GEN TEST ISSUES",
         "curr_course_fulfills": [
             "SSc/NSc"
         ]
@@ -291,10 +291,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Ma,Shuyi",
         "curr_course_code": "PHG 536",
-        "curr_course_name": "BIOINFO & SEQ ANLYS ",
+        "curr_course_name": "BIOINFO & SEQ ANLYS",
         "curr_course_fulfills": ""
     },
     {
@@ -324,7 +323,7 @@
         "open_or_closed": "Open",
         "professor_name": "Fohner,Alison",
         "curr_course_code": "PHG 580",
-        "curr_course_name": "INTERACTIVE SEMINAR ",
+        "curr_course_name": "INTERACTIVE SEMINAR",
         "curr_course_fulfills": ""
     },
     {
@@ -344,7 +343,6 @@
         "is_estimate": 1,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Shirts,Brian H",
         "curr_course_code": "PHG 595",
         "curr_course_name": "MASTER'S PRACTICUM",
@@ -368,9 +366,8 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHG 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -391,7 +388,6 @@
         "is_estimate": 1,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHG 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -414,9 +410,8 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PHG 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

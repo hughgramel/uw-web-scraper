@@ -23,7 +23,6 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Anderson,Cynthia",
         "curr_course_code": "CHID 101",
         "curr_course_name": "INTRO TO CHID",
@@ -51,9 +50,10 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "House,Shelby",
         "curr_course_code": "CHID 110",
-        "curr_course_name": "QUESTION OF HUM NAT ",
+        "curr_course_name": "QUESTION OF HUM NAT",
         "curr_course_fulfills": [
             "A&H/SSc"
         ]
@@ -78,7 +78,7 @@
         "open_or_closed": "Open",
         "professor_name": "Novetzke,Christian L",
         "curr_course_code": "CHID 120",
-        "curr_course_name": "YOGA PAST & PRESENT ",
+        "curr_course_name": "YOGA PAST & PRESENT",
         "curr_course_fulfills": [
             "A&H/SSc",
             "DIV"
@@ -136,7 +136,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Thurtle,Phillip",
         "curr_course_code": "CHID 222",
         "curr_course_name": "BIOFUTURES",
@@ -166,7 +166,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 222",
         "curr_course_name": "BIOFUTURES",
         "curr_course_fulfills": [
@@ -195,7 +195,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 222",
         "curr_course_name": "BIOFUTURES",
         "curr_course_fulfills": [
@@ -226,10 +226,9 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Woiak,Joanne",
         "curr_course_code": "CHID 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -263,9 +262,8 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -299,9 +297,8 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -335,9 +332,8 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -371,9 +367,8 @@
         "is_estimate": 0,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 230",
-        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_name": "INTRO DISABILITY ST",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -401,7 +396,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Choden,Kunsang",
         "curr_course_code": "CHID 250",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -432,7 +428,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 250",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -461,7 +456,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 260",
         "curr_course_name": "RETHINK DIVERSITY",
         "curr_course_fulfills": [
@@ -491,7 +486,8 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wiggins,Ellwood",
         "curr_course_code": "CHID 270",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -523,7 +519,7 @@
         "open_or_closed": "Open",
         "professor_name": "Weatherford,AM",
         "curr_course_code": "CHID 280",
-        "curr_course_name": "GLBL INDIGENOUS POL ",
+        "curr_course_name": "GLBL INDIGENOUS POL",
         "curr_course_fulfills": [
             "SSc",
             "DIV"
@@ -546,10 +542,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Wygant,Christina Dawn",
         "curr_course_code": "CHID 298",
-        "curr_course_name": "PRE-DEPART SEMINARS ",
+        "curr_course_name": "PRE-DEPART SEMINARS",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -576,9 +571,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 298",
-        "curr_course_name": "PRE-DEPART SEMINARS ",
+        "curr_course_name": "PRE-DEPART SEMINARS",
         "curr_course_fulfills": [
             "SSc"
         ]
@@ -598,7 +593,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "CHID 314",
         "curr_course_name": "HST PSY REVOLUTION",
         "curr_course_fulfills": [
@@ -620,7 +615,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "CHID 314",
         "curr_course_name": "HST PSY REVOLUTION",
         "curr_course_fulfills": [
@@ -642,7 +637,7 @@
         "is_estimate": 0,
         "max_capacity": "0",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Closed",
         "curr_course_code": "CHID 314",
         "curr_course_name": "HST PSY REVOLUTION",
         "curr_course_fulfills": [
@@ -674,7 +669,7 @@
         "open_or_closed": "Open",
         "professor_name": "Dwyer,Annie",
         "curr_course_code": "CHID 320",
-        "curr_course_name": "SMNR PUBLIC WRITING ",
+        "curr_course_name": "SMNR PUBLIC WRITING",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -704,7 +699,7 @@
         "open_or_closed": "Open",
         "professor_name": "Barr,Nicolaas P.",
         "curr_course_code": "CHID 320",
-        "curr_course_name": "SMNR PUBLIC WRITING ",
+        "curr_course_name": "SMNR PUBLIC WRITING",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -731,7 +726,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 337",
         "curr_course_name": "SOC OF MENTAL HEALTH",
         "curr_course_fulfills": [
@@ -760,7 +755,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 337",
         "curr_course_name": "SOC OF MENTAL HEALTH",
         "curr_course_fulfills": [
@@ -789,7 +784,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 337",
         "curr_course_name": "SOC OF MENTAL HEALTH",
         "curr_course_fulfills": [
@@ -848,7 +843,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Seiler,Jessie",
         "curr_course_code": "CHID 390",
         "curr_course_name": "COLLOQ HIST IDEAS",
         "curr_course_fulfills": [
@@ -877,7 +873,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Mahadevan,Sudhir",
         "curr_course_code": "CHID 395",
         "curr_course_name": "KNOWL/PRAC INTRD HUM",
         "curr_course_fulfills": ""
@@ -900,7 +897,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 399",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -923,7 +919,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 399",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -950,7 +945,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 434",
         "curr_course_name": "CIV/HUMN RGTS LAW",
         "curr_course_fulfills": [
@@ -980,7 +975,7 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 480",
         "curr_course_name": "ADV SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -1009,7 +1004,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Dwyer,Annie",
         "curr_course_code": "CHID 490",
         "curr_course_name": "RESEARCH SEMINAR",
         "curr_course_fulfills": [
@@ -1034,7 +1030,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 491",
         "curr_course_name": "SENIOR THESIS",
         "curr_course_fulfills": [
@@ -1059,7 +1054,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 492",
         "curr_course_name": "SENIOR THESIS",
         "curr_course_fulfills": [
@@ -1084,7 +1078,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 493",
         "curr_course_name": "SENIOR THESIS",
         "curr_course_fulfills": [
@@ -1113,7 +1106,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 496",
         "curr_course_name": "FOCUS GROUPS",
         "curr_course_fulfills": ""
@@ -1140,7 +1133,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 496",
         "curr_course_name": "FOCUS GROUPS",
         "curr_course_fulfills": ""
@@ -1167,7 +1160,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "CHID 496",
         "curr_course_name": "FOCUS GROUPS",
         "curr_course_fulfills": ""
@@ -1190,7 +1183,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 497",
         "curr_course_name": "PEER FACILITATORS",
         "curr_course_fulfills": ""
@@ -1213,7 +1205,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 497",
         "curr_course_name": "PEER FACILITATORS",
         "curr_course_fulfills": ""
@@ -1266,7 +1257,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 499",
         "curr_course_name": "UNDERGRAD IND STDY",
         "curr_course_fulfills": ""
@@ -1289,7 +1279,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "CHID 499",
         "curr_course_name": "UNDERGRAD IND STDY",
         "curr_course_fulfills": ""

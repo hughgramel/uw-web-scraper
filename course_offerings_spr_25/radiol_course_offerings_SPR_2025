@@ -17,7 +17,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "RADGY 498",
         "curr_course_name": "UNDERGRAD THESIS",
         "curr_course_fulfills": ""
@@ -40,7 +39,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "RADGY 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -62,7 +60,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 505P",
         "curr_course_name": "P-RADGY PRECEPTOR",
         "curr_course_fulfills": ""
@@ -85,9 +83,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "RADGY 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -105,7 +102,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 684",
         "curr_course_name": "INTVNL RAD",
         "curr_course_fulfills": ""
@@ -125,7 +122,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 685P",
         "curr_course_name": "P-DX RADGY BOZEMAN",
         "curr_course_fulfills": ""
@@ -145,7 +142,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 686P",
         "curr_course_name": "P-RADGY ID FALLS",
         "curr_course_fulfills": ""
@@ -167,7 +164,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 687P",
         "curr_course_name": "P-DX RADGY CASPER",
         "curr_course_fulfills": ""
@@ -189,7 +186,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 688P",
         "curr_course_name": "P-DX RADGY BOISE",
         "curr_course_fulfills": ""
@@ -211,9 +208,9 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 689P",
-        "curr_course_name": "P-DX RADGY BILLINGS ",
+        "curr_course_name": "P-DX RADGY BILLINGS",
         "curr_course_fulfills": ""
     },
     {
@@ -233,7 +230,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 691P",
         "curr_course_name": "P-DX RADGY ALASKA",
         "curr_course_fulfills": ""
@@ -255,7 +252,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 692P",
         "curr_course_name": "P-DX RADGY SPOKANE",
         "curr_course_fulfills": ""
@@ -277,7 +274,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 694P",
         "curr_course_name": "P-DX RADGY/CL ROT",
         "curr_course_fulfills": ""
@@ -299,7 +296,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 695P",
         "curr_course_name": "P-RAD ELEC CLERK",
         "curr_course_fulfills": ""
@@ -321,9 +318,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "RADGY 699P",
-        "curr_course_name": "P-WWAMI RADGY ELECT ",
+        "curr_course_name": "P-WWAMI RADGY ELECT",
         "curr_course_fulfills": ""
     }
 ]

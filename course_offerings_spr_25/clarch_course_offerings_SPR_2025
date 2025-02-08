@@ -24,7 +24,7 @@
         "open_or_closed": "Open",
         "professor_name": "Levin-Richardson,Sarah",
         "curr_course_code": "CL AR 342",
-        "curr_course_name": "ROMAN ART & ARCHLGY ",
+        "curr_course_name": "ROMAN ART & ARCHLGY",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -83,10 +83,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Levin-Richardson,Sarah",
         "curr_course_code": "CL AR 541",
-        "curr_course_name": "SEMINAR GRK ROM ART ",
+        "curr_course_name": "SEMINAR GRK ROM ART",
         "curr_course_fulfills": ""
     }
 ]

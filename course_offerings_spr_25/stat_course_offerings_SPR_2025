@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "180",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 220",
         "curr_course_name": "STAT REASONING",
         "curr_course_fulfills": [
@@ -51,7 +51,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 220",
         "curr_course_name": "STAT REASONING",
         "curr_course_fulfills": [
@@ -81,7 +81,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 220",
         "curr_course_name": "STAT REASONING",
         "curr_course_fulfills": [
@@ -111,7 +111,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 220",
         "curr_course_name": "STAT REASONING",
         "curr_course_fulfills": [
@@ -141,7 +141,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 220",
         "curr_course_name": "STAT REASONING",
         "curr_course_fulfills": [
@@ -171,7 +171,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 220",
         "curr_course_name": "STAT REASONING",
         "curr_course_fulfills": [
@@ -201,7 +201,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 220",
         "curr_course_name": "STAT REASONING",
         "curr_course_fulfills": [
@@ -231,7 +231,7 @@
         "is_estimate": 0,
         "max_capacity": "128",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -261,7 +261,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -291,7 +291,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -321,7 +321,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -351,7 +351,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -381,7 +381,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -411,7 +411,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -441,7 +441,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -471,7 +471,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 221",
         "curr_course_name": "STAT FOR SOC SCI",
         "curr_course_fulfills": [
@@ -503,7 +503,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 302",
         "curr_course_name": "STAT COMPUTING",
         "curr_course_fulfills": ""
@@ -532,9 +532,9 @@
         "is_estimate": 0,
         "max_capacity": "180",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 311",
-        "curr_course_name": "ELEMNTS STAT METHOD ",
+        "curr_course_name": "ELEMNTS STAT METHOD",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -564,9 +564,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 311",
-        "curr_course_name": "ELEMNTS STAT METHOD ",
+        "curr_course_name": "ELEMNTS STAT METHOD",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -596,9 +596,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 311",
-        "curr_course_name": "ELEMNTS STAT METHOD ",
+        "curr_course_name": "ELEMNTS STAT METHOD",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -628,9 +628,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 311",
-        "curr_course_name": "ELEMNTS STAT METHOD ",
+        "curr_course_name": "ELEMNTS STAT METHOD",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -660,9 +660,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 311",
-        "curr_course_name": "ELEMNTS STAT METHOD ",
+        "curr_course_name": "ELEMNTS STAT METHOD",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -692,9 +692,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 311",
-        "curr_course_name": "ELEMNTS STAT METHOD ",
+        "curr_course_name": "ELEMNTS STAT METHOD",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -724,9 +724,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 311",
-        "curr_course_name": "ELEMNTS STAT METHOD ",
+        "curr_course_name": "ELEMNTS STAT METHOD",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -751,7 +751,7 @@
         "curr_enrolled": "0",
         "open_or_closed": "Open",
         "curr_course_code": "STAT 311",
-        "curr_course_name": "ELEMNTS STAT METHOD ",
+        "curr_course_name": "ELEMNTS STAT METHOD",
         "curr_course_fulfills": [
             "NSc",
             "RSN"
@@ -779,7 +779,7 @@
         "is_estimate": 0,
         "max_capacity": "17",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 322",
         "curr_course_name": "SOCIAL STATISTICS II",
         "curr_course_fulfills": [
@@ -809,7 +809,7 @@
         "is_estimate": 0,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 322",
         "curr_course_name": "SOCIAL STATISTICS II",
         "curr_course_fulfills": [
@@ -839,7 +839,7 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 322",
         "curr_course_name": "SOCIAL STATISTICS II",
         "curr_course_fulfills": [
@@ -869,9 +869,9 @@
         "is_estimate": 0,
         "max_capacity": "120",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 390",
-        "curr_course_name": "STAT MTHDS ENGR SCI ",
+        "curr_course_name": "STAT MTHDS ENGR SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -898,9 +898,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 390",
-        "curr_course_name": "STAT MTHDS ENGR SCI ",
+        "curr_course_name": "STAT MTHDS ENGR SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -927,9 +927,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 390",
-        "curr_course_name": "STAT MTHDS ENGR SCI ",
+        "curr_course_name": "STAT MTHDS ENGR SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -956,9 +956,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 390",
-        "curr_course_name": "STAT MTHDS ENGR SCI ",
+        "curr_course_name": "STAT MTHDS ENGR SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -985,9 +985,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 390",
-        "curr_course_name": "STAT MTHDS ENGR SCI ",
+        "curr_course_name": "STAT MTHDS ENGR SCI",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1016,7 +1016,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 394",
         "curr_course_name": "PROBABILITY I",
         "curr_course_fulfills": [
@@ -1047,7 +1047,7 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 395",
         "curr_course_name": "PROBABILITY II",
         "curr_course_fulfills": [
@@ -1078,7 +1078,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 396",
         "curr_course_name": "FINITE MARKOV CHAINS",
         "curr_course_fulfills": [
@@ -1113,7 +1113,7 @@
         "is_estimate": 0,
         "max_capacity": "34",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 403",
         "curr_course_name": "RESAMPLING INFER",
         "curr_course_fulfills": [
@@ -1148,7 +1148,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 403",
         "curr_course_name": "RESAMPLING INFER",
         "curr_course_fulfills": [
@@ -1177,9 +1177,9 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 416",
-        "curr_course_name": "INTRO MACH LEARNING ",
+        "curr_course_name": "INTRO MACH LEARNING",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1206,9 +1206,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 416",
-        "curr_course_name": "INTRO MACH LEARNING ",
+        "curr_course_name": "INTRO MACH LEARNING",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1235,9 +1235,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 416",
-        "curr_course_name": "INTRO MACH LEARNING ",
+        "curr_course_name": "INTRO MACH LEARNING",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1264,9 +1264,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 416",
-        "curr_course_name": "INTRO MACH LEARNING ",
+        "curr_course_name": "INTRO MACH LEARNING",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1293,9 +1293,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 416",
-        "curr_course_name": "INTRO MACH LEARNING ",
+        "curr_course_name": "INTRO MACH LEARNING",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1322,9 +1322,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 416",
-        "curr_course_name": "INTRO MACH LEARNING ",
+        "curr_course_name": "INTRO MACH LEARNING",
         "curr_course_fulfills": [
             "NSc"
         ]
@@ -1357,7 +1357,7 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 424",
         "curr_course_name": "GEN LINEAR MODELS",
         "curr_course_fulfills": ""
@@ -1386,7 +1386,7 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 435",
         "curr_course_name": "MACHINE LEARNING",
         "curr_course_fulfills": ""
@@ -1415,7 +1415,7 @@
         "is_estimate": 0,
         "max_capacity": "38",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 435",
         "curr_course_name": "MACHINE LEARNING",
         "curr_course_fulfills": ""
@@ -1444,7 +1444,7 @@
         "is_estimate": 0,
         "max_capacity": "37",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 435",
         "curr_course_name": "MACHINE LEARNING",
         "curr_course_fulfills": ""
@@ -1503,7 +1503,7 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 435",
         "curr_course_name": "MACHINE LEARNING",
         "curr_course_fulfills": ""
@@ -1532,7 +1532,7 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 435",
         "curr_course_name": "MACHINE LEARNING",
         "curr_course_fulfills": ""
@@ -1559,9 +1559,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 492",
-        "curr_course_name": "INTRO STOCH PROC II ",
+        "curr_course_name": "INTRO STOCH PROC II",
         "curr_course_fulfills": ""
     },
     {
@@ -1581,7 +1581,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "STAT 497",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""
@@ -1608,7 +1607,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 498",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -1633,7 +1632,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "STAT 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1655,7 +1653,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "STAT 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1835,7 +1832,7 @@
         "open_or_closed": "Open",
         "professor_name": "Meila,Marina",
         "curr_course_code": "STAT 548",
-        "curr_course_name": "MACH LEARN BIG DATA ",
+        "curr_course_name": "MACH LEARN BIG DATA",
         "curr_course_fulfills": ""
     },
     {
@@ -1920,7 +1917,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 566",
         "curr_course_name": "CAUSAL MODELING",
         "curr_course_fulfills": ""
@@ -1952,7 +1949,7 @@
         "open_or_closed": "Open",
         "professor_name": "Richardson,Thomas S",
         "curr_course_code": "STAT 572",
-        "curr_course_name": "PREP FOR RES PRELIM ",
+        "curr_course_name": "PREP FOR RES PRELIM",
         "curr_course_fulfills": ""
     },
     {
@@ -1982,7 +1979,7 @@
         "open_or_closed": "Closed",
         "professor_name": "Chan,Kwun Chuen Gary",
         "curr_course_code": "STAT 572",
-        "curr_course_name": "PREP FOR RES PRELIM ",
+        "curr_course_name": "PREP FOR RES PRELIM",
         "curr_course_fulfills": ""
     },
     {
@@ -2092,10 +2089,9 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "McCormick,Tyler Harris",
         "curr_course_code": "STAT 597",
-        "curr_course_name": "APLD DATA ANLYS PRJ ",
+        "curr_course_name": "APLD DATA ANLYS PRJ",
         "curr_course_fulfills": ""
     },
     {
@@ -2122,7 +2118,6 @@
         "is_estimate": 0,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cardoso,Tamre",
         "curr_course_code": "STAT 599",
         "curr_course_name": "STAT CONSULTING",
@@ -2145,9 +2140,9 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -2167,7 +2162,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -2189,9 +2184,9 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "STAT 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

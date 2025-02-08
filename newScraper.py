@@ -23,8 +23,8 @@ prefixes = ["cse", "meche", "BMW"]
 page_to_scrape = requests.get("https://www.washington.edu/students/timeschd/SPR2025/cse.html")
 soup = BeautifulSoup(page_to_scrape.text, "html.parser")
 
-POSSIBLE_SEASONS = ["AUT, ""WIN", "SPR", "SUM"]
-seasons = ["SPR"]
+POSSIBLE_SEASONS = ["AUT", "WIN", "SPR", "SUM"]
+seasons = ["SPR", "WIN"]
 years = ["2025"]
 
 def print_in_json_format(data):
@@ -267,7 +267,6 @@ def traverse_schedule_page(page, season):
             if len(remaining) > 0 and remaining[len(remaining) - 1] == "CR/NC":
                 record["c/nc"] = 1
                 remaining = remaining[:-1]
-
             if len(remaining) > 0:
                 if remaining[0] == "Open" or remaining[0] == "Closed":
                     record["open_or_closed"] = remaining[0]
@@ -279,10 +278,10 @@ def traverse_schedule_page(page, season):
                 last = remaining[len(remaining) - 1]
                 if "/" in last:
                     record["curr_enrolled"] = last[:-1]
-                    
+                elif "," in last:
+                    record["professor_name"] = last
                 remaining = remaining[:-1]
             # if len(remaining) > 0:
-            record["open_or_closed"] = ""
             if (len(remaining) > 0):
                 last = remaining[len(remaining) - 1]
                 if last == "Open" or last == "Closed":
@@ -327,7 +326,7 @@ def traverse_schedule_page(page, season):
             # we haven't
             
             record["curr_course_code"] = curr_course_code
-            record["curr_course_name"] = curr_course_name
+            record["curr_course_name"] = curr_course_name.strip()
             record["curr_course_fulfills"] = curr_course_fulfills
             
             allCourses.append(record)
@@ -341,16 +340,28 @@ year = "2025"
 
 base = "https://www.washington.edu/students/timeschd/" + season + year + "/"
 # pages = [base + "cse.html"]
-# pages = [base + "religion.html"]
+# pages = [base + "88aerosci.html"]
 pages = gather_all_prefixes(season, year)
-n = 1
+n = 0
+record = {}
 for page in pages:
     # n += 1
     
     record_of_all_courses = traverse_schedule_page(page, season)
-    # print_in_json_format(record_of_all_courses)
     s = page.split("/")[-1:][0].split(".")[0]
+    if s not in record:
+        n += len(record_of_all_courses)
+    # print(s + ": " + str(len(record_of_all_courses)))
+    
+    record[s] = len(record_of_all_courses)
+    # print_in_json_format(record_of_all_courses)
     name = "./course_offerings_spr_25/" +  s + "_course_offerings_" + season + "_" + year
     json_object = json.dumps(record_of_all_courses, indent=4)
     with open(name, "w") as outfile:
         outfile.write(json_object)
+# sorted_dict = {key: value for key,
+#                value in sorted(record.items(),
+#                                key=lambda item: item[1])}
+
+# print_in_json_format(sorted_dict)
+# print("Total: " + str(n))

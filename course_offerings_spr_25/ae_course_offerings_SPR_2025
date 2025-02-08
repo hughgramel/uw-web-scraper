@@ -23,9 +23,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A E 512",
-        "curr_course_name": "STABILITY & CONTROL ",
+        "curr_course_name": "STABILITY & CONTROL",
         "curr_course_fulfills": ""
     },
     {
@@ -52,9 +51,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A E 520",
-        "curr_course_name": "FUND FLUID DYNAMICS ",
+        "curr_course_name": "FUND FLUID DYNAMICS",
         "curr_course_fulfills": ""
     },
     {
@@ -81,9 +79,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A E 540",
-        "curr_course_name": "MECHANICS OF SOLIDS ",
+        "curr_course_name": "MECHANICS OF SOLIDS",
         "curr_course_fulfills": ""
     },
     {
@@ -110,7 +107,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A E 542",
         "curr_course_name": "FATIGUE & FRACTURE",
         "curr_course_fulfills": ""
@@ -139,9 +135,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A E 552",
-        "curr_course_name": "AERO COMP DESIGN II ",
+        "curr_course_name": "AERO COMP DESIGN II",
         "curr_course_fulfills": ""
     },
     {
@@ -168,9 +163,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A E 553",
-        "curr_course_name": "ADV COMPOSITE STRUC ",
+        "curr_course_name": "ADV COMPOSITE STRUC",
         "curr_course_fulfills": ""
     }
 ]

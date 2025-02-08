@@ -23,7 +23,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Giebel,Christoph",
         "curr_course_code": "HSTAS 221",
         "curr_course_name": "HISTORY OF SE ASIA",
@@ -178,7 +177,7 @@
         "open_or_closed": "Open",
         "professor_name": "Christie,Patrick John",
         "curr_course_code": "HSTAS 532",
-        "curr_course_name": "SEM IN SE ASIAN HST ",
+        "curr_course_name": "SEM IN SE ASIAN HST",
         "curr_course_fulfills": ""
     }
 ]

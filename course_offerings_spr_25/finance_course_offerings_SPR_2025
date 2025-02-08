@@ -87,7 +87,7 @@
         "is_estimate": 0,
         "max_capacity": "130",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FIN 205",
         "curr_course_name": "PERS FIN LIT",
         "curr_course_fulfills": [
@@ -118,7 +118,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Li,Ye",
         "curr_course_code": "FIN 350",
         "curr_course_name": "BUSINESS FINANCE",
         "curr_course_fulfills": ""
@@ -147,7 +148,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Li,Ye",
         "curr_course_code": "FIN 350",
         "curr_course_name": "BUSINESS FINANCE",
         "curr_course_fulfills": ""
@@ -176,7 +178,8 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Li,Ye",
         "curr_course_code": "FIN 350",
         "curr_course_name": "BUSINESS FINANCE",
         "curr_course_fulfills": ""
@@ -205,9 +208,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lu,Xu",
         "curr_course_code": "FIN 423",
-        "curr_course_name": "BANKNG & FINCL SYST ",
+        "curr_course_name": "BANKNG & FINCL SYST",
         "curr_course_fulfills": ""
     },
     {
@@ -234,9 +238,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lu,Xu",
         "curr_course_code": "FIN 423",
-        "curr_course_name": "BANKNG & FINCL SYST ",
+        "curr_course_name": "BANKNG & FINCL SYST",
         "curr_course_fulfills": ""
     },
     {
@@ -263,9 +268,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Lu,Xu",
         "curr_course_code": "FIN 423",
-        "curr_course_name": "BANKNG & FINCL SYST ",
+        "curr_course_name": "BANKNG & FINCL SYST",
         "curr_course_fulfills": ""
     },
     {
@@ -292,9 +298,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Seslen,Tracey",
         "curr_course_code": "FIN 425",
-        "curr_course_name": "INT REAL ESTATE FIN ",
+        "curr_course_name": "INT REAL ESTATE FIN",
         "curr_course_fulfills": ""
     },
     {
@@ -321,7 +328,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Seslen,Tracey",
         "curr_course_code": "FIN 445",
         "curr_course_name": "RE DEV & FEAS ANLSYS",
         "curr_course_fulfills": ""
@@ -350,7 +358,7 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Feng,Felix",
         "curr_course_code": "FIN 453",
         "curr_course_name": "FINANCL THRY&ANLYS",
@@ -380,7 +388,7 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Feng,Felix",
         "curr_course_code": "FIN 453",
         "curr_course_name": "FINANCL THRY&ANLYS",
@@ -410,7 +418,7 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Stern,Lea",
         "curr_course_code": "FIN 454",
         "curr_course_name": "VALUATION INV FIN",
@@ -440,7 +448,7 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Stern,Lea",
         "curr_course_code": "FIN 454",
         "curr_course_name": "VALUATION INV FIN",
@@ -470,9 +478,9 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "FIN 457",
-        "curr_course_name": "ENTREPRENEURIAL FIN ",
+        "curr_course_name": "ENTREPRENEURIAL FIN",
         "curr_course_fulfills": ""
     },
     {
@@ -499,7 +507,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hrdlicka,Christopher",
         "curr_course_code": "FIN 460",
         "curr_course_name": "INVESTMENTS",
         "curr_course_fulfills": ""
@@ -528,7 +537,8 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hrdlicka,Christopher",
         "curr_course_code": "FIN 460",
         "curr_course_name": "INVESTMENTS",
         "curr_course_fulfills": ""
@@ -557,7 +567,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kamara,Avraham",
         "curr_course_code": "FIN 461",
         "curr_course_name": "FIN FUT & OPT MKTS",
         "curr_course_fulfills": ""
@@ -586,7 +597,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kamara,Avraham",
         "curr_course_code": "FIN 461",
         "curr_course_name": "FIN FUT & OPT MKTS",
         "curr_course_fulfills": ""
@@ -615,9 +627,10 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Marin,Monica",
         "curr_course_code": "FIN 462",
-        "curr_course_name": "MGMT FINANCIAL RISK ",
+        "curr_course_name": "MGMT FINANCIAL RISK",
         "curr_course_fulfills": ""
     },
     {
@@ -644,9 +657,10 @@
         "is_estimate": 0,
         "max_capacity": "55",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Marin,Monica",
         "curr_course_code": "FIN 462",
-        "curr_course_name": "MGMT FINANCIAL RISK ",
+        "curr_course_name": "MGMT FINANCIAL RISK",
         "curr_course_fulfills": ""
     },
     {
@@ -673,7 +687,8 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Thomas,Michael",
         "curr_course_code": "FIN 465",
         "curr_course_name": "ASSET MANAGEMENT",
         "curr_course_fulfills": ""
@@ -702,9 +717,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kremens,Lukas",
         "curr_course_code": "FIN 466",
-        "curr_course_name": "ALTRNTV INVESTMENTS ",
+        "curr_course_name": "ALTRNTV INVESTMENTS",
         "curr_course_fulfills": ""
     },
     {
@@ -731,9 +747,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kremens,Lukas",
         "curr_course_code": "FIN 466",
-        "curr_course_name": "ALTRNTV INVESTMENTS ",
+        "curr_course_name": "ALTRNTV INVESTMENTS",
         "curr_course_fulfills": ""
     },
     {
@@ -760,9 +777,10 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Kremens,Lukas",
         "curr_course_code": "FIN 466",
-        "curr_course_name": "ALTRNTV INVESTMENTS ",
+        "curr_course_name": "ALTRNTV INVESTMENTS",
         "curr_course_fulfills": ""
     },
     {
@@ -783,7 +801,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FIN 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -805,7 +822,6 @@
         "is_estimate": 0,
         "max_capacity": "90",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Young,Lance A",
         "curr_course_code": "FIN 505",
         "curr_course_name": "CORP FINANCE",
@@ -835,10 +851,9 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Young,Lance A",
         "curr_course_code": "FIN 557",
-        "curr_course_name": "ENTREPRENEURIAL FIN ",
+        "curr_course_name": "ENTREPRENEURIAL FIN",
         "curr_course_fulfills": ""
     },
     {
@@ -865,10 +880,9 @@
         "is_estimate": 0,
         "max_capacity": "11",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Young,Lance A",
         "curr_course_code": "FIN 557",
-        "curr_course_name": "ENTREPRENEURIAL FIN ",
+        "curr_course_name": "ENTREPRENEURIAL FIN",
         "curr_course_fulfills": ""
     },
     {
@@ -895,7 +909,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hrdlicka,Christopher",
         "curr_course_code": "FIN 560",
         "curr_course_name": "INVESTMENTS",
@@ -925,7 +938,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hrdlicka,Christopher",
         "curr_course_code": "FIN 560",
         "curr_course_name": "INVESTMENTS",
@@ -955,10 +967,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Kremens,Lukas",
         "curr_course_code": "FIN 566",
-        "curr_course_name": "ALTRNTV INVESTMENTS ",
+        "curr_course_name": "ALTRNTV INVESTMENTS",
         "curr_course_fulfills": ""
     },
     {
@@ -985,10 +996,9 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Kremens,Lukas",
         "curr_course_code": "FIN 566",
-        "curr_course_name": "ALTRNTV INVESTMENTS ",
+        "curr_course_name": "ALTRNTV INVESTMENTS",
         "curr_course_fulfills": ""
     },
     {
@@ -1015,7 +1025,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Siegel,Stephan",
         "curr_course_code": "FIN 579",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1045,7 +1054,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Siegel,Stephan",
         "curr_course_code": "FIN 579",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1068,7 +1076,6 @@
         "is_estimate": 0,
         "max_capacity": "70",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Seslen,Tracey",
         "curr_course_code": "FIN 579",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1098,7 +1105,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bruner,Paul",
         "curr_course_code": "FIN 579",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1128,7 +1134,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Bruner,Paul",
         "curr_course_code": "FIN 579",
         "curr_course_name": "SPECIAL TOPICS",
@@ -1162,7 +1167,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nickerson,Jordan",
         "curr_course_code": "FIN 585",
         "curr_course_name": "EMPIR METHODS IN FIN",
         "curr_course_fulfills": ""
@@ -1193,7 +1199,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Song,Yang",
         "curr_course_code": "FIN 589",
         "curr_course_name": "ADV TOPICS FINANCE",
         "curr_course_fulfills": ""
@@ -1226,7 +1233,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Westerfield,Mark",
         "curr_course_code": "FIN 589",
         "curr_course_name": "ADV TOPICS FINANCE",
@@ -1256,7 +1263,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Hrdlicka,Christopher",
         "curr_course_code": "FIN 592",
         "curr_course_name": "FINANCIAL RESEARCH",
         "curr_course_fulfills": ""
@@ -1313,9 +1321,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FIN 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1336,9 +1343,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "FIN 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     }
 ]

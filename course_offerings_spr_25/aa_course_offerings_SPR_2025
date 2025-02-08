@@ -23,7 +23,7 @@
         "is_estimate": 0,
         "max_capacity": "195",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 210",
         "curr_course_name": "ENGR STATICS",
         "curr_course_fulfills": [
@@ -52,7 +52,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 210",
         "curr_course_name": "ENGR STATICS",
         "curr_course_fulfills": [
@@ -81,7 +81,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 210",
         "curr_course_name": "ENGR STATICS",
         "curr_course_fulfills": [
@@ -110,7 +110,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 210",
         "curr_course_name": "ENGR STATICS",
         "curr_course_fulfills": [
@@ -141,7 +141,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 210",
         "curr_course_name": "ENGR STATICS",
         "curr_course_fulfills": [
@@ -172,7 +172,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 210",
         "curr_course_name": "ENGR STATICS",
         "curr_course_fulfills": [
@@ -203,7 +203,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 210",
         "curr_course_name": "ENGR STATICS",
         "curr_course_fulfills": [
@@ -234,7 +234,7 @@
         "is_estimate": 0,
         "max_capacity": "180",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 260",
         "curr_course_name": "THERMODYNAMICS",
         "curr_course_fulfills": [
@@ -263,7 +263,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 260",
         "curr_course_name": "THERMODYNAMICS",
         "curr_course_fulfills": [
@@ -292,7 +292,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 260",
         "curr_course_name": "THERMODYNAMICS",
         "curr_course_fulfills": [
@@ -321,7 +321,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 260",
         "curr_course_name": "THERMODYNAMICS",
         "curr_course_fulfills": [
@@ -350,7 +350,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 260",
         "curr_course_name": "THERMODYNAMICS",
         "curr_course_fulfills": [
@@ -381,7 +381,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 260",
         "curr_course_name": "THERMODYNAMICS",
         "curr_course_fulfills": [
@@ -412,7 +412,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 260",
         "curr_course_name": "THERMODYNAMICS",
         "curr_course_fulfills": [
@@ -437,7 +437,6 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 299",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -460,7 +459,6 @@
         "is_estimate": 1,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 299",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -483,7 +481,6 @@
         "is_estimate": 1,
         "max_capacity": "150",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 299",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -506,7 +503,6 @@
         "is_estimate": 0,
         "max_capacity": "75",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 299",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -529,7 +525,6 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 299",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -552,7 +547,6 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 299",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -575,7 +569,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 299",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -604,7 +597,8 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Dabiri,Dana",
         "curr_course_code": "A A 301",
         "curr_course_name": "COMP AERODYNAMICS",
         "curr_course_fulfills": ""
@@ -633,7 +627,7 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 322",
         "curr_course_name": "AEROSPACE LAB II",
         "curr_course_fulfills": ""
@@ -662,7 +656,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 322",
         "curr_course_name": "AEROSPACE LAB II",
         "curr_course_fulfills": ""
@@ -691,7 +685,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 322",
         "curr_course_name": "AEROSPACE LAB II",
         "curr_course_fulfills": ""
@@ -720,7 +714,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 322",
         "curr_course_name": "AEROSPACE LAB II",
         "curr_course_fulfills": ""
@@ -749,7 +743,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 322",
         "curr_course_name": "AEROSPACE LAB II",
         "curr_course_fulfills": ""
@@ -778,7 +772,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 322",
         "curr_course_name": "AEROSPACE LAB II",
         "curr_course_fulfills": ""
@@ -807,7 +801,7 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 322",
         "curr_course_name": "AEROSPACE LAB II",
         "curr_course_fulfills": ""
@@ -836,9 +830,10 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Vijay,Avin",
         "curr_course_code": "A A 332",
-        "curr_course_name": "AEROSPACE STRUCT II ",
+        "curr_course_name": "AEROSPACE STRUCT II",
         "curr_course_fulfills": ""
     },
     {
@@ -865,7 +860,6 @@
         "is_estimate": 0,
         "max_capacity": "65",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Livne,Eli",
         "curr_course_code": "A A 411",
         "curr_course_name": "AIRCRAFT DESIGN II",
@@ -888,7 +882,6 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 411",
         "curr_course_name": "AIRCRAFT DESIGN II",
         "curr_course_fulfills": ""
@@ -910,7 +903,6 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 411",
         "curr_course_name": "AIRCRAFT DESIGN II",
         "curr_course_fulfills": ""
@@ -932,7 +924,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 411",
         "curr_course_name": "AIRCRAFT DESIGN II",
         "curr_course_fulfills": ""
@@ -954,7 +945,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 411",
         "curr_course_name": "AIRCRAFT DESIGN II",
         "curr_course_fulfills": ""
@@ -976,7 +966,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 411",
         "curr_course_name": "AIRCRAFT DESIGN II",
         "curr_course_fulfills": ""
@@ -998,7 +987,6 @@
         "is_estimate": 0,
         "max_capacity": "12",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 411",
         "curr_course_name": "AIRCRAFT DESIGN II",
         "curr_course_fulfills": ""
@@ -1027,10 +1015,9 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Saenz Otero,Alvar",
         "curr_course_code": "A A 421",
-        "curr_course_name": "SPACE SYS DESIGN II ",
+        "curr_course_name": "SPACE SYS DESIGN II",
         "curr_course_fulfills": ""
     },
     {
@@ -1050,9 +1037,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 421",
-        "curr_course_name": "SPACE SYS DESIGN II ",
+        "curr_course_name": "SPACE SYS DESIGN II",
         "curr_course_fulfills": ""
     },
     {
@@ -1072,9 +1058,8 @@
         "is_estimate": 0,
         "max_capacity": "14",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 421",
-        "curr_course_name": "SPACE SYS DESIGN II ",
+        "curr_course_name": "SPACE SYS DESIGN II",
         "curr_course_fulfills": ""
     },
     {
@@ -1094,9 +1079,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 421",
-        "curr_course_name": "SPACE SYS DESIGN II ",
+        "curr_course_name": "SPACE SYS DESIGN II",
         "curr_course_fulfills": ""
     },
     {
@@ -1116,9 +1100,8 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 421",
-        "curr_course_name": "SPACE SYS DESIGN II ",
+        "curr_course_name": "SPACE SYS DESIGN II",
         "curr_course_fulfills": ""
     },
     {
@@ -1145,7 +1128,8 @@
         "is_estimate": 0,
         "max_capacity": "120",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Nisser,Martin",
         "curr_course_code": "A A 447",
         "curr_course_name": "CONT IN AEROSP",
         "curr_course_fulfills": ""
@@ -1200,7 +1184,6 @@
         "is_estimate": 1,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1223,7 +1206,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -1252,7 +1234,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 501",
         "curr_course_name": "ADV GAS DYNAMICS",
         "curr_course_fulfills": ""
@@ -1281,7 +1262,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Breidenthal,Bob",
         "curr_course_code": "A A 508",
         "curr_course_name": "TURBULENCE",
         "curr_course_fulfills": ""
@@ -1310,7 +1292,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Srinivasan,Bhuvana",
         "curr_course_code": "A A 529",
         "curr_course_name": "SPACE PROPULSION",
         "curr_course_fulfills": ""
@@ -1339,9 +1322,8 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 535",
-        "curr_course_name": "ADV COMPOSITE STRUC ",
+        "curr_course_name": "ADV COMPOSITE STRUC",
         "curr_course_fulfills": ""
     },
     {
@@ -1368,9 +1350,10 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Salviato,Marco",
         "curr_course_code": "A A 541",
-        "curr_course_name": "FINITE ELM ANLYS II ",
+        "curr_course_name": "FINITE ELM ANLYS II",
         "curr_course_fulfills": ""
     },
     {
@@ -1397,7 +1380,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 543",
         "curr_course_name": "COMPRESSIBLE CFD",
         "curr_course_fulfills": ""
@@ -1426,7 +1409,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shumlak,Uri",
         "curr_course_code": "A A 545",
         "curr_course_name": "COMP MTHDS PLASMAS",
         "curr_course_fulfills": ""
@@ -1458,7 +1442,7 @@
         "open_or_closed": "Open",
         "professor_name": "Leung,Karen",
         "curr_course_code": "A A 548",
-        "curr_course_name": "LIN MULTVAR CONTROL ",
+        "curr_course_name": "LIN MULTVAR CONTROL",
         "curr_course_fulfills": ""
     },
     {
@@ -1518,7 +1502,7 @@
         "open_or_closed": "Open",
         "professor_name": "Srinivasan,Bhuvana",
         "curr_course_code": "A A 559",
-        "curr_course_name": "PLASMA SCIENCE SMNR ",
+        "curr_course_name": "PLASMA SCIENCE SMNR",
         "curr_course_fulfills": ""
     },
     {
@@ -1543,7 +1527,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 590",
         "curr_course_name": "SPACE LAW & POLICY",
         "curr_course_fulfills": ""
@@ -1572,7 +1556,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 598",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1601,7 +1585,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 598",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1628,7 +1612,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 598",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1655,7 +1639,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "A A 598",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": ""
@@ -1678,7 +1662,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 599",
         "curr_course_name": "SPECIAL PROJECTS",
         "curr_course_fulfills": ""
@@ -1701,7 +1684,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 599",
         "curr_course_name": "SPECIAL PROJECTS",
         "curr_course_fulfills": ""
@@ -1724,9 +1706,8 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1747,7 +1728,6 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1770,9 +1750,8 @@
         "is_estimate": 1,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "A A 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

@@ -16,10 +16,9 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Plovie,Barbara A",
         "curr_course_code": "NCLIN 306",
-        "curr_course_name": "FND SKILLS PROF NSG ",
+        "curr_course_name": "FND SKILLS PROF NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -46,10 +45,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Plovie,Barbara",
         "curr_course_code": "NCLIN 306",
-        "curr_course_name": "FND SKILLS PROF NSG ",
+        "curr_course_name": "FND SKILLS PROF NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -76,9 +75,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 306",
-        "curr_course_name": "FND SKILLS PROF NSG ",
+        "curr_course_name": "FND SKILLS PROF NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -105,9 +104,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shipp,Caitlin",
         "curr_course_code": "NCLIN 306",
-        "curr_course_name": "FND SKILLS PROF NSG ",
+        "curr_course_name": "FND SKILLS PROF NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -134,10 +134,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Chen,Li",
         "curr_course_code": "NCLIN 306",
-        "curr_course_name": "FND SKILLS PROF NSG ",
+        "curr_course_name": "FND SKILLS PROF NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -164,10 +164,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Plovie,Barbara",
         "curr_course_code": "NCLIN 306",
-        "curr_course_name": "FND SKILLS PROF NSG ",
+        "curr_course_name": "FND SKILLS PROF NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -194,10 +194,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Swanberg,Irene",
         "curr_course_code": "NCLIN 306",
-        "curr_course_name": "FND SKILLS PROF NSG ",
+        "curr_course_name": "FND SKILLS PROF NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -224,9 +224,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Shipp,Caitlin",
         "curr_course_code": "NCLIN 306",
-        "curr_course_name": "FND SKILLS PROF NSG ",
+        "curr_course_name": "FND SKILLS PROF NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -253,10 +254,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Chen,Li",
         "curr_course_code": "NCLIN 306",
-        "curr_course_name": "FND SKILLS PROF NSG ",
+        "curr_course_name": "FND SKILLS PROF NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -279,7 +280,7 @@
         "open_or_closed": "Open",
         "professor_name": "Altman,Gaylene",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -297,9 +298,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wickline,Mihkai",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -317,9 +319,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Simmons,Creseta",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -337,9 +340,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -357,9 +360,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bayes,Susan",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -377,9 +381,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Bickel,Lyndsey",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -397,9 +402,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Chute,Anna",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -417,10 +423,10 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Swanberg,Irene",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -438,9 +444,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -458,9 +464,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -478,9 +484,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 407",
-        "curr_course_name": "PRACTICUM ADULT NSG ",
+        "curr_course_name": "PRACTICUM ADULT NSG",
         "curr_course_fulfills": ""
     },
     {
@@ -503,7 +509,7 @@
         "open_or_closed": "Open",
         "professor_name": "Rasmussen,Sheryl",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -530,9 +536,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -559,9 +565,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -588,9 +594,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -617,9 +623,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -649,7 +655,7 @@
         "open_or_closed": "Open",
         "professor_name": "Bayes,Susan",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -679,7 +685,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chu,Ade",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -709,7 +715,7 @@
         "open_or_closed": "Open",
         "professor_name": "Lim,Solee",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -737,7 +743,7 @@
         "open_or_closed": "Open",
         "professor_name": "Chen,Li Juen",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -762,9 +768,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 411",
-        "curr_course_name": "TRANS TO CLIN PRACT ",
+        "curr_course_name": "TRANS TO CLIN PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -782,9 +788,9 @@
         "is_estimate": 0,
         "max_capacity": "80",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 475",
-        "curr_course_name": "FND INTERPROF PRACT ",
+        "curr_course_name": "FND INTERPROF PRACT",
         "curr_course_fulfills": ""
     },
     {
@@ -865,7 +871,7 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 516",
         "curr_course_name": "ADV CLIN PRACT I",
         "curr_course_fulfills": ""
@@ -894,7 +900,7 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 516",
         "curr_course_name": "ADV CLIN PRACT I",
         "curr_course_fulfills": ""
@@ -921,7 +927,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 516",
         "curr_course_name": "ADV CLIN PRACT I",
         "curr_course_fulfills": ""
@@ -992,7 +998,7 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "NCLIN 599",
         "curr_course_name": "INDEP CLIN PRACT",
         "curr_course_fulfills": ""

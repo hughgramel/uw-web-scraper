@@ -23,9 +23,10 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Searcy,Anne",
         "curr_course_code": "MUHST 212",
-        "curr_course_name": "WEST MUSIC HIST III ",
+        "curr_course_name": "WEST MUSIC HIST III",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -54,9 +55,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUHST 212",
-        "curr_course_name": "WEST MUSIC HIST III ",
+        "curr_course_name": "WEST MUSIC HIST III",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -85,9 +86,9 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "MUHST 212",
-        "curr_course_name": "WEST MUSIC HIST III ",
+        "curr_course_name": "WEST MUSIC HIST III",
         "curr_course_fulfills": [
             "A&H"
         ]
@@ -114,7 +115,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Searcy,Anne",
         "curr_course_code": "MUHST 497",
         "curr_course_name": "SPEC TOP MUS HIST",
         "curr_course_fulfills": [
@@ -143,7 +145,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Rodgers,Mark",
         "curr_course_code": "MUHST 497",
         "curr_course_name": "SPEC TOP MUS HIST",
         "curr_course_fulfills": [

@@ -23,10 +23,9 @@
         "is_estimate": 0,
         "max_capacity": "9",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hammond,David T",
         "curr_course_code": "PHRMRA 526",
-        "curr_course_name": "CLINICAL TRIALS III ",
+        "curr_course_name": "CLINICAL TRIALS III",
         "curr_course_fulfills": ""
     }
 ]

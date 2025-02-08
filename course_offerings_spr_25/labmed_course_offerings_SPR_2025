@@ -27,10 +27,9 @@
         "is_estimate": 1,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Johnson,Lisa",
         "curr_course_code": "LAB M 418",
-        "curr_course_name": "INTRO CLINICAL CHEM ",
+        "curr_course_name": "INTRO CLINICAL CHEM",
         "curr_course_fulfills": ""
     },
     {
@@ -57,9 +56,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Ronas,Jiro",
         "curr_course_code": "LAB M 418",
-        "curr_course_name": "INTRO CLINICAL CHEM ",
+        "curr_course_name": "INTRO CLINICAL CHEM",
         "curr_course_fulfills": ""
     },
     {
@@ -86,9 +85,9 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Ronas,Jiro",
         "curr_course_code": "LAB M 418",
-        "curr_course_name": "INTRO CLINICAL CHEM ",
+        "curr_course_name": "INTRO CLINICAL CHEM",
         "curr_course_fulfills": ""
     },
     {
@@ -108,7 +107,7 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Ronas,Jiro",
         "curr_course_code": "LAB M 423",
         "curr_course_name": "CLINICAL CHEMISTRY",
         "curr_course_fulfills": ""
@@ -130,7 +129,7 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Ray,Jess",
         "curr_course_code": "LAB M 424",
         "curr_course_name": "CLIN MICROBIOLOGY",
         "curr_course_fulfills": ""
@@ -152,9 +151,9 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Kim,Miriam",
         "curr_course_code": "LAB M 425",
-        "curr_course_name": "CLINICAL HEMATOLOGY ",
+        "curr_course_name": "CLINICAL HEMATOLOGY",
         "curr_course_fulfills": ""
     },
     {
@@ -174,7 +173,7 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Kim,Miriam",
         "curr_course_code": "LAB M 431",
         "curr_course_name": "IMMUNOHEM ROTATION",
         "curr_course_fulfills": ""
@@ -196,7 +195,7 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "professor_name": "Ronas,Jiro",
         "curr_course_code": "LAB M 436",
         "curr_course_name": "MDX Rotation",
         "curr_course_fulfills": ""
@@ -219,7 +218,6 @@
         "is_estimate": 0,
         "max_capacity": "13",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LAB M 499",
         "curr_course_name": "UNDERGRAD RES",
         "curr_course_fulfills": ""
@@ -242,7 +240,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LAB M 499",
         "curr_course_name": "UNDERGRAD RES",
         "curr_course_fulfills": ""
@@ -271,10 +268,9 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Fink,Susan L",
         "curr_course_code": "LAB M 502",
-        "curr_course_name": "LAB MED GRND ROUNDS ",
+        "curr_course_name": "LAB MED GRND ROUNDS",
         "curr_course_fulfills": ""
     },
     {
@@ -301,10 +297,9 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hoffman,Noah G.",
         "curr_course_code": "LAB M 510",
-        "curr_course_name": "RESEARCH CONFERENCE ",
+        "curr_course_name": "RESEARCH CONFERENCE",
         "curr_course_fulfills": ""
     },
     {
@@ -331,7 +326,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Louzon,Max",
         "curr_course_code": "LAB M 520",
         "curr_course_name": "ORG & MGT IN LM",
@@ -354,7 +348,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Sabath,Daniel",
         "curr_course_code": "LAB M 521",
         "curr_course_name": "ADV LAB HEMATOLOGY",
@@ -378,7 +371,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LAB M 521",
         "curr_course_name": "ADV LAB HEMATOLOGY",
         "curr_course_fulfills": ""
@@ -428,7 +420,6 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Polyak,Stephen J.",
         "curr_course_code": "LAB M 601",
         "curr_course_name": "INTERNSHIP",
@@ -472,9 +463,9 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LAB M 699P",
-        "curr_course_name": "P-WWAMI LAB M ELECT ",
+        "curr_course_name": "P-WWAMI LAB M ELECT",
         "curr_course_fulfills": ""
     },
     {
@@ -495,7 +486,6 @@
         "is_estimate": 1,
         "max_capacity": "8",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LAB M 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""

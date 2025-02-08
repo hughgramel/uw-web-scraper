@@ -23,7 +23,6 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ASIAN 207",
         "curr_course_name": "LIT/CLTR SPEC TOP",
         "curr_course_fulfills": [
@@ -48,9 +47,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ASIAN 491",
-        "curr_course_name": "INTERNSHIP ASIAN LG ",
+        "curr_course_name": "INTERNSHIP ASIAN LG",
         "curr_course_fulfills": ""
     },
     {
@@ -75,7 +73,7 @@
         "is_estimate": 0,
         "max_capacity": "22",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "ASIAN 498",
         "curr_course_name": "SPECIAL TOPICS",
         "curr_course_fulfills": [
@@ -100,9 +98,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ASIAN 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -123,7 +120,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ASIAN 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -146,9 +142,8 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "ASIAN 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

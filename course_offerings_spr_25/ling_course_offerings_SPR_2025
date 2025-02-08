@@ -21,7 +21,7 @@
         "is_estimate": 0,
         "max_capacity": "240",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McGarrity,Laura",
         "curr_course_code": "LING 200",
         "curr_course_name": "INTRO LINGUISTICS",
@@ -52,7 +52,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 200",
         "curr_course_name": "INTRO LINGUISTICS",
         "curr_course_fulfills": [
@@ -82,7 +82,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 200",
         "curr_course_name": "INTRO LINGUISTICS",
         "curr_course_fulfills": [
@@ -112,7 +112,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 200",
         "curr_course_name": "INTRO LINGUISTICS",
         "curr_course_fulfills": [
@@ -142,7 +142,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 200",
         "curr_course_name": "INTRO LINGUISTICS",
         "curr_course_fulfills": [
@@ -172,7 +172,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 200",
         "curr_course_name": "INTRO LINGUISTICS",
         "curr_course_fulfills": [
@@ -202,7 +202,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 200",
         "curr_course_name": "INTRO LINGUISTICS",
         "curr_course_fulfills": [
@@ -263,7 +263,7 @@
         "is_estimate": 0,
         "max_capacity": "26",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 233",
         "curr_course_name": "LANGUAGE & SOCIETY",
         "curr_course_fulfills": [
@@ -293,7 +293,7 @@
         "is_estimate": 0,
         "max_capacity": "26",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 233",
         "curr_course_name": "LANGUAGE & SOCIETY",
         "curr_course_fulfills": [
@@ -323,7 +323,7 @@
         "is_estimate": 0,
         "max_capacity": "26",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 233",
         "curr_course_name": "LANGUAGE & SOCIETY",
         "curr_course_fulfills": [
@@ -377,7 +377,7 @@
         "is_estimate": 0,
         "max_capacity": "100",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "McGarrity,Laura",
         "curr_course_code": "LING 269",
         "curr_course_name": "SWEARNG & TABOO LANG",
@@ -407,7 +407,7 @@
         "is_estimate": 0,
         "max_capacity": "33",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 269",
         "curr_course_name": "SWEARNG & TABOO LANG",
         "curr_course_fulfills": [
@@ -436,7 +436,7 @@
         "is_estimate": 0,
         "max_capacity": "33",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 269",
         "curr_course_name": "SWEARNG & TABOO LANG",
         "curr_course_fulfills": [
@@ -465,7 +465,7 @@
         "is_estimate": 0,
         "max_capacity": "34",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 269",
         "curr_course_name": "SWEARNG & TABOO LANG",
         "curr_course_fulfills": [
@@ -529,7 +529,6 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hargus,Sharon L",
         "curr_course_code": "LING 450",
         "curr_course_name": "INTRO LING PHONET",
@@ -561,7 +560,6 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Hargus,Sharon L",
         "curr_course_code": "LING 450",
         "curr_course_name": "INTRO LING PHONET",
@@ -653,7 +651,8 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Citko,Barbara",
         "curr_course_code": "LING 461",
         "curr_course_name": "SYNTAX I",
         "curr_course_fulfills": [
@@ -684,7 +683,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Citko,Barbara",
         "curr_course_code": "LING 462",
         "curr_course_name": "SYNTAX II",
         "curr_course_fulfills": [
@@ -713,9 +713,9 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 472",
-        "curr_course_name": "INTR TO COMPUT LING ",
+        "curr_course_name": "INTR TO COMPUT LING",
         "curr_course_fulfills": [
             "A&H/NSc"
         ]
@@ -738,7 +738,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LING 490",
         "curr_course_name": "FIELDWORK",
         "curr_course_fulfills": ""
@@ -761,7 +760,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LING 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -784,7 +782,6 @@
         "is_estimate": 1,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LING 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -811,7 +808,8 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Cheng,Qi",
         "curr_course_code": "LING 520",
         "curr_course_name": "INTRO STATS FOR LING",
         "curr_course_fulfills": ""
@@ -863,9 +861,9 @@
         "is_estimate": 1,
         "max_capacity": "3",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 548",
-        "curr_course_name": "2ND/FL TEACH CPSTON ",
+        "curr_course_name": "2ND/FL TEACH CPSTON",
         "curr_course_fulfills": ""
     },
     {
@@ -1069,7 +1067,7 @@
         "open_or_closed": "Open",
         "professor_name": "Steinert-Threlkeld,Shane N",
         "curr_course_code": "LING 574",
-        "curr_course_name": "DEEP LEARNING - NLP ",
+        "curr_course_name": "DEEP LEARNING - NLP",
         "curr_course_fulfills": ""
     },
     {
@@ -1152,7 +1150,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Rolston,Leanne E.",
         "curr_course_code": "LING 575",
         "curr_course_name": "COMPUT LING TOPICS",
@@ -1182,7 +1179,6 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LING 575",
         "curr_course_name": "COMPUT LING TOPICS",
         "curr_course_fulfills": ""
@@ -1211,10 +1207,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cheng,Qi",
         "curr_course_code": "LING 580",
-        "curr_course_name": "PROBS IN LINGUISTCS ",
+        "curr_course_name": "PROBS IN LINGUISTCS",
         "curr_course_fulfills": ""
     },
     {
@@ -1241,10 +1236,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Cheng,Qi",
         "curr_course_code": "LING 580",
-        "curr_course_name": "PROBS IN LINGUISTCS ",
+        "curr_course_name": "PROBS IN LINGUISTCS",
         "curr_course_fulfills": ""
     },
     {
@@ -1271,10 +1265,9 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lapierre,Myriam",
         "curr_course_code": "LING 580",
-        "curr_course_name": "PROBS IN LINGUISTCS ",
+        "curr_course_name": "PROBS IN LINGUISTCS",
         "curr_course_fulfills": ""
     },
     {
@@ -1301,10 +1294,9 @@
         "is_estimate": 0,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lapierre,Myriam",
         "curr_course_code": "LING 580",
-        "curr_course_name": "PROBS IN LINGUISTCS ",
+        "curr_course_name": "PROBS IN LINGUISTCS",
         "curr_course_fulfills": ""
     },
     {
@@ -1324,7 +1316,7 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "LING 590",
         "curr_course_name": "FIELDWORK",
         "curr_course_fulfills": ""
@@ -1353,7 +1345,8 @@
         "is_estimate": 1,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Wright,Richard",
         "curr_course_code": "LING 599",
         "curr_course_name": "LING COLLOQUIUM",
         "curr_course_fulfills": ""
@@ -1382,7 +1375,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Lindekugel,Katie",
         "curr_course_code": "LING 599",
         "curr_course_name": "LING COLLOQUIUM",
@@ -1406,9 +1398,8 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LING 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -1429,7 +1420,6 @@
         "is_estimate": 1,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LING 700",
         "curr_course_name": "MASTERS THESIS",
         "curr_course_fulfills": ""
@@ -1452,9 +1442,8 @@
         "is_estimate": 1,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "LING 800",
-        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_name": "DOCTORAL DISSERTATN",
         "curr_course_fulfills": ""
     }
 ]

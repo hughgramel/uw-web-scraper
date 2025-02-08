@@ -21,7 +21,8 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Young,Jason",
         "curr_course_code": "ARCTIC 103",
         "curr_course_name": "ELEM INUKTUT",
         "curr_course_fulfills": ""

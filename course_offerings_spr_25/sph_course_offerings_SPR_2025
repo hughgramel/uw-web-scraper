@@ -23,7 +23,6 @@
         "is_estimate": 0,
         "max_capacity": "110",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPH 381",
         "curr_course_name": "PH SCIENCE",
         "curr_course_fulfills": ""
@@ -50,7 +49,7 @@
         "is_estimate": 0,
         "max_capacity": "37",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 381",
         "curr_course_name": "PH SCIENCE",
         "curr_course_fulfills": ""
@@ -77,7 +76,7 @@
         "is_estimate": 0,
         "max_capacity": "37",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 381",
         "curr_course_name": "PH SCIENCE",
         "curr_course_fulfills": ""
@@ -106,7 +105,7 @@
         "is_estimate": 0,
         "max_capacity": "36",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 381",
         "curr_course_name": "PH SCIENCE",
         "curr_course_fulfills": ""
@@ -135,7 +134,7 @@
         "is_estimate": 0,
         "max_capacity": "110",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 389",
         "curr_course_name": "RACE/RACISM/PUB HLTH",
         "curr_course_fulfills": [
@@ -164,7 +163,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 389",
         "curr_course_name": "RACE/RACISM/PUB HLTH",
         "curr_course_fulfills": [
@@ -193,7 +192,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 389",
         "curr_course_name": "RACE/RACISM/PUB HLTH",
         "curr_course_fulfills": [
@@ -222,7 +221,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 389",
         "curr_course_name": "RACE/RACISM/PUB HLTH",
         "curr_course_fulfills": [
@@ -251,7 +250,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 389",
         "curr_course_name": "RACE/RACISM/PUB HLTH",
         "curr_course_fulfills": [
@@ -282,7 +281,7 @@
         "is_estimate": 0,
         "max_capacity": "145",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 392",
         "curr_course_name": "PUB HLTH SRV LRNG II",
         "curr_course_fulfills": ""
@@ -309,7 +308,7 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 392",
         "curr_course_name": "PUB HLTH SRV LRNG II",
         "curr_course_fulfills": ""
@@ -336,7 +335,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 392",
         "curr_course_name": "PUB HLTH SRV LRNG II",
         "curr_course_fulfills": ""
@@ -363,7 +362,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 392",
         "curr_course_name": "PUB HLTH SRV LRNG II",
         "curr_course_fulfills": ""
@@ -390,7 +389,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 392",
         "curr_course_name": "PUB HLTH SRV LRNG II",
         "curr_course_fulfills": ""
@@ -417,7 +416,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 392",
         "curr_course_name": "PUB HLTH SRV LRNG II",
         "curr_course_fulfills": ""
@@ -446,7 +445,6 @@
         "is_estimate": 0,
         "max_capacity": "60",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPH 396",
         "curr_course_name": "INTSV PH SRVC LRNG",
         "curr_course_fulfills": ""
@@ -473,7 +471,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 396",
         "curr_course_name": "INTSV PH SRVC LRNG",
         "curr_course_fulfills": ""
@@ -500,7 +498,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 396",
         "curr_course_name": "INTSV PH SRVC LRNG",
         "curr_course_fulfills": ""
@@ -529,9 +527,9 @@
         "is_estimate": 0,
         "max_capacity": "110",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 480",
-        "curr_course_name": "PH RESEARCH METHODS ",
+        "curr_course_name": "PH RESEARCH METHODS",
         "curr_course_fulfills": ""
     },
     {
@@ -556,9 +554,9 @@
         "is_estimate": 0,
         "max_capacity": "37",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 480",
-        "curr_course_name": "PH RESEARCH METHODS ",
+        "curr_course_name": "PH RESEARCH METHODS",
         "curr_course_fulfills": ""
     },
     {
@@ -583,9 +581,9 @@
         "is_estimate": 0,
         "max_capacity": "37",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 480",
-        "curr_course_name": "PH RESEARCH METHODS ",
+        "curr_course_name": "PH RESEARCH METHODS",
         "curr_course_fulfills": ""
     },
     {
@@ -610,9 +608,9 @@
         "is_estimate": 0,
         "max_capacity": "36",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 480",
-        "curr_course_name": "PH RESEARCH METHODS ",
+        "curr_course_name": "PH RESEARCH METHODS",
         "curr_course_fulfills": ""
     },
     {
@@ -639,7 +637,7 @@
         "is_estimate": 0,
         "max_capacity": "110",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 481",
         "curr_course_name": "PH ETHICS & POLICY",
         "curr_course_fulfills": ""
@@ -666,7 +664,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 481",
         "curr_course_name": "PH ETHICS & POLICY",
         "curr_course_fulfills": ""
@@ -693,7 +691,7 @@
         "is_estimate": 0,
         "max_capacity": "28",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 481",
         "curr_course_name": "PH ETHICS & POLICY",
         "curr_course_fulfills": ""
@@ -720,7 +718,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 481",
         "curr_course_name": "PH ETHICS & POLICY",
         "curr_course_fulfills": ""
@@ -747,7 +745,7 @@
         "is_estimate": 0,
         "max_capacity": "27",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 481",
         "curr_course_name": "PH ETHICS & POLICY",
         "curr_course_fulfills": ""
@@ -776,7 +774,7 @@
         "is_estimate": 0,
         "max_capacity": "85",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 492",
         "curr_course_name": "CAPSTONE II",
         "curr_course_fulfills": ""
@@ -803,7 +801,7 @@
         "is_estimate": 0,
         "max_capacity": "25",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 492",
         "curr_course_name": "CAPSTONE II",
         "curr_course_fulfills": ""
@@ -830,7 +828,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 492",
         "curr_course_name": "CAPSTONE II",
         "curr_course_fulfills": ""
@@ -857,7 +855,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 492",
         "curr_course_name": "CAPSTONE II",
         "curr_course_fulfills": ""
@@ -886,7 +884,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 492",
         "curr_course_name": "CAPSTONE II",
         "curr_course_fulfills": ""
@@ -915,7 +913,6 @@
         "is_estimate": 0,
         "max_capacity": "14",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPH 494",
         "curr_course_name": "PH HONORS SEMINAR",
         "curr_course_fulfills": ""
@@ -944,7 +941,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPH 495",
         "curr_course_name": "PH INTERNSHIP",
         "curr_course_fulfills": ""
@@ -973,7 +969,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 496",
         "curr_course_name": "PUBLIC HLTH CAPSTONE",
         "curr_course_fulfills": ""
@@ -1000,7 +996,7 @@
         "is_estimate": 0,
         "max_capacity": "40",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "SPH 496",
         "curr_course_name": "PUBLIC HLTH CAPSTONE",
         "curr_course_fulfills": ""
@@ -1023,9 +1019,8 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPH 497",
-        "curr_course_name": "PH SPECIAL ELECTIVE ",
+        "curr_course_name": "PH SPECIAL ELECTIVE",
         "curr_course_fulfills": ""
     },
     {
@@ -1046,7 +1041,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "SPH 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""

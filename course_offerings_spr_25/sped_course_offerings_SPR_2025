@@ -211,7 +211,6 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDSPE 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -293,7 +292,6 @@
         "is_estimate": 0,
         "max_capacity": "19",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Powell,Selma M",
         "curr_course_code": "EDSPE 500",
         "curr_course_name": "PRACTICUM",
@@ -376,10 +374,9 @@
         "is_estimate": 0,
         "max_capacity": "34",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Johnson,Yelena Patish",
         "curr_course_code": "EDSPE 503",
-        "curr_course_name": "CLSRM MANAGEMENT EL ",
+        "curr_course_name": "CLSRM MANAGEMENT EL",
         "curr_course_fulfills": ""
     },
     {
@@ -399,10 +396,9 @@
         "is_estimate": 0,
         "max_capacity": "32",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Johnson,Yelena Patish",
         "curr_course_code": "EDSPE 503",
-        "curr_course_name": "CLSRM MANAGEMENT EL ",
+        "curr_course_name": "CLSRM MANAGEMENT EL",
         "curr_course_fulfills": ""
     },
     {
@@ -422,10 +418,9 @@
         "is_estimate": 0,
         "max_capacity": "32",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Johnson,Yelena Patish",
         "curr_course_code": "EDSPE 503",
-        "curr_course_name": "CLSRM MANAGEMENT EL ",
+        "curr_course_name": "CLSRM MANAGEMENT EL",
         "curr_course_fulfills": ""
     },
     {
@@ -445,10 +440,9 @@
         "is_estimate": 0,
         "max_capacity": "32",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Johnson,Yelena Patish",
         "curr_course_code": "EDSPE 503",
-        "curr_course_name": "CLSRM MANAGEMENT EL ",
+        "curr_course_name": "CLSRM MANAGEMENT EL",
         "curr_course_fulfills": ""
     },
     {
@@ -595,10 +589,9 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Saliba,Liz Hartwell",
         "curr_course_code": "EDSPE 531",
-        "curr_course_name": "COMP BEH INTERVENTN ",
+        "curr_course_name": "COMP BEH INTERVENTN",
         "curr_course_fulfills": ""
     },
     {
@@ -625,10 +618,10 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Rosenberg,Nancy",
         "curr_course_code": "EDSPE 531",
-        "curr_course_name": "COMP BEH INTERVENTN ",
+        "curr_course_name": "COMP BEH INTERVENTN",
         "curr_course_fulfills": ""
     },
     {
@@ -655,7 +648,7 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Tucker,Vanessa",
         "curr_course_code": "EDSPE 539",
         "curr_course_name": "ETHICS IN ABA I",
@@ -685,7 +678,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Powell,Selma M",
         "curr_course_code": "EDSPE 540",
         "curr_course_name": "FIELDWORK SEM",
@@ -715,7 +707,6 @@
         "is_estimate": 0,
         "max_capacity": "35",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Powell,Selma M",
         "curr_course_code": "EDSPE 540",
         "curr_course_name": "FIELDWORK SEM",
@@ -745,10 +736,10 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "professor_name": "Spaulding,Scott",
         "curr_course_code": "EDSPE 542",
-        "curr_course_name": "ADV SINGLE CASE RES ",
+        "curr_course_name": "ADV SINGLE CASE RES",
         "curr_course_fulfills": ""
     },
     {
@@ -775,7 +766,6 @@
         "is_estimate": 0,
         "max_capacity": "15",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Roberts,Carly",
         "curr_course_code": "EDSPE 550",
         "curr_course_name": "DISABLTY JUSTICE SEM",
@@ -805,7 +795,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Glick,Chante",
         "curr_course_code": "EDSPE 552",
         "curr_course_name": "INSTRUCT STRAT ABA",
         "curr_course_fulfills": ""
@@ -834,7 +825,8 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
+        "professor_name": "Horbanczuk,Stefan",
         "curr_course_code": "EDSPE 554",
         "curr_course_name": "ABA IN THE SCHOOLS",
         "curr_course_fulfills": ""
@@ -866,7 +858,7 @@
         "open_or_closed": "Open",
         "professor_name": "Davis,Carol Ann",
         "curr_course_code": "EDSPE 557",
-        "curr_course_name": "RSRCH DESGN SPEC ED ",
+        "curr_course_name": "RSRCH DESGN SPEC ED",
         "curr_course_fulfills": ""
     },
     {
@@ -893,7 +885,6 @@
         "is_estimate": 0,
         "max_capacity": "30",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Boyce,April Coloma",
         "curr_course_code": "EDSPE 560",
         "curr_course_name": "HOME SCH & COMMUNITY",
@@ -923,7 +914,6 @@
         "is_estimate": 0,
         "max_capacity": "45",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Meeker,Kathleen Artman",
         "curr_course_code": "EDSPE 565",
         "curr_course_name": "ECE APPROACHES",
@@ -947,7 +937,6 @@
         "is_estimate": 1,
         "max_capacity": "7",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDSPE 599",
         "curr_course_name": "INDEP STUDIES EDUC",
         "curr_course_fulfills": ""
@@ -970,9 +959,8 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDSPE 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_name": "INDEPNDNT STDY/RSCH",
         "curr_course_fulfills": ""
     },
     {
@@ -992,7 +980,6 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "professor_name": "Powell,Selma M",
         "curr_course_code": "EDSPE 601",
         "curr_course_name": "INTERNSHIP",
@@ -1016,7 +1003,6 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "EDSPE 601",
         "curr_course_name": "INTERNSHIP",
         "curr_course_fulfills": ""

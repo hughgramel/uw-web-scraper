@@ -17,7 +17,6 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PEDS 498",
         "curr_course_name": "UNDERGRAD THESIS",
         "curr_course_fulfills": ""
@@ -40,7 +39,6 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PEDS 499",
         "curr_course_name": "UNDERGRAD RESEARCH",
         "curr_course_fulfills": ""
@@ -63,7 +61,6 @@
         "is_estimate": 0,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PEDS 505P",
         "curr_course_name": "P-PRECEP IN PEDS",
         "curr_course_fulfills": ""
@@ -111,9 +108,9 @@
         "is_estimate": 0,
         "max_capacity": "50",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 601",
-        "curr_course_name": "RURAL LIC INPT PEDS ",
+        "curr_course_name": "RURAL LIC INPT PEDS",
         "curr_course_fulfills": ""
     },
     {
@@ -131,7 +128,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 607",
         "curr_course_name": "PED RHEUM ELEC-BOISE",
         "curr_course_fulfills": ""
@@ -151,7 +148,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 610",
         "curr_course_name": "TRADITION INDIAN MED",
         "curr_course_fulfills": ""
@@ -171,7 +168,7 @@
         "is_estimate": 1,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 612",
         "curr_course_name": "PICU HMC",
         "curr_course_fulfills": ""
@@ -191,7 +188,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 613",
         "curr_course_name": "PEDS GI",
         "curr_course_fulfills": ""
@@ -211,7 +208,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 614",
         "curr_course_name": "ADVOC & COMM PARTNER",
         "curr_course_fulfills": ""
@@ -231,7 +228,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 615",
         "curr_course_name": "CHILD ABUSE CLRK",
         "curr_course_fulfills": ""
@@ -251,7 +248,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 617",
         "curr_course_name": "ADV IN-PNT PEDS CD'A",
         "curr_course_fulfills": ""
@@ -271,7 +268,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 618",
         "curr_course_name": "ADV PEDS RHEUM-BOISE",
         "curr_course_fulfills": ""
@@ -291,9 +288,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 620",
-        "curr_course_name": "PEDS SUBSPEC CLINIC ",
+        "curr_course_name": "PEDS SUBSPEC CLINIC",
         "curr_course_fulfills": ""
     },
     {
@@ -313,7 +310,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 623",
         "curr_course_name": "PEDS CH ABUSE SP",
         "curr_course_fulfills": ""
@@ -333,7 +330,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 624",
         "curr_course_name": "PEDS EMER MED SPO",
         "curr_course_fulfills": ""
@@ -355,7 +352,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 625P",
         "curr_course_name": "P-PEDS EMERGENCY MED",
         "curr_course_fulfills": ""
@@ -375,7 +372,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 629",
         "curr_course_name": "NEONATAL PEDS MIS",
         "curr_course_fulfills": ""
@@ -397,7 +394,7 @@
         "is_estimate": 1,
         "max_capacity": "18",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 630P",
         "curr_course_name": "P-WRITE PEDS CLK",
         "curr_course_fulfills": ""
@@ -419,7 +416,7 @@
         "is_estimate": 1,
         "max_capacity": "10",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 631",
         "curr_course_name": "LIC PEDS",
         "curr_course_fulfills": ""
@@ -441,7 +438,7 @@
         "curr_enrolled": "0",
         "open_or_closed": "Open",
         "curr_course_code": "PEDS 632P",
-        "curr_course_name": "P-CRANIOFACIAL PEDS ",
+        "curr_course_name": "P-CRANIOFACIAL PEDS",
         "curr_course_fulfills": ""
     },
     {
@@ -459,7 +456,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 638",
         "curr_course_name": "CARDIOLOGY-MISS",
         "curr_course_fulfills": ""
@@ -481,7 +478,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 640",
         "curr_course_name": "PEDS GI BOISE",
         "curr_course_fulfills": ""
@@ -501,7 +498,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 641",
         "curr_course_name": "PEDS CLKSHP-GILLETTE",
         "curr_course_fulfills": ""
@@ -521,7 +518,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 642",
         "curr_course_name": "PEDS CLKSHP-SHERIDAN",
         "curr_course_fulfills": ""
@@ -541,7 +538,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 643",
         "curr_course_name": "PEDS CLK SPOK KAISER",
         "curr_course_fulfills": ""
@@ -561,7 +558,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 644",
         "curr_course_name": "PEDS CLKSHP- WASILLA",
         "curr_course_fulfills": ""
@@ -581,7 +578,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 645",
         "curr_course_name": "PED CLRKSHP KALISPEL",
         "curr_course_fulfills": ""
@@ -601,7 +598,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 646",
         "curr_course_name": "PEDS CLKSHP WALLA WA",
         "curr_course_fulfills": ""
@@ -621,7 +618,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 647",
         "curr_course_name": "PED CLKSHP LEWSTN",
         "curr_course_fulfills": ""
@@ -641,7 +638,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 648",
         "curr_course_name": "PED CLKRSHP EVER",
         "curr_course_fulfills": ""
@@ -661,7 +658,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 650",
         "curr_course_name": "PED CLKSHP MOSEL",
         "curr_course_fulfills": ""
@@ -681,7 +678,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 651",
         "curr_course_name": "PED CLKSHP BOZEMAN",
         "curr_course_fulfills": ""
@@ -701,7 +698,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 652",
         "curr_course_name": "PED CLKSHP IDA FAL",
         "curr_course_fulfills": ""
@@ -723,7 +720,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 653",
         "curr_course_name": "PED CLKSHP HELENA",
         "curr_course_fulfills": ""
@@ -745,7 +742,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 655",
         "curr_course_name": "PED GEN CLRKSHP",
         "curr_course_fulfills": ""
@@ -767,9 +764,9 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 657P",
-        "curr_course_name": "P-PED CLKSHP MISSOU ",
+        "curr_course_name": "P-PED CLKSHP MISSOU",
         "curr_course_fulfills": ""
     },
     {
@@ -789,7 +786,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 658",
         "curr_course_name": "PED CLKSHP BOISE",
         "curr_course_fulfills": ""
@@ -811,7 +808,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 659P",
         "curr_course_name": "P-PED GEN CLKSHIP",
         "curr_course_fulfills": ""
@@ -833,7 +830,7 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 660",
         "curr_course_name": "PED GEN CLKSHIP",
         "curr_course_fulfills": ""
@@ -855,7 +852,7 @@
         "is_estimate": 0,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 661",
         "curr_course_name": "PEDS GEN CLK ANCH",
         "curr_course_fulfills": ""
@@ -877,7 +874,7 @@
         "is_estimate": 0,
         "max_capacity": "20",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 671P",
         "curr_course_name": "P-PEDIATRIC ENDOCRIN",
         "curr_course_fulfills": ""
@@ -897,9 +894,9 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 672P",
-        "curr_course_name": "P-OFFICE PR SPOKANE ",
+        "curr_course_name": "P-OFFICE PR SPOKANE",
         "curr_course_fulfills": ""
     },
     {
@@ -919,9 +916,9 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 674P",
-        "curr_course_name": "P-PEDS GENETICS SPO ",
+        "curr_course_name": "P-PEDS GENETICS SPO",
         "curr_course_fulfills": ""
     },
     {
@@ -941,7 +938,7 @@
         "is_estimate": 1,
         "max_capacity": "5",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 675P",
         "curr_course_name": "P-CIM ELECTIVE",
         "curr_course_fulfills": ""
@@ -963,7 +960,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 677P",
         "curr_course_name": "P-PEDS INTENS CARE",
         "curr_course_fulfills": ""
@@ -983,7 +980,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 687",
         "curr_course_name": "NEONATAL CLKSHP",
         "curr_course_fulfills": ""
@@ -1003,7 +1000,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 688",
         "curr_course_name": "PED RHEUMATOLOGY",
         "curr_course_fulfills": ""
@@ -1025,7 +1022,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 689P",
         "curr_course_name": "P-ADV PED FT WASHA",
         "curr_course_fulfills": ""
@@ -1047,7 +1044,7 @@
         "is_estimate": 1,
         "max_capacity": "6",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 690",
         "curr_course_name": "ADV PED CLK BOISE",
         "curr_course_fulfills": ""
@@ -1069,7 +1066,7 @@
         "is_estimate": 1,
         "max_capacity": "4",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 692P",
         "curr_course_name": "P-PEDS ADV SPOKANE",
         "curr_course_fulfills": ""
@@ -1089,7 +1086,7 @@
         "is_estimate": 1,
         "max_capacity": "2",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 693",
         "curr_course_name": "PEDS SUB-I MARY B",
         "curr_course_fulfills": ""
@@ -1109,7 +1106,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 694P",
         "curr_course_name": "P-PEDS ADOL MED",
         "curr_course_fulfills": ""
@@ -1129,7 +1126,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 695P",
         "curr_course_name": "P-PED OUTP HEM & ONC",
         "curr_course_fulfills": ""
@@ -1149,7 +1146,7 @@
         "is_estimate": 0,
         "max_capacity": "1",
         "curr_enrolled": "0",
-        "open_or_closed": "",
+        "open_or_closed": "Open",
         "curr_course_code": "PEDS 696",
         "curr_course_name": "PEDS ENDO",
         "curr_course_fulfills": ""
@@ -1171,7 +1168,6 @@
         "is_estimate": 0,
         "max_capacity": "16",
         "curr_enrolled": "0",
-        "open_or_closed": "",
         "curr_course_code": "PEDS 698",
         "curr_course_name": "PEDS BOOT CAMP",
         "curr_course_fulfills": ""
