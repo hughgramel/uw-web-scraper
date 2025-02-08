@@ -212,6 +212,7 @@ def traverse_schedule_page(page, season):
             if first == "to":
                 # Then we set remaining to [3:]
                 remaining = remaining[3:]
+                
                 # print(remaining)
                 # print(remaining)
             else:
@@ -263,6 +264,7 @@ def traverse_schedule_page(page, season):
                     last = remaining[len(remaining) - 1]
             # print(last)
             # print(remaining)
+
             record["curr_enrolled"] = "0"
             if "/" in last:
                 record["curr_enrolled"] = last[:-1]
@@ -274,7 +276,7 @@ def traverse_schedule_page(page, season):
             else:
                 record["max_capacity"] = last
             remaining = remaining[:-1]
-            
+
             #check again if cr/nc
             if len(remaining) > 0 and remaining[len(remaining) - 1] == "CR/NC":
                 record["c/nc"] = 1
@@ -300,8 +302,11 @@ def traverse_schedule_page(page, season):
                 if last == "Open" or last == "Closed":
                     record["open_or_closed"] = last
                     remaining = remaining[:-1]
-                if remaining[0] == "*":
+                if remaining[0] == "*" and remaining[1] == "*":
                     remaining = remaining[2:]
+                elif remaining[0] == "*":
+                    remaining = remaining[1:]
+            print(remaining)
             # last = remaining[len(remaining) - 1]
             if "/" in last:
                 record["curr_enrolled"] = last[:-1]
@@ -370,13 +375,16 @@ year = "2025"
 
 base = "https://www.washington.edu/students/timeschd/" + season + year + "/"
 # pages = [base + "cse.html"]
-pages = gather_all_prefixes(season, year)
+pages = [base + "religion.html"]
+# pages = gather_all_prefixes(season, year)
 n = 1
 for page in pages:
-    print(n)
-    print(page)
-    n += 1
-    # record_of_all_courses = traverse_schedule_page(page, season)
+    # print(n)
+    # print(page)
+    # n += 1
+    
+    record_of_all_courses = traverse_schedule_page(page, season)
+    # print_in_json_format(record_of_all_courses)
     # s = page.split("/")[-1:][0].split(".")[0]
     # name = s + "_course_offerings_" + season + "_" + year
     # json_object = json.dumps(record_of_all_courses, indent=4)
