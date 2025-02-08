@@ -1,0 +1,2040 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "19668",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "SMI",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Messamore,Andrew",
+        "curr_course_code": "SOC 201",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19669",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-920",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 201",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19670",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 201",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19671",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "230-320",
+                "building": "SMI",
+                "room": "120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "56",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19672",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19673",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19674",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "THO",
+                "room": "235"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19675",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "SIG",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19676",
+        "section": "AE",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "THO",
+                "room": "234"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19677",
+        "section": "AF",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "CMU",
+                "room": "326"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19678",
+        "section": "AG",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "THO",
+                "room": "211"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19679",
+        "section": "AH",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "THO",
+                "room": "335"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19680",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JA",
+        "is_estimate": 0,
+        "max_capacity": "120",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Almquist,Zack",
+        "curr_course_code": "SOC 225",
+        "curr_course_name": "DATA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19681",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JA",
+        "is_estimate": 0,
+        "max_capacity": "80",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Almquist,Zack",
+        "curr_course_code": "SOC 225",
+        "curr_course_name": "DATA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19682",
+        "section": "BA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-920",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 225",
+        "curr_course_name": "DATA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19683",
+        "section": "BB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 225",
+        "curr_course_name": "DATA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19684",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "GWN",
+                "room": "301"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "150",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 230",
+        "curr_course_name": "US HEALTH DISPARITY ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19685",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-920",
+                "building": "MGH",
+                "room": "251"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "37",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 230",
+        "curr_course_name": "US HEALTH DISPARITY ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19686",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "JHN",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "38",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 230",
+        "curr_course_name": "US HEALTH DISPARITY ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19687",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-120",
+                "building": "ECE",
+                "room": "003"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "37",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 230",
+        "curr_course_name": "US HEALTH DISPARITY ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19688",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "130-220",
+                "building": "ECE",
+                "room": "003"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "38",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 230",
+        "curr_course_name": "US HEALTH DISPARITY ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19689",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "GUG",
+                "room": "220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "300",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Frost,Ann",
+        "curr_course_code": "SOC 250",
+        "curr_course_name": "MEDIA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19690",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "830-920",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 250",
+        "curr_course_name": "MEDIA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19691",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "930-1020",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 250",
+        "curr_course_name": "MEDIA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19692",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1030-1120",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 250",
+        "curr_course_name": "MEDIA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19693",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1130-1220",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 250",
+        "curr_course_name": "MEDIA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19694",
+        "section": "AE",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1230-120",
+                "building": "CHL",
+                "room": "015"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 250",
+        "curr_course_name": "MEDIA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19695",
+        "section": "AF",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-220",
+                "building": "CHL",
+                "room": "015"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 250",
+        "curr_course_name": "MEDIA AND SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19696",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "KNE",
+                "room": "110"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "200",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 270",
+        "curr_course_name": "SOCIAL PROBLEMS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19697",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "830-920",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 270",
+        "curr_course_name": "SOCIAL PROBLEMS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19698",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "930-1020",
+                "building": "CHL",
+                "room": "015"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 270",
+        "curr_course_name": "SOCIAL PROBLEMS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19699",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1030-1120",
+                "building": "CHL",
+                "room": "015"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 270",
+        "curr_course_name": "SOCIAL PROBLEMS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19700",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-1220",
+                "building": "JHN",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 270",
+        "curr_course_name": "SOCIAL PROBLEMS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19701",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 301",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19702",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "MGH",
+                "room": "389"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "150",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Quinn,Sarah L",
+        "curr_course_code": "SOC 316",
+        "curr_course_name": "SOCIOLOGICAL THEORY ",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19703",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-920",
+                "building": "ECE",
+                "room": "003"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "37",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 316",
+        "curr_course_name": "SOCIOLOGICAL THEORY ",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19704",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "MGH",
+                "room": "251"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "38",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 316",
+        "curr_course_name": "SOCIOLOGICAL THEORY ",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19705",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-320",
+                "building": "MGH",
+                "room": "251"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "38",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 316",
+        "curr_course_name": "SOCIOLOGICAL THEORY ",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19706",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "330-420",
+                "building": "MGH",
+                "room": "251"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "37",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 316",
+        "curr_course_name": "SOCIOLOGICAL THEORY ",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19707",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1000-1120",
+                "building": "MEB",
+                "room": "248"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "26",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 322",
+        "curr_course_name": "SOCIAL STATISTICS II",
+        "curr_course_fulfills": [
+            "SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19708",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1220",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "13",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 322",
+        "curr_course_name": "SOCIAL STATISTICS II",
+        "curr_course_fulfills": [
+            "SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19709",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-220",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "13",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 322",
+        "curr_course_name": "SOCIAL STATISTICS II",
+        "curr_course_fulfills": [
+            "SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19710",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "SMI",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 331",
+        "curr_course_name": "POPULATN & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19711",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "830-920",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 331",
+        "curr_course_name": "POPULATN & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19712",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1020",
+                "building": "CHL",
+                "room": "015"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 331",
+        "curr_course_name": "POPULATN & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19713",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-520",
+                "building": "MLR",
+                "room": "301"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "80",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Bailey,Amy Kate",
+        "curr_course_code": "SOC 337",
+        "curr_course_name": "SOC OF MENTAL HEALTH",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19714",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "830-920",
+                "building": "THO",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 337",
+        "curr_course_name": "SOC OF MENTAL HEALTH",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19715",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1020",
+                "building": "CMU",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 337",
+        "curr_course_name": "SOC OF MENTAL HEALTH",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19717",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1000-1120",
+                "building": "MEB",
+                "room": "245"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Frost,Ann C",
+        "curr_course_code": "SOC 372",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19718",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-920",
+                "building": "ART",
+                "room": "317"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 372",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19719",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "ART",
+                "room": "317"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 372",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19720",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1130-1220",
+                "building": "THO",
+                "room": "325"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 372",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "19721",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-120",
+                "building": "THO",
+                "room": "325"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 372",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "19722",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 399",
+        "curr_course_name": "UNDERGRAD INTERNSHP ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "19723",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 399",
+        "curr_course_name": "UNDERGRAD INTERNSHP ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19724",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "CHL",
+                "room": "021"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Brines,Julie",
+        "curr_course_code": "SOC 401",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "21399",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-120",
+                "building": "CLK",
+                "room": "120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rosenbaum,Steve",
+        "curr_course_code": "SOC 401",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "19725",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 401",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19726",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "LOW",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Louie,Patricia",
+        "curr_course_code": "SOC 430",
+        "curr_course_name": "SOC DETERMIN HEALTH ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19727",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "CHL",
+                "room": "105"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Brines,Julie E",
+        "curr_course_code": "SOC 459",
+        "curr_course_name": "THE NEW INEQUALITY",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "19728",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 498",
+        "curr_course_name": "HONORS THESIS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "19729",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19730",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1230-120",
+                "building": "MGH",
+                "room": "097"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Quinn,Sarah L",
+        "curr_course_code": "SOC 501",
+        "curr_course_name": "PROSEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "19731",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 506",
+        "curr_course_name": "MTHD QUANT TECH SOC ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19732",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "SMI",
+                "room": "109"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Quinn,Sarah",
+        "curr_course_code": "SOC 510",
+        "curr_course_name": "SMNR IN SOC THEORY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "19733",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1230-220",
+                "building": "SIG",
+                "room": "228"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Crowder,Kyle D.",
+        "curr_course_code": "SOC 524",
+        "curr_course_name": "MA THESIS RSCH SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19734",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-3",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "MGH",
+                "room": "085"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 590",
+        "curr_course_name": "SPCL TOPICS SOCLGY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "19735",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "45",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "19736",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "19737",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SOC 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

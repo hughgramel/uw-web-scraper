@@ -1,0 +1,2228 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "17490",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "250",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Reece,Frederick",
+        "curr_course_code": "MUSIC 116",
+        "curr_course_name": "ELEM MUSIC THEORY",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17491",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "300",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rumph,Stephen C",
+        "curr_course_code": "MUSIC 120",
+        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17492",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "28",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 120",
+        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17493",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "28",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 120",
+        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17494",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1120",
+                "building": "MUS",
+                "room": "223"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 120",
+        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17495",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1120",
+                "building": "MUS",
+                "room": "313"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "27",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 120",
+        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17496",
+        "section": "AE",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-120",
+                "building": "MUS",
+                "room": "223"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "27",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 120",
+        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17497",
+        "section": "AF",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1030-1120",
+                "building": "MUS",
+                "room": "223"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "27",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 120",
+        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17498",
+        "section": "AG",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "27",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 120",
+        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17499",
+        "section": "AH",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1230-120",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "27",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 120",
+        "curr_course_name": "INTRO CLASSICAL MUS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17500",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "200",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Vu,Cuong",
+        "curr_course_code": "MUSIC 131",
+        "curr_course_name": "HISTORY OF JAZZ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17501",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "350",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Morford,James",
+        "curr_course_code": "MUSIC 162",
+        "curr_course_name": "AMER POP SONG",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17502",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Morford,James",
+        "curr_course_code": "MUSIC 162",
+        "curr_course_name": "AMER POP SONG",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17503",
+        "section": "BA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1230-120",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 162",
+        "curr_course_name": "AMER POP SONG",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17504",
+        "section": "BB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-220",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 162",
+        "curr_course_name": "AMER POP SONG",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17505",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "400",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rodgers,Mark",
+        "curr_course_code": "MUSIC 185",
+        "curr_course_name": "THE CONCERT SEASON",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17506",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "45",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 202",
+        "curr_course_name": "1ST YEAR THEORY II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17507",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1120",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "19",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 202",
+        "curr_course_name": "1ST YEAR THEORY II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17508",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "19",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 202",
+        "curr_course_name": "1ST YEAR THEORY II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17509",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 205",
+        "curr_course_name": "1ST YR EAR TRN II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17510",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1120",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 205",
+        "curr_course_name": "1ST YR EAR TRN II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17511",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 205",
+        "curr_course_name": "1ST YR EAR TRN II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17512",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "MUS",
+                "room": "213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 218",
+        "curr_course_name": "INTRODUCTORY COMP",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17513",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 240",
+        "curr_course_name": "REEDMAKING",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17514",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 240",
+        "curr_course_name": "REEDMAKING",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17515",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "SAV",
+                "room": "168"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Mawkanuli,Talant",
+        "curr_course_code": "MUSIC 269",
+        "curr_course_name": "MUSIC CULTR SILK RD ",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17516",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "45",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 302",
+        "curr_course_name": "2ND YR THEORY II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17517",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1030-1120",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 302",
+        "curr_course_name": "2ND YR THEORY II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17518",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 302",
+        "curr_course_name": "2ND YR THEORY II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17519",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "1030-1120",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 305",
+        "curr_course_name": "2ND YR EAR TRN II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17520",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 305",
+        "curr_course_name": "2ND YR EAR TRN II",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "21508",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "MUS",
+                "room": "126"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Perea,John-Carlos",
+        "curr_course_code": "MUSIC 321",
+        "curr_course_name": "POWWOW CULTURES",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17522",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-320",
+                "building": "MUS",
+                "room": "213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Sheppard,Craig",
+        "curr_course_code": "MUSIC 328",
+        "curr_course_name": "REPERTOIRE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17523",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "430-520P",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 328",
+        "curr_course_name": "REPERTOIRE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17524",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 379",
+        "curr_course_name": "JUNIOR RECITAL",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17525",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Price,Stephen",
+        "curr_course_code": "MUSIC 390",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17526",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-220",
+                "building": "MUS",
+                "room": "213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 391",
+        "curr_course_name": "COMPOSITION",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17527",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-520",
+                "building": "RAI",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$160",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 402",
+        "curr_course_name": "DIG SOUND PROCESSING",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17528",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1120",
+                "building": "MUS",
+                "room": "035"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 413",
+        "curr_course_name": "FREE IMP JZ COMP 3",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17529",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1030-1220",
+                "building": "MUS",
+                "room": "313"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Shaw,Carrie",
+        "curr_course_code": "MUSIC 436",
+        "curr_course_name": "PEDAGOGY",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17530",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-220",
+                "building": "MUS",
+                "room": "210"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Patterson,Ronald",
+        "curr_course_code": "MUSIC 436",
+        "curr_course_name": "PEDAGOGY",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17531",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "100-220",
+                "building": "MUS",
+                "room": "114"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17532",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "130-250",
+                "building": "MUS",
+                "room": "126"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17533",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-120",
+                "building": "MUS",
+                "room": "213"
+            },
+            {
+                "days": "T",
+                "time": "530-720P"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17534",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-320",
+                "building": "MUS",
+                "room": "126"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Lee",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17535",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17536",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Brockman,Michael",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17537",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17538",
+        "section": "H",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-250",
+                "building": "MUS",
+                "room": "210"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17539",
+        "section": "J",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17540",
+        "section": "K",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Garza,Eden",
+        "curr_course_code": "MUSIC 437",
+        "curr_course_name": "STUDIO CLASS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17541",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-250",
+                "building": "MUS",
+                "room": "223"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 445",
+        "curr_course_name": "SEL TOPICS IN ETHNO ",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17542",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-320",
+                "building": "MUS",
+                "room": "213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Sheppard,Craig",
+        "curr_course_code": "MUSIC 449",
+        "curr_course_name": "ADVANCED PIANO REP",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17543",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-220",
+                "building": "MUS",
+                "room": "035"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 464",
+        "curr_course_name": "JAZZ LAB",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17544",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "930-1020",
+                "building": "MNY",
+                "room": "268"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 465",
+        "curr_course_name": "ACTING FOR SINGERS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17545",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "035"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Seales,Marc",
+        "curr_course_code": "MUSIC 469",
+        "curr_course_name": "ADV JAZZ IMPROV III ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17546",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTh",
+                "time": "130-250",
+                "building": "MUS",
+                "room": "060"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Price,Stephen",
+        "curr_course_code": "MUSIC 475",
+        "curr_course_name": "FIG BASS REALZATION ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17547",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 479",
+        "curr_course_name": "SENIOR RECITAL",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17548",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "027"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 485",
+        "curr_course_name": "ANALYSIS AMER MUSIC ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21535",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "850-1020",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%J",
+        "is_estimate": 0,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Nicolas,Peter",
+        "curr_course_code": "MUSIC 486",
+        "curr_course_name": "SPEC TOPIC MUSIC/LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17549",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-220",
+                "building": "MUS",
+                "room": "213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 491",
+        "curr_course_name": "COMPOSITION",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17550",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1120",
+                "building": "MUS",
+                "room": "313"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 497",
+        "curr_course_name": "ORCHESTRATION",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17551",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 498",
+        "curr_course_name": "SENIOR THESIS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17552",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17553",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-420",
+                "building": "MUS",
+                "room": "212"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 504",
+        "curr_course_name": "ETHNOGRAPH RES MUS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17554",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-420",
+                "building": "MUS",
+                "room": "114"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Boers,Geoffrey",
+        "curr_course_code": "MUSIC 553",
+        "curr_course_name": "ADV CHORAL TECHNIQS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "17555",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 559",
+        "curr_course_name": "MASTERS RECITAL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17556",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-320",
+                "building": "MUS",
+                "room": "223"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 572",
+        "curr_course_name": "ADV TOP CMPTR MUSIC ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17557",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Rahbee,David",
+        "curr_course_code": "MUSIC 582",
+        "curr_course_name": "ADVANCED CONDUCTING ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17558",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Salzman,Timothy",
+        "curr_course_code": "MUSIC 582",
+        "curr_course_name": "ADVANCED CONDUCTING ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17559",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TWTh",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "114"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Boers,Geoffrey",
+        "curr_course_code": "MUSIC 583",
+        "curr_course_name": "ADV CHORAL CONDUCTG ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17560",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "6",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 590",
+        "curr_course_name": "KEYBOARD RECITAL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "17561",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-220",
+                "building": "MUS",
+                "room": "213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 591",
+        "curr_course_name": "GRADUATE COMP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17562",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-3",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "130-320",
+                "building": "MUS",
+                "room": "027"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Reyes,Francisco",
+        "curr_course_code": "MUSIC 599",
+        "curr_course_name": "ADV SELECTED TOPICS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "21579",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-3",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1020",
+                "building": "MNY",
+                "room": "268"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 599",
+        "curr_course_name": "ADV SELECTED TOPICS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17563",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "90",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17564",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "90",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17565",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "90",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17566",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "90",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17567",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "90",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSIC 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

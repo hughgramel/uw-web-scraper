@@ -1,0 +1,519 @@
+[
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "11170",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "FSH",
+                "room": "102"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Harper,Christine",
+        "curr_course_code": "BIO A 201",
+        "curr_course_name": "PRIN BIOLOGCL ANTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "11171",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-920",
+                "building": "DEN",
+                "room": "410"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 201",
+        "curr_course_name": "PRIN BIOLOGCL ANTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "11172",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "DEN",
+                "room": "410"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 201",
+        "curr_course_name": "PRIN BIOLOGCL ANTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "11173",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1120",
+                "building": "DEN",
+                "room": "410"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 201",
+        "curr_course_name": "PRIN BIOLOGCL ANTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "11174",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1130-1220",
+                "building": "DEN",
+                "room": "410"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 201",
+        "curr_course_name": "PRIN BIOLOGCL ANTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "11175",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1000-1120",
+                "building": "SMI",
+                "room": "304"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 208",
+        "curr_course_name": "SEX & EVOLUTION",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "11176",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-1250",
+                "building": "PAA",
+                "room": "A114"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "70",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Eisenberg,Dan T.A.",
+        "curr_course_code": "BIO A 355",
+        "curr_course_name": "EVOLUTIONARY MED",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "11177",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "THO",
+                "room": "125"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 370",
+        "curr_course_name": "NONHUMAN PRIMATES",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "11178",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "ARC",
+                "room": "160"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Goodreau,Steven M.",
+        "curr_course_code": "BIO A 423",
+        "curr_course_name": "SOC NETS & HEALTH",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "11179",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-520",
+                "building": "LSB",
+                "room": "401"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$115",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Eisenberg,Dan T.A.",
+        "curr_course_code": "BIO A 459",
+        "curr_course_name": "GENETICS LAB METHOD ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "11180",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-9",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "H",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 466",
+        "curr_course_name": "BIO ANTH HONORS THES",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "11181",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "100-220",
+                "building": "DEN",
+                "room": "410"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 469",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "21280",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "DEN",
+                "room": "410"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 487",
+        "curr_course_name": "HUM&CMPRTV OSTEOLGY ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "11183",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-9",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "11184",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "6",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 502",
+        "curr_course_name": "PRECEPTORIAL READNG ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "11185",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "ARC",
+                "room": "160"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Goodreau,Steven M.",
+        "curr_course_code": "BIO A 523",
+        "curr_course_name": "SOC NETS & HEALTH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "11186",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-520",
+                "building": "LSB",
+                "room": "401"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Eisenberg,Dan T.A.",
+        "curr_course_code": "BIO A 559",
+        "curr_course_name": "GENETICS LAB METHOD ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "11187",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIO A 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "20677",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWThF",
+                "time": "1130-1220",
+                "building": "BAG",
+                "room": "331A"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Juan,Kell",
+        "curr_course_code": "TAGLG 103",
+        "curr_course_name": "BASIC TAGALOG",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "20678",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWThF",
+                "time": "1030-1120",
+                "building": "LOW",
+                "room": "113"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Juan,Kell",
+        "curr_course_code": "TAGLG 103",
+        "curr_course_name": "BASIC TAGALOG",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "20679",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWThF",
+                "time": "1230-120",
+                "building": "BAG",
+                "room": "331A"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Juan,Kell",
+        "curr_course_code": "TAGLG 203",
+        "curr_course_name": "INTERMEDIATE TAGALOG",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "20680",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "SAV",
+                "room": "169"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "TAGLG 303",
+        "curr_course_name": "ADVANCED TAGALOG",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    }
+]

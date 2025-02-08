@@ -1,0 +1,58 @@
+[
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10108",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1030-1120",
+                "building": "SAV",
+                "room": "166"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ACADEM 198",
+        "curr_course_name": "RESEARCH SEMINARS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "10109",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "400-550",
+                "building": "SIG",
+                "room": "227"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ACADEM 199",
+        "curr_course_name": "RESEARCH SEMINARS",
+        "curr_course_fulfills": ""
+    }
+]

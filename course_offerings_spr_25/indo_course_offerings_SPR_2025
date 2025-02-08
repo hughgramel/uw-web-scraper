@@ -1,0 +1,60 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "15514",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWThF",
+                "time": "130-220",
+                "building": "LOW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Sandjaja,Desiana",
+        "curr_course_code": "INDO 113",
+        "curr_course_name": "ELEMNTRY INDONESIAN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "15515",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWThF",
+                "time": "1230-120",
+                "building": "LOW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Sandjaja,Desiana",
+        "curr_course_code": "INDO 213",
+        "curr_course_name": "INTERMED INDONESIAN ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    }
+]

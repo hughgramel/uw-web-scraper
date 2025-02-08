@@ -1,0 +1,1329 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "16463",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1000-1120",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Woiak,Joanne",
+        "curr_course_code": "LSJ 230",
+        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16464",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1020",
+                "building": "TBA",
+                "room": "TBA"
+            },
+            {
+                "days": "T",
+                "time": "930-1020"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 230",
+        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16465",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1030-1120",
+                "building": "TBA",
+                "room": "TBA"
+            },
+            {
+                "days": "T",
+                "time": "1030-1120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 230",
+        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16466",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1130-1220",
+                "building": "TBA",
+                "room": "TBA"
+            },
+            {
+                "days": "T",
+                "time": "1130-1220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 230",
+        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16467",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1230-120",
+                "building": "TBA",
+                "room": "TBA"
+            },
+            {
+                "days": "T",
+                "time": "1230-120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 230",
+        "curr_course_name": "INTRO DISABILITY ST ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16468",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "100-220",
+                "building": "KNE",
+                "room": "220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WJ",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 320",
+        "curr_course_name": "INTL HUMAN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16469",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-920",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 320",
+        "curr_course_name": "INTL HUMAN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16470",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "MGH",
+                "room": "228"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 320",
+        "curr_course_name": "INTL HUMAN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16471",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "BNS",
+                "room": "203"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 320",
+        "curr_course_name": "INTL HUMAN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16472",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 320",
+        "curr_course_name": "INTL HUMAN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16473",
+        "section": "AE",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 320",
+        "curr_course_name": "INTL HUMAN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16474",
+        "section": "AF",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 320",
+        "curr_course_name": "INTL HUMAN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16475",
+        "section": "AG",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 320",
+        "curr_course_name": "INTL HUMAN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16476",
+        "section": "AH",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-120",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 320",
+        "curr_course_name": "INTL HUMAN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16477",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-350",
+                "building": "GWN",
+                "room": "301"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "130",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Osanloo,Arzoo",
+        "curr_course_code": "LSJ 321",
+        "curr_course_name": "HUMAN RIGHTS LAW",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16478",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "RAI",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 321",
+        "curr_course_name": "HUMAN RIGHTS LAW",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16479",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "DEN",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 321",
+        "curr_course_name": "HUMAN RIGHTS LAW",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16480",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1120",
+                "building": "CDH",
+                "room": "135"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 321",
+        "curr_course_name": "HUMAN RIGHTS LAW",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16481",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-120",
+                "building": "DEN",
+                "room": "213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 321",
+        "curr_course_name": "HUMAN RIGHTS LAW",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16482",
+        "section": "AE",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-220",
+                "building": "GUG",
+                "room": "218"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 321",
+        "curr_course_name": "HUMAN RIGHTS LAW",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16483",
+        "section": "AF",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-420",
+                "building": "CMU",
+                "room": "326"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 321",
+        "curr_course_name": "HUMAN RIGHTS LAW",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16489",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "100-220",
+                "building": "SIG",
+                "room": "134"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Lovell,George I",
+        "curr_course_code": "LSJ 363",
+        "curr_course_name": "LAW IN SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16490",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "MGH",
+                "room": "238"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 363",
+        "curr_course_name": "LAW IN SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16491",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1120",
+                "building": "MGH",
+                "room": "234"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 363",
+        "curr_course_name": "LAW IN SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16492",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1130-1220",
+                "building": "DEM",
+                "room": "124"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 363",
+        "curr_course_name": "LAW IN SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16493",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-120",
+                "building": "DEM",
+                "room": "124"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 363",
+        "curr_course_name": "LAW IN SOCIETY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16494",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-950",
+                "building": "PCAR",
+                "room": "192"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "125",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Frost,Ann C",
+        "curr_course_code": "LSJ 375",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16495",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-920",
+                "building": "ART",
+                "room": "317"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "31",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 375",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16496",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "ART",
+                "room": "317"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "31",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 375",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16497",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1130-1220",
+                "building": "THO",
+                "room": "325"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "31",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 375",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16498",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-120",
+                "building": "THO",
+                "room": "325"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "32",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 375",
+        "curr_course_name": "CRIME POL AND JUST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16499",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-450",
+                "building": "ART",
+                "room": "003"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 381",
+        "curr_course_name": "ISSUES IN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16500",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1130-1220",
+                "building": "SAV",
+                "room": "130"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 381",
+        "curr_course_name": "ISSUES IN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16501",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-120",
+                "building": "SMI",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 381",
+        "curr_course_name": "ISSUES IN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16502",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "930-1020",
+                "building": "CMU",
+                "room": "226"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Mayerfeld,Jamie",
+        "curr_course_code": "LSJ 401",
+        "curr_course_name": "FIELD EXPERNCE LSJ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16503",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-420",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Frost,Ann C",
+        "curr_course_code": "LSJ 416",
+        "curr_course_name": "JVNILE PAROLE PRACT ",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16504",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "SMI",
+                "room": "309"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 434",
+        "curr_course_name": "CIV/HUMN RGTS LAW",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16505",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Vickers,Morgan",
+        "curr_course_code": "LSJ 490",
+        "curr_course_name": "TOPICS LEGAL INSTIT ",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16506",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-520",
+                "building": "THO",
+                "room": "217"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Osanloo,Arzoo",
+        "curr_course_code": "LSJ 490",
+        "curr_course_name": "TOPICS LEGAL INSTIT ",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16507",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1130-220",
+                "building": "THO",
+                "room": "211"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 491",
+        "curr_course_name": "TOPICS IN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16508",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-120",
+                "building": "CLK",
+                "room": "120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rosenbaum,Steve",
+        "curr_course_code": "LSJ 491",
+        "curr_course_name": "TOPICS IN RIGHTS",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16509",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 499",
+        "curr_course_name": "READINGS IN LSJ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16510",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 499",
+        "curr_course_name": "READINGS IN LSJ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16511",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LSJ 499",
+        "curr_course_name": "READINGS IN LSJ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16512",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3-5",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-520",
+                "building": "THO",
+                "room": "217"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Osanloo,Arzoo",
+        "curr_course_code": "LSJ 510",
+        "curr_course_name": "TOPICS IN LAW & SOC ",
+        "curr_course_fulfills": ""
+    }
+]

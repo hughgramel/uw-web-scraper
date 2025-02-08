@@ -43,7 +43,6 @@ def gather_all_prefixes(season, year):
     if (season not in POSSIBLE_SEASONS):
         raise Exception("Season not valid")
     base = "https://www.washington.edu/students/timeschd/" + season + year + "/"
-    # print(base)
     page_to_scrape = requests.get(base)
     soup = BeautifulSoup(page_to_scrape.text, "html.parser")
     course_tables = soup.find_all("a")
@@ -126,7 +125,6 @@ def traverse_schedule_page(page, season):
     soup = BeautifulSoup(page_to_scrape.text, "html.parser")
     course_tables = soup.find_all("table")
     for table in course_tables:
-        # print(table)
 
         if table.get("bgcolor") and table.get("bgcolor") == bg_color:
             all_anchors = table.find_all("a")
@@ -148,7 +146,6 @@ def traverse_schedule_page(page, season):
             # Actually rethinking this, we should only make the record
             # if we're on the other tables.
         elif curr_course_code and curr_course_name:
-            # print(curr_course_code)
             record = {}
 
             next_pre = table.find("pre")
@@ -156,7 +153,6 @@ def traverse_schedule_page(page, season):
             all_lines = text.splitlines()[1:]
             n = 1
             # for line in all_lines:
-            #     print(str(n) + ": " + line)
             #     n+=1
             
             # First we get the restrictions from the first 7 characters
@@ -169,8 +165,6 @@ def traverse_schedule_page(page, season):
             # Like "13010 S  1-3     W      130-220    *    *                                   Open      0/  35  CR/NC"
             remaining_line = first_line[7:]
             add_code = remaining_line[:5]
-            # print(add_code)
-            # print(first_line)
             record["add_code"] = add_code
             
             # Now we go to the next 6 characters
@@ -204,19 +198,13 @@ def traverse_schedule_page(page, season):
             else:
                 record["credits"] = first
             remaining = remaining[1:]
-            # print(remaining)
             
             first = remaining[0]
-            # print(first)
             record["class_times"] = []
             if first == "to":
-                # Then we set remaining to [3:]
                 remaining = remaining[3:]
                 
-                # print(remaining)
-                # print(remaining)
             else:
-                # print(remaining)
                 event = {}
                 event["days"] = remaining[0]
                 event["time"] = remaining[1]
@@ -262,8 +250,6 @@ def traverse_schedule_page(page, season):
                 remaining = remaining[:-1]
                 if len(remaining) > 0:
                     last = remaining[len(remaining) - 1]
-            # print(last)
-            # print(remaining)
 
             record["curr_enrolled"] = "0"
             if "/" in last:
@@ -302,12 +288,10 @@ def traverse_schedule_page(page, season):
                 if last == "Open" or last == "Closed":
                     record["open_or_closed"] = last
                     remaining = remaining[:-1]
-                if remaining[0] == "*" and remaining[1] == "*":
+                if remaining[0] == "*" and len(remaining) > 1 and remaining[1] == "*":
                     remaining = remaining[2:]
                 elif remaining[0] == "*":
                     remaining = remaining[1:]
-            print(remaining)
-            # last = remaining[len(remaining) - 1]
             if "/" in last:
                 record["curr_enrolled"] = last[:-1]
                 remaining = remaining[:-1]
@@ -321,14 +305,10 @@ def traverse_schedule_page(page, season):
             
             if len(all_lines) > 1:
                 split = all_lines[1].split()
-                # print(split[0])
                 if matches_weekday(split[0]) and split[1][0] in "0123456789":
                     event = {}
                     event["days"] = split[0]
                     event["time"] = split[1]
-                    # print(all_lines[0])
-                    # print(split)
-                    # print(record["add_code"])
                     if len(split) == 2 and len(record["class_times"]) > 0 and record["class_times"][0] and record["class_times"][0]["building"] and record["class_times"][0]["room"]:
                         if record["class_times"][0]["building"] and record["class_times"][0]["room"]:
                             event["building"] = record["class_times"][0]["building"]
@@ -346,20 +326,6 @@ def traverse_schedule_page(page, season):
             # Now two possibilities are that we have already gotten the max OR
             # we haven't
             
-            
-            
-
-            
-            
-            # print(restrictions.split())
-            # if len(all_lines) > 1:
-            #     print("2: " + all_lines[1])
-                
-            # Now all I have to do is go through and gather the data, and each
-            # time I get something I will simply create a new course object. 
-            
-            # Okay now below this I just need to add all data for each course.
-            
             record["curr_course_code"] = curr_course_code
             record["curr_course_name"] = curr_course_name
             record["curr_course_fulfills"] = curr_course_fulfills
@@ -375,18 +341,16 @@ year = "2025"
 
 base = "https://www.washington.edu/students/timeschd/" + season + year + "/"
 # pages = [base + "cse.html"]
-pages = [base + "religion.html"]
-# pages = gather_all_prefixes(season, year)
+# pages = [base + "religion.html"]
+pages = gather_all_prefixes(season, year)
 n = 1
 for page in pages:
-    # print(n)
-    # print(page)
     # n += 1
     
     record_of_all_courses = traverse_schedule_page(page, season)
     # print_in_json_format(record_of_all_courses)
-    # s = page.split("/")[-1:][0].split(".")[0]
-    # name = s + "_course_offerings_" + season + "_" + year
-    # json_object = json.dumps(record_of_all_courses, indent=4)
-    # with open(name, "w") as outfile:
-    #     outfile.write(json_object)
+    s = page.split("/")[-1:][0].split(".")[0]
+    name = "./course_offerings_spr_25/" +  s + "_course_offerings_" + season + "_" + year
+    json_object = json.dumps(record_of_all_courses, indent=4)
+    with open(name, "w") as outfile:
+        outfile.write(json_object)

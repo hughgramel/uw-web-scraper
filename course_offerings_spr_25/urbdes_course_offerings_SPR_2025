@@ -1,0 +1,32 @@
+[
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21195",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "SIG",
+                "room": "230"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Affholter,Shannon R.",
+        "curr_course_code": "URBDP 578",
+        "curr_course_name": "REAL ESTATE DEVEL",
+        "curr_course_fulfills": ""
+    }
+]

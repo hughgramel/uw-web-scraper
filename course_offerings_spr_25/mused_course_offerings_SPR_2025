@@ -1,0 +1,97 @@
+[
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17393",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "6",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "200-320",
+                "building": "MUS",
+                "room": "027"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Norberg,Evan",
+        "curr_course_code": "MUSED 403",
+        "curr_course_name": "PART-TIME STDNT TCH ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17394",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "15",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "430-550P",
+                "building": "MUS",
+                "room": "027"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Reyes,Francisco Luis",
+        "curr_course_code": "MUSED 404",
+        "curr_course_name": "FULL-TIME STDNT TCH ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17395",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "200-320",
+                "building": "MUS",
+                "room": "313"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSED 465",
+        "curr_course_name": "CLASS MANAGE & EVAL ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    }
+]

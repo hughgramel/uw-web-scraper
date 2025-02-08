@@ -1,0 +1,186 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "15749",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1230-120",
+                "building": "CMU",
+                "room": "230"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Block,Richard",
+        "curr_course_code": "JEW ST 175",
+        "curr_course_name": "HOLOCAUST FILM",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "15751",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-350",
+                "building": "SAV",
+                "room": "130"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Ben Ami,Shai David",
+        "curr_course_code": "JEW ST 233",
+        "curr_course_name": "ISRAELI CLTR/SOCIETY",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "15752",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "THO",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rosen,Sarah Zaides",
+        "curr_course_code": "JEW ST 250",
+        "curr_course_name": "JEWISH CULTURAL HIST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "15753",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "LOW",
+                "room": "101"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WJ",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Glenn,Susan A.",
+        "curr_course_code": "JEW ST 337",
+        "curr_course_name": "HOLOCAUST & AMERICA ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "15755",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "RAI",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "JEW ST 337",
+        "curr_course_name": "HOLOCAUST & AMERICA ",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "21278",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "230-320",
+                "building": "SAV",
+                "room": "141"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rosen,Sarah Zaides",
+        "curr_course_code": "JEW ST 490",
+        "curr_course_name": "ADV TPCS JEWISH ST",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    }
+]

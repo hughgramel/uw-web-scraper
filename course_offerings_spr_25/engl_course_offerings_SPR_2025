@@ -1,0 +1,6572 @@
+[
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13954",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "830-920",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 102",
+        "curr_course_name": "COLLEGE READ & WRIT ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13955",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "430-650P",
+                "building": "THO",
+                "room": "234"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 102",
+        "curr_course_name": "COLLEGE READ & WRIT ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "13956",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "830-920",
+                "building": "RAI",
+                "room": "109"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 103",
+        "curr_course_name": "WRITING FRM SOURCES ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13957",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "830-920",
+                "building": "SAV",
+                "room": "164"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 103",
+        "curr_course_name": "WRITING FRM SOURCES ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13958",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "430-650P",
+                "building": "THO",
+                "room": "202"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 103",
+        "curr_course_name": "WRITING FRM SOURCES ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13959",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "430-520P",
+                "building": "RAI",
+                "room": "109"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 103",
+        "curr_course_name": "WRITING FRM SOURCES ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "13960",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "830-920",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 104",
+        "curr_course_name": "COLLEGE COMMUNICATN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13961",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "830-920",
+                "building": "RAI",
+                "room": "109"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 104",
+        "curr_course_name": "COLLEGE COMMUNICATN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13962",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "430-650P",
+                "building": "THO",
+                "room": "202"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 104",
+        "curr_course_name": "COLLEGE COMMUNICATN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13963",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "430-650P",
+                "building": "THO",
+                "room": "211"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1788",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 104",
+        "curr_course_name": "COLLEGE COMMUNICATN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13964",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1050",
+                "building": "SMI",
+                "room": "109"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 105",
+        "curr_course_name": "ENGL FOR INTL T.A.",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13965",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1050",
+                "building": "THO",
+                "room": "215"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 105",
+        "curr_course_name": "ENGL FOR INTL T.A.",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13966",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1100-120",
+                "building": "MGH",
+                "room": "255"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 105",
+        "curr_course_name": "ENGL FOR INTL T.A.",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13967",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-350",
+                "building": "MGH",
+                "room": "255"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 105",
+        "curr_course_name": "ENGL FOR INTL T.A.",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13968",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-550",
+                "building": "MGH",
+                "room": "255"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 105",
+        "curr_course_name": "ENGL FOR INTL T.A.",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13969",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "930-1020",
+                "building": "THO",
+                "room": "217"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 110",
+        "curr_course_name": "CRITICAL COMP II",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13970",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1230-120",
+                "building": "THO",
+                "room": "217"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 110",
+        "curr_course_name": "CRITICAL COMP II",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13971",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1030-1120",
+                "building": "SAV",
+                "room": "169"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 110",
+        "curr_course_name": "CRITICAL COMP II",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13972",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1130-1220",
+                "building": "SAV",
+                "room": "169"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 110",
+        "curr_course_name": "CRITICAL COMP II",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13973",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "ECE",
+                "room": "037"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13974",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "CMU",
+                "room": "B006"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13975",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "830-1020",
+                "building": "MGH",
+                "room": "076"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13976",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "930-1020",
+                "building": "LOW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13978",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-520",
+                "building": "SAV",
+                "room": "155"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13980",
+        "section": "H",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "MGH",
+                "room": "076"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13981",
+        "section": "J",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "MGH",
+                "room": "082A"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13982",
+        "section": "K",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1130-1220",
+                "building": "LOW",
+                "room": "112"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13983",
+        "section": "L",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "WFS",
+                "room": "201"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13984",
+        "section": "M",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "SAV",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13985",
+        "section": "O",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "230-320",
+                "building": "MEB",
+                "room": "237"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13986",
+        "section": "Q",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "CDH",
+                "room": "141"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13987",
+        "section": "R",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "130-320",
+                "building": "LOW",
+                "room": "114"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13988",
+        "section": "S",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "THO",
+                "room": "234"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13989",
+        "section": "T",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "LOW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13990",
+        "section": "V",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "130-220",
+                "building": "LOW",
+                "room": "115"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13991",
+        "section": "Y",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "LOW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13992",
+        "section": "Z",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "FTR",
+                "room": "106"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 111",
+        "curr_course_name": "COMPOSITION: LIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "13993",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1120",
+                "building": "SIG",
+                "room": "229"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "13994",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-120",
+                "building": "SMI",
+                "room": "109"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "13995",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "SAV",
+                "room": "141"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "13996",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-120",
+                "building": "THO",
+                "room": "215"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "13997",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-920",
+                "building": "SMI",
+                "room": "111"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "13998",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1120",
+                "building": "MEB",
+                "room": "102"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "13999",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-220",
+                "building": "SAV",
+                "room": "141"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14000",
+        "section": "H",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-220",
+                "building": "SAV",
+                "room": "141"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14001",
+        "section": "I",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1220",
+                "building": "MGH",
+                "room": "282"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14002",
+        "section": "J",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "930-1020",
+                "building": "SAV",
+                "room": "140"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 115",
+        "curr_course_name": "WRITING STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14003",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "SMI",
+                "room": "309"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "E",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 121",
+        "curr_course_name": "COMPOSTN: SOC ISSUE ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14004",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "ECE",
+                "room": "045"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "E",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 121",
+        "curr_course_name": "COMPOSTN: SOC ISSUE ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14005",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "LOW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "E",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 121",
+        "curr_course_name": "COMPOSTN: SOC ISSUE ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14006",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "ECE",
+                "room": "054"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "E",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 121",
+        "curr_course_name": "COMPOSTN: SOC ISSUE ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14007",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "MGH",
+                "room": "248"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "E",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 121",
+        "curr_course_name": "COMPOSTN: SOC ISSUE ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14008",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "PAA",
+                "room": "A212"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "E",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 121",
+        "curr_course_name": "COMPOSTN: SOC ISSUE ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14009",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "MGH",
+                "room": "074"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14010",
+        "section": "A1",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "SAV",
+                "room": "155"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14011",
+        "section": "A2",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "MEB",
+                "room": "246"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14012",
+        "section": "A3",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "MGH",
+                "room": "076"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14013",
+        "section": "A4",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "830-1020",
+                "building": "SMI",
+                "room": "115"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14014",
+        "section": "A5",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "LOW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14015",
+        "section": "A6",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "930-1020",
+                "building": "LOW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14016",
+        "section": "A8",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "830-1020",
+                "building": "SMI",
+                "room": "307"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14017",
+        "section": "A9",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-520",
+                "building": "SAV",
+                "room": "168"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14018",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "930-1020",
+                "building": "LOW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14019",
+        "section": "B1",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "1230-220",
+                "building": "LOW",
+                "room": "112"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14020",
+        "section": "B2",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "LOW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14021",
+        "section": "B3",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "LOW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14022",
+        "section": "B4",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "MEB",
+                "room": "234"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14023",
+        "section": "B6",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "LOW",
+                "room": "115"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14024",
+        "section": "B7",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "ECE",
+                "room": "054"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14025",
+        "section": "B9",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1230-120",
+                "building": "LOW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14026",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "LOW",
+                "room": "113"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14027",
+        "section": "C1",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "MGH",
+                "room": "287"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14028",
+        "section": "C2",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "330-420",
+                "building": "THO",
+                "room": "331"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14029",
+        "section": "C3",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "MGH",
+                "room": "074"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14030",
+        "section": "C4",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "MEB",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14031",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1030-1120",
+                "building": "SMI",
+                "room": "311"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14032",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "LOW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14033",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "1030-1220",
+                "building": "LOW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14034",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14035",
+        "section": "G2",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "230-420",
+                "building": "CMU",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14036",
+        "section": "G3",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "230-320",
+                "building": "RAI",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14037",
+        "section": "G4",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1030-1120",
+                "building": "RAI",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14038",
+        "section": "G5",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "1230-220",
+                "building": "ARC",
+                "room": "160"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14039",
+        "section": "G6",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-520",
+                "building": "SMI",
+                "room": "311"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14040",
+        "section": "H",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1130-1220",
+                "building": "LOW",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14041",
+        "section": "I",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "830-920",
+                "building": "ART",
+                "room": "006"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14042",
+        "section": "J",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1230-120",
+                "building": "SMI",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14043",
+        "section": "K",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "430-620P",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14044",
+        "section": "M",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1130-1220",
+                "building": "LOW",
+                "room": "113"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14045",
+        "section": "P",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "LOW",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14046",
+        "section": "Q",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "GLD",
+                "room": "322"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14047",
+        "section": "R",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "MGH",
+                "room": "241"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14048",
+        "section": "T",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-220",
+                "building": "MUE",
+                "room": "154"
+            },
+            {
+                "days": "TTh",
+                "time": "130-220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14049",
+        "section": "V",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "LOW",
+                "room": "222"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14050",
+        "section": "W",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "PAA",
+                "room": "A110"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14051",
+        "section": "X",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-520",
+                "building": "SAV",
+                "room": "136"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14052",
+        "section": "Y",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "230-320",
+                "building": "MAR",
+                "room": "168"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14053",
+        "section": "Z",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "630-820P",
+                "building": "SMI",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 131",
+        "curr_course_name": "COMPOSITN: EXPOSITN ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14054",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "SMI",
+                "room": "311"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14055",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "MGH",
+                "room": "231"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14056",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "830-920",
+                "building": "SAV",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14057",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "930-1020",
+                "building": "MEB",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14058",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1030-1120",
+                "building": "FTR",
+                "room": "106"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14059",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "CHL",
+                "room": "021"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14060",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "1030-1220",
+                "building": "LOW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "H",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14061",
+        "section": "H",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "CDH",
+                "room": "110B"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14062",
+        "section": "I",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "CLK",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14063",
+        "section": "J",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "230-320",
+                "building": "SMI",
+                "room": "311"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14064",
+        "section": "K",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "CHL",
+                "room": "105"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14065",
+        "section": "L",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "SWS",
+                "room": "B012"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14066",
+        "section": "O",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "MGH",
+                "room": "082A"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 182",
+        "curr_course_name": "MULTIMODAL COMP",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14067",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1120",
+                "building": "RAI",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 198",
+        "curr_course_name": "WRTG IN SOC SCI",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14068",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-350",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 199",
+        "curr_course_name": "WRTG IN NAT SCI",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14069",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1120",
+                "building": "MEB",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 199",
+        "curr_course_name": "WRTG IN NAT SCI",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14070",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "930-1120",
+                "building": "SMI",
+                "room": "305"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 200",
+        "curr_course_name": "READING LIT FORMS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14071",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "ECE",
+                "room": "003"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 200",
+        "curr_course_name": "READING LIT FORMS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14072",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "LOW",
+                "room": "101"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 200",
+        "curr_course_name": "READING LIT FORMS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14073",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "MEB",
+                "room": "242"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 200",
+        "curr_course_name": "READING LIT FORMS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14074",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-120",
+                "building": "SAV",
+                "room": "166"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 200",
+        "curr_course_name": "READING LIT FORMS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14075",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Foster,Thomas",
+        "curr_course_code": "ENGL 202",
+        "curr_course_name": "INTRO ENGL LANG LIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14076",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1130-1220",
+                "building": "MUS",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 202",
+        "curr_course_name": "INTRO ENGL LANG LIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14077",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1230-120",
+                "building": "THO",
+                "room": "335"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 202",
+        "curr_course_name": "INTRO ENGL LANG LIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14078",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-220",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 202",
+        "curr_course_name": "INTRO ENGL LANG LIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14079",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1230-120",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 202",
+        "curr_course_name": "INTRO ENGL LANG LIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14080",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "SAV",
+                "room": "166"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 204",
+        "curr_course_name": "POP FICTION & MEDIA ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14081",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "SMI",
+                "room": "305"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 204",
+        "curr_course_name": "POP FICTION & MEDIA ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14082",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1120",
+                "building": "ART",
+                "room": "317"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rai,Candice S",
+        "curr_course_code": "ENGL 206",
+        "curr_course_name": "EVERYDAY RHETORIC",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14083",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "CMU",
+                "room": "230"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Staten,Henry J",
+        "curr_course_code": "ENGL 212",
+        "curr_course_name": "LIT 1700-1900",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14084",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "SIG",
+                "room": "224"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Streitberger,William R",
+        "curr_course_code": "ENGL 225",
+        "curr_course_name": "SHAKESPEARE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14085",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "CMU",
+                "room": "326"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 242",
+        "curr_course_name": "READ PROSE FICTION",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14086",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "SMI",
+                "room": "305"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 243",
+        "curr_course_name": "READING POETRY",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14087",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "CMU",
+                "room": "326"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 244",
+        "curr_course_name": "READING DRAMA",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14088",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "THO",
+                "room": "325"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Wong,Shawn H.",
+        "curr_course_code": "ENGL 257",
+        "curr_course_name": "ASIAN AMERICAN LIT",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14089",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "MEB",
+                "room": "242"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 259",
+        "curr_course_name": "LIT&SOC DIFFERENCE",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14090",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "THO",
+                "room": "325"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 265",
+        "curr_course_name": "ENVIRNTL HUMANITIES ",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14091",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "LOW",
+                "room": "220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 281",
+        "curr_course_name": "INTERMED EXPOS WRIT ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14092",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "FTR",
+                "room": "032"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 281",
+        "curr_course_name": "INTERMED EXPOS WRIT ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14093",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "LOW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 281",
+        "curr_course_name": "INTERMED EXPOS WRIT ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14094",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "LOW",
+                "room": "219"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "H",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 281",
+        "curr_course_name": "INTERMED EXPOS WRIT ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14095",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "DEN",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 281",
+        "curr_course_name": "INTERMED EXPOS WRIT ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14096",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "GUG",
+                "room": "218"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 281",
+        "curr_course_name": "INTERMED EXPOS WRIT ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14097",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "SAV",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 281",
+        "curr_course_name": "INTERMED EXPOS WRIT ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14098",
+        "section": "H",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "SAV",
+                "room": "260"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 281",
+        "curr_course_name": "INTERMED EXPOS WRIT ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14099",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "LOW",
+                "room": "222"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 282",
+        "curr_course_name": "INT MULTIMODAL COMP ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14100",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "LOW",
+                "room": "220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 282",
+        "curr_course_name": "INT MULTIMODAL COMP ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14101",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "MAR",
+                "room": "168"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 282",
+        "curr_course_name": "INT MULTIMODAL COMP ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14102",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-250",
+                "building": "SAV",
+                "room": "155"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 283",
+        "curr_course_name": "BEGIN VERSE WRITING ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14103",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "430-720P",
+                "building": "THO",
+                "room": "331"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 283",
+        "curr_course_name": "BEGIN VERSE WRITING ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14104",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-250",
+                "building": "CDH",
+                "room": "141"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 284",
+        "curr_course_name": "BEG SHORT STRY WRIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14105",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-450",
+                "building": "CDH",
+                "room": "141"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 284",
+        "curr_course_name": "BEG SHORT STRY WRIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14106",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-450",
+                "building": "THO",
+                "room": "235"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 284",
+        "curr_course_name": "BEG SHORT STRY WRIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14107",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "SMI",
+                "room": "105"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 288",
+        "curr_course_name": "INTRO PROF TECH WRIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14108",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "THO",
+                "room": "211"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 288",
+        "curr_course_name": "INTRO PROF TECH WRIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14109",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-120",
+                "building": "MGH",
+                "room": "082"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 288",
+        "curr_course_name": "INTRO PROF TECH WRIT",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14110",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 295",
+        "curr_course_name": "STUDY ABROAD",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14111",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "THO",
+                "room": "234"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 296",
+        "curr_course_name": "CRIT LITRCY NAT SCI ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14112",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "430-620P",
+                "building": "SAV",
+                "room": "158"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 296",
+        "curr_course_name": "CRIT LITRCY NAT SCI ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14113",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "RAI",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 296",
+        "curr_course_name": "CRIT LITRCY NAT SCI ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14114",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "CMU",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 297",
+        "curr_course_name": "INTRMD WRTG HUM",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14115",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1230-120",
+                "building": "THO",
+                "room": "235"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 297",
+        "curr_course_name": "INTRMD WRTG HUM",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14116",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "SAV",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 298",
+        "curr_course_name": "INTRMD WRTG SOC SCI ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14117",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "230-350",
+                "building": "THO",
+                "room": "202"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 298",
+        "curr_course_name": "INTRMD WRTG SOC SCI ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14118",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "RAI",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 299",
+        "curr_course_name": "INTRMD WRTG NAT SCI ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14119",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1120",
+                "building": "CMU",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 299",
+        "curr_course_name": "INTRMD WRTG NAT SCI ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14120",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "100-220",
+                "building": "CMU",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WJ",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 299",
+        "curr_course_name": "INTRMD WRTG NAT SCI ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14121",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "100-220",
+                "building": "CMU",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 299",
+        "curr_course_name": "INTRMD WRTG NAT SCI ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14122",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-120",
+                "building": "DEM",
+                "room": "126"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Wong,Shawn H.",
+        "curr_course_code": "ENGL 302",
+        "curr_course_name": "CRITICAL PRACTICE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14123",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "ECE",
+                "room": "031"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rodriques,Janelle",
+        "curr_course_code": "ENGL 302",
+        "curr_course_name": "CRITICAL PRACTICE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14124",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "LOW",
+                "room": "206"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 307",
+        "curr_course_name": "CULTURAL STUDIES",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14125",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "930-1120",
+                "building": "MUS",
+                "room": "223"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 317",
+        "curr_course_name": "LIT OF THE AMERICAS ",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14126",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "MGH",
+                "room": "251"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Retman,Sonnet H.",
+        "curr_course_code": "ENGL 318",
+        "curr_course_name": "BLACK LIT GENRES",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "21386",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "THO",
+                "room": "134"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 322",
+        "curr_course_name": "MEDVL LIT OF ENCONTR",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14127",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-120",
+                "building": "DEM",
+                "room": "126"
+            },
+            {
+                "days": "Th",
+                "time": "1130-120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 323",
+        "curr_course_name": "SHAKESPEARE TO 1603 ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14129",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "LOW",
+                "room": "106"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Weinbaum,Alys",
+        "curr_course_code": "ENGL 327",
+        "curr_course_name": "BONDAGE & FREEDOM",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14130",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "CDH",
+                "room": "125"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 330",
+        "curr_course_name": "ROMANTIC AGE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14131",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "SAV",
+                "room": "166"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Burstein,Jessica",
+        "curr_course_code": "ENGL 336",
+        "curr_course_name": "EARLY 20THC ENG LIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14132",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-120",
+                "building": "SAV",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Sokoloff,Naomi B",
+        "curr_course_code": "ENGL 343",
+        "curr_course_name": "STUDIES IN POETRY",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14133",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "ECE",
+                "room": "003"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Gillis-Bridges,Kimberlee",
+        "curr_course_code": "ENGL 345",
+        "curr_course_name": "STUDIES IN FILM",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14134",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-520",
+                "building": "LOW",
+                "room": "102"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Abrams,Robert",
+        "curr_course_code": "ENGL 352",
+        "curr_course_name": "US LIT TO 1865",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14135",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-120",
+                "building": "ART",
+                "room": "317"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Ramos,Alexandria",
+        "curr_course_code": "ENGL 362",
+        "curr_course_name": "US LATINO/A LIT",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14136",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1120",
+                "building": "LOW",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 375",
+        "curr_course_name": "RHETORICAL GENRE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14137",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "MUS",
+                "room": "212"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 381",
+        "curr_course_name": "ADV EXPOSITORY WRIT ",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14138",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-120",
+                "building": "MEB",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 382",
+        "curr_course_name": "SPECIAL MULTIMODAL",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14139",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "LOW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 382",
+        "curr_course_name": "SPECIAL MULTIMODAL",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14140",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-250",
+                "building": "SWS",
+                "room": "036"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Feld,Andrew",
+        "curr_course_code": "ENGL 383",
+        "curr_course_name": "THE CRAFT OF VERSE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14141",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-250",
+                "building": "THO",
+                "room": "231"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Triplett,Pimone",
+        "curr_course_code": "ENGL 383",
+        "curr_course_name": "THE CRAFT OF VERSE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14142",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "430-720P",
+                "building": "CMU",
+                "room": "243"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 384",
+        "curr_course_name": "THE CRAFT OF PROSE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14143",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "930-1050",
+                "building": "ECE",
+                "room": "042"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 384",
+        "curr_course_name": "THE CRAFT OF PROSE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14144",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "THO",
+                "room": "235"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 388",
+        "curr_course_name": "PROF TECH WRITING",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14145",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-520",
+                "building": "RAI",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 388",
+        "curr_course_name": "PROF TECH WRITING",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14146",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 395",
+        "curr_course_name": "STUDY ABROAD",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14147",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-120",
+                "building": "MGH",
+                "room": "082"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%W",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 396",
+        "curr_course_name": "SOFTWARE DOCUMENTATN",
+        "curr_course_fulfills": [
+            "C"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14148",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "ECE",
+                "room": "042"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Clare,Stephanie",
+        "curr_course_code": "ENGL 407",
+        "curr_course_name": "TOPICS CULTURE ST",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14149",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "SAV",
+                "room": "156"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Remley,Paul",
+        "curr_course_code": "ENGL 422",
+        "curr_course_name": "ARTHURIAN LEGENDS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14151",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-120",
+                "building": "CDH",
+                "room": "141"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "LaPorte,Charles",
+        "curr_course_code": "ENGL 440",
+        "curr_course_name": "SPEC STUDIES IN LIT ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14152",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "FSH",
+                "room": "107"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Belic,Bojan",
+        "curr_course_code": "ENGL 478",
+        "curr_course_name": "LANG & SOCL POLICY",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14153",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "430-720P",
+                "building": "THO",
+                "room": "231"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "17",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Triplett,Pimone",
+        "curr_course_code": "ENGL 483",
+        "curr_course_name": "ADV VERSE WORKSHOP",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14154",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-150",
+                "building": "MGH",
+                "room": "085"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "17",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 484",
+        "curr_course_name": "ADV PROSE WORKSHOP",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14155",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-120",
+                "building": "ECE",
+                "room": "042"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Liu,Michelle",
+        "curr_course_code": "ENGL 490",
+        "curr_course_name": "PROFESN PUBLIC LIFE ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14156",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-6",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Gillis-Bridges,Kimberlee",
+        "curr_course_code": "ENGL 491",
+        "curr_course_name": "INTERNSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14157",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-6",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Gillis-Bridges,Kimberlee",
+        "curr_course_code": "ENGL 491",
+        "curr_course_name": "INTERNSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14158",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 492",
+        "curr_course_name": "EXPOSIT WRIT CONF",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14159",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 493",
+        "curr_course_name": "CREATIVE WRIT CONF",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14160",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-120",
+                "building": "MGH",
+                "room": "097"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "H",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Weinbaum,Alys E",
+        "curr_course_code": "ENGL 496",
+        "curr_course_name": "H-MAJOR CONF-HONORS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14161",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "GUG",
+                "room": "204"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "H",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Chrisman,Laura H",
+        "curr_course_code": "ENGL 496",
+        "curr_course_name": "H-MAJOR CONF-HONORS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14162",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 499",
+        "curr_course_name": "INDEPENDENT STUDY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14163",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-120",
+                "building": "CDH",
+                "room": "141"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "LaPorte,Charles",
+        "curr_course_code": "ENGL 529",
+        "curr_course_name": "TPCS 19TH CENT STDY ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14164",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "ECE",
+                "room": "042"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 537",
+        "curr_course_name": "TPCS AMERICAN STDYS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14165",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "ECE",
+                "room": "042"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Clare,Stephanie",
+        "curr_course_code": "ENGL 556",
+        "curr_course_name": "CULTURAL STUDIES",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14166",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-520",
+                "building": "SMI",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Chrisman,Laura",
+        "curr_course_code": "ENGL 556",
+        "curr_course_name": "CULTURAL STUDIES",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14167",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "SAV",
+                "room": "140"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 563",
+        "curr_course_name": "LANG/RHET METHODS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14168",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-120",
+                "building": "SAV",
+                "room": "155"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Bou",
+        "curr_course_code": "ENGL 569",
+        "curr_course_name": "TPCS IN LANG & RHET ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14170",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1230-420",
+                "building": "SAV",
+                "room": "140"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 574",
+        "curr_course_name": "RES IN SEC LANG ACQ ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14171",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1230-420",
+                "building": "SAV",
+                "room": "167"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 576",
+        "curr_course_name": "TESTING ESL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14172",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "SMI",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Crouse,Nikki",
+        "curr_course_code": "ENGL 584",
+        "curr_course_name": "ADV FICT WORKSHOP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14173",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "THO",
+                "room": "215"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Bierds,Linda",
+        "curr_course_code": "ENGL 585",
+        "curr_course_name": "ADV POETRY WORKSHOP ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14174",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5/10",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 590",
+        "curr_course_name": "MA ESSAY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14175",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 597",
+        "curr_course_name": "DIRECTED READINGS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14176",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14177",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 601",
+        "curr_course_name": "INTERNSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14178",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "14179",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "75",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ENGL 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

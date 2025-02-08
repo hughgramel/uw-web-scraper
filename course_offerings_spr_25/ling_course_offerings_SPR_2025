@@ -1,0 +1,1460 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "16346",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "230-320",
+                "building": "ARC",
+                "room": "147"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "240",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "McGarrity,Laura",
+        "curr_course_code": "LING 200",
+        "curr_course_name": "INTRO LINGUISTICS",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16347",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-220",
+                "building": "ECE",
+                "room": "003"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 200",
+        "curr_course_name": "INTRO LINGUISTICS",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16348",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1120",
+                "building": "SAV",
+                "room": "156"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 200",
+        "curr_course_name": "INTRO LINGUISTICS",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16349",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-120",
+                "building": "MGH",
+                "room": "251"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 200",
+        "curr_course_name": "INTRO LINGUISTICS",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16350",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "SAV",
+                "room": "166"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 200",
+        "curr_course_name": "INTRO LINGUISTICS",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16351",
+        "section": "AF",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-320",
+                "building": "MGH",
+                "room": "271"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 200",
+        "curr_course_name": "INTRO LINGUISTICS",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16352",
+        "section": "AG",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "SAV",
+                "room": "156"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 200",
+        "curr_course_name": "INTRO LINGUISTICS",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16353",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "830-920",
+                "building": "GWN",
+                "room": "301"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "78",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Evans,Betsy E",
+        "curr_course_code": "LING 233",
+        "curr_course_name": "LANGUAGE & SOCIETY",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16354",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1020",
+                "building": "MGH",
+                "room": "238"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "26",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 233",
+        "curr_course_name": "LANGUAGE & SOCIETY",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16355",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1030-1120",
+                "building": "MGH",
+                "room": "228"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "26",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 233",
+        "curr_course_name": "LANGUAGE & SOCIETY",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16356",
+        "section": "AE",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1230-120",
+                "building": "MGH",
+                "room": "228"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "26",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 233",
+        "curr_course_name": "LANGUAGE & SOCIETY",
+        "curr_course_fulfills": [
+            "A&H",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16357",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "#A",
+        "is_estimate": 0,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rozelle,Lorna",
+        "curr_course_code": "LING 234",
+        "curr_course_name": "LANG & DIVERSITY",
+        "curr_course_fulfills": [
+            "SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16358",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1130-1220",
+                "building": "JHN",
+                "room": "075"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "McGarrity,Laura",
+        "curr_course_code": "LING 269",
+        "curr_course_name": "SWEARNG & TABOO LANG",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16359",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-220",
+                "building": "SAV",
+                "room": "132"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "33",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 269",
+        "curr_course_name": "SWEARNG & TABOO LANG",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16360",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1230-120",
+                "building": "ECE",
+                "room": "025"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "33",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 269",
+        "curr_course_name": "SWEARNG & TABOO LANG",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16361",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "230-320",
+                "building": "MGH",
+                "room": "228"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "34",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 269",
+        "curr_course_name": "SWEARNG & TABOO LANG",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16362",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "ECE",
+                "room": "025"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "26",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Evans,Betsy E",
+        "curr_course_code": "LING 432",
+        "curr_course_name": "SOCIOLINGUISTICS I",
+        "curr_course_fulfills": [
+            "A&H/SSc",
+            "DIV"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16363",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "SAV",
+                "room": "264"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Hargus,Sharon L",
+        "curr_course_code": "LING 450",
+        "curr_course_name": "INTRO LING PHONET",
+        "curr_course_fulfills": [
+            "A&H/NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16364",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "SAV",
+                "room": "264"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Hargus,Sharon L",
+        "curr_course_code": "LING 450",
+        "curr_course_name": "INTRO LING PHONET",
+        "curr_course_fulfills": [
+            "A&H/NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16365",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "DEN",
+                "room": "259"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Hargus,Sharon L",
+        "curr_course_code": "LING 451",
+        "curr_course_name": "PHONOLOGY I",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16366",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "SAV",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Lapierre,Myriam",
+        "curr_course_code": "LING 452",
+        "curr_course_name": "PHONOLOGY II",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16367",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "CMU",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 461",
+        "curr_course_name": "SYNTAX I",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16368",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-420",
+                "building": "SAV",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 462",
+        "curr_course_name": "SYNTAX II",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "16369",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "ECE",
+                "room": "025"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 472",
+        "curr_course_name": "INTR TO COMPUT LING ",
+        "curr_course_fulfills": [
+            "A&H/NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16370",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-3",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 490",
+        "curr_course_name": "FIELDWORK",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16371",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16372",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "HJ",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "16373",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "SMI",
+                "room": "307"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 520",
+        "curr_course_name": "INTRO STATS FOR LING",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16374",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "ECE",
+                "room": "025"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Evans,Betsy E",
+        "curr_course_code": "LING 532",
+        "curr_course_name": "SOCIOLINGUISTICS I",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "16375",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 548",
+        "curr_course_name": "2ND/FL TEACH CPSTON ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16376",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "SAV",
+                "room": "264"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Hargus,Sharon L",
+        "curr_course_code": "LING 550",
+        "curr_course_name": "INTRO LING PHONET",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16377",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "SAV",
+                "room": "264"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Hargus,Sharon L",
+        "curr_course_code": "LING 550",
+        "curr_course_name": "INTRO LING PHONET",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16378",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "SAV",
+                "room": "264"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "13",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Hargus,Sharon L",
+        "curr_course_code": "LING 550",
+        "curr_course_name": "INTRO LING PHONET",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16379",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "DEN",
+                "room": "259"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Hargus,Sharon L",
+        "curr_course_code": "LING 551",
+        "curr_course_name": "PHONOLOGY I",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "16380",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "SAV",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Lapierre,Myriam",
+        "curr_course_code": "LING 552",
+        "curr_course_name": "PHONOLOGY II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "16383",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1250",
+                "building": "BAG",
+                "room": "261"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Paullada,Amandalynne",
+        "curr_course_code": "LING 573",
+        "curr_course_name": "NLP SYSTEMS/APPS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "16386",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "100-220",
+                "building": "ARC",
+                "room": "G070"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Steinert-Threlkeld,Shane N",
+        "curr_course_code": "LING 574",
+        "curr_course_name": "DEEP LEARNING - NLP ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "16389",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "330-550",
+                "building": "SAV",
+                "room": "130"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Steinert-Threlkeld,Shane N",
+        "curr_course_code": "LING 575",
+        "curr_course_name": "COMPUT LING TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "16392",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "330-550",
+                "building": "ART",
+                "room": "004"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Lewis,William D",
+        "curr_course_code": "LING 575",
+        "curr_course_name": "COMPUT LING TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16395",
+        "section": "I",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "330-550",
+                "building": "ART",
+                "room": "004"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Rolston,Leanne E.",
+        "curr_course_code": "LING 575",
+        "curr_course_name": "COMPUT LING TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16398",
+        "section": "L",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-550",
+                "building": "SAV",
+                "room": "158"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 575",
+        "curr_course_name": "COMPUT LING TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16399",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-550",
+                "building": "ART",
+                "room": "004"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Cheng,Qi",
+        "curr_course_code": "LING 580",
+        "curr_course_name": "PROBS IN LINGUISTCS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16400",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-550",
+                "building": "ART",
+                "room": "004"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Cheng,Qi",
+        "curr_course_code": "LING 580",
+        "curr_course_name": "PROBS IN LINGUISTCS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16401",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-550",
+                "building": "SAV",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Lapierre,Myriam",
+        "curr_course_code": "LING 580",
+        "curr_course_name": "PROBS IN LINGUISTCS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16402",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-550",
+                "building": "SAV",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Lapierre,Myriam",
+        "curr_course_code": "LING 580",
+        "curr_course_name": "PROBS IN LINGUISTCS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "16403",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-3",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 590",
+        "curr_course_name": "FIELDWORK",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16404",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "330-550",
+                "building": "JHN",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 599",
+        "curr_course_name": "LING COLLOQUIUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16405",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "930-1020",
+                "building": "MGH",
+                "room": "228"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Lindekugel,Katie",
+        "curr_course_code": "LING 599",
+        "curr_course_name": "LING COLLOQUIUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16406",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16408",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16410",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LING 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

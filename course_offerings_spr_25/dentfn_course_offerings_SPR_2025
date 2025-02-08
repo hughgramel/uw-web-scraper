@@ -1,0 +1,362 @@
+[
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13246",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "HST",
+                "room": "T733"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "55",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Silverstein,Bruce D.",
+        "curr_course_code": "DENTFN 531",
+        "curr_course_name": "GI & ENDOCRINE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13247",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "28",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Garcia,Elizabeth",
+        "curr_course_code": "DENTFN 531",
+        "curr_course_name": "GI & ENDOCRINE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13248",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "HST",
+                "room": "T498"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "27",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Sipols,Al",
+        "curr_course_code": "DENTFN 531",
+        "curr_course_name": "GI & ENDOCRINE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13249",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Silverstein,Bruce D.",
+        "curr_course_code": "DENTFN 531",
+        "curr_course_name": "GI & ENDOCRINE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13250",
+        "section": "BA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Silverstein,Bruce D.",
+        "curr_course_code": "DENTFN 531",
+        "curr_course_name": "GI & ENDOCRINE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13251",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "HST",
+                "room": "T733"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%B",
+        "is_estimate": 1,
+        "max_capacity": "55",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Silverstein,Bruce D.",
+        "curr_course_code": "DENTFN 532",
+        "curr_course_name": "RENAL & RESPIRATORY ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13252",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%B",
+        "is_estimate": 1,
+        "max_capacity": "28",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Silverstein,Bruce D.",
+        "curr_course_code": "DENTFN 532",
+        "curr_course_name": "RENAL & RESPIRATORY ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13253",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "HST",
+                "room": "T498"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%B",
+        "is_estimate": 1,
+        "max_capacity": "27",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Silverstein,Bruce D.",
+        "curr_course_code": "DENTFN 532",
+        "curr_course_name": "RENAL & RESPIRATORY ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13254",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%B",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Silverstein,Bruce D.",
+        "curr_course_code": "DENTFN 532",
+        "curr_course_name": "RENAL & RESPIRATORY ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13255",
+        "section": "BA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTThF",
+                "time": "130-520",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%B",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Silverstein,Bruce D.",
+        "curr_course_code": "DENTFN 532",
+        "curr_course_name": "RENAL & RESPIRATORY ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13256",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "830-1120",
+                "building": "HST",
+                "room": "T733"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "55",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Popowics,Tracy",
+        "curr_course_code": "DENTFN 533",
+        "curr_course_name": "ORAL HIST & EMB 2",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13257",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "830-1120",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Case,Judd Alan",
+        "curr_course_code": "DENTFN 533",
+        "curr_course_name": "ORAL HIST & EMB 2",
+        "curr_course_fulfills": ""
+    }
+]

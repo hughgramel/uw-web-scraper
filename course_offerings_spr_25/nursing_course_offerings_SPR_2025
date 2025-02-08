@@ -1,0 +1,731 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "17931",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-550",
+                "building": "HST",
+                "room": "T747"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 201",
+        "curr_course_name": "LIFESPAN GROWTH",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17934",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "HST",
+                "room": "T435"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "125",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Pinson She",
+        "curr_course_code": "NURS 301",
+        "curr_course_name": "GENERAL ANATOMY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17937",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "6",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "830-1120",
+                "building": "SOCC",
+                "room": "-221"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$110",
+        "other_codes": "B",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 405",
+        "curr_course_name": "CARE IN ILLNESS II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17939",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "830-1120",
+                "building": "HST",
+                "room": "T439"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WJ",
+        "is_estimate": 0,
+        "max_capacity": "80",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 412",
+        "curr_course_name": "HEALTHCARE SYSTEMS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17942",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-220",
+                "building": "HSK",
+                "room": "K-069"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$484",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "80",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 419",
+        "curr_course_name": "TRANS TO PRO PRACT",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17945",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "230-420",
+                "building": "HST",
+                "room": "T-531"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "H",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Byun,Eeeseung",
+        "curr_course_code": "NURS 445",
+        "curr_course_name": "SPEC TOP NSG",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17946",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "80",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Reding,Kerry",
+        "curr_course_code": "NURS 457",
+        "curr_course_name": "SEM RSRCH & CLIN TOP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "17947",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-4",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "R",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 499",
+        "curr_course_name": "SPECIAL ELECTIVES",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17948",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "400-520",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "JA",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Cochrane,Barbara",
+        "curr_course_code": "NURS 499",
+        "curr_course_name": "SPECIAL ELECTIVES",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "21369",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "JA",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Willgerodt,Mayumi",
+        "curr_course_code": "NURS 499",
+        "curr_course_name": "SPECIAL ELECTIVES",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17949",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1230-220",
+                "building": "HST",
+                "room": "T480"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Kohler,Pamela",
+        "curr_course_code": "NURS 505",
+        "curr_course_name": "TOP CHLD FAM POP NSG",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17950",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-3",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1130-120",
+                "building": "HST",
+                "room": "T498"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 515",
+        "curr_course_name": "ADOLESCENT PROBLEMS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17952",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-3",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1130-120",
+                "building": "HST",
+                "room": "T498"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 515",
+        "curr_course_name": "ADOLESCENT PROBLEMS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17953",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-550",
+                "building": "HST",
+                "room": "T359"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 517",
+        "curr_course_name": "PED PULM PATHOPHYS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17954",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-550",
+                "building": "HST",
+                "room": "T359"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "11",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 517",
+        "curr_course_name": "PED PULM PATHOPHYS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17955",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-620",
+                "building": "HST",
+                "room": "T480"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 535",
+        "curr_course_name": "PHARM ACUTE/CRIT ILL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17957",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1220",
+                "building": "HST",
+                "room": "T498"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Dougherty,Cynthia M.",
+        "curr_course_code": "NURS 540",
+        "curr_course_name": "SPECIAL TOP IN BNHS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17959",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "330-620",
+                "building": "HST",
+                "room": "T498"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Jajesnica,Jessica",
+        "curr_course_code": "NURS 547",
+        "curr_course_name": "MGMT OF PSYCH DISORD",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17960",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1130-1250",
+                "building": "SOCC",
+                "room": "221"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "44",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Lewis,Fran M",
+        "curr_course_code": "NURS 552",
+        "curr_course_name": "WL HLTH PRM DIS PRV ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17962",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "830-1120",
+                "building": "HST",
+                "room": "T359"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Frantz she,her,Laura",
+        "curr_course_code": "NURS 554",
+        "curr_course_name": "MGMT PSYCH DISORDER ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17963",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2/3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "200-320",
+                "building": "HST",
+                "room": "T480"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 569",
+        "curr_course_name": "MGMT ACUTE ILL II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17966",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%#A",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 572",
+        "curr_course_name": "ADV SEX/REPRO HLTHCR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17967",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-520",
+                "building": "HSEB",
+                "room": "421"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "Closed",
+        "professor_name": "Cherry,Debbie",
+        "curr_course_code": "NURS 580",
+        "curr_course_name": "ISS OCCPTNL/ENV MED ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17968",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1100-1150",
+                "building": "HSEB",
+                "room": "426"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Reding,Kerry",
+        "curr_course_code": "NURS 596",
+        "curr_course_name": "COLLOQUIUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17969",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-6",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 599",
+        "curr_course_name": "SEL RDGS IN NSG SCI ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17970",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "400-520",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "JA",
+        "is_estimate": 1,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Cochrane,Barbara",
+        "curr_course_code": "NURS 599",
+        "curr_course_name": "SEL RDGS IN NSG SCI ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "17971",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NURS 610",
+        "curr_course_name": "TEACHING PRACTICUM",
+        "curr_course_fulfills": ""
+    }
+]

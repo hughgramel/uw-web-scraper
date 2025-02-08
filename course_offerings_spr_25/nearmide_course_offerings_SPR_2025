@@ -1,0 +1,25 @@
+[
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "17722",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "2",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "N&MES 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]
