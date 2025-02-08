@@ -1,0 +1,133 @@
+[
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "19440",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "R",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "R ONC 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "19441",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "R ONC 505P",
+        "curr_course_name": "P-PRADONC PRECPTSHP ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "19442",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "R ONC 600",
+        "curr_course_name": "INDEPENDT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "19443",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "2",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "R ONC 601",
+        "curr_course_name": "MULTI-D ONC CLRKSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19444",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "R ONC 694P",
+        "curr_course_name": "P-CANCER MGMT SCCA",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "19447",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "R ONC 699P",
+        "curr_course_name": "P-WAMI R ONC ELECT",
+        "curr_course_fulfills": ""
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17472",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "930-1220",
+                "building": "ALD",
+                "room": "103"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Eagles,Lane",
+        "curr_course_code": "MUSEUM 525",
+        "curr_course_name": "EXHIBIT DEV II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17474",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "100-350",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Oiye,Caitlin Yuriko",
+        "curr_course_code": "MUSEUM 541",
+        "curr_course_name": "COLLECTIONS MGMT LAB",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17476",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1220",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Johnson,Tasia",
+        "curr_course_code": "MUSEUM 565",
+        "curr_course_name": "MUSEUMS AND TECH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17479",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "100-350",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Brenkert,Sarah",
+        "curr_course_code": "MUSEUM 575",
+        "curr_course_name": "EVAL DATA ANALYSIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17481",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "100-350",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Brenkert,Sarah",
+        "curr_course_code": "MUSEUM 578",
+        "curr_course_name": "EVAL DISSEMINATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17483",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "400-650",
+                "building": "ALD",
+                "room": "103"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Margolis,Seth",
+        "curr_course_code": "MUSEUM 594",
+        "curr_course_name": "PUBLIC PROGRAMS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "17486",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "MUSEUM 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    }
+]

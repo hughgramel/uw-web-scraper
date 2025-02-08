@@ -1,0 +1,1705 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "18102",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "350",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Nuwer,Mikelle",
+        "curr_course_code": "OCEAN 102",
+        "curr_course_name": "THE CHANGING OCEANS ",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18103",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1130-1220",
+                "building": "OTB",
+                "room": "014"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 200",
+        "curr_course_name": "INTRO OCEANOGRAPHY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18104",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-1220",
+                "building": "BNS",
+                "room": "115"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "34",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 200",
+        "curr_course_name": "INTRO OCEANOGRAPHY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18105",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1230-120",
+                "building": "ECE",
+                "room": "025"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "33",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 200",
+        "curr_course_name": "INTRO OCEANOGRAPHY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18106",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-220",
+                "building": "MGH",
+                "room": "238"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "33",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 200",
+        "curr_course_name": "INTRO OCEANOGRAPHY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18107",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1000-1250",
+                "building": "OCE",
+                "room": "121"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$25",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Walczak,Maureen",
+        "curr_course_code": "OCEAN 201",
+        "curr_course_name": "INTRO OCEAN LAB",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18108",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-420",
+                "building": "OCE",
+                "room": "121"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$25",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Walczak,Maureen",
+        "curr_course_code": "OCEAN 201",
+        "curr_course_name": "INTRO OCEAN LAB",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18109",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "900-1020",
+                "building": "OCN",
+                "room": "425"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Pavia,Frank",
+        "curr_course_code": "OCEAN 210",
+        "curr_course_name": "INTEGRATIVE OCEANS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18110",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "930-1020",
+                "building": "OTB",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Pavia,Frank",
+        "curr_course_code": "OCEAN 210",
+        "curr_course_name": "INTEGRATIVE OCEANS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18111",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1030-1120",
+                "building": "OTB",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Pavia,Frank",
+        "curr_course_code": "OCEAN 210",
+        "curr_course_name": "INTEGRATIVE OCEANS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18112",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "100-220",
+                "building": "OCN",
+                "room": "425"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$50",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Morris,Robert",
+        "curr_course_code": "OCEAN 220",
+        "curr_course_name": "INTRO FIELD OCEAN",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18113",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "OTB",
+                "room": "051"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Seroy,Sasha",
+        "curr_course_code": "OCEAN 261",
+        "curr_course_name": "OCN TECH: DES BLD I ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18114",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1250",
+                "building": "OCN",
+                "room": "425"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$50",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Ingalls,Anitra E.",
+        "curr_course_code": "OCEAN 295",
+        "curr_course_name": "MARINE ORG CHEM",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18115",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-420",
+                "building": "FSH",
+                "room": "142"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Ingalls,Anitra",
+        "curr_course_code": "OCEAN 295",
+        "curr_course_name": "MARINE ORG CHEM",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18116",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "230-520",
+                "building": "FSH",
+                "room": "142"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Ingalls,Anitra",
+        "curr_course_code": "OCEAN 295",
+        "curr_course_name": "MARINE ORG CHEM",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18117",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1120",
+                "building": "SAV",
+                "room": "260"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "145",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 330",
+        "curr_course_name": "MARINE BIOGEOCHEM",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18118",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1230-220",
+                "building": "FSH",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 330",
+        "curr_course_name": "MARINE BIOGEOCHEM",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18119",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1230-220",
+                "building": "OTB",
+                "room": "206"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 330",
+        "curr_course_name": "MARINE BIOGEOCHEM",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18120",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "230-420",
+                "building": "OTB",
+                "room": "206"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 330",
+        "curr_course_name": "MARINE BIOGEOCHEM",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18121",
+        "section": "AD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1230-220",
+                "building": "FSH",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 330",
+        "curr_course_name": "MARINE BIOGEOCHEM",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18122",
+        "section": "AE",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "230-420",
+                "building": "FSH",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 330",
+        "curr_course_name": "MARINE BIOGEOCHEM",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18123",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "OTB",
+                "room": "051"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Seroy,Sasha",
+        "curr_course_code": "OCEAN 361",
+        "curr_course_name": "OCN TECH: DES BLD II",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18124",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "930-1020",
+                "building": "HSEB",
+                "room": "345"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Naish,Kerry",
+        "curr_course_code": "OCEAN 370",
+        "curr_course_name": "MARINE EVOLN BIOL",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18125",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-420",
+                "building": "FTR",
+                "room": "113"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 370",
+        "curr_course_name": "MARINE EVOLN BIOL",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18126",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "130-420",
+                "building": "FTR",
+                "room": "113"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 370",
+        "curr_course_name": "MARINE EVOLN BIOL",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18127",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-420",
+                "building": "FTR",
+                "room": "125"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 370",
+        "curr_course_name": "MARINE EVOLN BIOL",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18128",
+        "section": "AD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "130-420",
+                "building": "FTR",
+                "room": "125"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 370",
+        "curr_course_name": "MARINE EVOLN BIOL",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18129",
+        "section": "AE",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "130-420",
+                "building": "FTR",
+                "room": "124"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 370",
+        "curr_course_name": "MARINE EVOLN BIOL",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18130",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1230-120",
+                "building": "OCN",
+                "room": "425"
+            },
+            {
+                "days": "W",
+                "time": "330-520"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Young,Jodi N",
+        "curr_course_code": "OCEAN 403",
+        "curr_course_name": "SOUTHERN OCEAN",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18131",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1150",
+                "building": "OTB",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 423",
+        "curr_course_name": "OCEAN CIRC & CLIMATE",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18132",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "130-320",
+                "building": "OTB",
+                "room": "051"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Seroy,Sasha",
+        "curr_course_code": "OCEAN 461",
+        "curr_course_name": "OCN TECH: PROJ MGMT ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18133",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rupan,A. Rick",
+        "curr_course_code": "OCEAN 462",
+        "curr_course_name": "OCEAN TECH STUDIO",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "18134",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Seroy,Sasha",
+        "curr_course_code": "OCEAN 462",
+        "curr_course_name": "OCEAN TECH STUDIO",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18137",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-450",
+                "building": "OCN",
+                "room": "425"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Riser,Stephen C",
+        "curr_course_code": "OCEAN 475",
+        "curr_course_name": "CLMT SCI RSRCH SMNR ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "18138",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-15",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "RJ",
+        "is_estimate": 1,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 479",
+        "curr_course_name": "MARINE BIO RESEARCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18139",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-15",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 494",
+        "curr_course_name": "FIELD EXP: OCEAN",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18140",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-15",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 494",
+        "curr_course_name": "FIELD EXP: OCEAN",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18141",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-15",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 496",
+        "curr_course_name": "STUDY ABROAD: OCEAN ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18142",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-15",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 496",
+        "curr_course_name": "STUDY ABROAD: OCEAN ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18143",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-15",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 497",
+        "curr_course_name": "ADV SPEC TOP: OCEAN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "18144",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-15",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 497",
+        "curr_course_name": "ADV SPEC TOP: OCEAN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18145",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-12",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18146",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-15",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18147",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-3",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Nowell,Arthur R M",
+        "curr_course_code": "OCEAN 506",
+        "curr_course_name": "INTERDISCIPL OCEAN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18148",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "200-320",
+                "building": "OCN",
+                "room": "425"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Walczak,Maureen",
+        "curr_course_code": "OCEAN 509",
+        "curr_course_name": "SEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18149",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "200-320",
+                "building": "OTB",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 514",
+        "curr_course_name": "WAVES",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18150",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1230-120",
+                "building": "MSB",
+                "room": "123"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Armour,Kyle",
+        "curr_course_code": "OCEAN 519",
+        "curr_course_name": "SMNR PHYSICAL OCEAN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18151",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "930-1020",
+                "building": "OCN",
+                "room": "425"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Crusius,John",
+        "curr_course_code": "OCEAN 521",
+        "curr_course_name": "AQUATIC CHEMISTRY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18152",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-120",
+                "building": "MSB",
+                "room": "123"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 529",
+        "curr_course_name": "SMNR IN CHEM OCEAN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18153",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Ingalls,Anitra E.",
+        "curr_course_code": "OCEAN 529",
+        "curr_course_name": "SMNR IN CHEM OCEAN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18154",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-1220",
+                "building": "MSB",
+                "room": "123"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Young,Jodi N",
+        "curr_course_code": "OCEAN 539",
+        "curr_course_name": "SMNR IN BIOL OCEAN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18155",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1120",
+                "building": "OCN",
+                "room": "425"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 540",
+        "curr_course_name": "MAR GEOL & GEOPHYS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18156",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1130-1220",
+                "building": "OTB",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Valentine,Kendall",
+        "curr_course_code": "OCEAN 546",
+        "curr_course_name": "CONTINENT-MARG SED",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18157",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "330-420",
+                "building": "MSB",
+                "room": "123"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Wilcock,William",
+        "curr_course_code": "OCEAN 549",
+        "curr_course_name": "SMNR GEO/GPHY OCEAN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18158",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 549",
+        "curr_course_name": "SMNR GEO/GPHY OCEAN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "21553",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Ogston,Andrea",
+        "curr_course_code": "OCEAN 549",
+        "curr_course_name": "SMNR GEO/GPHY OCEAN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18159",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-150",
+                "building": "OTB",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Deming,Jody",
+        "curr_course_code": "OCEAN 570",
+        "curr_course_name": "MAR MICRO INTERACTN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18160",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "330-450",
+                "building": "MGH",
+                "room": "278"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Riser,Stephen C",
+        "curr_course_code": "OCEAN 586",
+        "curr_course_name": "CLIMATE SEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "18161",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "OCEAN 596",
+        "curr_course_name": "CLIMATE CAPSTONE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18162",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "80",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18163",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18164",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "OCEAN 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

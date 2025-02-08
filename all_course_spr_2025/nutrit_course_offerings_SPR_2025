@@ -1,0 +1,1440 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "17972",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "930-1020",
+                "building": "KNE",
+                "room": "130"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "720",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17973",
+        "section": "BA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "230-320",
+                "building": "CMU",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17974",
+        "section": "BB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "330-420",
+                "building": "THO",
+                "room": "135"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17976",
+        "section": "BD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "930-1020",
+                "building": "CMU",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17977",
+        "section": "BE",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1030-1120",
+                "building": "THO",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17978",
+        "section": "BF",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "830-920",
+                "building": "THO",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17979",
+        "section": "BG",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "230-320",
+                "building": "THO",
+                "room": "134"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17980",
+        "section": "BH",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "330-420",
+                "building": "THO",
+                "room": "135"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17982",
+        "section": "BJ",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1020",
+                "building": "THO",
+                "room": "134"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17983",
+        "section": "BK",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1030-1120",
+                "building": "THO",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17985",
+        "section": "BM",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1120",
+                "building": "CMU",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17986",
+        "section": "BN",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1130-1220",
+                "building": "CMU",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17987",
+        "section": "BO",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-120",
+                "building": "CMU",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 200",
+        "curr_course_name": "NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17988",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1000-1120",
+                "building": "SAV",
+                "room": "260"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "180",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 241",
+        "curr_course_name": "CULINARY NUTR SCI",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17989",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1250",
+                "building": "HSEB",
+                "room": "325"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "136",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Wheat,Eli",
+        "curr_course_code": "NUTR 302",
+        "curr_course_name": "FOOD SYSTEMS I",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17990",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "230-350",
+                "building": "HST",
+                "room": "T474"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 302",
+        "curr_course_name": "FOOD SYSTEMS I",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17991",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "400-520",
+                "building": "HST",
+                "room": "T360"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 302",
+        "curr_course_name": "FOOD SYSTEMS I",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17992",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "230-350",
+                "building": "HST",
+                "room": "T360"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 302",
+        "curr_course_name": "FOOD SYSTEMS I",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17993",
+        "section": "AD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "400-520",
+                "building": "HST",
+                "room": "T474"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 302",
+        "curr_course_name": "FOOD SYSTEMS I",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17994",
+        "section": "AE",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-350",
+                "building": "HST",
+                "room": "T359"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 302",
+        "curr_course_name": "FOOD SYSTEMS I",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17995",
+        "section": "AF",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "400-520",
+                "building": "HST",
+                "room": "T359"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 302",
+        "curr_course_name": "FOOD SYSTEMS I",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17996",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "430-550P",
+                "building": "HSEB",
+                "room": "325"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "120",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 303",
+        "curr_course_name": "FOOD SYSTEMS II",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17997",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "130-220",
+                "building": "HST",
+                "room": "T359"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 303",
+        "curr_course_name": "FOOD SYSTEMS II",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17998",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-320",
+                "building": "HST",
+                "room": "T360"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 303",
+        "curr_course_name": "FOOD SYSTEMS II",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "17999",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "330-420",
+                "building": "HST",
+                "room": "T360"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 303",
+        "curr_course_name": "FOOD SYSTEMS II",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18000",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "430-520P",
+                "building": "HST",
+                "room": "T360"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 303",
+        "curr_course_name": "FOOD SYSTEMS II",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18001",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1130-1250",
+                "building": "MEB",
+                "room": "238"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "45",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Collier,Sarah M",
+        "curr_course_code": "NUTR 312",
+        "curr_course_name": "FOOD SYS RESILIENCE ",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18002",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1000-1120",
+                "building": "BNS",
+                "room": "115"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 312",
+        "curr_course_name": "FOOD SYS RESILIENCE ",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18003",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1130-1250",
+                "building": "BNS",
+                "room": "115"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 312",
+        "curr_course_name": "FOOD SYS RESILIENCE ",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18004",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "230-420",
+                "building": "KNE",
+                "room": "220"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "240",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Gloster,Anne-Marie",
+        "curr_course_code": "NUTR 390",
+        "curr_course_name": "FOOD SEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18006",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "130-220",
+                "building": "ARC",
+                "room": "147"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "300",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 406",
+        "curr_course_name": "SPORTS NUTRITION",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18007",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-320",
+                "building": "SMI",
+                "room": "102"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "80",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 411",
+        "curr_course_name": "INTRO NUTR EPI",
+        "curr_course_fulfills": [
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18008",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "230-320",
+                "building": "HSEB",
+                "room": "245"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 411",
+        "curr_course_name": "INTRO NUTR EPI",
+        "curr_course_fulfills": [
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "18009",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-420",
+                "building": "HSEB",
+                "room": "245"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 411",
+        "curr_course_name": "INTRO NUTR EPI",
+        "curr_course_fulfills": [
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "18010",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-320",
+                "building": "RAI",
+                "room": "229"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Collier,Sarah M",
+        "curr_course_code": "NUTR 490",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "18011",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "6",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1000-1120",
+                "building": "NAN",
+                "room": "181"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "90",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 493",
+        "curr_course_name": "FOOD SYSTEM CAPSTONE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18012",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1120",
+                "building": "CMU",
+                "room": "326"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "45",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 493",
+        "curr_course_name": "FOOD SYSTEM CAPSTONE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18013",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1130-120",
+                "building": "CMU",
+                "room": "326"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "45",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 493",
+        "curr_course_name": "FOOD SYSTEM CAPSTONE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "18014",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Sipos,Yona",
+        "curr_course_code": "NUTR 495",
+        "curr_course_name": "UG INTERNSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18015",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 499",
+        "curr_course_name": "U-G RES",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18017",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "230-350",
+                "building": "PCAR",
+                "room": "297"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Spiker,Marie",
+        "curr_course_code": "NUTR 514",
+        "curr_course_name": "FOOD SYS POPLN HLTH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18018",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1130-1250",
+                "building": "HSEB",
+                "room": "430"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 526",
+        "curr_course_name": "MATERNAL & PED NUTR ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "18019",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-12",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Lund,Anne E",
+        "curr_course_code": "NUTR 532",
+        "curr_course_name": "FLDWK PUB HLTH NUTR ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18020",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-520",
+                "building": "HSEB",
+                "room": "430"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 560",
+        "curr_course_name": "NUTR CNSL CHR DIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18022",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "HSEB",
+                "room": "430"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 562",
+        "curr_course_name": "NUTR & CHRONIC DIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18023",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-320",
+                "building": "RAI",
+                "room": "229"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Collier,Sarah M",
+        "curr_course_code": "NUTR 590",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "18024",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-12",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 595",
+        "curr_course_name": "MASTER'S PRACTICUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18025",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 596",
+        "curr_course_name": "NUTR CAPSTONE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18026",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18027",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "18028",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "NUTR 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

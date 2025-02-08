@@ -1,0 +1,470 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "21435",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1000-1120",
+                "building": "ECE",
+                "room": "125"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "80",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B E 210",
+        "curr_course_name": "GLOBAL BUILT ENV I",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10873",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "6",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "130-520",
+                "building": "GLD",
+                "room": "148"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 1,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Javet,Vincent",
+        "curr_course_code": "B E 405",
+        "curr_course_name": "BUILT ENV STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "10874",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MF",
+                "time": "130-250",
+                "building": "GLD",
+                "room": "148A"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 1,
+        "max_capacity": "2",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Javet,Vincent",
+        "curr_course_code": "B E 498",
+        "curr_course_name": "SPECIAL PROJECTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "10875",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-350",
+                "building": "CDH",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "70",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Wolfe,Charles",
+        "curr_course_code": "B E 498",
+        "curr_course_name": "SPECIAL PROJECTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10876",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1150",
+                "building": "GLD",
+                "room": "100"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Alberti,Marina",
+        "curr_course_code": "B E 498",
+        "curr_course_name": "SPECIAL PROJECTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10877",
+        "section": "S",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1200-120",
+                "building": "GLD",
+                "room": "440"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Campbell,Christopher",
+        "curr_course_code": "B E 498",
+        "curr_course_name": "SPECIAL PROJECTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10878",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "6",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "130-520",
+                "building": "GLD",
+                "room": "148"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 1,
+        "max_capacity": "16",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Javet,Vincent",
+        "curr_course_code": "B E 505",
+        "curr_course_name": "BUILT ENVIR STUDIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "10879",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-420",
+                "building": "GLD",
+                "room": "442"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Harris,Gregory",
+        "curr_course_code": "B E 553",
+        "curr_course_name": "ETHIC PRAC/RES/TEACH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10880",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B E 597",
+        "curr_course_name": "DIRECTED READINGS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "10881",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MF",
+                "time": "130-250",
+                "building": "GLD",
+                "room": "148A"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Javet,Vincent",
+        "curr_course_code": "B E 598",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "10882",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-320",
+                "building": "GLD",
+                "room": "442"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Harris,Gregory",
+        "curr_course_code": "B E 598",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10883",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1150",
+                "building": "GLD",
+                "room": "100"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Alberti,Marina",
+        "curr_course_code": "B E 598",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "10884",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-6",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B E 598",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10885",
+        "section": "S",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1200-120",
+                "building": "GLD",
+                "room": "440"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Campbell,Christopher",
+        "curr_course_code": "B E 598",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10886",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B E 600",
+        "curr_course_name": "INDPNDNT STDY/RESCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "10887",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B E 600",
+        "curr_course_name": "INDPNDNT STDY/RESCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10888",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B E 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

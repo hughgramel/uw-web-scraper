@@ -1,0 +1,627 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "12642",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "230-320",
+                "building": "SMI",
+                "room": "120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "56",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12643",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12644",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12645",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "THO",
+                "room": "235"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12646",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "SIG",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12647",
+        "section": "AE",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "THO",
+                "room": "234"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12648",
+        "section": "AF",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "CMU",
+                "room": "326"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12649",
+        "section": "AG",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "THO",
+                "room": "211"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12650",
+        "section": "AH",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "THO",
+                "room": "335"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 221",
+        "curr_course_name": "STAT FOR SOC SCI",
+        "curr_course_fulfills": [
+            "NSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12651",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1000-1120",
+                "building": "MEB",
+                "room": "248"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "17",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 322",
+        "curr_course_name": "SOCIAL STATISTICS II",
+        "curr_course_fulfills": [
+            "SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12652",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1220",
+                "building": "THO",
+                "room": "334"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "9",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 322",
+        "curr_course_name": "SOCIAL STATISTICS II",
+        "curr_course_fulfills": [
+            "SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "12653",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-220",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 322",
+        "curr_course_name": "SOCIAL STATISTICS II",
+        "curr_course_fulfills": [
+            "SSc",
+            "RSN"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12654",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "430-550P",
+                "building": "KNE",
+                "room": "120"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "440",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 490",
+        "curr_course_name": "DATA SCI COMMUN SEM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12655",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-420",
+                "building": "SAV",
+                "room": "162"
+            },
+            {
+                "days": "F",
+                "time": "300-450"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Ainsley,Caitlin T",
+        "curr_course_code": "CS&SS 503",
+        "curr_course_name": "ADV QUANT POL MTHD",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12656",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "MUS",
+                "room": "216"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 507",
+        "curr_course_name": "MTHD QUANT TECH SOC ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "12657",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "430-620P",
+                "building": "THO",
+                "room": "325"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 508",
+        "curr_course_name": "INTRO R FOR SOC SCI ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12658",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "ARC",
+                "room": "160"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Goodreau,Steven M.",
+        "curr_course_code": "CS&SS 523",
+        "curr_course_name": "SOC NETS & HEALTH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12659",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-950",
+                "building": "THO",
+                "room": "135"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 527",
+        "curr_course_name": "SURVEY RSRCH METHODS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12660",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-350",
+                "building": "ECE",
+                "room": "045"
+            },
+            {
+                "days": "W",
+                "time": "1130-1220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Mejia,Robin",
+        "curr_course_code": "CS&SS 529",
+        "curr_course_name": "SAMPLE SURVEY TECH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12662",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "430-620P",
+                "building": "THO",
+                "room": "119"
+            },
+            {
+                "days": "M",
+                "time": "330-420"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Richardson,Thomas S",
+        "curr_course_code": "CS&SS 566",
+        "curr_course_name": "CAUSAL MODELING",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "12663",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1230-120",
+                "building": "SAV",
+                "room": "162"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CS&SS 590",
+        "curr_course_name": "CSSS SEMINAR",
+        "curr_course_fulfills": ""
+    }
+]

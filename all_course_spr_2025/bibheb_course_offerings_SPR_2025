@@ -1,0 +1,133 @@
+[
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "11151",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1150",
+                "building": "MGH",
+                "room": "085"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Medill,Kathryn",
+        "curr_course_code": "BIBHEB 103",
+        "curr_course_name": "BIBL HEBREW PROSE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "11152",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-6",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIBHEB 490",
+        "curr_course_name": "SUPERVISED STUDY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "11153",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-6",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIBHEB 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "11154",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1150",
+                "building": "THO",
+                "room": "215"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Medill,Kathryn",
+        "curr_course_code": "BIBHEB 513",
+        "curr_course_name": "BIBL HEBREW PROSE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "11155",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-6",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "BIBHEB 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    }
+]

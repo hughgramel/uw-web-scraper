@@ -1,0 +1,390 @@
+[
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18660",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "930-1120",
+                "building": "HSD",
+                "room": "D209"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "104",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "PHRMCY 513",
+        "curr_course_name": "PT SAFETY & QUALITY ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18661",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1120",
+                "building": "HSEB",
+                "room": "101"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "117",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "PHRMCY 514",
+        "curr_course_name": "DSGN ANALY MED STIES",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18662",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTh",
+                "time": "130-320",
+                "building": "HSA",
+                "room": "A420"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "117",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Werth,Brian",
+        "curr_course_code": "PHRMCY 532",
+        "curr_course_name": "PHARMACOTHERA II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18663",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "130-420",
+                "building": "HSEB",
+                "room": "101"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "120",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "PHRMCY 535",
+        "curr_course_name": "PHARMACOTHERA V",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18664",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "930-120",
+                "building": "HSEB",
+                "room": "-325"
+            },
+            {
+                "days": "F",
+                "time": "1230-220"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "$125",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Mike,Leigh Ann",
+        "curr_course_code": "PHRMCY 543",
+        "curr_course_name": "PROVIDER READY III",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18665",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "930-1120",
+                "building": "HST",
+                "room": "T-482"
+            },
+            {
+                "days": "T",
+                "time": "930-1120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Mike,Leigh",
+        "curr_course_code": "PHRMCY 543",
+        "curr_course_name": "PROVIDER READY III",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18666",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1230-220",
+                "building": "HST",
+                "room": "T-482"
+            },
+            {
+                "days": "T",
+                "time": "1230-220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Mike,Leigh",
+        "curr_course_code": "PHRMCY 543",
+        "curr_course_name": "PROVIDER READY III",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18667",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1030-1220",
+                "building": "SOCC",
+                "room": "-221"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "$125",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "94",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Garza,Lisa Michelle",
+        "curr_course_code": "PHRMCY 546",
+        "curr_course_name": "PROVIDER READY VI",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18668",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1120",
+                "building": "HST",
+                "room": "T-482"
+            },
+            {
+                "days": "Th",
+                "time": "930-1120"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "47",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Tofan,Andreea",
+        "curr_course_code": "PHRMCY 546",
+        "curr_course_name": "PROVIDER READY VI",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "18669",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1230-220",
+                "building": "HST",
+                "room": "T-482"
+            },
+            {
+                "days": "Th",
+                "time": "1230-220"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "47",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Garza,Lisa Michelle",
+        "curr_course_code": "PHRMCY 546",
+        "curr_course_name": "PROVIDER READY VI",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18670",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "PHRMCY 546",
+        "curr_course_name": "PROVIDER READY VI",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "21524",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": ".5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Wu,Sharon",
+        "curr_course_code": "PHRMCY 551",
+        "curr_course_name": "CASE CONF & PROF DEV",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "18671",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-1220",
+                "building": "HST",
+                "room": "T439"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "175",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Mangrum,Jasmine",
+        "curr_course_code": "PHRMCY 580",
+        "curr_course_name": "PHRM SCI CURR TRENDS",
+        "curr_course_fulfills": ""
+    }
+]

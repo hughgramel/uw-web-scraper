@@ -1,0 +1,66 @@
+[
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17707",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1200-250",
+                "building": "MUS",
+                "room": "032"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Munsey,Andrew",
+        "curr_course_code": "MUSTEC 201",
+        "curr_course_name": "ADV LIVE RECORDING",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17708",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1200-250",
+                "building": "MUS",
+                "room": "032"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%J",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Munsey,Andrew",
+        "curr_course_code": "MUSTEC 401",
+        "curr_course_name": "ADV LIVE REC ADV MUS",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    }
+]

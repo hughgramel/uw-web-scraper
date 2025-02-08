@@ -1,0 +1,3180 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "14453",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1120",
+                "building": "KNE",
+                "room": "120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$25",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "400",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Swanson,Terry W",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14454",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1130-120",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14455",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "130-320",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14456",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "330-520",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14457",
+        "section": "AD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "930-1120",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14458",
+        "section": "AE",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-120",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14459",
+        "section": "AF",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-320",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14460",
+        "section": "AG",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "330-520",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14461",
+        "section": "AH",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1130-120",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14462",
+        "section": "AI",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14463",
+        "section": "AJ",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "330-520",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14464",
+        "section": "AK",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1120",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14465",
+        "section": "AL",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1130-120",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14466",
+        "section": "AM",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-320",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14467",
+        "section": "AN",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-520",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14469",
+        "section": "AP",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "830-1020",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14471",
+        "section": "AR",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "530-720P",
+                "building": "JHN",
+                "room": "162"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14472",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "$7",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14473",
+        "section": "BA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14474",
+        "section": "BB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14475",
+        "section": "BC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14476",
+        "section": "BD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14477",
+        "section": "BE",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14478",
+        "section": "BF",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14479",
+        "section": "BG",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WA",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14480",
+        "section": "BH",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14481",
+        "section": "BI",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WA",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14482",
+        "section": "BJ",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14483",
+        "section": "BK",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14484",
+        "section": "BL",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WA",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14485",
+        "section": "BM",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WA",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14486",
+        "section": "BN",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "A",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14487",
+        "section": "BO",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14488",
+        "section": "BP",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "WA",
+        "is_estimate": 0,
+        "max_capacity": "41",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 101",
+        "curr_course_name": "GEOLOGY & SOCIETY",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14495",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "230-320",
+                "building": "PCAR",
+                "room": "192"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$20",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Krissansen-Totton,Joshua",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14496",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-920",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14497",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1020",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14498",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1120",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14499",
+        "section": "AD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1220",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14500",
+        "section": "AE",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-120",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14501",
+        "section": "AF",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-220",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14502",
+        "section": "AG",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-320",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14503",
+        "section": "AH",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-420",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14504",
+        "section": "AI",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "430-520P",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14505",
+        "section": "AJ",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "530-620P",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 102",
+        "curr_course_name": "SPACE&SPACE TRAVEL",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14506",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1120",
+                "building": "JHN",
+                "room": "075"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 104",
+        "curr_course_name": "PREHISTORIC LIFE",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14507",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1230-120",
+                "building": "JHN",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 104",
+        "curr_course_name": "PREHISTORIC LIFE",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14508",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1130-1220",
+                "building": "JHN",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 104",
+        "curr_course_name": "PREHISTORIC LIFE",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14509",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "330-420",
+                "building": "JHN",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 104",
+        "curr_course_name": "PREHISTORIC LIFE",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14510",
+        "section": "AD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "430-520P",
+                "building": "JHN",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 104",
+        "curr_course_name": "PREHISTORIC LIFE",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14511",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "230-320",
+                "building": "KNE",
+                "room": "110"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "195",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Harrell,Michael",
+        "curr_course_code": "ESS 106",
+        "curr_course_name": "LIVING WITH VOLCANO ",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14512",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1230-120",
+                "building": "JHN",
+                "room": "075"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$40",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "90",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Buick,Roger",
+        "curr_course_code": "ESS 213",
+        "curr_course_name": "EVOLUTION OF EARTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14513",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "930-1120",
+                "building": "JHN",
+                "room": "011"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 213",
+        "curr_course_name": "EVOLUTION OF EARTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14514",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "JHN",
+                "room": "011"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 213",
+        "curr_course_name": "EVOLUTION OF EARTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14515",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "JHN",
+                "room": "011"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 213",
+        "curr_course_name": "EVOLUTION OF EARTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14516",
+        "section": "AD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "1030-1220",
+                "building": "MGH",
+                "room": "228"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 213",
+        "curr_course_name": "EVOLUTION OF EARTH",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14517",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1130-1220",
+                "building": "JHN",
+                "room": "175"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "70",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 312",
+        "curr_course_name": "EARTH MATERIALS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14518",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-220",
+                "building": "JHN",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 312",
+        "curr_course_name": "EARTH MATERIALS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14519",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "JHN",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 312",
+        "curr_course_name": "EARTH MATERIALS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14520",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "130-320",
+                "building": "JHN",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 312",
+        "curr_course_name": "EARTH MATERIALS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14521",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "130-220",
+                "building": "JHN",
+                "room": "175"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Tobin,Harold",
+        "curr_course_code": "ESS 314",
+        "curr_course_name": "GEOPHYSICS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14522",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-220",
+                "building": "JHN",
+                "room": "021"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 314",
+        "curr_course_name": "GEOPHYSICS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14523",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-420",
+                "building": "JHN",
+                "room": "021"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 314",
+        "curr_course_name": "GEOPHYSICS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14524",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-350",
+                "building": "JHN",
+                "room": "175"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 420",
+        "curr_course_name": "INTRO GIS EARTH SCI ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14525",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "JHN",
+                "room": "021"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 420",
+        "curr_course_name": "INTRO GIS EARTH SCI ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14526",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "JHN",
+                "room": "366"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 420",
+        "curr_course_name": "INTRO GIS EARTH SCI ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14527",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "230-350",
+                "building": "JHN",
+                "room": "022"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$17",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Christianson,Knut",
+        "curr_course_code": "ESS 431",
+        "curr_course_name": "PRINS OF GLACIOLOGY ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14528",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1130-1220",
+                "building": "JHN",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Swanson,Terry",
+        "curr_course_code": "ESS 433",
+        "curr_course_name": "ENV OF GLACIAL AGES ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14529",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-220",
+                "building": "JHN",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 433",
+        "curr_course_name": "ENV OF GLACIAL AGES ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14530",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "130-220",
+                "building": "JHN",
+                "room": "026"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$40",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "STONE,JOHN O.",
+        "curr_course_code": "ESS 445",
+        "curr_course_name": "ECONOMIC GEOLOGY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14531",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "230-420",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 445",
+        "curr_course_name": "ECONOMIC GEOLOGY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "21314",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1120",
+                "building": "JHN",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 454",
+        "curr_course_name": "HYDROGEOLOGY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "21356",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1030-1220",
+                "building": "JHN",
+                "room": "027"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "17",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 454",
+        "curr_course_name": "HYDROGEOLOGY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "21357",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-320",
+                "building": "JHN",
+                "room": "027"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 454",
+        "curr_course_name": "HYDROGEOLOGY",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14532",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "230-320",
+                "building": "JHN",
+                "room": "026"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$40",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Mehra,Akshay K",
+        "curr_course_code": "ESS 456",
+        "curr_course_name": "SED GEO",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14533",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1230-220",
+                "building": "JHN",
+                "room": "022"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 456",
+        "curr_course_name": "SED GEO",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14534",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "1230-220",
+                "building": "JHN",
+                "room": "022"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 456",
+        "curr_course_name": "SED GEO",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14535",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-450",
+                "building": "OCN",
+                "room": "425"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Riser,Stephen C",
+        "curr_course_code": "ESS 475",
+        "curr_course_name": "CLMT SCI RSRCH SMNR ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14536",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-1250",
+                "building": "JHN",
+                "room": "021"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$50",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Gorman-Lewis,Drew J",
+        "curr_course_code": "ESS 482",
+        "curr_course_name": "ENV GEOCHEM LAB",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14537",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1220",
+                "building": "JHN",
+                "room": "418"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 482",
+        "curr_course_name": "ENV GEOCHEM LAB",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14538",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "130-420",
+                "building": "JHN",
+                "room": "418"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 482",
+        "curr_course_name": "ENV GEOCHEM LAB",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14539",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "CDH",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "14",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Pekkanen,Saadia M.",
+        "curr_course_code": "ESS 488",
+        "curr_course_name": "SPACE LAW & POLICY",
+        "curr_course_fulfills": [
+            "SSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14540",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1150",
+                "building": "JHN",
+                "room": "170"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Muth,Michelle",
+        "curr_course_code": "ESS 490",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14541",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-420",
+                "building": "MGH",
+                "room": "278"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 490",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14542",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "16",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 490",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14543",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 490",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14544",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-3",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Swanson,Terry W",
+        "curr_course_code": "ESS 492",
+        "curr_course_name": "EDU EARTH SCI",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14545",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Martin,Ruth",
+        "curr_course_code": "ESS 492",
+        "curr_course_name": "EDU EARTH SCI",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14546",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 492",
+        "curr_course_name": "EDU EARTH SCI",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "14547",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 498",
+        "curr_course_name": "INDEPENDENT STUDY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "14548",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "14549",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14550",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "230-350",
+                "building": "JHN",
+                "room": "022"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Christianson,Knut",
+        "curr_course_code": "ESS 505",
+        "curr_course_name": "THE CRYOSPHERE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14551",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "100-220",
+                "building": "JHN",
+                "room": "021"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 521",
+        "curr_course_name": "ADVGEOSPAT EARTH SCI",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14552",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-150",
+                "building": "ATG",
+                "room": "610"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Bitz,Cecilia",
+        "curr_course_code": "ESS 535",
+        "curr_course_name": "ICE AND CLIMATE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14553",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 540",
+        "curr_course_name": "ADV IGNEOUS PETROL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14554",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1130-1220",
+                "building": "OTB",
+                "room": "205"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Valentine,Kendall",
+        "curr_course_code": "ESS 546",
+        "curr_course_name": "CONTINENT-MARG SED",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14555",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1200-120",
+                "building": "JHN",
+                "room": "026"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Tobin,Harold J",
+        "curr_course_code": "ESS 562",
+        "curr_course_name": "OBSERVATNAL SEISMOL ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14557",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "900-1020",
+                "building": "ATG",
+                "room": "610"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Wood,Robert",
+        "curr_course_code": "ESS 573",
+        "curr_course_name": "CLOUD PHYS & DYNAM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14558",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-1250",
+                "building": "JHN",
+                "room": "021"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$50",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Gorman-Lewis,Drew J",
+        "curr_course_code": "ESS 582",
+        "curr_course_name": "ENV GEOCHEM LAB",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14559",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1220",
+                "building": "JHN",
+                "room": "418"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 582",
+        "curr_course_name": "ENV GEOCHEM LAB",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "14560",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "130-420",
+                "building": "JHN",
+                "room": "418"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 582",
+        "curr_course_name": "ENV GEOCHEM LAB",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "21626",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "CDH",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 584",
+        "curr_course_name": "SPACE LAW & POLICY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14561",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "330-450",
+                "building": "MGH",
+                "room": "278"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Riser,Stephen C",
+        "curr_course_code": "ESS 586",
+        "curr_course_name": "CLIMATE SEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14562",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1150",
+                "building": "JHN",
+                "room": "170"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Muth,Michelle",
+        "curr_course_code": "ESS 590",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "14563",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-320",
+                "building": "MGH",
+                "room": "253"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 590",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14564",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 590",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14565",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Huntington,Katharine",
+        "curr_course_code": "ESS 590",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14566",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 590",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14567",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "400-520",
+                "building": "JHN",
+                "room": "026"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 594",
+        "curr_course_name": "INTRO ESS RSRCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "14568",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "200-250",
+                "building": "JHN",
+                "room": "022"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Huntington,Katharine W",
+        "curr_course_code": "ESS 595",
+        "curr_course_name": "ESS RSRCH METHODS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "14569",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "curr_course_code": "ESS 596",
+        "curr_course_name": "CLIMATE CAPSTONE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "14570",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 597",
+        "curr_course_name": "APP GEOSCI INVESTGN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "14571",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-450",
+                "building": "JHN",
+                "room": "102"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "120",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Caton,Summer",
+        "curr_course_code": "ESS 599",
+        "curr_course_name": "SEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "14572",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "14573",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "14574",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ESS 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

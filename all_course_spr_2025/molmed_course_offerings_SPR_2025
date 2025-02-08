@@ -1,0 +1,115 @@
+[
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "17314",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1.5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1200-120",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Liles,W",
+        "curr_course_code": "MOLMED 504",
+        "curr_course_name": "MOL MED TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "17315",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "L",
+        "curr_course_code": "MOLMED 513",
+        "curr_course_name": "CLIN MEDICAL GENET",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17316",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1.5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1200-1250",
+                "building": "HSE",
+                "room": "E214"
+            },
+            {
+                "days": "W",
+                "time": "100-150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Liles,W",
+        "curr_course_code": "MOLMED 540",
+        "curr_course_name": "MED IN ACTION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "17317",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1.5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "900-1020",
+                "building": "SOCC",
+                "room": "224"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Davis,Jennifer",
+        "curr_course_code": "MOLMED 558",
+        "curr_course_name": "OMICS",
+        "curr_course_fulfills": ""
+    }
+]

@@ -371,14 +371,10 @@ year = "2025"
 base = "https://www.washington.edu/students/timeschd/" + season + year + "/"
 # pages = [base + "cse.html"]
 pages = gather_all_prefixes(season, year)
-n = 1
 for page in pages:
-    print(n)
-    print(page)
-    n += 1
-    # record_of_all_courses = traverse_schedule_page(page, season)
-    # s = page.split("/")[-1:][0].split(".")[0]
-    # name = s + "_course_offerings_" + season + "_" + year
-    # json_object = json.dumps(record_of_all_courses, indent=4)
-    # with open(name, "w") as outfile:
-    #     outfile.write(json_object)
+    record_of_all_courses = traverse_schedule_page(page, season)
+    s = page.split("/")[-1:][0].split(".")[0]
+    name = s + "_course_offerings_" + season + "_" + year
+    json_object = json.dumps(record_of_all_courses, indent=4)
+    with open(name, "w") as outfile:
+        outfile.write(json_object)

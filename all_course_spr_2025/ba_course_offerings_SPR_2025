@@ -1,0 +1,272 @@
+[
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10645",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-2",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "830-1020",
+                "building": "DEM",
+                "room": "126"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Fong,Christina",
+        "curr_course_code": "B A 490",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10646",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-4",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "1230-120",
+                "building": "FNDR",
+                "room": "170"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B A 495",
+        "curr_course_name": "BUS INTERNSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10647",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-4",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "MTWTh",
+                "time": "530-820P",
+                "building": "DEM",
+                "room": "102"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B A 495",
+        "curr_course_name": "BUS INTERNSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10648",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-4",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "MTW",
+                "time": "530-750P",
+                "building": "DEM",
+                "room": "104"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B A 495",
+        "curr_course_name": "BUS INTERNSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10649",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "10",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWThF",
+                "time": "830-1220",
+                "building": "PCAR",
+                "room": "390"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B A 502",
+        "curr_course_name": "BUSINESS ADMIN III",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "10650",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "10",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTWThF",
+                "time": "830-1220",
+                "building": "PCAR",
+                "room": "392"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B A 502",
+        "curr_course_name": "BUSINESS ADMIN III",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10655",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B A 560",
+        "curr_course_name": "CO-OP IN BUSINESS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10656",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B A 560",
+        "curr_course_name": "CO-OP IN BUSINESS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10657",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2/4",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B A 578",
+        "curr_course_name": "STRG MGMT PRACTICUM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10658",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2/4",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "B A 578",
+        "curr_course_name": "STRG MGMT PRACTICUM ",
+        "curr_course_fulfills": ""
+    }
+]

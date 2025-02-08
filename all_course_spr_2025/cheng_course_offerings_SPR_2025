@@ -1,0 +1,1271 @@
+[
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "12265",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-3",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "R",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 299",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12266",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "930-1020",
+                "building": "JHN",
+                "room": "075"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Pozzo,Lilo",
+        "curr_course_code": "CHEM E 310",
+        "curr_course_name": "MATERL & ENRGY BAL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12267",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1030-1120",
+                "building": "JHN",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 310",
+        "curr_course_name": "MATERL & ENRGY BAL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12268",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-1220",
+                "building": "CHL",
+                "room": "015"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 310",
+        "curr_course_name": "MATERL & ENRGY BAL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12269",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1230-120",
+                "building": "DEN",
+                "room": "303"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 375",
+        "curr_course_name": "CH E COMPUTR SKILLS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12270",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1230-120",
+                "building": "CHL",
+                "room": "015"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "45",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Prybutok,Alex",
+        "curr_course_code": "CHEM E 436",
+        "curr_course_name": "CHEM ENGR LAB I",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12271",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-320",
+                "building": "SIG",
+                "room": "229"
+            },
+            {
+                "days": "T",
+                "time": "230-520"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 436",
+        "curr_course_name": "CHEM ENGR LAB I",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12272",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "ECE",
+                "room": "025"
+            },
+            {
+                "days": "W",
+                "time": "230-520"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 436",
+        "curr_course_name": "CHEM ENGR LAB I",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12273",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-320",
+                "building": "MGH",
+                "room": "097"
+            },
+            {
+                "days": "Th",
+                "time": "230-520"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 436",
+        "curr_course_name": "CHEM ENGR LAB I",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12274",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1000-1120",
+                "building": "BNS",
+                "room": "115"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Berg,John",
+        "curr_course_code": "CHEM E 455",
+        "curr_course_name": "SURF COLL SCI LAB",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12275",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-520",
+                "building": "BNS",
+                "room": "123"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 455",
+        "curr_course_name": "SURF COLL SCI LAB",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12276",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-520",
+                "building": "BNS",
+                "room": "123"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 455",
+        "curr_course_name": "SURF COLL SCI LAB",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12277",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-520",
+                "building": "BNS",
+                "room": "123"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 455",
+        "curr_course_name": "SURF COLL SCI LAB",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12278",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1230-120",
+                "building": "MOR",
+                "room": "220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "75",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Adler,Stuart",
+        "curr_course_code": "CHEM E 457",
+        "curr_course_name": "PRIN MOLECULAR ENGR ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12279",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1120",
+                "building": "ARC",
+                "room": "G070"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Bergsman,David S",
+        "curr_course_code": "CHEM E 458",
+        "curr_course_name": "SURFACE ANALYSIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12280",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1120",
+                "building": "MGH",
+                "room": "278"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 460",
+        "curr_course_name": "POLYCHEM LAB",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12281",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "130-520",
+                "building": "BNS",
+                "room": "121"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 460",
+        "curr_course_name": "POLYCHEM LAB",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12282",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-520",
+                "building": "BNS",
+                "room": "121"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 460",
+        "curr_course_name": "POLYCHEM LAB",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12283",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "930-1020",
+                "building": "HRC",
+                "room": "155"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "29",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Prybutok,Alex",
+        "curr_course_code": "CHEM E 467",
+        "curr_course_name": "BIOCHEMICAL ENGRING ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12284",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1250",
+                "building": "BAG",
+                "room": "260"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Marchand,Jorge A",
+        "curr_course_code": "CHEM E 477",
+        "curr_course_name": "ADV SYNTHETIC BIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12285",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "830-920",
+                "building": "JHN",
+                "room": "175"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Rorrer,Julie",
+        "curr_course_code": "CHEM E 486",
+        "curr_course_name": "PROCESS DESIGN II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12286",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "830-1120",
+                "building": "CHL",
+                "room": "025"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 486",
+        "curr_course_name": "PROCESS DESIGN II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12287",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "130-420",
+                "building": "MGH",
+                "room": "097"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 486",
+        "curr_course_name": "PROCESS DESIGN II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12288",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "830-1120",
+                "building": "CHL",
+                "room": "025"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 486",
+        "curr_course_name": "PROCESS DESIGN II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12289",
+        "section": "AD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-420",
+                "building": "SAV",
+                "room": "169"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 486",
+        "curr_course_name": "PROCESS DESIGN II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12290",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1000-1120",
+                "building": "HCK",
+                "room": "132"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Pun,Suzie H",
+        "curr_course_code": "CHEM E 491",
+        "curr_course_name": "CONTROLLED REL SYS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12291",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Beck,David A.",
+        "curr_course_code": "CHEM E 497",
+        "curr_course_name": "DESIGN SPEC PROJ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12292",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MT",
+                "time": "930-1020",
+                "building": "MGH",
+                "room": "085"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schwartz,Daniel",
+        "curr_course_code": "CHEM E 497",
+        "curr_course_name": "DESIGN SPEC PROJ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12293",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1130-1220",
+                "building": "MGH",
+                "room": "287"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Stuve,Eric M.",
+        "curr_course_code": "CHEM E 498",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12294",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "230-350",
+                "building": "SIG",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Hillhouse,Hugh W.",
+        "curr_course_code": "CHEM E 498",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12295",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "130-220",
+                "building": "MGH",
+                "room": "238"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Sherman,Zachary",
+        "curr_course_code": "CHEM E 498",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "12296",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-6",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "R",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "12297",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-6",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "HR",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12298",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-420",
+                "building": "SIG",
+                "room": "226"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "16",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Gamble,Lara",
+        "curr_course_code": "CHEM E 511",
+        "curr_course_name": "BIOMATERIAL SEMINAR ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "12299",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "330-450",
+                "building": "PAA",
+                "room": "A102"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "80",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "DeForest,Cole A.",
+        "curr_course_code": "CHEM E 523",
+        "curr_course_name": "SMNR IN CHEM ENGR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12300",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-350",
+                "building": "LOW",
+                "room": "222"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Holmberg,Vincent C",
+        "curr_course_code": "CHEM E 535",
+        "curr_course_name": "NANOMAT CHEM ENGR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "12301",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1220",
+                "building": "NAN",
+                "room": "181"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Beck,David A. C.",
+        "curr_course_code": "CHEM E 547",
+        "curr_course_name": "DATA SCI CAPSTONE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12302",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1030-1120",
+                "building": "ARC",
+                "room": "G070"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Bergsman,David S",
+        "curr_course_code": "CHEM E 558",
+        "curr_course_name": "SURFACE ANALYSIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12303",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1130-1250",
+                "building": "BAG",
+                "room": "260"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Marchand,Jorge A",
+        "curr_course_code": "CHEM E 577",
+        "curr_course_name": "ADV SYNTHETIC BIO",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12304",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "130-220",
+                "building": "MGH",
+                "room": "238"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Sherman,Zachary",
+        "curr_course_code": "CHEM E 599",
+        "curr_course_name": "CURRENT TPCS CH E",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12305",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "1130-1220",
+                "building": "MGH",
+                "room": "287"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Stuve,Eric M.",
+        "curr_course_code": "CHEM E 599",
+        "curr_course_name": "CURRENT TPCS CH E",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "12306",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "230-350",
+                "building": "SIG",
+                "room": "226"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Hillhouse,Hugh W.",
+        "curr_course_code": "CHEM E 599",
+        "curr_course_name": "CURRENT TPCS CH E",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "12307",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 600",
+        "curr_course_name": "INDEPENDNT STDY/RSH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "12308",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "35",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "12309",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "CHEM E 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

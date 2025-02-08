@@ -1,0 +1,3413 @@
+[
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16080",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-320",
+                "building": "LAW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "70",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Feldman,Jeffrey",
+        "curr_course_code": "LAW B 500",
+        "curr_course_name": "CIVIL PROCEDURE II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16081",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-430",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "36",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Kruckeberg,Kurt",
+        "curr_course_code": "LAW B 500",
+        "curr_course_name": "CIVIL PROCEDURE II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16082",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-430",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2306",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Kruckeberg,Kurt",
+        "curr_course_code": "LAW B 500",
+        "curr_course_name": "CIVIL PROCEDURE II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16083",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-430",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2306",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Kruckeberg,Kurt",
+        "curr_course_code": "LAW B 500",
+        "curr_course_name": "CIVIL PROCEDURE II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16084",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-420",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2080",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Kruckeberg,Kurt",
+        "curr_course_code": "LAW B 500",
+        "curr_course_name": "CIVIL PROCEDURE II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16085",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-430",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Kruckeberg,Kurt",
+        "curr_course_code": "LAW B 500",
+        "curr_course_name": "CIVIL PROCEDURE II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16086",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-430",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Kruckeberg,Kurt",
+        "curr_course_code": "LAW B 500",
+        "curr_course_name": "CIVIL PROCEDURE II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16087",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "133"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "48",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Chazaro,Angelica",
+        "curr_course_code": "LAW B 510",
+        "curr_course_name": "PROBS PROF RESPONS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16088",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "133"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Chazaro,Angelica",
+        "curr_course_code": "LAW B 510",
+        "curr_course_name": "PROBS PROF RESPONS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16089",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "133"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$4612",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Chazaro,Angelica",
+        "curr_course_code": "LAW B 510",
+        "curr_course_name": "PROBS PROF RESPONS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16090",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-330",
+                "building": "Chazaro,Angelica",
+                "room": "Open"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$4160",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 510",
+        "curr_course_name": "PROBS PROF RESPONS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16091",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Hudgins,Zack",
+        "curr_course_code": "LAW B 512",
+        "curr_course_name": "LEGIS & PUB POLICY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16092",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Hudgins,Zack",
+        "curr_course_code": "LAW B 512",
+        "curr_course_name": "LEGIS & PUB POLICY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16093",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Hudgins,Zack",
+        "curr_course_code": "LAW B 512",
+        "curr_course_name": "LEGIS & PUB POLICY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16094",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Hudgins,Zack",
+        "curr_course_code": "LAW B 512",
+        "curr_course_name": "LEGIS & PUB POLICY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21454",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "LAW",
+                "room": "441"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 513",
+        "curr_course_name": "ADVANCED EVIDENCE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16095",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "330-520",
+                "building": "LAW",
+                "room": "441"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "14",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Frost,Ann",
+        "curr_course_code": "LAW B 514",
+        "curr_course_name": "STREET LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16096",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "212-213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Ambrose,Kimberly D",
+        "curr_course_code": "LAW B 517",
+        "curr_course_name": "JUV JUST SEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16097",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "212-213"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "2",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Ambrose,Kimberly D",
+        "curr_course_code": "LAW B 517",
+        "curr_course_name": "JUV JUST SEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16098",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "530-720P",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Wong,Raam",
+        "curr_course_code": "LAW B 521",
+        "curr_course_name": "TRIAL ADVOCACY II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16099",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "530-720P",
+                "building": "LAW",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 521",
+        "curr_course_name": "TRIAL ADVOCACY II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16100",
+        "section": "AB",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "530-720P",
+                "building": "LAW",
+                "room": "133"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 521",
+        "curr_course_name": "TRIAL ADVOCACY II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16101",
+        "section": "AC",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "530-720P",
+                "building": "LAW",
+                "room": "133"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 521",
+        "curr_course_name": "TRIAL ADVOCACY II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16102",
+        "section": "AD",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "530-720P",
+                "building": "LAW",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 521",
+        "curr_course_name": "TRIAL ADVOCACY II",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16103",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "810-1020",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Logan,Ben H.",
+        "curr_course_code": "LAW B 523",
+        "curr_course_name": "NEGOTIATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16104",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "810-1020",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Logan,Ben H.",
+        "curr_course_code": "LAW B 523",
+        "curr_course_name": "NEGOTIATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16105",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "810-1020",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "$3060",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Logan,Ben H.",
+        "curr_course_code": "LAW B 523",
+        "curr_course_name": "NEGOTIATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16106",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "810-1020",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "$3420",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Logan,Ben H.",
+        "curr_course_code": "LAW B 523",
+        "curr_course_name": "NEGOTIATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16107",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "530-730P",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "16",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Muchinsky,Brian",
+        "curr_course_code": "LAW B 523",
+        "curr_course_name": "NEGOTIATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16108",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "530-730P",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Muchinsky,Brian",
+        "curr_course_code": "LAW B 523",
+        "curr_course_name": "NEGOTIATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16109",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "530-730P",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "$3060",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Muchinsky,Brian",
+        "curr_course_code": "LAW B 523",
+        "curr_course_name": "NEGOTIATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16110",
+        "section": "H",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "530-730P",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "$3420",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Muchinsky,Brian",
+        "curr_course_code": "LAW B 523",
+        "curr_course_name": "NEGOTIATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16111",
+        "section": "I",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "530-730P",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "$4612",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Muchinsky,Brian",
+        "curr_course_code": "LAW B 523",
+        "curr_course_name": "NEGOTIATION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16112",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "L201"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Cimini,Christine N.",
+        "curr_course_code": "LAW B 524",
+        "curr_course_name": "ADR SMNR: RESTR JUST",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16113",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "L201"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Cimini,Christine N.",
+        "curr_course_code": "LAW B 524",
+        "curr_course_name": "ADR SMNR: RESTR JUST",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16114",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "L201"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3060",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Cimini,Christine N.",
+        "curr_course_code": "LAW B 524",
+        "curr_course_name": "ADR SMNR: RESTR JUST",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16115",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "L201"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3420",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Cimini,Christine N.",
+        "curr_course_code": "LAW B 524",
+        "curr_course_name": "ADR SMNR: RESTR JUST",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16116",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-345",
+                "building": "Ford,Elizabeth",
+                "room": "G"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "2",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 528",
+        "curr_course_name": "WRKS RIGHTS CLINIC",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16117",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "19",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Eberhard,Eric",
+        "curr_course_code": "LAW B 529",
+        "curr_course_name": "ADV ENV LAW & PRACT ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16118",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Eberhard,Eric",
+        "curr_course_code": "LAW B 529",
+        "curr_course_name": "ADV ENV LAW & PRACT ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16119",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3060",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Eberhard,Eric",
+        "curr_course_code": "LAW B 529",
+        "curr_course_name": "ADV ENV LAW & PRACT ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16120",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott A",
+        "curr_course_code": "LAW B 530",
+        "curr_course_name": "JUDICIAL EXTERNSHIP ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21632",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott",
+        "curr_course_code": "LAW B 530",
+        "curr_course_name": "JUDICIAL EXTERNSHIP ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16121",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "330-520",
+                "building": "LAW",
+                "room": "212-213"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Olazcon Mozo,Georgina",
+        "curr_course_code": "LAW B 531",
+        "curr_course_name": "IMMIG LAW CLINIC",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16122",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-4",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 532",
+        "curr_course_name": "ADV CLINIC",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16123",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott A",
+        "curr_course_code": "LAW B 535",
+        "curr_course_name": "LEGISLATIVE EXTERN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21633",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott A",
+        "curr_course_code": "LAW B 535",
+        "curr_course_name": "LEGISLATIVE EXTERN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16124",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "16",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Winn,Jane K",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16125",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Winn,Jane K",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16126",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3459",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Winn,Jane K",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16127",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2229",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Winn,Jane K",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16128",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Winn,Jane K",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16129",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "500-650P",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "16",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Dixon,Heath",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16130",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "500-650P",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Dixon,Heath",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "16131",
+        "section": "H",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "500-650P",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3459",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Dixon,Heath",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16132",
+        "section": "I",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "500-650P",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3459",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Dixon,Heath",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16133",
+        "section": "J",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "500-650P",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Dixon,Heath",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16134",
+        "section": "K",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "500-650P",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Dixon,Heath",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16135",
+        "section": "L",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "500-650P",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3120",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Dixon,Heath",
+        "curr_course_code": "LAW B 536",
+        "curr_course_name": "DRAFT BUS DOCUMNTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16136",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott A",
+        "curr_course_code": "LAW B 538",
+        "curr_course_name": "AGENCY EXTERNSHIPS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21634",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott A",
+        "curr_course_code": "LAW B 538",
+        "curr_course_name": "AGENCY EXTERNSHIPS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16137",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott A",
+        "curr_course_code": "LAW B 539",
+        "curr_course_name": "PUB INT LAW EXTERN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21635",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott A",
+        "curr_course_code": "LAW B 539",
+        "curr_course_name": "PUB INT LAW EXTERN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16138",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "CDH",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Pekkanen,Saadia M.",
+        "curr_course_code": "LAW B 544",
+        "curr_course_name": "SPACE LAW POLICY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16139",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "CDH",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3060",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Pekkanen,Saadia M.",
+        "curr_course_code": "LAW B 544",
+        "curr_course_name": "SPACE LAW POLICY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16140",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "CDH",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "2",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Pekkanen,Saadia M.",
+        "curr_course_code": "LAW B 544",
+        "curr_course_name": "SPACE LAW POLICY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16141",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1230-220",
+                "building": "CDH",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3420",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Pekkanen,Saadia M.",
+        "curr_course_code": "LAW B 544",
+        "curr_course_name": "SPACE LAW POLICY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16142",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "21",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Page,Norm",
+        "curr_course_code": "LAW B 546",
+        "curr_course_name": "CROSS-BORDER BUS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16143",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "9",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Page,Norm",
+        "curr_course_code": "LAW B 546",
+        "curr_course_name": "CROSS-BORDER BUS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16144",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3060",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Page,Norm",
+        "curr_course_code": "LAW B 546",
+        "curr_course_name": "CROSS-BORDER BUS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16145",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3420",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Page,Norm",
+        "curr_course_code": "LAW B 546",
+        "curr_course_name": "CROSS-BORDER BUS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16146",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "32",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Bailey,William",
+        "curr_course_code": "LAW B 548",
+        "curr_course_name": "FORENSICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16147",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-4",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 552",
+        "curr_course_name": "TUTOR IN COMPAR LAW ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16148",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-4",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 552",
+        "curr_course_name": "TUTOR IN COMPAR LAW ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16149",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-4",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 552",
+        "curr_course_name": "TUTOR IN COMPAR LAW ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16150",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-4",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 552",
+        "curr_course_name": "TUTOR IN COMPAR LAW ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16151",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "530-720P",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Cadaret,David",
+        "curr_course_code": "LAW B 557",
+        "curr_course_name": "GRAD WRITING SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16152",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "530-720P",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "7",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Cadaret,David",
+        "curr_course_code": "LAW B 557",
+        "curr_course_name": "GRAD WRITING SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16153",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "530-720P",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Cadaret,David",
+        "curr_course_code": "LAW B 557",
+        "curr_course_name": "GRAD WRITING SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16154",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "530-720P",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Cadaret,David",
+        "curr_course_code": "LAW B 557",
+        "curr_course_name": "GRAD WRITING SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16155",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "LaPrade,Steven M",
+        "curr_course_code": "LAW B 557",
+        "curr_course_name": "GRAD WRITING SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16156",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "LaPrade,Steven M",
+        "curr_course_code": "LAW B 557",
+        "curr_course_name": "GRAD WRITING SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16157",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "LaPrade,Steven M",
+        "curr_course_code": "LAW B 557",
+        "curr_course_name": "GRAD WRITING SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16158",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott A",
+        "curr_course_code": "LAW B 560",
+        "curr_course_name": "CRIM JUSTICE EXTERN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21636",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-18",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Schumacher,Scott A",
+        "curr_course_code": "LAW B 560",
+        "curr_course_name": "CRIM JUSTICE EXTERN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16159",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "17",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Espinosa,Deborah K.",
+        "curr_course_code": "LAW B 564",
+        "curr_course_name": "WOMEN, POVERTY, NRM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16160",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Espinosa,Deborah K.",
+        "curr_course_code": "LAW B 564",
+        "curr_course_name": "WOMEN, POVERTY, NRM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16161",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1530",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Espinosa,Deborah K.",
+        "curr_course_code": "LAW B 564",
+        "curr_course_name": "WOMEN, POVERTY, NRM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16162",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "119"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1710",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Espinosa,Deborah K.",
+        "curr_course_code": "LAW B 564",
+        "curr_course_name": "WOMEN, POVERTY, NRM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16163",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "530-730P",
+                "building": "LAW",
+                "room": "212-213"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "32",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "West,Jessica L",
+        "curr_course_code": "LAW B 567",
+        "curr_course_name": "GEN EXTERN PERSP SM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16164",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "530-730P",
+                "building": "LAW",
+                "room": "212-213"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "32",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "West,Jessica L",
+        "curr_course_code": "LAW B 567",
+        "curr_course_name": "GEN EXTERN PERSP SM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21267",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "530-730P",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Eisenberg,Adam",
+        "curr_course_code": "LAW B 567",
+        "curr_course_name": "GEN EXTERN PERSP SM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "21266",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "530-730P",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "O",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Eisenberg,Adam",
+        "curr_course_code": "LAW B 567",
+        "curr_course_name": "GEN EXTERN PERSP SM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16165",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "18",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Giovarelli,Renee A",
+        "curr_course_code": "LAW B 578",
+        "curr_course_name": "PROBS ECON DEV SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16166",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Giovarelli,Renee A",
+        "curr_course_code": "LAW B 578",
+        "curr_course_name": "PROBS ECON DEV SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16167",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1530",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Giovarelli,Renee A",
+        "curr_course_code": "LAW B 578",
+        "curr_course_name": "PROBS ECON DEV SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16168",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1710",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Giovarelli,Renee A",
+        "curr_course_code": "LAW B 578",
+        "curr_course_name": "PROBS ECON DEV SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16169",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "2",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Giovarelli,Renee A",
+        "curr_course_code": "LAW B 578",
+        "curr_course_name": "PROBS ECON DEV SEM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16170",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "12",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 580",
+        "curr_course_name": "EXTERNSHIP TUTORIAL ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16171",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Mills,Monte",
+        "curr_course_code": "LAW B 581",
+        "curr_course_name": "LAND & AMER CULTURE ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16172",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "2",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Mills,Monte",
+        "curr_course_code": "LAW B 581",
+        "curr_course_name": "LAND & AMER CULTURE ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16173",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Close",
+        "open_or_closed": "Closed",
+        "professor_name": "Mills,Monte",
+        "curr_course_code": "LAW B 581",
+        "curr_course_name": "LAND & AMER CULTURE ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16174",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "LAW",
+                "room": "118"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Mills,Monte",
+        "curr_course_code": "LAW B 581",
+        "curr_course_name": "LAND & AMER CULTURE ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "16175",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-8",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 582",
+        "curr_course_name": "INTL DEV PRACTICUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16177",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "530-700P",
+                "building": "LAW",
+                "room": "115"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Ramasastry,Anita",
+        "curr_course_code": "LAW B 588",
+        "curr_course_name": "LDRSHIP IN SUSTAIN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16178",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "530-700P",
+                "building": "LAW",
+                "room": "115"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Ramasastry,Anita",
+        "curr_course_code": "LAW B 588",
+        "curr_course_name": "LDRSHIP IN SUSTAIN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16179",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "530-700P",
+                "building": "LAW",
+                "room": "115"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "$1530",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Ramasastry,Anita",
+        "curr_course_code": "LAW B 588",
+        "curr_course_name": "LDRSHIP IN SUSTAIN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16180",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "530-700P",
+                "building": "LAW",
+                "room": "115"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1710",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Ramasastry,Anita",
+        "curr_course_code": "LAW B 588",
+        "curr_course_name": "LDRSHIP IN SUSTAIN",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16181",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "23",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Wood,Kyle",
+        "curr_course_code": "LAW B 595",
+        "curr_course_name": "INTL HUMAN LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16182",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Wood,Kyle",
+        "curr_course_code": "LAW B 595",
+        "curr_course_name": "INTL HUMAN LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16183",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Wood,Kyle",
+        "curr_course_code": "LAW B 595",
+        "curr_course_name": "INTL HUMAN LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16184",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Wood,Kyle",
+        "curr_course_code": "LAW B 595",
+        "curr_course_name": "INTL HUMAN LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16185",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "330-520",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Wood,Kyle",
+        "curr_course_code": "LAW B 595",
+        "curr_course_name": "INTL HUMAN LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16186",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "LAW",
+                "room": "222"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Calo,Ryan",
+        "curr_course_code": "LAW B 599",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16187",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "LAW",
+                "room": "222"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Calo,Ryan",
+        "curr_course_code": "LAW B 599",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16188",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "LAW",
+                "room": "222"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2306",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Calo,Ryan",
+        "curr_course_code": "LAW B 599",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16189",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "LAW",
+                "room": "222"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1530",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW B 599",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16190",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "130-320",
+                "building": "LAW",
+                "room": "222"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1710",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Calo,Ryan",
+        "curr_course_code": "LAW B 599",
+        "curr_course_name": "SPECIAL TOPICS",
+        "curr_course_fulfills": ""
+    }
+]

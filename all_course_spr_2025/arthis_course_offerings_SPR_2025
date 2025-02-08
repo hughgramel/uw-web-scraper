@@ -1,0 +1,999 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "10509",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "830-950",
+                "building": "THO",
+                "room": "101"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rice,Kolya M.",
+        "curr_course_code": "ART H 203",
+        "curr_course_name": "SURV WEST ART-MOD",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10510",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "930-1020",
+                "building": "ART",
+                "room": "004"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Markey,Veronica",
+        "curr_course_code": "ART H 203",
+        "curr_course_name": "SURV WEST ART-MOD",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10511",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1030-1120",
+                "building": "ART",
+                "room": "004"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 203",
+        "curr_course_name": "SURV WEST ART-MOD",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10512",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1130-1220",
+                "building": "ART",
+                "room": "004"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 203",
+        "curr_course_name": "SURV WEST ART-MOD",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10513",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1230-120",
+                "building": "ART",
+                "room": "004"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 203",
+        "curr_course_name": "SURV WEST ART-MOD",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10514",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "100-220",
+                "building": "OTB",
+                "room": "014"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rounthwaite,Adair",
+        "curr_course_code": "ART H 209",
+        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10515",
+        "section": "AA",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1020",
+                "building": "ART",
+                "room": "006"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 209",
+        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10516",
+        "section": "AB",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1030-1120",
+                "building": "ART",
+                "room": "006"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 209",
+        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10517",
+        "section": "AC",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1130-1220",
+                "building": "ART",
+                "room": "006"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 209",
+        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10518",
+        "section": "AD",
+        "isQuiz": "1",
+        "isLab": "0",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1230-120",
+                "building": "ART",
+                "room": "006"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 209",
+        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "21264",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "100-220",
+                "building": "SMI",
+                "room": "102"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "65",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Enderle,Melanie",
+        "curr_course_code": "ART H 209",
+        "curr_course_name": "ART H THEMES/TOPICS ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10519",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "800-950",
+                "building": "DEN",
+                "room": "303"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "100",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 212",
+        "curr_course_name": "CHINESE ART",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10520",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "ART",
+                "room": "229"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "65",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 309",
+        "curr_course_name": "TOPICS IN ART HIST",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10521",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "GWN",
+                "room": "301"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "65",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Lingo,Estelle",
+        "curr_course_code": "ART H 309",
+        "curr_course_name": "TOPICS IN ART HIST",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10522",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1000-1150",
+                "building": "BRK",
+                "room": "007"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "McClelland,Ashley",
+        "curr_course_code": "ART H 309",
+        "curr_course_name": "TOPICS IN ART HIST",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "21265",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "930-1020",
+                "building": "CDH",
+                "room": "139"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 0,
+        "max_capacity": "65",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Enderle,Melanie N.",
+        "curr_course_code": "ART H 309",
+        "curr_course_name": "TOPICS IN ART HIST",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10523",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "100-220",
+                "building": "RAI",
+                "room": "121"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "30",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Levin-Richardson,Sarah",
+        "curr_course_code": "ART H 342",
+        "curr_course_name": "ROMAN ART & ARCHLGY ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10524",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1100-1250",
+                "building": "ART",
+                "room": "003"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "65",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Lingo,Stuart",
+        "curr_course_code": "ART H 361",
+        "curr_course_name": "ITALIAN REN ART",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "10525",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-350",
+                "building": "ART",
+                "room": "317"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Baez,Jennifer",
+        "curr_course_code": "ART H 400",
+        "curr_course_name": "ART H AND CRITICISM ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "10526",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1000-1120",
+                "building": "ART",
+                "room": "312"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Rice,Kolya",
+        "curr_course_code": "ART H 400",
+        "curr_course_name": "ART H AND CRITICISM ",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10527",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1000-1120",
+                "building": "ART",
+                "room": "317"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Chusid,Miriam",
+        "curr_course_code": "ART H 416",
+        "curr_course_name": "JAPANESE ART TOPICS ",
+        "curr_course_fulfills": [
+            "A&H/SSc"
+        ]
+    },
+    {
+        "restrictions": [],
+        "add_code": "10528",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MWF",
+                "time": "930-1020",
+                "building": "THO",
+                "room": "325"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Topper,Kathryn",
+        "curr_course_code": "ART H 442",
+        "curr_course_name": "GREEK PAINTING",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10529",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 498",
+        "curr_course_name": "UNDERGRAD PRACTICUM ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10530",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 499",
+        "curr_course_name": "INDIVIDUAL PROJECTS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "10531",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "230-350",
+                "building": "MGH",
+                "room": "291"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Baez,Jennifer",
+        "curr_course_code": "ART H 509",
+        "curr_course_name": "SEM TOPICS ART HIST ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "10532",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1000-1120",
+                "building": "SAV",
+                "room": "167"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Chusid,Miriam",
+        "curr_course_code": "ART H 516",
+        "curr_course_name": "JAPANESE ART TOPICS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "10533",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "230-420",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Levin-Richardson,Sarah",
+        "curr_course_code": "ART H 541",
+        "curr_course_name": "SEMINAR GRK ROM ART ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "10534",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "300-550",
+                "building": "ART",
+                "room": "312"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Lingo,Stuart",
+        "curr_course_code": "ART H 561",
+        "curr_course_name": "SEMINAR ITALIAN REN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "10535",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 597",
+        "curr_course_name": "GRADUATE INTERNSHIP ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10536",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 598",
+        "curr_course_name": "MASTER'S PRACTICUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10537",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "45",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 599",
+        "curr_course_name": "RDG-WRTG PROJECTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10538",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 599",
+        "curr_course_name": "RDG-WRTG PROJECTS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10539",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "10540",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "VAR",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 602",
+        "curr_course_name": "IND STDY/RSCH ROME",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10541",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "10542",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "ART H 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]

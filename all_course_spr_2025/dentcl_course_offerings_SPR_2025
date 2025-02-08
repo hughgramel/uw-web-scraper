@@ -1,0 +1,373 @@
+[
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13216",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "/1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "62",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Rothen,Marilynn",
+        "curr_course_code": "DENTCL 605",
+        "curr_course_name": "FOUNDATIONS OF IPE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13218",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "-1",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "62",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Streiff,Kerry",
+        "curr_course_code": "DENTCL 607",
+        "curr_course_name": "ETHICS/JURISPRUDENCE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13220",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "-1",
+        "credits_vary": "1",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "730-920",
+                "building": "HSD",
+                "room": "D-209"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "62",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Greene,Rachel E",
+        "curr_course_code": "DENTCL 609",
+        "curr_course_name": "PRACTICE MGMNT 3",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13222",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "8",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MF",
+                "time": "730-920",
+                "building": "HST",
+                "room": "T473"
+            },
+            {
+                "days": "MTWThF",
+                "time": "930-1150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$748",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Flake,Natasha M.",
+        "curr_course_code": "DENTCL 633",
+        "curr_course_name": "ENDO CLERKSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13224",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "8",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MF",
+                "time": "730-920",
+                "building": "HST",
+                "room": "T359"
+            },
+            {
+                "days": "MTWThF",
+                "time": "930-1150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$748",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Evans,John",
+        "curr_course_code": "DENTCL 637",
+        "curr_course_name": "OMS CLERKSHIP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13226",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "8",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MF",
+                "time": "730-920",
+                "building": "HSD",
+                "room": "D209"
+            },
+            {
+                "days": "MTWThF",
+                "time": "930-1150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$748",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Bayirli,Burcu",
+        "curr_course_code": "DENTCL 638",
+        "curr_course_name": "PEDO ORTH CLERKSHIP ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13228",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "62",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Silverstein,Bruce D.",
+        "curr_course_code": "DENTCL 650",
+        "curr_course_name": "BIOMD FNDS CLIN DENT",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13230",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TWTh",
+                "time": "730-920",
+                "building": "HSD",
+                "room": "D-209"
+            },
+            {
+                "days": "MTWThF",
+                "time": "930-1150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$183",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Dogan,Sami",
+        "curr_course_code": "DENTCL 661",
+        "curr_course_name": "PROS CLERKSHIP SG",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13232",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TWTh",
+                "time": "730-920",
+                "building": "HSD",
+                "room": "D-209"
+            },
+            {
+                "days": "MTWThF",
+                "time": "930-1150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$183",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Daubert,Diane M.",
+        "curr_course_code": "DENTCL 662",
+        "curr_course_name": "PERIO CLERKSHIP SG",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13234",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TWTh",
+                "time": "730-920",
+                "building": "HSD",
+                "room": "D-209"
+            },
+            {
+                "days": "MTWThF",
+                "time": "930-1150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$183",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Anderson,J Martin",
+        "curr_course_code": "DENTCL 664",
+        "curr_course_name": "OPER CLERKSHIP SG",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13236",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TWTh",
+                "time": "730-920",
+                "building": "HSD",
+                "room": "D-209"
+            },
+            {
+                "days": "MTWThF",
+                "time": "930-1150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$183",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Taylor,Stuart",
+        "curr_course_code": "DENTCL 665",
+        "curr_course_name": "DXTX CLERKSHIP SG",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13238",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TWTh",
+                "time": "730-920",
+                "building": "HSD",
+                "room": "D-209"
+            },
+            {
+                "days": "MTWThF",
+                "time": "930-1150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$183",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Christensen,Rolf",
+        "curr_course_code": "DENTCL 666",
+        "curr_course_name": "ORALM CLERKSHIP SG",
+        "curr_course_fulfills": ""
+    }
+]

@@ -1,0 +1,1025 @@
+[
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16282",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-1030",
+                "building": "Eaton,Magali",
+                "room": "Dieny"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2080",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW P 505",
+        "curr_course_name": "INTERNATIONAL IP LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16283",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-1030",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "22",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Eaton,Magali Dieny",
+        "curr_course_code": "LAW P 505",
+        "curr_course_name": "INTERNATIONAL IP LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16284",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-1030",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1530",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Eaton,Magali Dieny",
+        "curr_course_code": "LAW P 505",
+        "curr_course_name": "INTERNATIONAL IP LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16285",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-1030P",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1710",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Eaton,Magali Dieny",
+        "curr_course_code": "LAW P 505",
+        "curr_course_name": "INTERNATIONAL IP LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [],
+        "add_code": "21513",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-1030",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "JO",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Eaton,Magali Dieny",
+        "curr_course_code": "LAW P 505",
+        "curr_course_name": "INTERNATIONAL IP LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "16286",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "$1153",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW P 528",
+        "curr_course_name": "IP LAW PRACTICUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "16287",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "$2306",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "5",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW P 528",
+        "curr_course_name": "IP LAW PRACTICUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "16288",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "$3459",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "15",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "LAW P 528",
+        "curr_course_name": "IP LAW PRACTICUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16289",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "400-530",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3459",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "McGowan,Don",
+        "curr_course_code": "LAW P 535",
+        "curr_course_name": "ENTERTAINMENT LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16290",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "400-530",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "63",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "McGowan,Don",
+        "curr_course_code": "LAW P 535",
+        "curr_course_name": "ENTERTAINMENT LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16291",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "400-530",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "McGowan,Don",
+        "curr_course_code": "LAW P 535",
+        "curr_course_name": "ENTERTAINMENT LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16292",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "400-530",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "McGowan,Don",
+        "curr_course_code": "LAW P 535",
+        "curr_course_name": "ENTERTAINMENT LAW",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16293",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "850-1020",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3459",
+        "other_codes": "%J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Nicolas,Peter",
+        "curr_course_code": "LAW P 540",
+        "curr_course_name": "MUSIC INDUSTRY DEALS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16294",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "850-1020",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "%J",
+        "is_estimate": 0,
+        "max_capacity": "38",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Nicolas,Peter",
+        "curr_course_code": "LAW P 540",
+        "curr_course_name": "MUSIC INDUSTRY DEALS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16295",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "850-1020",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "%J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Nicolas,Peter",
+        "curr_course_code": "LAW P 540",
+        "curr_course_name": "MUSIC INDUSTRY DEALS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16296",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "850-1020",
+                "building": "LAW",
+                "room": "207"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "%J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Nicolas,Peter",
+        "curr_course_code": "LAW P 540",
+        "curr_course_name": "MUSIC INDUSTRY DEALS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16297",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$3459",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Sfekas,James S.",
+        "curr_course_code": "LAW P 547",
+        "curr_course_name": "LEG PROT COMP SOFTW ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16298",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "11",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Sfekas,James S.",
+        "curr_course_code": "LAW P 547",
+        "curr_course_name": "LEG PROT COMP SOFTW ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16299",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Sfekas,James S.",
+        "curr_course_code": "LAW P 547",
+        "curr_course_name": "LEG PROT COMP SOFTW ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16300",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Sfekas,James S.",
+        "curr_course_code": "LAW P 547",
+        "curr_course_name": "LEG PROT COMP SOFTW ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16301",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "830-1020",
+                "building": "LAW",
+                "room": "127"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "1",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Sfekas,James S.",
+        "curr_course_code": "LAW P 547",
+        "curr_course_name": "LEG PROT COMP SOFTW ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16302",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$4612",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Harwood,Eric",
+        "curr_course_code": "LAW P 550",
+        "curr_course_name": "PATENT PROSECUTION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16303",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "11",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Harwood,Eric",
+        "curr_course_code": "LAW P 550",
+        "curr_course_name": "PATENT PROSECUTION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16304",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2295",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Harwood,Eric",
+        "curr_course_code": "LAW P 550",
+        "curr_course_name": "PATENT PROSECUTION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16305",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "330-530",
+                "building": "LAW",
+                "room": "138"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2565",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Harwood,Eric",
+        "curr_course_code": "LAW P 550",
+        "curr_course_name": "PATENT PROSECUTION",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16306",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2306",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Nguyen,Xuanthao N.",
+        "curr_course_code": "LAW P 589",
+        "curr_course_name": "IP INNOV SCI TECH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16307",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "24",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Nguyen,Xuanthao N.",
+        "curr_course_code": "LAW P 589",
+        "curr_course_name": "IP INNOV SCI TECH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16308",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "2",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Nguyen,Xuanthao N.",
+        "curr_course_code": "LAW P 589",
+        "curr_course_name": "IP INNOV SCI TECH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16309",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1530",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Nguyen,Xuanthao N.",
+        "curr_course_code": "LAW P 589",
+        "curr_course_name": "IP INNOV SCI TECH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16310",
+        "section": "E",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$1710",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Nguyen,Xuanthao N.",
+        "curr_course_code": "LAW P 589",
+        "curr_course_name": "IP INNOV SCI TECH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "21514",
+        "section": "F",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "130-330",
+                "building": "LAW",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2306",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Nguyen,Xuanthao N.",
+        "curr_course_code": "LAW P 589",
+        "curr_course_name": "IP INNOV SCI TECH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16311",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "500-735P",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2306",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Vana,Jim",
+        "curr_course_code": "LAW P 590",
+        "curr_course_name": "IP LAW TUTORIAL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16312",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "500-735P",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Vana,Jim",
+        "curr_course_code": "LAW P 590",
+        "curr_course_name": "IP LAW TUTORIAL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "16313",
+        "section": "C",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "530-730P",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2306",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Murphy,John J.",
+        "curr_course_code": "LAW P 590",
+        "curr_course_name": "IP LAW TUTORIAL",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "16314",
+        "section": "D",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "530-730P",
+                "building": "LAW",
+                "room": "116"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Murphy,John J.",
+        "curr_course_code": "LAW P 590",
+        "curr_course_name": "IP LAW TUTORIAL",
+        "curr_course_fulfills": ""
+    }
+]

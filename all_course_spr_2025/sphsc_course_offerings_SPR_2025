@@ -1,0 +1,895 @@
+[
+    {
+        "restrictions": [],
+        "add_code": "20025",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "100-220",
+                "building": "SMI",
+                "room": "211"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "70",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 100",
+        "curr_course_name": "VOICE&ARTIC IMPROV",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20026",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "100-220",
+                "building": "BNS",
+                "room": "117"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 303",
+        "curr_course_name": "LANGUAGE SCIENCE",
+        "curr_course_fulfills": [
+            "A&H"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20027",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1220",
+                "building": "ART",
+                "room": "003"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "W",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Baylor,Carolyn",
+        "curr_course_code": "SPHSC 405",
+        "curr_course_name": "CLNCL DEC MAKNG SLP ",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20028",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MTW",
+                "time": "930-1020",
+                "building": "DEM",
+                "room": "004"
+            },
+            {
+                "days": "Th",
+                "time": "830-1020"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "50",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Burns,Michael",
+        "curr_course_code": "SPHSC 425",
+        "curr_course_name": "SPCH LANG HRG BRAIN ",
+        "curr_course_fulfills": [
+            "SSc/NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20029",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "5",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MW",
+                "time": "1030-1220",
+                "building": "CDH",
+                "room": "135"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Glavin,Courtney",
+        "curr_course_code": "SPHSC 461",
+        "curr_course_name": "HEARING SCIENCE",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20030",
+        "section": "AA",
+        "isQuiz": "0",
+        "isLab": "1",
+        "credits": "0",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 0,
+        "max_capacity": "60",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 461",
+        "curr_course_name": "HEARING SCIENCE",
+        "curr_course_fulfills": [
+            "NSc"
+        ]
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20031",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "#A",
+        "is_estimate": 0,
+        "max_capacity": "40",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Dalessio,Julie",
+        "curr_course_code": "SPHSC 495",
+        "curr_course_name": "GUIDED OBSERVATIONS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "20032",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "H",
+        "is_estimate": 1,
+        "max_capacity": "6",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 498",
+        "curr_course_name": "HONORS RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "20033",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "20034",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 499",
+        "curr_course_name": "UNDERGRAD RESEARCH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20035",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "530-620P",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "%JO",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 517",
+        "curr_course_name": "REHAB HLTH DISPARITY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20037",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "830-1120",
+                "building": "EGL",
+                "room": "G01"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Spencer,Kristie",
+        "curr_course_code": "SPHSC 531",
+        "curr_course_name": "MOTOR SPCH DISORDERS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20039",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "530-650P",
+                "building": "OUG",
+                "room": "141"
+            },
+            {
+                "days": "F",
+                "time": "1230-120"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Nir,Tamar",
+        "curr_course_code": "SPHSC 534",
+        "curr_course_name": "DYSPHAGIA",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20041",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "230-520",
+                "building": "OUG",
+                "room": "136"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "3",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Kover,Sara T",
+        "curr_course_code": "SPHSC 536",
+        "curr_course_name": "SCHOOL-AGE COMM DIS ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "20043",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1230-220",
+                "building": "DEN",
+                "room": "212"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "professor_name": "Daniels,Jacqueline L.",
+        "curr_course_code": "SPHSC 548",
+        "curr_course_name": "TBI SEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20045",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "1030-1220",
+                "building": "PAR",
+                "room": "220"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "4",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Dalessio,Julie",
+        "curr_course_code": "SPHSC 549",
+        "curr_course_name": "CLINICAL FORUM SLP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "20059",
+        "section": "M",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "$50",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 553",
+        "curr_course_name": "PRACTICUM SLP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "20060",
+        "section": "N",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 553",
+        "curr_course_name": "PRACTICUM SLP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "20061",
+        "section": "O",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 553",
+        "curr_course_name": "PRACTICUM SLP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            ">"
+        ],
+        "add_code": "20062",
+        "section": "P",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "$50",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 553",
+        "curr_course_name": "PRACTICUM SLP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20063",
+        "section": "Q",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "$50",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 553",
+        "curr_course_name": "PRACTICUM SLP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20064",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "6",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "930-1020",
+                "building": "PAR",
+                "room": "220"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "$50",
+        "other_codes": "J",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Leighton,Kelsey A",
+        "curr_course_code": "SPHSC 554",
+        "curr_course_name": "ADV PRACT SLP",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "21533",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "1030-120",
+                "building": "EGL",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 559",
+        "curr_course_name": "TPCS SPCH/LANG/HEAR ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20067",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "1030-120",
+                "building": "EGL",
+                "room": "111"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 560",
+        "curr_course_name": "SPEECH SCIENCE",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "20068",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-5",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 564",
+        "curr_course_name": "TEACHING PRACTICUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "20069",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "930-1020",
+                "building": "EGL",
+                "room": "211"
+            },
+            {
+                "days": "Th",
+                "time": "1230-120"
+            }
+        ],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Eadie,Tanya L",
+        "curr_course_code": "SPHSC 567",
+        "curr_course_name": "RESEARCH SEMINAR",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "20070",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-12",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 599",
+        "curr_course_name": "RSCH PRACTICUM",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "20071",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "25",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "20077",
+        "section": "G",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "20078",
+        "section": "H",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "20079",
+        "section": "I",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS"
+        ],
+        "add_code": "20080",
+        "section": "J",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [],
+        "c/nc": 1,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 0,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 600",
+        "curr_course_name": "INDEPNDNT STDY/RSCH ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "20081",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "10",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 700",
+        "curr_course_name": "MASTERS THESIS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "IS",
+            ">"
+        ],
+        "add_code": "20083",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1-10",
+        "credits_vary": "1",
+        "class_times": [],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "",
+        "is_estimate": 1,
+        "max_capacity": "20",
+        "curr_enrolled": "0",
+        "open_or_closed": "",
+        "curr_course_code": "SPHSC 800",
+        "curr_course_name": "DOCTORAL DISSERTATN ",
+        "curr_course_fulfills": ""
+    }
+]
