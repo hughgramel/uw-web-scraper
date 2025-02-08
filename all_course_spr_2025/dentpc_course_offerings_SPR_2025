@@ -1,0 +1,558 @@
+[
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13267",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "830-950",
+                "building": "HST",
+                "room": "T733"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2434",
+        "other_codes": "B",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Sadr,Alireza",
+        "curr_course_code": "DENTPC 530",
+        "curr_course_name": "INTRO OPER DENT",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13268",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "830-950",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2434",
+        "other_codes": "B",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Sadr,Alireza",
+        "curr_course_code": "DENTPC 530",
+        "curr_course_name": "INTRO OPER DENT",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13269",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "830-950",
+                "building": "HST",
+                "room": "T733"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "55",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Hujoel,Philippe",
+        "curr_course_code": "DENTPC 531",
+        "curr_course_name": "EVIDENCE-BASED DENT ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13270",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "830-950",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Hujoel,Philippe",
+        "curr_course_code": "DENTPC 531",
+        "curr_course_name": "EVIDENCE-BASED DENT ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13271",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1150",
+                "building": "HST",
+                "room": "T733"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "55",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Cowan,Hayley",
+        "curr_course_code": "DENTPC 532",
+        "curr_course_name": "RADIOLOGY THEORY 1",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13272",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "TTh",
+                "time": "1030-1150",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Cowan,Hayley",
+        "curr_course_code": "DENTPC 532",
+        "curr_course_name": "RADIOLOGY THEORY 1",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13273",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "800-950",
+                "building": "HST",
+                "room": "T733"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "55",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Chung,Kwok-Hung",
+        "curr_course_code": "DENTPC 533",
+        "curr_course_name": "DENT MAT SCIENCE 2",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13274",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "1",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "800-950",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Chung,Kwok-Hung",
+        "curr_course_code": "DENTPC 533",
+        "curr_course_name": "DENT MAT SCIENCE 2",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13275",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "1030-1220",
+                "building": "HST",
+                "room": "T733"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "55",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Qari,Hiba",
+        "curr_course_code": "DENTPC 534",
+        "curr_course_name": "INTRO ORAL PATHOLOGY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13276",
+        "section": "B",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "WF",
+                "time": "1030-1220",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "B",
+        "is_estimate": 1,
+        "max_capacity": "8",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Qari,Hiba",
+        "curr_course_code": "DENTPC 534",
+        "curr_course_name": "INTRO ORAL PATHOLOGY",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13277",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "900-1050",
+                "building": "HSD",
+                "room": "D165"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "63",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Zhang,Hai",
+        "curr_course_code": "DENTPC 535",
+        "curr_course_name": "RMV PRT DENT DESIGN ",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13279",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "3",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "W",
+                "time": "930-1150",
+                "building": "HSD",
+                "room": "D165"
+            },
+            {
+                "days": "W",
+                "time": "130-220"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "$2302",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "0",
+        "curr_enrolled": "Ope",
+        "open_or_closed": "Open",
+        "professor_name": "Sadr,Alireza",
+        "curr_course_code": "DENTPC 580",
+        "curr_course_name": "OPERATIVE DENT 5",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13281",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "Th",
+                "time": "1100-1220",
+                "building": "HSD",
+                "room": "D165"
+            },
+            {
+                "days": "Th",
+                "time": "130-320"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "63",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Chen,Yen-Wei",
+        "curr_course_code": "DENTPC 581",
+        "curr_course_name": "FIXED PROS 3",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13283",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "130-520",
+                "building": "TBA",
+                "room": "TBA"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 0,
+        "max_capacity": "63",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Bayirli,Burcu",
+        "curr_course_code": "DENTPC 583",
+        "curr_course_name": "ORTHODONTICS 2",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13285",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "MF",
+                "time": "800-1150",
+                "building": "HSD",
+                "room": "D-165"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "63",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Flake,Natasha M.",
+        "curr_course_code": "DENTPC 584",
+        "curr_course_name": "INTRO ENDODONTICS",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13287",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "4",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "T",
+                "time": "930-1020",
+                "building": "HSD",
+                "room": "D209"
+            },
+            {
+                "days": "T",
+                "time": "1030-1150"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "63",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Marashi,Andy",
+        "curr_course_code": "DENTPC 585",
+        "curr_course_name": "RMV PRT DENTURE TECH",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13289",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "M",
+                "time": "130-320",
+                "building": "HSD",
+                "room": "D209"
+            },
+            {
+                "days": "T",
+                "time": "730-920"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "63",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Nelson,Travis",
+        "curr_course_code": "DENTPC 586",
+        "curr_course_name": "INT PEDIATRIC DENT",
+        "curr_course_fulfills": ""
+    },
+    {
+        "restrictions": [
+            "Restr"
+        ],
+        "add_code": "13291",
+        "section": "A",
+        "isQuiz": "0",
+        "isLab": "0",
+        "credits": "2",
+        "credits_vary": "0",
+        "class_times": [
+            {
+                "days": "F",
+                "time": "130-420",
+                "building": "HSD",
+                "room": "D165"
+            }
+        ],
+        "c/nc": 0,
+        "course_fee": "0",
+        "other_codes": "BJ",
+        "is_estimate": 1,
+        "max_capacity": "63",
+        "curr_enrolled": "0",
+        "open_or_closed": "Open",
+        "professor_name": "Daubert,Diane M.",
+        "curr_course_code": "DENTPC 587",
+        "curr_course_name": "PERIODONTICS 3",
+        "curr_course_fulfills": ""
+    }
+]
