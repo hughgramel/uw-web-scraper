@@ -1,392 +1,432 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "15006",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "FSH",
-                "room": "107"
+{
+    "GLITS 252": {
+        "GLITS 252A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15006",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "FSH",
+                        "room": "107"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Stecher-Hansen,Marianne",
+                "curr_course_code": "GLITS 252",
+                "curr_course_name": "GLOBAL LIT: GENRES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Stecher-Hansen,Marianne",
-        "curr_course_code": "GLITS 252",
-        "curr_course_name": "GLOBAL LIT: GENRES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        },
+        "GLITS 252B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21507",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "THO",
+                        "room": "335"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jezyk,Agnieszka",
+                "curr_course_code": "GLITS 252",
+                "curr_course_name": "GLOBAL LIT: GENRES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        },
+        "GLITS 252C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15007",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "CMU",
+                        "room": "226"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Florczyk,Piotr",
+                "curr_course_code": "GLITS 252",
+                "curr_course_name": "GLOBAL LIT: GENRES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21507",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "THO",
-                "room": "335"
+    "GLITS 253": {
+        "GLITS 253A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15008",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "FSH",
+                        "room": "109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hall,Emily Marie Anderson",
+                "curr_course_code": "GLITS 253",
+                "curr_course_name": "LIT & IDENTITIES",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jezyk,Agnieszka",
-        "curr_course_code": "GLITS 252",
-        "curr_course_name": "GLOBAL LIT: GENRES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15007",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "CMU",
-                "room": "226"
+    "GLITS 311": {
+        "GLITS 311B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15010",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-120",
+                        "building": "SAV",
+                        "room": "139"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Sokoloff,Naomi B",
+                "curr_course_code": "GLITS 311",
+                "curr_course_name": "LIT ACROSS TIMES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Florczyk,Piotr",
-        "curr_course_code": "GLITS 252",
-        "curr_course_name": "GLOBAL LIT: GENRES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        },
+        "GLITS 311C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15011",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "SMI",
+                        "room": "309"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Clare,Avery",
+                "curr_course_code": "GLITS 311",
+                "curr_course_name": "LIT ACROSS TIMES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15008",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "FSH",
-                "room": "109"
+    "GLITS 313": {
+        "GLITS 313A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15012",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "930-1020",
+                        "building": "CMU",
+                        "room": "243"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Prutti,Brigitte",
+                "curr_course_code": "GLITS 313",
+                "curr_course_name": "LIT ACROSS PLACES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hall,Emily Marie Anderson",
-        "curr_course_code": "GLITS 253",
-        "curr_course_name": "LIT & IDENTITIES",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        },
+        "GLITS 313B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15013",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "PCAR",
+                        "room": "192"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Smidchens,Guntis",
+                "curr_course_code": "GLITS 313",
+                "curr_course_name": "LIT ACROSS PLACES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        },
+        "GLITS 313C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15014",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-420",
+                        "building": "SMI",
+                        "room": "115"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dubrow,Jennifer E",
+                "curr_course_code": "GLITS 313",
+                "curr_course_name": "LIT ACROSS PLACES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15010",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-120",
-                "building": "SAV",
-                "room": "139"
+    "GLITS 314": {
+        "GLITS 314A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15015",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-420",
+                        "building": "FSH",
+                        "room": "107"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Crnkovic,Gordana P",
+                "curr_course_code": "GLITS 314",
+                "curr_course_name": "LIT ACROSS GENRES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Sokoloff,Naomi B",
-        "curr_course_code": "GLITS 311",
-        "curr_course_name": "LIT ACROSS TIMES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15011",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "SMI",
-                "room": "309"
+    "GLITS 315": {
+        "GLITS 315A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15017",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "ART",
+                        "room": "003"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Medill,Kathryn McConaughy",
+                "curr_course_code": "GLITS 315",
+                "curr_course_name": "LIT ACROSS DISCIPLIN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Clare,Avery",
-        "curr_course_code": "GLITS 311",
-        "curr_course_name": "LIT ACROSS TIMES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        },
+        "GLITS 315C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21509",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "100-220",
+                        "building": "MEB",
+                        "room": "250"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Terrasi,S. Kye",
+                "curr_course_code": "GLITS 315",
+                "curr_course_name": "LIT ACROSS DISCIPLIN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15012",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "930-1020",
-                "building": "CMU",
-                "room": "243"
+    "GLITS 450": {
+        "GLITS 450A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15019",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "PCAR",
+                        "room": "297"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Gilbert-Santamaria,Donald",
+                "curr_course_code": "GLITS 450",
+                "curr_course_name": "GLOBAL LIT SEMINAR",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Prutti,Brigitte",
-        "curr_course_code": "GLITS 313",
-        "curr_course_name": "LIT ACROSS PLACES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15013",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "PCAR",
-                "room": "192"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Smidchens,Guntis",
-        "curr_course_code": "GLITS 313",
-        "curr_course_name": "LIT ACROSS PLACES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15014",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-420",
-                "building": "SMI",
-                "room": "115"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dubrow,Jennifer E",
-        "curr_course_code": "GLITS 313",
-        "curr_course_name": "LIT ACROSS PLACES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15015",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-420",
-                "building": "FSH",
-                "room": "107"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Crnkovic,Gordana P",
-        "curr_course_code": "GLITS 314",
-        "curr_course_name": "LIT ACROSS GENRES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15017",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "ART",
-                "room": "003"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Medill,Kathryn McConaughy",
-        "curr_course_code": "GLITS 315",
-        "curr_course_name": "LIT ACROSS DISCIPLIN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "21509",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "100-220",
-                "building": "MEB",
-                "room": "250"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Terrasi,S. Kye",
-        "curr_course_code": "GLITS 315",
-        "curr_course_name": "LIT ACROSS DISCIPLIN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15019",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "PCAR",
-                "room": "297"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Gilbert-Santamaria,Donald",
-        "curr_course_code": "GLITS 450",
-        "curr_course_name": "GLOBAL LIT SEMINAR",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     }
-]
+}

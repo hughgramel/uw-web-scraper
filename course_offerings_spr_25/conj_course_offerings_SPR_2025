@@ -1,820 +1,1010 @@
-[
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "12599",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "curr_course_code": "CONJ 505P",
-        "curr_course_name": "P-PAIN CLINIC PCPT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "12600",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "professor_name": "Murray,Mitzi L",
-        "curr_course_code": "CONJ 513",
-        "curr_course_name": "CLIN MEDICAL GENET",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "12601",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1.5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "TBA",
-                "room": "TBA"
+{
+    "CONJ 505P": {
+        "CONJ 505PA": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "12599",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "CONJ 505P",
+                "curr_course_name": "P-PAIN CLINIC PCPT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Aitchison,John",
-        "curr_course_code": "CONJ 526",
-        "curr_course_name": "INTRO TO SYS BIO",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12602",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1.5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 535",
-        "curr_course_name": "RNA STRUC BIO FUNCT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12603",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1.5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "100-220",
-                "building": "TBA",
-                "room": "TBA"
+    "CONJ 513": {
+        "CONJ 513A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "12600",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Murray,Mitzi L",
+                "curr_course_code": "CONJ 513",
+                "curr_course_name": "CLIN MEDICAL GENET",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mittler,John",
-        "curr_course_code": "CONJ 549",
-        "curr_course_name": "POP BIOL MICROORG",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12604",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "100-250",
-                "building": "HSEB",
-                "room": "424"
+    "CONJ 526": {
+        "CONJ 526A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12601",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1.5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Aitchison,John",
+                "curr_course_code": "CONJ 526",
+                "curr_course_name": "INTRO TO SYS BIO",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Sokurenko,Evgeni",
-        "curr_course_code": "CONJ 557",
-        "curr_course_name": "MICROBIAL EVOLUTION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12605",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 602",
-        "curr_course_name": "INTRO PALL MHS SPOK",
-        "curr_course_fulfills": ""
+    "CONJ 535": {
+        "CONJ 535A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12602",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1.5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 535",
+                "curr_course_name": "RNA STRUC BIO FUNCT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12606",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "CONJ 602",
-        "curr_course_name": "INTRO PALL MHS SPOK",
-        "curr_course_fulfills": ""
+    "CONJ 549": {
+        "CONJ 549A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12603",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1.5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "100-220",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mittler,John",
+                "curr_course_code": "CONJ 549",
+                "curr_course_name": "POP BIOL MICROORG",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12607",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 603",
-        "curr_course_name": "INTRO SLEEP MED SPOK",
-        "curr_course_fulfills": ""
+    "CONJ 557": {
+        "CONJ 557A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12604",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "100-250",
+                        "building": "HSEB",
+                        "room": "424"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Sokurenko,Evgeni",
+                "curr_course_code": "CONJ 557",
+                "curr_course_name": "MICROBIAL EVOLUTION",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12608",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 604P",
-        "curr_course_name": "P-INTRO PALL BLLGS",
-        "curr_course_fulfills": ""
+    "CONJ 602": {
+        "CONJ 602A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12605",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 602",
+                "curr_course_name": "INTRO PALL MHS SPOK",
+                "curr_course_fulfills": ""
+            }
+        },
+        "CONJ 602B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12606",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "CONJ 602",
+                "curr_course_name": "INTRO PALL MHS SPOK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12609",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 605P",
-        "curr_course_name": "P-INTRO PALL CONS",
-        "curr_course_fulfills": ""
+    "CONJ 603": {
+        "CONJ 603A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12607",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 603",
+                "curr_course_name": "INTRO SLEEP MED SPOK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12610",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 606P",
-        "curr_course_name": "P-ADV PALL INP HOS",
-        "curr_course_fulfills": ""
+    "CONJ 604P": {
+        "CONJ 604PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12608",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 604P",
+                "curr_course_name": "P-INTRO PALL BLLGS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12611",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 607P",
-        "curr_course_name": "P-ADV PALL CARE",
-        "curr_course_fulfills": ""
+    "CONJ 605P": {
+        "CONJ 605PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12609",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 605P",
+                "curr_course_name": "P-INTRO PALL CONS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12612",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 608P",
-        "curr_course_name": "P-INTR PALL CR ANMC",
-        "curr_course_fulfills": ""
+    "CONJ 606P": {
+        "CONJ 606PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12610",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 606P",
+                "curr_course_name": "P-ADV PALL INP HOS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12613",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 610P",
-        "curr_course_name": "P-INTR PALL CR OLY",
-        "curr_course_fulfills": ""
+    "CONJ 607P": {
+        "CONJ 607PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12611",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 607P",
+                "curr_course_name": "P-ADV PALL CARE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12614",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 612P",
-        "curr_course_name": "P-INTR PAL CR BOZE",
-        "curr_course_fulfills": ""
+    "CONJ 608P": {
+        "CONJ 608PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12612",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 608P",
+                "curr_course_name": "P-INTR PALL CR ANMC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12615",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 613P",
-        "curr_course_name": "P-INTR PAL CR BOISE",
-        "curr_course_fulfills": ""
+    "CONJ 610P": {
+        "CONJ 610PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12613",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 610P",
+                "curr_course_name": "P-INTR PALL CR OLY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12616",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4-8",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 614P",
-        "curr_course_name": "P-COR ADCT MED",
-        "curr_course_fulfills": ""
+    "CONJ 612P": {
+        "CONJ 612PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12614",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 612P",
+                "curr_course_name": "P-INTR PAL CR BOZE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12617",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 615P",
-        "curr_course_name": "P-ADV COR ADCT MED",
-        "curr_course_fulfills": ""
+    "CONJ 613P": {
+        "CONJ 613PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12615",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 613P",
+                "curr_course_name": "P-INTR PAL CR BOISE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12618",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 616",
-        "curr_course_name": "ADV PALL CARE- OLY",
-        "curr_course_fulfills": ""
+    "CONJ 614P": {
+        "CONJ 614PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12616",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4-8",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 614P",
+                "curr_course_name": "P-COR ADCT MED",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12619",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 617P",
-        "curr_course_name": "P-NEURO ICU SUB-I",
-        "curr_course_fulfills": ""
+    "CONJ 615P": {
+        "CONJ 615PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12617",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 615P",
+                "curr_course_name": "P-ADV COR ADCT MED",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12620",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 618P",
-        "curr_course_name": "P-SLEEP MEDICINE",
-        "curr_course_fulfills": ""
+    "CONJ 616": {
+        "CONJ 616A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12618",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 616",
+                "curr_course_name": "ADV PALL CARE- OLY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12621",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 619",
-        "curr_course_name": "ADV PALL CARE",
-        "curr_course_fulfills": ""
+    "CONJ 617P": {
+        "CONJ 617PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12619",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 617P",
+                "curr_course_name": "P-NEURO ICU SUB-I",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12622",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 620",
-        "curr_course_name": "OPIOID USE DISORDER",
-        "curr_course_fulfills": ""
+    "CONJ 618P": {
+        "CONJ 618PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12620",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 618P",
+                "curr_course_name": "P-SLEEP MEDICINE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12623",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 621",
-        "curr_course_name": "ADV PALL CARE-SPOKAN",
-        "curr_course_fulfills": ""
+    "CONJ 619": {
+        "CONJ 619A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12621",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 619",
+                "curr_course_name": "ADV PALL CARE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12624",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 622",
-        "curr_course_name": "ADV PALL CARE ID",
-        "curr_course_fulfills": ""
+    "CONJ 620": {
+        "CONJ 620A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12622",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 620",
+                "curr_course_name": "OPIOID USE DISORDER",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12625",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 623",
-        "curr_course_name": "ADULT & PED HOSP MED",
-        "curr_course_fulfills": ""
+    "CONJ 621": {
+        "CONJ 621A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12623",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 621",
+                "curr_course_name": "ADV PALL CARE-SPOKAN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12626",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 624",
-        "curr_course_name": "HOSP & PALL CARE MT",
-        "curr_course_fulfills": ""
+    "CONJ 622": {
+        "CONJ 622A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12624",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 622",
+                "curr_course_name": "ADV PALL CARE ID",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12627",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 625",
-        "curr_course_name": "GH CLINICAL",
-        "curr_course_fulfills": ""
+    "CONJ 623": {
+        "CONJ 623A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12625",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 623",
+                "curr_course_name": "ADULT & PED HOSP MED",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12628",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "10-20",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 626",
-        "curr_course_name": "GLOBAL HIV MED",
-        "curr_course_fulfills": ""
+    "CONJ 624": {
+        "CONJ 624A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12626",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 624",
+                "curr_course_name": "HOSP & PALL CARE MT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12629",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 627",
-        "curr_course_name": "END OF LIFE HOME CRE",
-        "curr_course_fulfills": ""
+    "CONJ 625": {
+        "CONJ 625A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12627",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 625",
+                "curr_course_name": "GH CLINICAL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12630",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 628",
-        "curr_course_name": "ADV PALL CARE-AK",
-        "curr_course_fulfills": ""
+    "CONJ 626": {
+        "CONJ 626A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12628",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "10-20",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 626",
+                "curr_course_name": "GLOBAL HIV MED",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12631",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 629",
-        "curr_course_name": "CLINICAL PEDS DERM",
-        "curr_course_fulfills": ""
+    "CONJ 627": {
+        "CONJ 627A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12629",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 627",
+                "curr_course_name": "END OF LIFE HOME CRE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12632",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 631",
-        "curr_course_name": "HOSPC/PALL HOME CARE",
-        "curr_course_fulfills": ""
+    "CONJ 628": {
+        "CONJ 628A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12630",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 628",
+                "curr_course_name": "ADV PALL CARE-AK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12633",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 632",
-        "curr_course_name": "INTR PAL CR MISSOULA",
-        "curr_course_fulfills": ""
+    "CONJ 629": {
+        "CONJ 629A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12631",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 629",
+                "curr_course_name": "CLINICAL PEDS DERM",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12636",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-24",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 696P",
-        "curr_course_name": "P-WRITE ELECTIVES",
-        "curr_course_fulfills": ""
+    "CONJ 631": {
+        "CONJ 631A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12632",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 631",
+                "curr_course_name": "HOSPC/PALL HOME CARE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "12638",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "curr_course_code": "CONJ 698P",
-        "curr_course_name": "P-FOREIGN MED CLERK",
-        "curr_course_fulfills": ""
+    "CONJ 632": {
+        "CONJ 632A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12633",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 632",
+                "curr_course_name": "INTR PAL CR MISSOULA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12639",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "400",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 699P",
-        "curr_course_name": "P-CLIN CLERKSHIPS",
-        "curr_course_fulfills": ""
+    "CONJ 696P": {
+        "CONJ 696PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12636",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-24",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 696P",
+                "curr_course_name": "P-WRITE ELECTIVES",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12640",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "100",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CONJ 699P",
-        "curr_course_name": "P-CLIN CLERKSHIPS",
-        "curr_course_fulfills": ""
+    "CONJ 698P": {
+        "CONJ 698PA": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "12638",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "CONJ 698P",
+                "curr_course_name": "P-FOREIGN MED CLERK",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "CONJ 699P": {
+        "CONJ 699PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12639",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "400",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 699P",
+                "curr_course_name": "P-CLIN CLERKSHIPS",
+                "curr_course_fulfills": ""
+            }
+        },
+        "CONJ 699PB": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12640",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "100",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CONJ 699P",
+                "curr_course_name": "P-CLIN CLERKSHIPS",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

@@ -1,322 +1,387 @@
-[
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18418",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "PEDO 550P",
-        "curr_course_name": "P-DIR STDYS PEDO",
-        "curr_course_fulfills": ""
+{
+    "PEDO 550P": {
+        "PEDO 550PA": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18418",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PEDO 550P",
+                "curr_course_name": "P-DIR STDYS PEDO",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18419",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "14",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Nelson,Travis",
-        "curr_course_code": "PEDO 573",
-        "curr_course_name": "PED DENT SEM IV",
-        "curr_course_fulfills": ""
+    "PEDO 573": {
+        "PEDO 573A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18419",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "14",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Nelson,Travis",
+                "curr_course_code": "PEDO 573",
+                "curr_course_name": "PED DENT SEM IV",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18420",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "14",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Nelson,Travis",
-        "curr_course_code": "PEDO 577",
-        "curr_course_name": "PED DENT SEM VIII",
-        "curr_course_fulfills": ""
+    "PEDO 577": {
+        "PEDO 577A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18420",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "14",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Nelson,Travis",
+                "curr_course_code": "PEDO 577",
+                "curr_course_name": "PED DENT SEM VIII",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18421",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Nelson,Travis",
-        "curr_course_code": "PEDO 582",
-        "curr_course_name": "DEV DIS SEMINAR",
-        "curr_course_fulfills": ""
+    "PEDO 582": {
+        "PEDO 582A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18421",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Nelson,Travis",
+                "curr_course_code": "PEDO 582",
+                "curr_course_name": "DEV DIS SEMINAR",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18422",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "PEDO 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "PEDO 600": {
+        "PEDO 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18422",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PEDO 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18423",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Nelson,Travis",
-        "curr_course_code": "PEDO 650P",
-        "curr_course_name": "P-PEDO EXTRAMURALS",
-        "curr_course_fulfills": ""
+    "PEDO 650P": {
+        "PEDO 650PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18423",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Nelson,Travis",
+                "curr_course_code": "PEDO 650P",
+                "curr_course_name": "P-PEDO EXTRAMURALS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18424",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Greene,Rachel E",
-        "curr_course_code": "PEDO 652",
-        "curr_course_name": "PEDO OFFST ROTATION",
-        "curr_course_fulfills": ""
+    "PEDO 652": {
+        "PEDO 652A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18424",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Greene,Rachel E",
+                "curr_course_code": "PEDO 652",
+                "curr_course_name": "PEDO OFFST ROTATION",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18425",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%B",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDO 655",
-        "curr_course_name": "PEER MENTOR PEDO",
-        "curr_course_fulfills": ""
+    "PEDO 655": {
+        "PEDO 655A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18425",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%B",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDO 655",
+                "curr_course_name": "PEER MENTOR PEDO",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18426",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "14",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Nelson,Travis",
-        "curr_course_code": "PEDO 663P",
-        "curr_course_name": "P-CLIN PED DENT",
-        "curr_course_fulfills": ""
+    "PEDO 663P": {
+        "PEDO 663PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18426",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "14",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Nelson,Travis",
+                "curr_course_code": "PEDO 663P",
+                "curr_course_name": "P-CLIN PED DENT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18427",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "14",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Nelson,Travis",
-        "curr_course_code": "PEDO 667P",
-        "curr_course_name": "P-CLIN PED DENT",
-        "curr_course_fulfills": ""
+    "PEDO 667P": {
+        "PEDO 667PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18427",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "14",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Nelson,Travis",
+                "curr_course_code": "PEDO 667P",
+                "curr_course_name": "P-CLIN PED DENT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18428",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Seminario,Ana",
-        "curr_course_code": "PEDO 668",
-        "curr_course_name": "RURAL PEDO DENTAL",
-        "curr_course_fulfills": ""
+    "PEDO 668": {
+        "PEDO 668A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18428",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Seminario,Ana",
+                "curr_course_code": "PEDO 668",
+                "curr_course_name": "RURAL PEDO DENTAL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18429",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "14",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Nelson,Travis",
-        "curr_course_code": "PEDO 669",
-        "curr_course_name": "SUPERVSD CLIN TCHNG",
-        "curr_course_fulfills": ""
+    "PEDO 669": {
+        "PEDO 669A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18429",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "14",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Nelson,Travis",
+                "curr_course_code": "PEDO 669",
+                "curr_course_name": "SUPERVSD CLIN TCHNG",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18430",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "14",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Cook,Daniel",
-        "curr_course_code": "PEDO 673",
-        "curr_course_name": "CHMC PEDO CLINIC",
-        "curr_course_fulfills": ""
+    "PEDO 673": {
+        "PEDO 673A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18430",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "14",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Cook,Daniel",
+                "curr_course_code": "PEDO 673",
+                "curr_course_name": "CHMC PEDO CLINIC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18431",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "14",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Cook,Daniel",
-        "curr_course_code": "PEDO 677",
-        "curr_course_name": "CHMC PEDO CLINIC",
-        "curr_course_fulfills": ""
+    "PEDO 677": {
+        "PEDO 677A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18431",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "14",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Cook,Daniel",
+                "curr_course_code": "PEDO 677",
+                "curr_course_name": "CHMC PEDO CLINIC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18432",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-4",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "14",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bayirli,Burcu",
-        "curr_course_code": "PEDO 699",
-        "curr_course_name": "ORTHODONTIC CLINIC",
-        "curr_course_fulfills": ""
+    "PEDO 699": {
+        "PEDO 699A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18432",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-4",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "14",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Bayirli,Burcu",
+                "curr_course_code": "PEDO 699",
+                "curr_course_name": "ORTHODONTIC CLINIC",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

@@ -1,504 +1,558 @@
-[
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "16264",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "850-1030",
-                "building": "LAW",
-                "room": "212-213"
+{
+    "LAW H 502": {
+        "LAW H 502A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "16264",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "850-1030",
+                        "building": "LAW",
+                        "room": "212-213"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$3459",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Fronapfel,Rhianna M",
+                "curr_course_code": "LAW H 502",
+                "curr_course_name": "MEDICAL MALPRACTICE",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$3459",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Fronapfel,Rhianna M",
-        "curr_course_code": "LAW H 502",
-        "curr_course_name": "MEDICAL MALPRACTICE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "16265",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "850-1030",
-                "building": "LAW",
-                "room": "212-213"
+        },
+        "LAW H 502B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "16265",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "850-1030",
+                        "building": "LAW",
+                        "room": "212-213"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "31",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Fronapfel,Rhianna M",
+                "curr_course_code": "LAW H 502",
+                "curr_course_name": "MEDICAL MALPRACTICE",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "31",
-        "curr_enrolled": "0",
-        "professor_name": "Fronapfel,Rhianna M",
-        "curr_course_code": "LAW H 502",
-        "curr_course_name": "MEDICAL MALPRACTICE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "16266",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "850-1030",
-                "building": "LAW",
-                "room": "212-213"
+        },
+        "LAW H 502C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "16266",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "850-1030",
+                        "building": "LAW",
+                        "room": "212-213"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$2295",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Fronapfel,Rhianna M",
+                "curr_course_code": "LAW H 502",
+                "curr_course_name": "MEDICAL MALPRACTICE",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$2295",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Fronapfel,Rhianna M",
-        "curr_course_code": "LAW H 502",
-        "curr_course_name": "MEDICAL MALPRACTICE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "16267",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "850-1030",
-                "building": "LAW",
-                "room": "212-213"
+        },
+        "LAW H 502D": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "16267",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "850-1030",
+                        "building": "LAW",
+                        "room": "212-213"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$2565",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Fronapfel,Rhianna M",
+                "curr_course_code": "LAW H 502",
+                "curr_course_name": "MEDICAL MALPRACTICE",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$2565",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Fronapfel,Rhianna M",
-        "curr_course_code": "LAW H 502",
-        "curr_course_name": "MEDICAL MALPRACTICE",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "16268",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1030-1220",
-                "building": "SOCC",
-                "room": "-301"
+    "LAW H 506": {
+        "LAW H 506A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "16268",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1030-1220",
+                        "building": "SOCC",
+                        "room": "-301"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "$1153",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Mucha,Katarina",
+                "curr_course_code": "LAW H 506",
+                "curr_course_name": "INTL ETHC JUS HLTH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "$1153",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Mucha,Katarina",
-        "curr_course_code": "LAW H 506",
-        "curr_course_name": "INTL ETHC JUS HLTH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "16269",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1030-1220",
-                "building": "SOCC",
-                "room": "-301"
+        },
+        "LAW H 506B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "16269",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1030-1220",
+                        "building": "SOCC",
+                        "room": "-301"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Mucha,Katarina",
+                "curr_course_code": "LAW H 506",
+                "curr_course_name": "INTL ETHC JUS HLTH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Mucha,Katarina",
-        "curr_course_code": "LAW H 506",
-        "curr_course_name": "INTL ETHC JUS HLTH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "16270",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1030-1220",
-                "building": "SOCC",
-                "room": "-301"
+        },
+        "LAW H 506C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "16270",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1030-1220",
+                        "building": "SOCC",
+                        "room": "-301"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "$650",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Mucha,Katarina",
+                "curr_course_code": "LAW H 506",
+                "curr_course_name": "INTL ETHC JUS HLTH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "$650",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "professor_name": "Mucha,Katarina",
-        "curr_course_code": "LAW H 506",
-        "curr_course_name": "INTL ETHC JUS HLTH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "16271",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1030-1220",
-                "building": "SOCC",
-                "room": "-301"
+        },
+        "LAW H 506D": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "16271",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1030-1220",
+                        "building": "SOCC",
+                        "room": "-301"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "$2295",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Mucha,Katarina",
+                "curr_course_code": "LAW H 506",
+                "curr_course_name": "INTL ETHC JUS HLTH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "$2295",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Mucha,Katarina",
-        "curr_course_code": "LAW H 506",
-        "curr_course_name": "INTL ETHC JUS HLTH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21512",
-        "section": "E",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1030-1220",
-                "building": "SOCC",
-                "room": "-301"
+        },
+        "LAW H 506E": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21512",
+                "section": "E",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1030-1220",
+                        "building": "SOCC",
+                        "room": "-301"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "$855",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Mucha,Katarina",
+                "curr_course_code": "LAW H 506",
+                "curr_course_name": "INTL ETHC JUS HLTH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "$855",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Mucha,Katarina",
-        "curr_course_code": "LAW H 506",
-        "curr_course_name": "INTL ETHC JUS HLTH",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "16272",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$1153",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "LAW H 528",
-        "curr_course_name": "HLTH LAW PRACTICUM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "16273",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$2306",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "LAW H 528",
-        "curr_course_name": "HLTH LAW PRACTICUM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "16274",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$3459",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "LAW H 528",
-        "curr_course_name": "HLTH LAW PRACTICUM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "16275",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$4612",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "LAW H 528",
-        "curr_course_name": "HLTH LAW PRACTICUM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "16277",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "100-220",
-                "building": "HSRR",
-                "room": "RR134"
+    "LAW H 528": {
+        "LAW H 528A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "16272",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$1153",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "LAW H 528",
+                "curr_course_name": "HLTH LAW PRACTICUM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "professor_name": "Fohner,Alison",
-        "curr_course_code": "LAW H 579",
-        "curr_course_name": "INTERACTIVE SEMINAR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "16278",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "LAW",
-                "room": "118"
+        },
+        "LAW H 528B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "16273",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$2306",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "LAW H 528",
+                "curr_course_name": "HLTH LAW PRACTICUM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$3459",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ross,Douglas C.",
-        "curr_course_code": "LAW H 580",
-        "curr_course_name": "COMPTN IN HLTH CARE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "16279",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "LAW",
-                "room": "118"
+        },
+        "LAW H 528C": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "16274",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$3459",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "LAW H 528",
+                "curr_course_name": "HLTH LAW PRACTICUM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "23",
-        "curr_enrolled": "0",
-        "professor_name": "Ross,Douglas",
-        "curr_course_code": "LAW H 580",
-        "curr_course_name": "COMPTN IN HLTH CARE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "16280",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "LAW",
-                "room": "118"
+        },
+        "LAW H 528D": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "16275",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$4612",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "LAW H 528",
+                "curr_course_name": "HLTH LAW PRACTICUM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$2295",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Ross,Douglas C.",
-        "curr_course_code": "LAW H 580",
-        "curr_course_name": "COMPTN IN HLTH CARE",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "16281",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "LAW",
-                "room": "118"
+    "LAW H 579": {
+        "LAW H 579A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "16277",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "100-220",
+                        "building": "HSRR",
+                        "room": "RR134"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "Fohner,Alison",
+                "curr_course_code": "LAW H 579",
+                "curr_course_name": "INTERACTIVE SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$2565",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Ross,Douglas C.",
-        "curr_course_code": "LAW H 580",
-        "curr_course_name": "COMPTN IN HLTH CARE",
-        "curr_course_fulfills": ""
+        }
+    },
+    "LAW H 580": {
+        "LAW H 580A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "16278",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "LAW",
+                        "room": "118"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$3459",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ross,Douglas C.",
+                "curr_course_code": "LAW H 580",
+                "curr_course_name": "COMPTN IN HLTH CARE",
+                "curr_course_fulfills": ""
+            }
+        },
+        "LAW H 580B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "16279",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "LAW",
+                        "room": "118"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "23",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Ross,Douglas",
+                "curr_course_code": "LAW H 580",
+                "curr_course_name": "COMPTN IN HLTH CARE",
+                "curr_course_fulfills": ""
+            }
+        },
+        "LAW H 580C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "16280",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "LAW",
+                        "room": "118"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$2295",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Ross,Douglas C.",
+                "curr_course_code": "LAW H 580",
+                "curr_course_name": "COMPTN IN HLTH CARE",
+                "curr_course_fulfills": ""
+            }
+        },
+        "LAW H 580D": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "16281",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "LAW",
+                        "room": "118"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$2565",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Ross,Douglas C.",
+                "curr_course_code": "LAW H 580",
+                "curr_course_name": "COMPTN IN HLTH CARE",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

@@ -1,112 +1,130 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "11125",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1030-1120",
-                "building": "MGH",
-                "room": "253"
+{
+    "BENG 103": {
+        "BENG 103A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11125",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1030-1120",
+                        "building": "MGH",
+                        "room": "253"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Abedin,Nandini",
+                "curr_course_code": "BENG 103",
+                "curr_course_name": "ELEMENTARY BENGALI",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Abedin,Nandini",
-        "curr_course_code": "BENG 103",
-        "curr_course_name": "ELEMENTARY BENGALI",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11126",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3/5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "140"
+    "BENG 203": {
+        "BENG 203A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11126",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3/5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1130-1220",
+                        "building": "SAV",
+                        "room": "140"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Abedin,Nandini",
+                "curr_course_code": "BENG 203",
+                "curr_course_name": "INTERMED BENGALI",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Abedin,Nandini",
-        "curr_course_code": "BENG 203",
-        "curr_course_name": "INTERMED BENGALI",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11127",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3/5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "MGH",
-                "room": "291"
+    "BENG 303": {
+        "BENG 303A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11127",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3/5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "MGH",
+                        "room": "291"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Abedin,Nandini",
+                "curr_course_code": "BENG 303",
+                "curr_course_name": "ADVANCED BENGALI",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Abedin,Nandini",
-        "curr_course_code": "BENG 303",
-        "curr_course_name": "ADVANCED BENGALI",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11128",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "BENG 499",
-        "curr_course_name": "BENG INDPT STDY",
-        "curr_course_fulfills": ""
+    "BENG 499": {
+        "BENG 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11128",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "BENG 499",
+                "curr_course_name": "BENG INDPT STDY",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

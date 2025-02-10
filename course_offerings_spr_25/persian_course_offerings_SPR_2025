@@ -1,222 +1,260 @@
-[
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19086",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-120",
-                "building": "SAV",
-                "room": "156"
+{
+    "PRSAN 103": {
+        "PRSAN 103A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19086",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-120",
+                        "building": "SAV",
+                        "room": "156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Monfaredi,Elham",
+                "curr_course_code": "PRSAN 103",
+                "curr_course_name": "ELEMENTARY PERSIAN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Monfaredi,Elham",
-        "curr_course_code": "PRSAN 103",
-        "curr_course_name": "ELEMENTARY PERSIAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19087",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "930-1120",
-                "building": "SAV",
-                "room": "130"
+    "PRSAN 203": {
+        "PRSAN 203A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19087",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "930-1120",
+                        "building": "SAV",
+                        "room": "130"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Monfaredi,Elham",
+                "curr_course_code": "PRSAN 203",
+                "curr_course_name": "INTERMED PERSIAN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Monfaredi,Elham",
-        "curr_course_code": "PRSAN 203",
-        "curr_course_name": "INTERMED PERSIAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19088",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "430-550P",
-                "building": "CLK",
-                "room": "120"
+    "PRSAN 455": {
+        "PRSAN 455A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19088",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "430-550P",
+                        "building": "CLK",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Fani,Aria",
+                "curr_course_code": "PRSAN 455",
+                "curr_course_name": "THE PERSIAN GHAZAL",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Fani,Aria",
-        "curr_course_code": "PRSAN 455",
-        "curr_course_name": "THE PERSIAN GHAZAL",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19089",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "PRSAN 490",
-        "curr_course_name": "SUPERVISED STUDY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19090",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "PRSAN 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19091",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-120",
-                "building": "SAV",
-                "room": "156"
+    "PRSAN 490": {
+        "PRSAN 490A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19089",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PRSAN 490",
+                "curr_course_name": "SUPERVISED STUDY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Monfaredi,Elham",
-        "curr_course_code": "PRSAN 513",
-        "curr_course_name": "ELEMENTARY PERSIAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19092",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "930-1120",
-                "building": "SAV",
-                "room": "130"
+    "PRSAN 499": {
+        "PRSAN 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19090",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PRSAN 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Monfaredi,Elham",
-        "curr_course_code": "PRSAN 523",
-        "curr_course_name": "INTERMED PERSIAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19093",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "PRSAN 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "PRSAN 513": {
+        "PRSAN 513A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19091",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-120",
+                        "building": "SAV",
+                        "room": "156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Monfaredi,Elham",
+                "curr_course_code": "PRSAN 513",
+                "curr_course_name": "ELEMENTARY PERSIAN",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "PRSAN 523": {
+        "PRSAN 523A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19092",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "930-1120",
+                        "building": "SAV",
+                        "room": "130"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Monfaredi,Elham",
+                "curr_course_code": "PRSAN 523",
+                "curr_course_name": "INTERMED PERSIAN",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "PRSAN 600": {
+        "PRSAN 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19093",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PRSAN 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

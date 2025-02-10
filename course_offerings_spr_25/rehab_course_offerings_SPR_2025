@@ -1,1060 +1,1229 @@
-[
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19466",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 498",
-        "curr_course_name": "UNDERGRAD THESIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19467",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19468",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "REHAB 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19479",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "730-950",
-                "building": "HST",
-                "room": "T360"
+{
+    "REHAB 498": {
+        "REHAB 498A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19466",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 498",
+                "curr_course_name": "UNDERGRAD THESIS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hodapp,Julie Ann",
-        "curr_course_code": "REHAB 520",
-        "curr_course_name": "SEMINAR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19480",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1230-120",
-                "building": "HSBB",
-                "room": "BB938"
+    "REHAB 499": {
+        "REHAB 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19467",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "professor_name": "Jirikowic,Tracy L.",
-        "curr_course_code": "REHAB 520",
-        "curr_course_name": "SEMINAR",
-        "curr_course_fulfills": ""
+        },
+        "REHAB 499B": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19468",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "REHAB 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19482",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "230-420",
-                "building": "TBA",
-                "room": "TBA"
+    "REHAB 520": {
+        "REHAB 520A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19479",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "730-950",
+                        "building": "HST",
+                        "room": "T360"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hodapp,Julie Ann",
+                "curr_course_code": "REHAB 520",
+                "curr_course_name": "SEMINAR",
+                "curr_course_fulfills": ""
+            }
+        },
+        "REHAB 520C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19480",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1230-120",
+                        "building": "HSBB",
+                        "room": "BB938"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Jirikowic,Tracy L.",
+                "curr_course_code": "REHAB 520",
+                "curr_course_name": "SEMINAR",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "REHAB 533": {
+        "REHAB 533A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19482",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "230-420",
+                        "building": "TBA",
+                        "room": "TBA"
+                    },
+                    {
+                        "days": "W",
+                        "time": "230-420"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "JO",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Roehr,Bryan Clay",
+                "curr_course_code": "REHAB 533",
+                "curr_course_name": "DISEAS DIAGNO REHAB",
+                "curr_course_fulfills": ""
+            }
+        },
+        "REHAB 533C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19484",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "230-420",
+                        "building": "TBA",
+                        "room": "TBA"
+                    },
+                    {
+                        "days": "W",
+                        "time": "230-420"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "JO",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Roehr,Bryan Clay",
+                "curr_course_code": "REHAB 533",
+                "curr_course_name": "DISEAS DIAGNO REHAB",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "REHAB 542": {
+        "REHAB 542C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19489",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "100-250",
+                        "building": "HSBB",
+                        "room": "BB916"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Chang,Jenny",
+                "curr_course_code": "REHAB 542",
+                "curr_course_name": "FNCTNL SKILLS II",
+                "curr_course_fulfills": ""
+            }
+        },
+        "REHAB 542D": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19490",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "300-450",
+                        "building": "HSBB",
+                        "room": "BB916"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Chang,Jenny",
+                "curr_course_code": "REHAB 542",
+                "curr_course_name": "FNCTNL SKILLS II",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "REHAB 546": {
+        "REHAB 546A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19491",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 546",
+                "curr_course_name": "TEACH PRACT REHAB",
+                "curr_course_fulfills": ""
+            }
+        },
+        "REHAB 546B": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19492",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "REHAB 546",
+                "curr_course_name": "TEACH PRACT REHAB",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "REHAB 548": {
+        "REHAB 548A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19493",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "1030-1150",
+                        "building": "HSEB",
+                        "room": "325"
+                    },
+                    {
+                        "days": "T",
+                        "time": "1030-1150"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Cummer,Kathleen",
+                "curr_course_code": "REHAB 548",
+                "curr_course_name": "KINESIOLOGY",
+                "curr_course_fulfills": ""
             },
-            {
-                "days": "W",
-                "time": "230-420"
+            "lab_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19494",
+                    "section": "AA",
+                    "is_quiz": 0,
+                    "is_lab": 1,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "830-1020",
+                            "building": "Cummer,Kathleen",
+                            "room": "Open"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "18",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "REHAB 548",
+                    "curr_course_name": "KINESIOLOGY",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19495",
+                    "section": "AB",
+                    "is_quiz": 0,
+                    "is_lab": 1,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "1030-1220",
+                            "building": "Cummer,Kathleen",
+                            "room": "Open"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "18",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "REHAB 548",
+                    "curr_course_name": "KINESIOLOGY",
+                    "curr_course_fulfills": ""
+                }
+            ]
+        }
+    },
+    "REHAB 554": {
+        "REHAB 554A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19499",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "800-920",
+                        "building": "HSEB",
+                        "room": "101"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 1,
+                "max_capacity": "56",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Baylor,Carolyn",
+                "curr_course_code": "REHAB 554",
+                "curr_course_name": "INTERPROFESS PRACT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "JO",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Roehr,Bryan Clay",
-        "curr_course_code": "REHAB 533",
-        "curr_course_name": "DISEAS DIAGNO REHAB",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19484",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "230-420",
-                "building": "TBA",
-                "room": "TBA"
-            },
-            {
-                "days": "W",
-                "time": "230-420"
+    "REHAB 560": {
+        "REHAB 560A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19501",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-420",
+                        "building": "HSBB",
+                        "room": "BB938"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jirikowic,Tracy",
+                "curr_course_code": "REHAB 560",
+                "curr_course_name": "REHAB RSCH OUTCOMES",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "JO",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Roehr,Bryan Clay",
-        "curr_course_code": "REHAB 533",
-        "curr_course_name": "DISEAS DIAGNO REHAB",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19489",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "100-250",
-                "building": "HSBB",
-                "room": "BB916"
+    "REHAB 564": {
+        "REHAB 564A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19502",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "830-1020",
+                        "building": "UMCC",
+                        "room": "CC902"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Munaim,Ranee",
+                "curr_course_code": "REHAB 564",
+                "curr_course_name": "OT PRACTICE SKILLS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Chang,Jenny",
-        "curr_course_code": "REHAB 542",
-        "curr_course_name": "FNCTNL SKILLS II",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19490",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "300-450",
-                "building": "HSBB",
-                "room": "BB916"
+        },
+        "REHAB 564B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19503",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1030-1220",
+                        "building": "UMCC",
+                        "room": "CC902"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Munaim,Ranee",
+                "curr_course_code": "REHAB 564",
+                "curr_course_name": "OT PRACTICE SKILLS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Chang,Jenny",
-        "curr_course_code": "REHAB 542",
-        "curr_course_name": "FNCTNL SKILLS II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19491",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 546",
-        "curr_course_name": "TEACH PRACT REHAB",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19492",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "curr_course_code": "REHAB 546",
-        "curr_course_name": "TEACH PRACT REHAB",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19493",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "1030-1150",
-                "building": "HSEB",
-                "room": "325"
-            },
-            {
-                "days": "T",
-                "time": "1030-1150"
+    "REHAB 566": {
+        "REHAB 566A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19504",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 566",
+                "curr_course_name": "SPECIAL TOPICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Cummer,Kathleen",
-        "curr_course_code": "REHAB 548",
-        "curr_course_name": "KINESIOLOGY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19494",
-        "section": "AA",
-        "isQuiz": "0",
-        "isLab": "1",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "830-1020",
-                "building": "Cummer,Kathleen",
-                "room": "Open"
+        },
+        "REHAB 566B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19505",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-9",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 566",
+                "curr_course_name": "SPECIAL TOPICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "curr_course_code": "REHAB 548",
-        "curr_course_name": "KINESIOLOGY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19495",
-        "section": "AB",
-        "isQuiz": "0",
-        "isLab": "1",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1030-1220",
-                "building": "Cummer,Kathleen",
-                "room": "Open"
+    "REHAB 571": {
+        "REHAB 571B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21554",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "-1",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "900-950",
+                        "building": "SOCC",
+                        "room": "-308"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jirikowic,Tracy L.",
+                "curr_course_code": "REHAB 571",
+                "curr_course_name": "OT PROF SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "curr_course_code": "REHAB 548",
-        "curr_course_name": "KINESIOLOGY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19499",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "800-920",
-                "building": "HSEB",
-                "room": "101"
+    "REHAB 573": {
+        "REHAB 573A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21360",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "900-950",
+                        "building": "UMCC",
+                        "room": "CC902"
+                    },
+                    {
+                        "days": "F",
+                        "time": "1000-1120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Munaim,Ranee",
+                "curr_course_code": "REHAB 573",
+                "curr_course_name": "FUNCTIONAL MVMNT OT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 1,
-        "max_capacity": "56",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Baylor,Carolyn",
-        "curr_course_code": "REHAB 554",
-        "curr_course_name": "INTERPROFESS PRACT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19501",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "130-420",
-                "building": "HSBB",
-                "room": "BB938"
+    "REHAB 577": {
+        "REHAB 577A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19511",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1030-1150",
+                        "building": "UMCC",
+                        "room": "CC902"
+                    },
+                    {
+                        "days": "W",
+                        "time": "1030-1150"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "DeGroot,Keri",
+                "curr_course_code": "REHAB 577",
+                "curr_course_name": "OT IN GERIATRICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jirikowic,Tracy",
-        "curr_course_code": "REHAB 560",
-        "curr_course_name": "REHAB RSCH OUTCOMES",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19502",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "830-1020",
-                "building": "UMCC",
-                "room": "CC902"
+    "REHAB 579": {
+        "REHAB 579A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19512",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "200-320",
+                        "building": "UMCC",
+                        "room": "CC902"
+                    },
+                    {
+                        "days": "F",
+                        "time": "1230-220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Fogelberg,Don",
+                "curr_course_code": "REHAB 579",
+                "curr_course_name": "DOMAIN & PROCESS II",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Munaim,Ranee",
-        "curr_course_code": "REHAB 564",
-        "curr_course_name": "OT PRACTICE SKILLS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19503",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1030-1220",
-                "building": "UMCC",
-                "room": "CC902"
+    "REHAB 580": {
+        "REHAB 580A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19513",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "1030-1150",
+                        "building": "HSI",
+                        "room": "I142"
+                    },
+                    {
+                        "days": "Th",
+                        "time": "1030-1150"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Lee,Danbi",
+                "curr_course_code": "REHAB 580",
+                "curr_course_name": "INTRO TO RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Munaim,Ranee",
-        "curr_course_code": "REHAB 564",
-        "curr_course_name": "OT PRACTICE SKILLS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19504",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 566",
-        "curr_course_name": "SPECIAL TOPICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19505",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-9",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 566",
-        "curr_course_name": "SPECIAL TOPICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21554",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "-1",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "900-950",
-                "building": "SOCC",
-                "room": "-308"
+    "REHAB 582": {
+        "REHAB 582A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19514",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "1030-1220",
+                        "building": "UMCC",
+                        "room": "CC902"
+                    },
+                    {
+                        "days": "T",
+                        "time": "100-250"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jirikowic,Tracy",
+                "curr_course_code": "REHAB 582",
+                "curr_course_name": "ASSISTIVE TECH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jirikowic,Tracy L.",
-        "curr_course_code": "REHAB 571",
-        "curr_course_name": "OT PROF SEMINAR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21360",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "900-950",
-                "building": "UMCC",
-                "room": "CC902"
-            },
-            {
-                "days": "F",
-                "time": "1000-1120"
+    "REHAB 588": {
+        "REHAB 588A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19515",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1230-150",
+                        "building": "UMCC",
+                        "room": "CC902"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Smith,Becky",
+                "curr_course_code": "REHAB 588",
+                "curr_course_name": "FW II SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Munaim,Ranee",
-        "curr_course_code": "REHAB 573",
-        "curr_course_name": "FUNCTIONAL MVMNT OT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19511",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1030-1150",
-                "building": "UMCC",
-                "room": "CC902"
-            },
-            {
-                "days": "W",
-                "time": "1030-1150"
+    "REHAB 591": {
+        "REHAB 591A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19516",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 591",
+                "curr_course_name": "GRADUATE PROJECT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "DeGroot,Keri",
-        "curr_course_code": "REHAB 577",
-        "curr_course_name": "OT IN GERIATRICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19512",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "200-320",
-                "building": "UMCC",
-                "room": "CC902"
-            },
-            {
-                "days": "F",
-                "time": "1230-220"
+    "REHAB 593": {
+        "REHAB 593A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19517",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Czerniecki,Joseph",
+                "curr_course_code": "REHAB 593",
+                "curr_course_name": "PROSTHETICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Fogelberg,Don",
-        "curr_course_code": "REHAB 579",
-        "curr_course_name": "DOMAIN & PROCESS II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19513",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "1030-1150",
-                "building": "HSI",
-                "room": "I142"
-            },
-            {
-                "days": "Th",
-                "time": "1030-1150"
+    "REHAB 594": {
+        "REHAB 594A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19518",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "10",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 594",
+                "curr_course_name": "CLNCL FIELDWORK",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Lee,Danbi",
-        "curr_course_code": "REHAB 580",
-        "curr_course_name": "INTRO TO RESEARCH",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19514",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "1030-1220",
-                "building": "UMCC",
-                "room": "CC902"
-            },
-            {
-                "days": "T",
-                "time": "100-250"
+    "REHAB 596": {
+        "REHAB 596A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19520",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kraft,MD, George",
+                "curr_course_code": "REHAB 596",
+                "curr_course_name": "EMG&CLIN NEUROPHYS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jirikowic,Tracy",
-        "curr_course_code": "REHAB 582",
-        "curr_course_name": "ASSISTIVE TECH",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19515",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1230-150",
-                "building": "UMCC",
-                "room": "CC902"
+    "REHAB 599": {
+        "REHAB 599A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19521",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kraft,MD, George H.",
+                "curr_course_code": "REHAB 599",
+                "curr_course_name": "ELCTRMY & ELCTRD LB",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Smith,Becky",
-        "curr_course_code": "REHAB 588",
-        "curr_course_name": "FW II SEMINAR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19516",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 591",
-        "curr_course_name": "GRADUATE PROJECT",
-        "curr_course_fulfills": ""
+    "REHAB 600": {
+        "REHAB 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19522",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19517",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Czerniecki,Joseph",
-        "curr_course_code": "REHAB 593",
-        "curr_course_name": "PROSTHETICS",
-        "curr_course_fulfills": ""
+    "REHAB 684": {
+        "REHAB 684A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19524",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 684",
+                "curr_course_name": "REHAB MED CLRK BOISE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19518",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "10",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 594",
-        "curr_course_name": "CLNCL FIELDWORK",
-        "curr_course_fulfills": ""
+    "REHAB 688": {
+        "REHAB 688A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19528",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 688",
+                "curr_course_name": "REHAB MED VA RCS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19520",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kraft,MD, George",
-        "curr_course_code": "REHAB 596",
-        "curr_course_name": "EMG&CLIN NEUROPHYS",
-        "curr_course_fulfills": ""
+    "REHAB 690": {
+        "REHAB 690A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19530",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 690",
+                "curr_course_name": "REHAB MED UWMC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19521",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kraft,MD, George H.",
-        "curr_course_code": "REHAB 599",
-        "curr_course_name": "ELCTRMY & ELCTRD LB",
-        "curr_course_fulfills": ""
+    "REHAB 691": {
+        "REHAB 691A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19531",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4/8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 691",
+                "curr_course_name": "REHAB MED CMC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19522",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "REHAB 692": {
+        "REHAB 692A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19532",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 692",
+                "curr_course_name": "REHAB MED ST LUKES",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19524",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 684",
-        "curr_course_name": "REHAB MED CLRK BOISE",
-        "curr_course_fulfills": ""
+    "REHAB 699": {
+        "REHAB 699A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19534",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 699",
+                "curr_course_name": "REHAB MED SPEC ELEC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19528",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 688",
-        "curr_course_name": "REHAB MED VA RCS",
-        "curr_course_fulfills": ""
+    "REHAB 700": {
+        "REHAB 700A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19535",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 700",
+                "curr_course_name": "MASTERS THESIS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19530",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 690",
-        "curr_course_name": "REHAB MED UWMC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19531",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4/8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 691",
-        "curr_course_name": "REHAB MED CMC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19532",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 692",
-        "curr_course_name": "REHAB MED ST LUKES",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19534",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 699",
-        "curr_course_name": "REHAB MED SPEC ELEC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19535",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 700",
-        "curr_course_name": "MASTERS THESIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19536",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "REHAB 800",
-        "curr_course_name": "DISSERTATION",
-        "curr_course_fulfills": ""
+    "REHAB 800": {
+        "REHAB 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19536",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "REHAB 800",
+                "curr_course_name": "DISSERTATION",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

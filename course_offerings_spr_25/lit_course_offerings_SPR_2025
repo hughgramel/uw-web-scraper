@@ -1,61 +1,70 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "16456",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "THO",
-                "room": "134"
+{
+    "LIT 228": {
+        "LIT 228A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "16456",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "THO",
+                        "room": "134"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Watts,Richard H.",
+                "curr_course_code": "LIT 228",
+                "curr_course_name": "LIT/FILM H20 CRISIS",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Watts,Richard H.",
-        "curr_course_code": "LIT 228",
-        "curr_course_name": "LIT/FILM H20 CRISIS",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "16457",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "930-1020",
-                "building": "CMU",
-                "room": "243"
+    "LIT 298": {
+        "LIT 298A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "16457",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "930-1020",
+                        "building": "CMU",
+                        "room": "243"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "LIT 298",
+                "curr_course_name": "TOPICS LIT &CULTURE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "LIT 298",
-        "curr_course_name": "TOPICS LIT &CULTURE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     }
-]
+}

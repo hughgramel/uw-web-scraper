@@ -1,84 +1,97 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "20263",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "930-1020",
-                "building": "MGH",
-                "room": "288"
+{
+    "SWED 103": {
+        "SWED 103A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "20263",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "930-1020",
+                        "building": "MGH",
+                        "room": "288"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Brekkan,Caroline",
+                "curr_course_code": "SWED 103",
+                "curr_course_name": "FIRST YEAR SWEDISH 3",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Brekkan,Caroline",
-        "curr_course_code": "SWED 103",
-        "curr_course_name": "FIRST YEAR SWEDISH 3",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "20264",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1030-1120",
-                "building": "MGH",
-                "room": "287"
+    "SWED 203": {
+        "SWED 203A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "20264",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1030-1120",
+                        "building": "MGH",
+                        "room": "287"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Filipsson,Karin",
+                "curr_course_code": "SWED 203",
+                "curr_course_name": "SECOND-YEAR SWEDISH",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Filipsson,Karin",
-        "curr_course_code": "SWED 203",
-        "curr_course_name": "SECOND-YEAR SWEDISH",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "20265",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SWED 490",
-        "curr_course_name": "SUPERVISED READING",
-        "curr_course_fulfills": ""
+    "SWED 490": {
+        "SWED 490A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "20265",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SWED 490",
+                "curr_course_name": "SUPERVISED READING",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

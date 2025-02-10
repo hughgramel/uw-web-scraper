@@ -1,24 +1,29 @@
-[
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "20199",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "STSS 602",
-        "curr_course_name": "CAPSTONE PORTFOLIO",
-        "curr_course_fulfills": ""
+{
+    "STSS 602": {
+        "STSS 602A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "20199",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "STSS 602",
+                "curr_course_name": "CAPSTONE PORTFOLIO",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

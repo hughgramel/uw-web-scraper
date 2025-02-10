@@ -1,177 +1,202 @@
-[
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19094",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-420",
-                "building": "ARC",
-                "room": "160"
+{
+    "PSYCAP 512": {
+        "PSYCAP 512A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19094",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-420",
+                        "building": "ARC",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PSYCAP 512",
+                "curr_course_name": "SOC/EMOTION DEVELOP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PSYCAP 512",
-        "curr_course_name": "SOC/EMOTION DEVELOP",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19095",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "730-920P",
-                "building": "ARC",
-                "room": "160"
+    "PSYCAP 528": {
+        "PSYCAP 528A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19095",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "730-920P",
+                        "building": "ARC",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "51",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "COREY,MARIAH",
+                "curr_course_code": "PSYCAP 528",
+                "curr_course_name": "MULTCULTR COUNSL STG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "51",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "COREY,MARIAH",
-        "curr_course_code": "PSYCAP 528",
-        "curr_course_name": "MULTCULTR COUNSL STG",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19096",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "500-720P",
-                "building": "DEN",
-                "room": "111"
+    "PSYCAP 538": {
+        "PSYCAP 538A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19096",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "500-720P",
+                        "building": "DEN",
+                        "room": "111"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Keller,Marisa",
+                "curr_course_code": "PSYCAP 538",
+                "curr_course_name": "DBT YOUTH/ADOLESCNTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "professor_name": "Keller,Marisa",
-        "curr_course_code": "PSYCAP 538",
-        "curr_course_name": "DBT YOUTH/ADOLESCNTS",
-        "curr_course_fulfills": ""
+        },
+        "PSYCAP 538B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19097",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "500-720P",
+                        "building": "MGH",
+                        "room": "287"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Assaad,Lily",
+                "curr_course_code": "PSYCAP 538",
+                "curr_course_name": "DBT YOUTH/ADOLESCNTS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19097",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "500-720P",
-                "building": "MGH",
-                "room": "287"
+    "PSYCAP 560": {
+        "PSYCAP 560A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19098",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-7",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "430-620P",
+                        "building": "DEN",
+                        "room": "111"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Mancil,Larissa",
+                "curr_course_code": "PSYCAP 560",
+                "curr_course_name": "APPLD PRACTICUM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "professor_name": "Assaad,Lily",
-        "curr_course_code": "PSYCAP 538",
-        "curr_course_name": "DBT YOUTH/ADOLESCNTS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19098",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-7",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "430-620P",
-                "building": "DEN",
-                "room": "111"
+        },
+        "PSYCAP 560B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19099",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-7",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "430-620P",
+                        "building": "MGH",
+                        "room": "389"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Sedlar,Georganna",
+                "curr_course_code": "PSYCAP 560",
+                "curr_course_name": "APPLD PRACTICUM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "professor_name": "Mancil,Larissa",
-        "curr_course_code": "PSYCAP 560",
-        "curr_course_name": "APPLD PRACTICUM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19099",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-7",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "430-620P",
-                "building": "MGH",
-                "room": "389"
-            }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "professor_name": "Sedlar,Georganna",
-        "curr_course_code": "PSYCAP 560",
-        "curr_course_name": "APPLD PRACTICUM",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

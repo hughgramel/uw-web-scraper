@@ -6,7 +6,7 @@
 # source venv/bin/activate
 # python --version
 # pip install beautifulsoup4 requests
-# python3 scraper.py
+# python3 newScraper.py
 
 
 import re
@@ -26,6 +26,67 @@ soup = BeautifulSoup(page_to_scrape.text, "html.parser")
 POSSIBLE_SEASONS = ["AUT", "WIN", "SPR", "SUM"]
 seasons = ["SPR", "WIN"]
 years = ["2025"]
+no = 1
+
+def convert_record_to_connect_classes(course_records):
+    """This function will take an array of records representing courses and 
+    1. Covert it to a record with only the main course name
+    2. In every course name, there's the main sections
+    3. Then a lab course array and a quiz section array for each of those
+    """
+    new_record = {}
+    
+    for each_course in course_records:
+        global no
+        specific_section_record = {
+            each_course["curr_course_code"] + each_course["section"] : each_course
+        }
+        if len(each_course["section"]) == 1 or (len(each_course["section"]) == 2 and each_course["section"][1] in "0123456789" and not each_course["is_quiz"] and not each_course["is_lab"]):
+            if each_course["curr_course_code"] in new_record:
+                
+                new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"]] = {
+                    "main_course" : each_course
+                }
+            else:
+                new_record[each_course["curr_course_code"]] = {
+                    
+                }
+                new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"]] = {
+                    "main_course" : each_course
+                }
+        else:
+            # Then length is 2. Now, we want to:
+            # First, check  for 
+            
+            if new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]:
+                if each_course["is_quiz"]:
+                    if "quiz_list" not in new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]:
+                        new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]["quiz_list"] = []
+                    new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]["quiz_list"].append(each_course)
+                elif each_course["is_lab"]:
+                    if "lab_list" not in new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]:
+                        new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]["lab_list"] = []
+                    new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]["lab_list"].append(each_course)
+                else:
+                    if "other" not in new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]:
+                        new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]["other"] = []
+                    new_record[each_course["curr_course_code"]][each_course["curr_course_code"] + each_course["section"][0]]["other"].append(each_course)
+                    
+                    
+                    
+                    print("HELP")
+                    print(no)
+                    no += 1
+                    print(each_course)
+    # Now, everything is added. 
+    # Need to be like
+    """
+    IF there is no "CSE 121", make the array. Otherwise, 
+
+
+    """
+    return new_record
+
 
 def print_in_json_format(data):
     """
@@ -109,6 +170,8 @@ def traverse_schedule_page(page, season):
         page (string): The page to be traversed
         season (string): the quarters seasons
         https://www.washington.edu/students/timeschd/
+        
+        
     """
 
     allCourses = []
@@ -146,7 +209,27 @@ def traverse_schedule_page(page, season):
             # Actually rethinking this, we should only make the record
             # if we're on the other tables.
         elif curr_course_code and curr_course_name:
-            record = {}
+            record = {
+                "restrictions": [],
+                "add_code": "",
+                "section": "",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "",
+                "curr_course_name": "",
+                "curr_course_fulfills": ""
+            }
 
             next_pre = table.find("pre")
             text = next_pre.get_text()
@@ -179,22 +262,22 @@ def traverse_schedule_page(page, season):
             # Now we have two scenarios. Either It's a credit count / range /
             # VAR OR it's a QZ / LB. Either way we add the data then go to the
             # next one
-            record["isQuiz"] = "0"
-            record["isLab"] = "0"
+            record["is_quiz"] = 0
+            record["is_lab"] = 0
             record["credits"] = "0"
-            record["credits_vary"] = "0"
+            record["credits_vary"] = 0
             
             if first == "QZ":
-                record["isQuiz"] = "1"
+                record["is_quiz"] = 1
             elif first == "LB":
-                record["isLab"] = "1"
+                record["is_lab"] = 1
             elif first == "VAR":
                 record["credits"] = "VAR"
             elif first == "SM":
                 record["credits"] = "0"
             elif "-" in first:
                 record["credits"] = first
-                record["credits_vary"] = "1"
+                record["credits_vary"] = 1
             else:
                 record["credits"] = first
             remaining = remaining[1:]
@@ -340,7 +423,7 @@ year = "2025"
 
 base = "https://www.washington.edu/students/timeschd/" + season + year + "/"
 # pages = [base + "cse.html"]
-# pages = [base + "88aerosci.html"]
+pages = [base + "phys.html"]
 pages = gather_all_prefixes(season, year)
 n = 0
 record = {}
@@ -348,20 +431,32 @@ for page in pages:
     # n += 1
     
     record_of_all_courses = traverse_schedule_page(page, season)
+    
+    # Okay now in this, given a record of all my courses, I want to:
+        # Put all of them into records based on the course name
+        # Then put 
+    
     s = page.split("/")[-1:][0].split(".")[0]
     if s not in record:
         n += len(record_of_all_courses)
     # print(s + ": " + str(len(record_of_all_courses)))
     
     record[s] = len(record_of_all_courses)
-    # print_in_json_format(record_of_all_courses)
+    
+    rec = convert_record_to_connect_classes(record_of_all_courses)
+    
+    # print_in_json_format(rec["PHYS 121"])
+    
     name = "./course_offerings_spr_25/" +  s + "_course_offerings_" + season + "_" + year
-    json_object = json.dumps(record_of_all_courses, indent=4)
+    # name = "PHYS_121_COURSE"
+    json_object = json.dumps(rec, indent=4)
     with open(name, "w") as outfile:
         outfile.write(json_object)
+
 # sorted_dict = {key: value for key,
 #                value in sorted(record.items(),
 #                                key=lambda item: item[1])}
 
 # print_in_json_format(sorted_dict)
-# print("Total: " + str(n))
+# print("Total: " + str(n))\
+

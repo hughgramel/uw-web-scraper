@@ -1,691 +1,768 @@
-[
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15876",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "930-1020",
-                "building": "CDH",
-                "room": "109"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "66",
-        "curr_enrolled": "0",
-        "professor_name": "Kim,JungHee",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
+{
+    "KOREAN 103": {
+        "KOREAN 103A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15876",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "930-1020",
+                        "building": "CDH",
+                        "room": "109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "66",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kim,JungHee",
+                "curr_course_code": "KOREAN 103",
+                "curr_course_name": "1ST-YR KOREAN",
+                "curr_course_fulfills": ""
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15877",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "930-1020",
+                            "building": "LOW",
+                            "room": "101"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15878",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1030-1120",
+                            "building": "LOW",
+                            "room": "101"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15879",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "930-1020",
+                            "building": "SAV",
+                            "room": "132"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15880",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1030-1120",
+                            "building": "THO",
+                            "room": "231"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15881",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1030-1120",
+                            "building": "LOW",
+                            "room": "106"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15882",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1130-1220",
+                            "building": "ECE",
+                            "room": "031"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                }
+            ]
+        },
+        "KOREAN 103B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15883",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1120",
+                        "building": "CDH",
+                        "room": "109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "66",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kim,JungHee",
+                "curr_course_code": "KOREAN 103",
+                "curr_course_name": "1ST-YR KOREAN",
+                "curr_course_fulfills": ""
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15884",
+                    "section": "BA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "930-1020",
+                            "building": "LOW",
+                            "room": "101"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15885",
+                    "section": "BB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1030-1120",
+                            "building": "LOW",
+                            "room": "101"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15886",
+                    "section": "BC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "930-1020",
+                            "building": "SAV",
+                            "room": "132"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15887",
+                    "section": "BD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1030-1120",
+                            "building": "THO",
+                            "room": "231"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15888",
+                    "section": "BE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1030-1120",
+                            "building": "LOW",
+                            "room": "106"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15889",
+                    "section": "BF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1130-1220",
+                            "building": "ECE",
+                            "room": "031"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "11",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 103",
+                    "curr_course_name": "1ST-YR KOREAN",
+                    "curr_course_fulfills": ""
+                }
+            ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15877",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "930-1020",
-                "building": "LOW",
-                "room": "101"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
+    "KOREAN 203": {
+        "KOREAN 203A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15890",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-1220",
+                        "building": "CDH",
+                        "room": "139"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "44",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kim,JungHee",
+                "curr_course_code": "KOREAN 203",
+                "curr_course_name": "2ND-YR KOREAN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15891",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1030-1120",
+                            "building": "LOW",
+                            "room": "102"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "22",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 203",
+                    "curr_course_name": "2ND-YR KOREAN",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        ">"
+                    ],
+                    "add_code": "15892",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "MWF",
+                            "time": "1130-1220",
+                            "building": "LOW",
+                            "room": "206"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "22",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "KOREAN 203",
+                    "curr_course_name": "2ND-YR KOREAN",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                }
+            ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15878",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1030-1120",
-                "building": "LOW",
-                "room": "101"
+    "KOREAN 303": {
+        "KOREAN 303A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15893",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "1000-1120",
+                        "building": "SAV",
+                        "room": "156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Choi,Sea",
+                "curr_course_code": "KOREAN 303",
+                "curr_course_name": "THIRD-YEAR KOREAN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15879",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "930-1020",
-                "building": "SAV",
-                "room": "132"
+    "KOREAN 360": {
+        "KOREAN 360A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15894",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "FSH",
+                        "room": "109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hall,Emily Marie Anderson",
+                "curr_course_code": "KOREAN 360",
+                "curr_course_name": "KOR LIT & CULTURE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15880",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1030-1120",
-                "building": "THO",
-                "room": "231"
+        },
+        "KOREAN 360C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15895",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "ARC",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kim,Ungsan",
+                "curr_course_code": "KOREAN 360",
+                "curr_course_name": "KOR LIT & CULTURE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15881",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1030-1120",
-                "building": "LOW",
-                "room": "106"
+    "KOREAN 403": {
+        "KOREAN 403A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15896",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "1230-150",
+                        "building": "MGH",
+                        "room": "082A"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Choi,Sea Hee",
+                "curr_course_code": "KOREAN 403",
+                "curr_course_name": "FOURTH-YEAR KOREAN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15882",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1130-1220",
-                "building": "ECE",
-                "room": "031"
+    "KOREAN 417": {
+        "KOREAN 417A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15897",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "MGH",
+                        "room": "074"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Cho,Heekyoung",
+                "curr_course_code": "KOREAN 417",
+                "curr_course_name": "RDNGS KOR LIT CLTR",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15883",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1120",
-                "building": "CDH",
-                "room": "109"
+    "KOREAN 440": {
+        "KOREAN 440A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15898",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-120",
+                        "building": "ECE",
+                        "room": "037"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Choi,Sea",
+                "curr_course_code": "KOREAN 440",
+                "curr_course_name": "KOREAN LINGUISTICS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "66",
-        "curr_enrolled": "0",
-        "professor_name": "Kim,JungHee",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15884",
-        "section": "BA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "930-1020",
-                "building": "LOW",
-                "room": "101"
+    "KOREAN 499": {
+        "KOREAN 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "15899",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "KOREAN 499",
+                "curr_course_name": "INDEPENDENT STUDY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15885",
-        "section": "BB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1030-1120",
-                "building": "LOW",
-                "room": "101"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15886",
-        "section": "BC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "930-1020",
-                "building": "SAV",
-                "room": "132"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15887",
-        "section": "BD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1030-1120",
-                "building": "THO",
-                "room": "231"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15888",
-        "section": "BE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1030-1120",
-                "building": "LOW",
-                "room": "106"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15889",
-        "section": "BF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1130-1220",
-                "building": "ECE",
-                "room": "031"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "11",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 103",
-        "curr_course_name": "1ST-YR KOREAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15890",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1220",
-                "building": "CDH",
-                "room": "139"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "44",
-        "curr_enrolled": "0",
-        "professor_name": "Kim,JungHee",
-        "curr_course_code": "KOREAN 203",
-        "curr_course_name": "2ND-YR KOREAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15891",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1030-1120",
-                "building": "LOW",
-                "room": "102"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 203",
-        "curr_course_name": "2ND-YR KOREAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15892",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1130-1220",
-                "building": "LOW",
-                "room": "206"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 203",
-        "curr_course_name": "2ND-YR KOREAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15893",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1000-1120",
-                "building": "SAV",
-                "room": "156"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "professor_name": "Choi,Sea",
-        "curr_course_code": "KOREAN 303",
-        "curr_course_name": "THIRD-YEAR KOREAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15894",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "FSH",
-                "room": "109"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hall,Emily Marie Anderson",
-        "curr_course_code": "KOREAN 360",
-        "curr_course_name": "KOR LIT & CULTURE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15895",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "ARC",
-                "room": "160"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kim,Ungsan",
-        "curr_course_code": "KOREAN 360",
-        "curr_course_name": "KOR LIT & CULTURE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15896",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1230-150",
-                "building": "MGH",
-                "room": "082A"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Choi,Sea Hee",
-        "curr_course_code": "KOREAN 403",
-        "curr_course_name": "FOURTH-YEAR KOREAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15897",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "MGH",
-                "room": "074"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "professor_name": "Cho,Heekyoung",
-        "curr_course_code": "KOREAN 417",
-        "curr_course_name": "RDNGS KOR LIT CLTR",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15898",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-120",
-                "building": "ECE",
-                "room": "037"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Choi,Sea",
-        "curr_course_code": "KOREAN 440",
-        "curr_course_name": "KOREAN LINGUISTICS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "15899",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "KOREAN 499",
-        "curr_course_name": "INDEPENDENT STUDY",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

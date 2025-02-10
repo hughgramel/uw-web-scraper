@@ -1,46 +1,58 @@
-[
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "15675",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "IPHD 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+{
+    "IPHD 600": {
+        "IPHD 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "15675",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "IPHD 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "15676",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "curr_course_code": "IPHD 800",
-        "curr_course_name": "DOCTORAL DISSERTATN",
-        "curr_course_fulfills": ""
+    "IPHD 800": {
+        "IPHD 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "15676",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "IPHD 800",
+                "curr_course_name": "DOCTORAL DISSERTATN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

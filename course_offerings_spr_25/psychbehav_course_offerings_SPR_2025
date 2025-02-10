@@ -1,675 +1,827 @@
-[
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18347",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-25",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "PBSCI 498",
-        "curr_course_name": "UNDERGRAD THESIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18348",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-15",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "PBSCI 499",
-        "curr_course_name": "H-UNDERGRAD RESCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18349",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 505P",
-        "curr_course_name": "P-PSYCH PRECEPTRSHP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18350",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "700-920P",
-                "building": "TBA",
-                "room": "TBA"
+{
+    "PBSCI 498": {
+        "PBSCI 498A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18347",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-25",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 498",
+                "curr_course_name": "UNDERGRAD THESIS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "O",
-        "is_estimate": 0,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Goldenberg,Ph.D., Edward",
-        "curr_course_code": "PBSCI 525P",
-        "curr_course_name": "P-PSYCHIATRY/LAW",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18351",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 530P",
-        "curr_course_name": "P-DEV PSYANL PSYTHR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18352",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1000-1120",
-                "building": "HSEB",
-                "room": "235"
+    "PBSCI 499": {
+        "PBSCI 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18348",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-15",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 499",
+                "curr_course_name": "H-UNDERGRAD RESCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rhew,Isaac C.",
-        "curr_course_code": "PBSCI 546",
-        "curr_course_name": "PSYCH EPI",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18353",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 548P",
-        "curr_course_name": "P-AGING ADLT DEVT",
-        "curr_course_fulfills": ""
+    "PBSCI 505P": {
+        "PBSCI 505PA": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18349",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 505P",
+                "curr_course_name": "P-PSYCH PRECEPTRSHP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18354",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-15",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 600",
-        "curr_course_name": "RES IN PSYCHIATRY",
-        "curr_course_fulfills": ""
+    "PBSCI 525P": {
+        "PBSCI 525PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18350",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "700-920P",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "O",
+                "is_estimate": 0,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Goldenberg,Ph.D., Edward",
+                "curr_course_code": "PBSCI 525P",
+                "curr_course_name": "P-PSYCHIATRY/LAW",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18355",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 630P",
-        "curr_course_name": "P-WRITE PBSCI CLK",
-        "curr_course_fulfills": ""
+    "PBSCI 530P": {
+        "PBSCI 530PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18351",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 530P",
+                "curr_course_name": "P-DEV PSYANL PSYTHR",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18356",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 631P",
-        "curr_course_name": "P-PSYCH JUNEAU",
-        "curr_course_fulfills": ""
+    "PBSCI 546": {
+        "PBSCI 546A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18352",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1000-1120",
+                        "building": "HSEB",
+                        "room": "235"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rhew,Isaac C.",
+                "curr_course_code": "PBSCI 546",
+                "curr_course_name": "PSYCH EPI",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18357",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-12",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 632P",
-        "curr_course_name": "P-LIC PSYCH",
-        "curr_course_fulfills": ""
+    "PBSCI 548P": {
+        "PBSCI 548PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18353",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 548P",
+                "curr_course_name": "P-AGING ADLT DEVT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18358",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 633",
-        "curr_course_name": "PSYC BILLINGS CLINIC",
-        "curr_course_fulfills": ""
+    "PBSCI 600": {
+        "PBSCI 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18354",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-15",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 600",
+                "curr_course_name": "RES IN PSYCHIATRY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18359",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 634P",
-        "curr_course_name": "P-PSY CLK FAIRBANKS",
-        "curr_course_fulfills": ""
+    "PBSCI 630P": {
+        "PBSCI 630PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18355",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 630P",
+                "curr_course_name": "P-WRITE PBSCI CLK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18360",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-24",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 635P",
-        "curr_course_name": "P-PSYC KALISPELL",
-        "curr_course_fulfills": ""
+    "PBSCI 631P": {
+        "PBSCI 631PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18356",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 631P",
+                "curr_course_name": "P-PSYCH JUNEAU",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18361",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 638P",
-        "curr_course_name": "P-PSYCH NW HOSPITAL",
-        "curr_course_fulfills": ""
+    "PBSCI 632P": {
+        "PBSCI 632PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18357",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-12",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 632P",
+                "curr_course_name": "P-LIC PSYCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18362",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 639P",
-        "curr_course_name": "P-PSYCH OLYMPIA",
-        "curr_course_fulfills": ""
+    "PBSCI 633": {
+        "PBSCI 633A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18358",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 633",
+                "curr_course_name": "PSYC BILLINGS CLINIC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18363",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 640P",
-        "curr_course_name": "P-PSYCH POCATEL",
-        "curr_course_fulfills": ""
+    "PBSCI 634P": {
+        "PBSCI 634PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18359",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 634P",
+                "curr_course_name": "P-PSY CLK FAIRBANKS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18364",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 642P",
-        "curr_course_name": "P-PSYCH CK BLACKFOOT",
-        "curr_course_fulfills": ""
+    "PBSCI 635P": {
+        "PBSCI 635PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18360",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-24",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 635P",
+                "curr_course_name": "P-PSYC KALISPELL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18365",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 649P",
-        "curr_course_name": "P-PBSCI ESH SPO",
-        "curr_course_fulfills": ""
+    "PBSCI 638P": {
+        "PBSCI 638PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18361",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 638P",
+                "curr_course_name": "P-PSYCH NW HOSPITAL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18366",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 652P",
-        "curr_course_name": "P-PSYC SHERIDAN",
-        "curr_course_fulfills": ""
+    "PBSCI 639P": {
+        "PBSCI 639PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18362",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 639P",
+                "curr_course_name": "P-PSYCH OLYMPIA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18367",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 655P",
-        "curr_course_name": "P-PSYCH CHEYNE",
-        "curr_course_fulfills": ""
+    "PBSCI 640P": {
+        "PBSCI 640PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18363",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 640P",
+                "curr_course_name": "P-PSYCH POCATEL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18368",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "PBSCI 659P",
-        "curr_course_name": "P-PSYC ANACONDA",
-        "curr_course_fulfills": ""
+    "PBSCI 642P": {
+        "PBSCI 642PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18364",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 642P",
+                "curr_course_name": "P-PSYCH CK BLACKFOOT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18369",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 660P",
-        "curr_course_name": "P-PBSCI BOZEMAN",
-        "curr_course_fulfills": ""
+    "PBSCI 649P": {
+        "PBSCI 649PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18365",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 649P",
+                "curr_course_name": "P-PBSCI ESH SPO",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18370",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 661P",
-        "curr_course_name": "P-PSYCH HELENA",
-        "curr_course_fulfills": ""
+    "PBSCI 652P": {
+        "PBSCI 652PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18366",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 652P",
+                "curr_course_name": "P-PSYC SHERIDAN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18371",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Felix,Richard",
-        "curr_course_code": "PBSCI 662",
-        "curr_course_name": "PSYCH MISSOULA",
-        "curr_course_fulfills": ""
+    "PBSCI 655P": {
+        "PBSCI 655PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18367",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 655P",
+                "curr_course_name": "P-PSYCH CHEYNE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18372",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Van Dyk,Thomas",
-        "curr_course_code": "PBSCI 663",
-        "curr_course_name": "PSYCH BILLINGS",
-        "curr_course_fulfills": ""
+    "PBSCI 659P": {
+        "PBSCI 659PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18368",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 659P",
+                "curr_course_name": "P-PSYC ANACONDA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18378",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Brown,Stephen",
-        "curr_course_code": "PBSCI 669P",
-        "curr_course_name": "P-PSYCH CASPER",
-        "curr_course_fulfills": ""
+    "PBSCI 660P": {
+        "PBSCI 660PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18369",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 660P",
+                "curr_course_name": "P-PBSCI BOZEMAN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18383",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4-8",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 674P",
-        "curr_course_name": "P-THERAPEUTIC COMM",
-        "curr_course_fulfills": ""
+    "PBSCI 661P": {
+        "PBSCI 661PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18370",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 661P",
+                "curr_course_name": "P-PSYCH HELENA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18388",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 681P",
-        "curr_course_name": "P-PSYC APC SHERIDAN",
-        "curr_course_fulfills": ""
+    "PBSCI 662": {
+        "PBSCI 662A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18371",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Felix,Richard",
+                "curr_course_code": "PBSCI 662",
+                "curr_course_name": "PSYCH MISSOULA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18391",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 689P",
-        "curr_course_name": "P-SUBI GEN PSYCH SPO",
-        "curr_course_fulfills": ""
+    "PBSCI 663": {
+        "PBSCI 663A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18372",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Van Dyk,Thomas",
+                "curr_course_code": "PBSCI 663",
+                "curr_course_name": "PSYCH BILLINGS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18392",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PBSCI 695P",
-        "curr_course_name": "P-CHILD PSYCH CSTC",
-        "curr_course_fulfills": ""
+    "PBSCI 669P": {
+        "PBSCI 669PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18378",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Brown,Stephen",
+                "curr_course_code": "PBSCI 669P",
+                "curr_course_name": "P-PSYCH CASPER",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "PBSCI 674P": {
+        "PBSCI 674PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18383",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4-8",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 674P",
+                "curr_course_name": "P-THERAPEUTIC COMM",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "PBSCI 681P": {
+        "PBSCI 681PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18388",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 681P",
+                "curr_course_name": "P-PSYC APC SHERIDAN",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "PBSCI 689P": {
+        "PBSCI 689PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18391",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 689P",
+                "curr_course_name": "P-SUBI GEN PSYCH SPO",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "PBSCI 695P": {
+        "PBSCI 695PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18392",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PBSCI 695P",
+                "curr_course_name": "P-CHILD PSYCH CSTC",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

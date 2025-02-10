@@ -1,347 +1,389 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "11706",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "830-950",
-                "building": "WFS",
-                "room": "105"
+{
+    "BSE 248": {
+        "BSE 248A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11706",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "830-950",
+                        "building": "WFS",
+                        "room": "105"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dichiara,Anthony B",
+                "curr_course_code": "BSE 248",
+                "curr_course_name": "PAPER PROPERTIES",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            },
+            "lab_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "11707",
+                    "section": "AA",
+                    "is_quiz": 0,
+                    "is_lab": 1,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "1230-220",
+                            "building": "LOW",
+                            "room": "113"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "15",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Dichiara,Anthony",
+                    "curr_course_code": "BSE 248",
+                    "curr_course_name": "PAPER PROPERTIES",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "11708",
+                    "section": "AB",
+                    "is_quiz": 0,
+                    "is_lab": 1,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "230-420",
+                            "building": "MEB",
+                            "room": "102"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "15",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Dichiara,Anthony",
+                    "curr_course_code": "BSE 248",
+                    "curr_course_name": "PAPER PROPERTIES",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "BSE 399": {
+        "BSE 399A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "11709",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "BSE 399",
+                "curr_course_name": "UNDERGRAD INTERNSHIP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dichiara,Anthony B",
-        "curr_course_code": "BSE 248",
-        "curr_course_name": "PAPER PROPERTIES",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11707",
-        "section": "AA",
-        "isQuiz": "0",
-        "isLab": "1",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1230-220",
-                "building": "LOW",
-                "room": "113"
+    "BSE 421": {
+        "BSE 421A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "11710",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWF",
+                        "time": "1030-1120",
+                        "building": "WFS",
+                        "room": "105"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hua,Mutian",
+                "curr_course_code": "BSE 421",
+                "curr_course_name": "BSE ENGR 2",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dichiara,Anthony",
-        "curr_course_code": "BSE 248",
-        "curr_course_name": "PAPER PROPERTIES",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11708",
-        "section": "AB",
-        "isQuiz": "0",
-        "isLab": "1",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-420",
-                "building": "MEB",
-                "room": "102"
+    "BSE 426": {
+        "BSE 426A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11711",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "1130-1220",
+                        "building": "WFS",
+                        "room": "105"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$67",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Bura,Renata",
+                "curr_course_code": "BSE 426",
+                "curr_course_name": "BIORESOURCES LAB",
+                "curr_course_fulfills": ""
+            },
+            "lab_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "11712",
+                    "section": "AA",
+                    "is_quiz": 0,
+                    "is_lab": 1,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "T",
+                            "time": "1230-420",
+                            "building": "WFS",
+                            "room": "105"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "15",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Bura,Renata",
+                    "curr_course_code": "BSE 426",
+                    "curr_course_name": "BIORESOURCES LAB",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "11713",
+                    "section": "AB",
+                    "is_quiz": 0,
+                    "is_lab": 1,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "1230-420",
+                            "building": "LOW",
+                            "room": "112"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "15",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Bura,Renata",
+                    "curr_course_code": "BSE 426",
+                    "curr_course_name": "BIORESOURCES LAB",
+                    "curr_course_fulfills": ""
+                }
+            ]
+        }
+    },
+    "BSE 481": {
+        "BSE 481A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "11714",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-320",
+                        "building": "BLD",
+                        "room": "261"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Gustafson,Rick",
+                "curr_course_code": "BSE 481",
+                "curr_course_name": "BIORESOURCE DSGN II",
+                "curr_course_fulfills": [
+                    "SSc/NSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dichiara,Anthony",
-        "curr_course_code": "BSE 248",
-        "curr_course_name": "PAPER PROPERTIES",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "11709",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "BSE 399",
-        "curr_course_name": "UNDERGRAD INTERNSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "11710",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWF",
-                "time": "1030-1120",
-                "building": "WFS",
-                "room": "105"
+    "BSE 490": {
+        "BSE 490A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "11715",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "BSE 490",
+                "curr_course_name": "SPECIAL TOPICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hua,Mutian",
-        "curr_course_code": "BSE 421",
-        "curr_course_name": "BSE ENGR 2",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11711",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "1130-1220",
-                "building": "WFS",
-                "room": "105"
+    "BSE 499": {
+        "BSE 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "11716",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "R",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "BSE 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$67",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bura,Renata",
-        "curr_course_code": "BSE 426",
-        "curr_course_name": "BIORESOURCES LAB",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "11712",
-        "section": "AA",
-        "isQuiz": "0",
-        "isLab": "1",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1230-420",
-                "building": "WFS",
-                "room": "105"
+        },
+        "BSE 499B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "11717",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "R",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "BSE 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bura,Renata",
-        "curr_course_code": "BSE 426",
-        "curr_course_name": "BIORESOURCES LAB",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "11713",
-        "section": "AB",
-        "isQuiz": "0",
-        "isLab": "1",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1230-420",
-                "building": "LOW",
-                "room": "112"
+        },
+        "BSE 499C": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "11718",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "HR",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "BSE 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bura,Renata",
-        "curr_course_code": "BSE 426",
-        "curr_course_name": "BIORESOURCES LAB",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "11714",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-320",
-                "building": "BLD",
-                "room": "261"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Gustafson,Rick",
-        "curr_course_code": "BSE 481",
-        "curr_course_name": "BIORESOURCE DSGN II",
-        "curr_course_fulfills": [
-            "SSc/NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "11715",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "curr_course_code": "BSE 490",
-        "curr_course_name": "SPECIAL TOPICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "11716",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "R",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "BSE 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "11717",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "R",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "BSE 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "11718",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "HR",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "BSE 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

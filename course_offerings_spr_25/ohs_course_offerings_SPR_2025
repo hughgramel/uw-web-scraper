@@ -1,310 +1,369 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "18165",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "330-520",
-                "building": "HST",
-                "room": "T474"
+{
+    "OHS 201": {
+        "OHS 201A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18165",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-520",
+                        "building": "HST",
+                        "room": "T474"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$15",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Coldwell,Susan",
+                "curr_course_code": "OHS 201",
+                "curr_course_name": "PLAN CAREER IN DENT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$15",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Coldwell,Susan",
-        "curr_course_code": "OHS 201",
-        "curr_course_name": "PLAN CAREER IN DENT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18166",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OHS 449",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18167",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OHS 449",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "18168",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "130-250",
-                "building": "HSE",
-                "room": "E214"
+    "OHS 449": {
+        "OHS 449A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18166",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OHS 449",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "curr_course_code": "OHS 503",
-        "curr_course_name": "CRIT THINK OHS: CLIN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "18169",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "830-1120",
-                "building": "HST",
-                "room": "T733"
+        },
+        "OHS 449B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18167",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OHS 449",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "professor_name": "Popowics,Tracy",
-        "curr_course_code": "OHS 561",
-        "curr_course_name": "ORAL TISSUES",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18170",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OHS 562",
-        "curr_course_name": "OHS TEACHING",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18171",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "400-450",
-                "building": "HST",
-                "room": "T359"
+    "OHS 503": {
+        "OHS 503A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18168",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "130-250",
+                        "building": "HSE",
+                        "room": "E214"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "OHS 503",
+                "curr_course_name": "CRIT THINK OHS: CLIN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "CORNELL,ROBERT A.",
-        "curr_course_code": "OHS 575",
-        "curr_course_name": "OHS SEMINAR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18172",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-4",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "OHS 578",
-        "curr_course_name": "RESEARCH TECHNIQUES",
-        "curr_course_fulfills": ""
+    "OHS 561": {
+        "OHS 561A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18169",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "830-1120",
+                        "building": "HST",
+                        "room": "T733"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Popowics,Tracy",
+                "curr_course_code": "OHS 561",
+                "curr_course_name": "ORAL TISSUES",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18173",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OHS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "OHS 562": {
+        "OHS 562A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18170",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OHS 562",
+                "curr_course_name": "OHS TEACHING",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18174",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Chi,Donald L",
-        "curr_course_code": "OHS 650P",
-        "curr_course_name": "P-COMD CLINIC ELECT",
-        "curr_course_fulfills": ""
+    "OHS 575": {
+        "OHS 575A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18171",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "400-450",
+                        "building": "HST",
+                        "room": "T359"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "B",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "CORNELL,ROBERT A.",
+                "curr_course_code": "OHS 575",
+                "curr_course_name": "OHS SEMINAR",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18175",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "OHS 650P",
-        "curr_course_name": "P-COMD CLINIC ELECT",
-        "curr_course_fulfills": ""
+    "OHS 578": {
+        "OHS 578A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18172",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-4",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "OHS 578",
+                "curr_course_name": "RESEARCH TECHNIQUES",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18176",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OHS 700",
-        "curr_course_name": "MASTERS THESIS",
-        "curr_course_fulfills": ""
+    "OHS 600": {
+        "OHS 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18173",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OHS 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18177",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OHS 800",
-        "curr_course_name": "DOCTORAL DISSERTATN",
-        "curr_course_fulfills": ""
+    "OHS 650P": {
+        "OHS 650PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18174",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Chi,Donald L",
+                "curr_course_code": "OHS 650P",
+                "curr_course_name": "P-COMD CLINIC ELECT",
+                "curr_course_fulfills": ""
+            }
+        },
+        "OHS 650PB": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18175",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "OHS 650P",
+                "curr_course_name": "P-COMD CLINIC ELECT",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "OHS 700": {
+        "OHS 700A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18176",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OHS 700",
+                "curr_course_name": "MASTERS THESIS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "OHS 800": {
+        "OHS 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18177",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OHS 800",
+                "curr_course_name": "DOCTORAL DISSERTATN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

@@ -1,2363 +1,2612 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "13563",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "830-950",
-                "building": "KNE",
-                "room": "130"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "405",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Midnight,Yael",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13564",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-950",
-                "building": "THO",
-                "room": "134"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13565",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1000-1120",
-                "building": "CDH",
-                "room": "101"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13566",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1050",
-                "building": "CHL",
-                "room": "015"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13567",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1100-1220",
-                "building": "SMI",
-                "room": "105"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13568",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1250",
-                "building": "MOR",
-                "room": "221"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13569",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1200-120",
-                "building": "THO",
-                "room": "135"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13570",
-        "section": "AG",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1000-1120",
-                "building": "MOR",
-                "room": "221"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13571",
-        "section": "AH",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1050",
-                "building": "CDH",
-                "room": "105"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13572",
-        "section": "AI",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1200-120",
-                "building": "THO",
-                "room": "134"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13573",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "630-820P",
-                "building": "THO",
-                "room": "325"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 200",
-        "curr_course_name": "INTRO MICROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13574",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "100-220",
-                "building": "KNE",
-                "room": "120"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "360",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "O'Dea,Dennis",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13575",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-950",
-                "building": "CMU",
-                "room": "230"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13576",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1000-1120",
-                "building": "THO",
-                "room": "135"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13577",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1050",
-                "building": "SMI",
-                "room": "105"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13578",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1100-1220",
-                "building": "THO",
-                "room": "119"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13579",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1150",
-                "building": "THO",
-                "room": "134"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13580",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1200-120",
-                "building": "MUE",
-                "room": "155"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13581",
-        "section": "AG",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1200-120",
-                "building": "CDH",
-                "room": "105"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13582",
-        "section": "AH",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1000-1120",
-                "building": "MUE",
-                "room": "155"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13583",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-120",
-                "building": "SMI",
-                "room": "305"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13584",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "830-1020",
-                "building": "CMU",
-                "room": "230"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13585",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "630-820P",
-                "building": "THO",
-                "room": "325"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 201",
-        "curr_course_name": "INTRO MACROECON",
-        "curr_course_fulfills": [
-            "SSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13586",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1000-1120",
-                "building": "DEN",
-                "room": "303"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 230",
-        "curr_course_name": "ECONOMICS FISH&OCN",
-        "curr_course_fulfills": [
-            "SSc/NSc",
-            "RSN"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13587",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "930-1120",
-                "building": "MEB",
-                "room": "238"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rabotyagov,Sergey",
-        "curr_course_code": "ECON 235",
-        "curr_course_name": "INTRO ENVIRO ECON",
-        "curr_course_fulfills": [
-            "SSc/NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13588",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "SMI",
-                "room": "304"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "70",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Khalil,Fahad",
-        "curr_course_code": "ECON 300",
-        "curr_course_name": "INTERMED MICROECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13589",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-320",
-                "building": "MLR",
-                "room": "316"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 300",
-        "curr_course_name": "INTERMED MICROECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13590",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1230-120",
-                "building": "MUS",
-                "room": "223"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 300",
-        "curr_course_name": "INTERMED MICROECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13591",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-350",
-                "building": "WFS",
-                "room": "201"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "70",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kerwin,Jason",
-        "curr_course_code": "ECON 300",
-        "curr_course_name": "INTERMED MICROECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13592",
-        "section": "BA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-320",
-                "building": "SMI",
-                "room": "105"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 300",
-        "curr_course_name": "INTERMED MICROECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13593",
-        "section": "BB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1230-120",
-                "building": "SMI",
-                "room": "309"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 300",
-        "curr_course_name": "INTERMED MICROECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13594",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "430-620P",
-                "building": "SMI",
-                "room": "115"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 300",
-        "curr_course_name": "INTERMED MICROECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13595",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-120",
-                "building": "SMI",
-                "room": "311"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 300",
-        "curr_course_name": "INTERMED MICROECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13596",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-420",
-                "building": "CDH",
-                "room": "139"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "70",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Karimirad,Ali",
-        "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13597",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-320",
-                "building": "MLR",
-                "room": "316"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13598",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1230-220",
-                "building": "THO",
-                "room": "135"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13599",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-120",
-                "building": "SMI",
-                "room": "311"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13600",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "830-1020",
-                "building": "RAI",
-                "room": "116"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 301",
-        "curr_course_name": "INTERMED MACRO-ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13601",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "930-1050",
-                "building": "SMI",
-                "room": "304"
+{
+    "ECON 200": {
+        "ECON 200A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13563",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "830-950",
+                        "building": "KNE",
+                        "room": "130"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "405",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Midnight,Yael",
+                "curr_course_code": "ECON 200",
+                "curr_course_name": "INTRO MICROECON",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "RSN"
+                ]
             },
-            {
-                "days": "W",
-                "time": "1030-1120",
-                "building": "SMI",
-                "room": "304"
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13564",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "830-950",
+                            "building": "THO",
+                            "room": "134"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 200",
+                    "curr_course_name": "INTRO MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13565",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1000-1120",
+                            "building": "CDH",
+                            "room": "101"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 200",
+                    "curr_course_name": "INTRO MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13566",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1050",
+                            "building": "CHL",
+                            "room": "015"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 200",
+                    "curr_course_name": "INTRO MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13567",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1100-1220",
+                            "building": "SMI",
+                            "room": "105"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 200",
+                    "curr_course_name": "INTRO MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13568",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1250",
+                            "building": "MOR",
+                            "room": "221"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 200",
+                    "curr_course_name": "INTRO MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13569",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1200-120",
+                            "building": "THO",
+                            "room": "135"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 200",
+                    "curr_course_name": "INTRO MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13570",
+                    "section": "AG",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1000-1120",
+                            "building": "MOR",
+                            "room": "221"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 200",
+                    "curr_course_name": "INTRO MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13571",
+                    "section": "AH",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1050",
+                            "building": "CDH",
+                            "room": "105"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 200",
+                    "curr_course_name": "INTRO MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13572",
+                    "section": "AI",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1200-120",
+                            "building": "THO",
+                            "room": "134"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 200",
+                    "curr_course_name": "INTRO MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                }
+            ]
+        },
+        "ECON 200B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13573",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "630-820P",
+                        "building": "THO",
+                        "room": "325"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 200",
+                "curr_course_name": "INTRO MICROECON",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "RSN"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "80",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Tao,Jing",
-        "curr_course_code": "ECON 382",
-        "curr_course_name": "INTRO ECONOMETRICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13602",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "330-520",
-                "building": "THO",
-                "room": "231"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "H",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "professor_name": "Midnight,Yael",
-        "curr_course_code": "ECON 396",
-        "curr_course_name": "HONORS RESEARCH SEM",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13603",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "830-950",
-                "building": "CLK",
-                "room": "219"
-            }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "ECON 399",
-        "curr_course_name": "ECON INTERNSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13604",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "930-1120",
-                "building": "CMU",
-                "room": "230"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "O'Dea,Dennis",
-        "curr_course_code": "ECON 400",
-        "curr_course_name": "ADVANCED MICROECON",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13605",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "SMI",
-                "room": "307"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ghironi,Fabio",
-        "curr_course_code": "ECON 401",
-        "curr_course_name": "ADVANCED MACROECON",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13606",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "RAI",
-                "room": "116"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ghironi,Fabio",
-        "curr_course_code": "ECON 401",
-        "curr_course_name": "ADVANCED MACROECON",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13607",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "CMU",
-                "room": "226"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Tapia,Christina",
-        "curr_course_code": "ECON 408",
-        "curr_course_name": "LAW & ECONOMICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13608",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "430-620P",
-                "building": "SAV",
-                "room": "162"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Adolph,Christopher",
-        "curr_course_code": "ECON 409",
-        "curr_course_name": "UNDERG SEM-POL ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13609",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "830-1020",
-                "building": "MUS",
-                "room": "223"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Griffith,Alan",
-        "curr_course_code": "ECON 410",
-        "curr_course_name": "ECON OF NETWORKS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13610",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "830-1020",
-                "building": "SIG",
-                "room": "226"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Greaney,Brian",
-        "curr_course_code": "ECON 412",
-        "curr_course_name": "MACROECN & INEQLTY",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13611",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "LOW",
-                "room": "102"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Brock,Philip",
-        "curr_course_code": "ECON 421",
-        "curr_course_name": "MNY CRDT & THE ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13612",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "THO",
-                "room": "134"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Tapia,Christina",
-        "curr_course_code": "ECON 423",
-        "curr_course_name": "TOPICS IN FIN ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13613",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "THO",
-                "room": "119"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Zivot,Eric",
-        "curr_course_code": "ECON 424",
-        "curr_course_name": "COMPUTATNL FINANCE",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13614",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "830-1020",
-                "building": "SMI",
-                "room": "311"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Karimirad,Ali",
-        "curr_course_code": "ECON 426",
-        "curr_course_name": "ADV FINANCIAL ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13615",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "SMI",
-                "room": "115"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Takahashi,Yuya",
-        "curr_course_code": "ECON 432",
-        "curr_course_name": "EMPIRICAL INDSTR ORG",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "21430",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "500-650P",
-                "building": "SMI",
-                "room": "304"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 436",
-        "curr_course_name": "ENVIRONMENTAL ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13616",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "TBA",
-                "room": "TBA"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "O",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rose,Elaina",
-        "curr_course_code": "ECON 443",
-        "curr_course_name": "LABOR MKT ANALYSIS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13617",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "SAV",
-                "room": "132"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Eicher,Theo",
-        "curr_course_code": "ECON 471",
-        "curr_course_name": "INTERNATIONAL TRADE",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13618",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "SAV",
-                "room": "132"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Eicher,Theo",
-        "curr_course_code": "ECON 472",
-        "curr_course_name": "INTERNATL FINANCE",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13619",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "CMU",
-                "room": "326"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kim,Chang-Jin",
-        "curr_course_code": "ECON 482",
-        "curr_course_name": "ECONOMETRIC THRY&PR",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13620",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "SMI",
-                "room": "313"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ECON 482",
-        "curr_course_name": "ECONOMETRIC THRY&PR",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13621",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "HRC",
-                "room": "135"
+    "ECON 201": {
+        "ECON 201A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13574",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "100-220",
+                        "building": "KNE",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "360",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "O'Dea,Dennis",
+                "curr_course_code": "ECON 201",
+                "curr_course_name": "INTRO MACROECON",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "RSN"
+                ]
             },
-            {
-                "days": "W",
-                "time": "530-620P"
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "13575",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "830-950",
+                            "building": "CMU",
+                            "room": "230"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 201",
+                    "curr_course_name": "INTRO MACROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13576",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1000-1120",
+                            "building": "THO",
+                            "room": "135"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 201",
+                    "curr_course_name": "INTRO MACROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13577",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1050",
+                            "building": "SMI",
+                            "room": "105"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 201",
+                    "curr_course_name": "INTRO MACROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13578",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1100-1220",
+                            "building": "THO",
+                            "room": "119"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 201",
+                    "curr_course_name": "INTRO MACROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13579",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1150",
+                            "building": "THO",
+                            "room": "134"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 201",
+                    "curr_course_name": "INTRO MACROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13580",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1200-120",
+                            "building": "MUE",
+                            "room": "155"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 201",
+                    "curr_course_name": "INTRO MACROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13581",
+                    "section": "AG",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1200-120",
+                            "building": "CDH",
+                            "room": "105"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 201",
+                    "curr_course_name": "INTRO MACROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13582",
+                    "section": "AH",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1000-1120",
+                            "building": "MUE",
+                            "room": "155"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "45",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 201",
+                    "curr_course_name": "INTRO MACROECON",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "RSN"
+                    ]
+                }
+            ]
+        },
+        "ECON 201B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13583",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-120",
+                        "building": "SMI",
+                        "room": "305"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 201",
+                "curr_course_name": "INTRO MACROECON",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "RSN"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Duncan,Gregory",
-        "curr_course_code": "ECON 484",
-        "curr_course_name": "ECNMTRCS & DATA SCI",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13622",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "DEN",
-                "room": "112"
+        },
+        "ECON 201C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13584",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "830-1020",
+                        "building": "CMU",
+                        "room": "230"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 201",
+                "curr_course_name": "INTRO MACROECON",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "RSN"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Lawarree,Jacques",
-        "curr_course_code": "ECON 485",
-        "curr_course_name": "GAME THEORY",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13623",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "830-1020",
-                "building": "SMI",
-                "room": "309"
+        },
+        "ECON 201D": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13585",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "630-820P",
+                        "building": "THO",
+                        "room": "325"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 201",
+                "curr_course_name": "INTRO MACROECON",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "RSN"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bunting,Jackson",
-        "curr_course_code": "ECON 488",
-        "curr_course_name": "CAUSAL INFERENCE",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13624",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "ECON 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
+    "ECON 230": {
+        "ECON 230A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13586",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "1000-1120",
+                        "building": "DEN",
+                        "room": "303"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 230",
+                "curr_course_name": "ECONOMICS FISH&OCN",
+                "curr_course_fulfills": [
+                    "SSc/NSc",
+                    "RSN"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13625",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-450",
-                "building": "SAV",
-                "room": "156"
+    "ECON 235": {
+        "ECON 235A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13587",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "930-1120",
+                        "building": "MEB",
+                        "room": "238"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rabotyagov,Sergey",
+                "curr_course_code": "ECON 235",
+                "curr_course_name": "INTRO ENVIRO ECON",
+                "curr_course_fulfills": [
+                    "SSc/NSc"
+                ]
+            }
+        }
+    },
+    "ECON 300": {
+        "ECON 300A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13588",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "SMI",
+                        "room": "304"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "70",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Khalil,Fahad",
+                "curr_course_code": "ECON 300",
+                "curr_course_name": "INTERMED MICROECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             },
-            {
-                "days": "F",
-                "time": "130-220"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Khalil,Fahad",
-        "curr_course_code": "ECON 508",
-        "curr_course_name": "MICROECN ANLYS III",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13626",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-250",
-                "building": "MEB",
-                "room": "250"
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13589",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "230-320",
+                            "building": "MLR",
+                            "room": "316"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "35",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 300",
+                    "curr_course_name": "INTERMED MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13590",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "1230-120",
+                            "building": "MUS",
+                            "room": "223"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "35",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 300",
+                    "curr_course_name": "INTERMED MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        },
+        "ECON 300B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13591",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-350",
+                        "building": "WFS",
+                        "room": "201"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "70",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kerwin,Jason",
+                "curr_course_code": "ECON 300",
+                "curr_course_name": "INTERMED MICROECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             },
-            {
-                "days": "F",
-                "time": "330-420"
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13592",
+                    "section": "BA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "230-320",
+                            "building": "SMI",
+                            "room": "105"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "35",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 300",
+                    "curr_course_name": "INTERMED MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13593",
+                    "section": "BB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "1230-120",
+                            "building": "SMI",
+                            "room": "309"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "35",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 300",
+                    "curr_course_name": "INTERMED MICROECON",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        },
+        "ECON 300C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13594",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "430-620P",
+                        "building": "SMI",
+                        "room": "115"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 300",
+                "curr_course_name": "INTERMED MICROECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Greaney,Brian",
-        "curr_course_code": "ECON 509",
-        "curr_course_name": "MACROECON ANLYS III",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13627",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-450",
-                "building": "SAV",
-                "room": "157"
+        },
+        "ECON 300D": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13595",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-120",
+                        "building": "SMI",
+                        "room": "311"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 300",
+                "curr_course_name": "INTERMED MICROECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Wen,Quan",
-        "curr_course_code": "ECON 511",
-        "curr_course_name": "ADV MICRO-EC THRY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13628",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1100-1220",
-                "building": "SAV",
-                "room": "168"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Greaney,Brian",
-        "curr_course_code": "ECON 527",
-        "curr_course_name": "MACRO EMPIR & THRY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13629",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "500-620P",
-                "building": "SMI",
-                "room": "109"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Takahashi,Yuya",
-        "curr_course_code": "ECON 534",
-        "curr_course_name": "EMPIRICAL IND ORG II",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "13630",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "100-220",
-                "building": "ART",
-                "room": "317"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "professor_name": "Wong,Edwin S.",
-        "curr_course_code": "ECON 547",
-        "curr_course_name": "HEALTH POLICY ECON",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13631",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-250",
-                "building": "SAV",
-                "room": "139"
+    "ECON 301": {
+        "ECON 301A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13596",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-420",
+                        "building": "CDH",
+                        "room": "139"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "70",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Karimirad,Ali",
+                "curr_course_code": "ECON 301",
+                "curr_course_name": "INTERMED MACRO-ECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             },
-            {
-                "days": "F",
-                "time": "230-320"
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13597",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "230-320",
+                            "building": "MLR",
+                            "room": "316"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "35",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 301",
+                    "curr_course_name": "INTERMED MACRO-ECON",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13598",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "1230-220",
+                            "building": "THO",
+                            "room": "135"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "35",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "ECON 301",
+                    "curr_course_name": "INTERMED MACRO-ECON",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        },
+        "ECON 301B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13599",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-120",
+                        "building": "SMI",
+                        "room": "311"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 301",
+                "curr_course_name": "INTERMED MACRO-ECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Tao,Jing",
-        "curr_course_code": "ECON 582",
-        "curr_course_name": "ECONOMETRICS III",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13632",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-450",
-                "building": "SAV",
-                "room": "169"
+        },
+        "ECON 301C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13600",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "830-1020",
+                        "building": "RAI",
+                        "room": "116"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 301",
+                "curr_course_name": "INTERMED MACRO-ECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kim,Chang-Jin",
-        "curr_course_code": "ECON 586",
-        "curr_course_name": "TIME SERIES ANALYSIS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13633",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1100-1220",
-                "building": "THO",
-                "room": "215"
+    "ECON 382": {
+        "ECON 382A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13601",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "930-1050",
+                        "building": "SMI",
+                        "room": "304"
+                    },
+                    {
+                        "days": "W",
+                        "time": "1030-1120",
+                        "building": "SMI",
+                        "room": "304"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "80",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Tao,Jing",
+                "curr_course_code": "ECON 382",
+                "curr_course_name": "INTRO ECONOMETRICS",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Brock,Philip",
-        "curr_course_code": "ECON 592",
-        "curr_course_name": "FIN MKTS & ECON DEV",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13634",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-250",
-                "building": "SMI",
-                "room": "111"
+    "ECON 396": {
+        "ECON 396A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13602",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "330-520",
+                        "building": "THO",
+                        "room": "231"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "H",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Midnight,Yael",
+                "curr_course_code": "ECON 396",
+                "curr_course_name": "HONORS RESEARCH SEM",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Griffith,Alan",
-        "curr_course_code": "ECON 593",
-        "curr_course_name": "TPCS DVLPMT ECON II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13635",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-250",
-                "building": "SMI",
-                "room": "111"
+    "ECON 399": {
+        "ECON 399A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13603",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "830-950",
+                        "building": "CLK",
+                        "room": "219"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "ECON 399",
+                "curr_course_name": "ECON INTERNSHIP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Fan,Yanqin",
-        "curr_course_code": "ECON 599",
-        "curr_course_name": "ISSUES ECONOMETRICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13636",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "curr_course_code": "ECON 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "ECON 400": {
+        "ECON 400A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13604",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "930-1120",
+                        "building": "CMU",
+                        "room": "230"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "O'Dea,Dennis",
+                "curr_course_code": "ECON 400",
+                "curr_course_name": "ADVANCED MICROECON",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13637",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-9",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "curr_course_code": "ECON 601",
-        "curr_course_name": "INTERNSHIP",
-        "curr_course_fulfills": ""
+    "ECON 401": {
+        "ECON 401A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13605",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "SMI",
+                        "room": "307"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ghironi,Fabio",
+                "curr_course_code": "ECON 401",
+                "curr_course_name": "ADVANCED MACROECON",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            }
+        },
+        "ECON 401B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13606",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "RAI",
+                        "room": "116"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ghironi,Fabio",
+                "curr_course_code": "ECON 401",
+                "curr_course_name": "ADVANCED MACROECON",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13638",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "curr_course_code": "ECON 800",
-        "curr_course_name": "DOCTORAL DISSERTATN",
-        "curr_course_fulfills": ""
+    "ECON 408": {
+        "ECON 408A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13607",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "CMU",
+                        "room": "226"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Tapia,Christina",
+                "curr_course_code": "ECON 408",
+                "curr_course_name": "LAW & ECONOMICS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 409": {
+        "ECON 409A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13608",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "430-620P",
+                        "building": "SAV",
+                        "room": "162"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Adolph,Christopher",
+                "curr_course_code": "ECON 409",
+                "curr_course_name": "UNDERG SEM-POL ECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "ECON 410": {
+        "ECON 410A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13609",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "830-1020",
+                        "building": "MUS",
+                        "room": "223"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Griffith,Alan",
+                "curr_course_code": "ECON 410",
+                "curr_course_name": "ECON OF NETWORKS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "ECON 412": {
+        "ECON 412A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13610",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "830-1020",
+                        "building": "SIG",
+                        "room": "226"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Greaney,Brian",
+                "curr_course_code": "ECON 412",
+                "curr_course_name": "MACROECN & INEQLTY",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
+            }
+        }
+    },
+    "ECON 421": {
+        "ECON 421A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13611",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "LOW",
+                        "room": "102"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Brock,Philip",
+                "curr_course_code": "ECON 421",
+                "curr_course_name": "MNY CRDT & THE ECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "ECON 423": {
+        "ECON 423A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13612",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "THO",
+                        "room": "134"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Tapia,Christina",
+                "curr_course_code": "ECON 423",
+                "curr_course_name": "TOPICS IN FIN ECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "ECON 424": {
+        "ECON 424A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13613",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "THO",
+                        "room": "119"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Zivot,Eric",
+                "curr_course_code": "ECON 424",
+                "curr_course_name": "COMPUTATNL FINANCE",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            }
+        }
+    },
+    "ECON 426": {
+        "ECON 426A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13614",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "830-1020",
+                        "building": "SMI",
+                        "room": "311"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Karimirad,Ali",
+                "curr_course_code": "ECON 426",
+                "curr_course_name": "ADV FINANCIAL ECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "ECON 432": {
+        "ECON 432A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13615",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "SMI",
+                        "room": "115"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Takahashi,Yuya",
+                "curr_course_code": "ECON 432",
+                "curr_course_name": "EMPIRICAL INDSTR ORG",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 436": {
+        "ECON 436A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21430",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "500-650P",
+                        "building": "SMI",
+                        "room": "304"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 436",
+                "curr_course_name": "ENVIRONMENTAL ECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "ECON 443": {
+        "ECON 443A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13616",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "O",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rose,Elaina",
+                "curr_course_code": "ECON 443",
+                "curr_course_name": "LABOR MKT ANALYSIS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "ECON 471": {
+        "ECON 471A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13617",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "SAV",
+                        "room": "132"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Eicher,Theo",
+                "curr_course_code": "ECON 471",
+                "curr_course_name": "INTERNATIONAL TRADE",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "ECON 472": {
+        "ECON 472A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13618",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "SAV",
+                        "room": "132"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Eicher,Theo",
+                "curr_course_code": "ECON 472",
+                "curr_course_name": "INTERNATL FINANCE",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "ECON 482": {
+        "ECON 482A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13619",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "CMU",
+                        "room": "326"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kim,Chang-Jin",
+                "curr_course_code": "ECON 482",
+                "curr_course_name": "ECONOMETRIC THRY&PR",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            }
+        },
+        "ECON 482B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13620",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "SMI",
+                        "room": "313"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ECON 482",
+                "curr_course_name": "ECONOMETRIC THRY&PR",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            }
+        }
+    },
+    "ECON 484": {
+        "ECON 484A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13621",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "HRC",
+                        "room": "135"
+                    },
+                    {
+                        "days": "W",
+                        "time": "530-620P"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Duncan,Gregory",
+                "curr_course_code": "ECON 484",
+                "curr_course_name": "ECNMTRCS & DATA SCI",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            }
+        }
+    },
+    "ECON 485": {
+        "ECON 485A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13622",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "DEN",
+                        "room": "112"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Lawarree,Jacques",
+                "curr_course_code": "ECON 485",
+                "curr_course_name": "GAME THEORY",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            }
+        }
+    },
+    "ECON 488": {
+        "ECON 488A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13623",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "830-1020",
+                        "building": "SMI",
+                        "room": "309"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Bunting,Jackson",
+                "curr_course_code": "ECON 488",
+                "curr_course_name": "CAUSAL INFERENCE",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            }
+        }
+    },
+    "ECON 499": {
+        "ECON 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13624",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "ECON 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 508": {
+        "ECON 508A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13625",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-450",
+                        "building": "SAV",
+                        "room": "156"
+                    },
+                    {
+                        "days": "F",
+                        "time": "130-220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Khalil,Fahad",
+                "curr_course_code": "ECON 508",
+                "curr_course_name": "MICROECN ANLYS III",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 509": {
+        "ECON 509A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13626",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-250",
+                        "building": "MEB",
+                        "room": "250"
+                    },
+                    {
+                        "days": "F",
+                        "time": "330-420"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Greaney,Brian",
+                "curr_course_code": "ECON 509",
+                "curr_course_name": "MACROECON ANLYS III",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 511": {
+        "ECON 511A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13627",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-450",
+                        "building": "SAV",
+                        "room": "157"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Wen,Quan",
+                "curr_course_code": "ECON 511",
+                "curr_course_name": "ADV MICRO-EC THRY",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 527": {
+        "ECON 527A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13628",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1100-1220",
+                        "building": "SAV",
+                        "room": "168"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Greaney,Brian",
+                "curr_course_code": "ECON 527",
+                "curr_course_name": "MACRO EMPIR & THRY",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 534": {
+        "ECON 534A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13629",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "500-620P",
+                        "building": "SMI",
+                        "room": "109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Takahashi,Yuya",
+                "curr_course_code": "ECON 534",
+                "curr_course_name": "EMPIRICAL IND ORG II",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 547": {
+        "ECON 547A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13630",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "100-220",
+                        "building": "ART",
+                        "room": "317"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "Wong,Edwin S.",
+                "curr_course_code": "ECON 547",
+                "curr_course_name": "HEALTH POLICY ECON",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 582": {
+        "ECON 582A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13631",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-250",
+                        "building": "SAV",
+                        "room": "139"
+                    },
+                    {
+                        "days": "F",
+                        "time": "230-320"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Tao,Jing",
+                "curr_course_code": "ECON 582",
+                "curr_course_name": "ECONOMETRICS III",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 586": {
+        "ECON 586A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13632",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-450",
+                        "building": "SAV",
+                        "room": "169"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kim,Chang-Jin",
+                "curr_course_code": "ECON 586",
+                "curr_course_name": "TIME SERIES ANALYSIS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 592": {
+        "ECON 592A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13633",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1100-1220",
+                        "building": "THO",
+                        "room": "215"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Brock,Philip",
+                "curr_course_code": "ECON 592",
+                "curr_course_name": "FIN MKTS & ECON DEV",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 593": {
+        "ECON 593A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13634",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-250",
+                        "building": "SMI",
+                        "room": "111"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Griffith,Alan",
+                "curr_course_code": "ECON 593",
+                "curr_course_name": "TPCS DVLPMT ECON II",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 599": {
+        "ECON 599A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13635",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-250",
+                        "building": "SMI",
+                        "room": "111"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Fan,Yanqin",
+                "curr_course_code": "ECON 599",
+                "curr_course_name": "ISSUES ECONOMETRICS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 600": {
+        "ECON 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13636",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "ECON 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 601": {
+        "ECON 601A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13637",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-9",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "ECON 601",
+                "curr_course_name": "INTERNSHIP",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ECON 800": {
+        "ECON 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13638",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "ECON 800",
+                "curr_course_name": "DOCTORAL DISSERTATN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

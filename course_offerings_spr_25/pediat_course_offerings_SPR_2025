@@ -1,1175 +1,1458 @@
-[
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18433",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "curr_course_code": "PEDS 498",
-        "curr_course_name": "UNDERGRAD THESIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18434",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "PEDS 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18435",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "PEDS 505P",
-        "curr_course_name": "P-PRECEP IN PEDS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18436",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "100-150",
-                "building": "TBA",
-                "room": "TBA"
+{
+    "PEDS 498": {
+        "PEDS 498A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18433",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PEDS 498",
+                "curr_course_name": "UNDERGRAD THESIS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "O",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Aaronson,Ben",
-        "curr_course_code": "PEDS 513",
-        "curr_course_name": "SCI INVESTGN PED MED",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18437",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "6",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 601",
-        "curr_course_name": "RURAL LIC INPT PEDS",
-        "curr_course_fulfills": ""
+    "PEDS 499": {
+        "PEDS 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18434",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PEDS 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18438",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 607",
-        "curr_course_name": "PED RHEUM ELEC-BOISE",
-        "curr_course_fulfills": ""
+    "PEDS 505P": {
+        "PEDS 505PA": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18435",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PEDS 505P",
+                "curr_course_name": "P-PRECEP IN PEDS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18440",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 610",
-        "curr_course_name": "TRADITION INDIAN MED",
-        "curr_course_fulfills": ""
+    "PEDS 513": {
+        "PEDS 513A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18436",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "100-150",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "O",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Aaronson,Ben",
+                "curr_course_code": "PEDS 513",
+                "curr_course_name": "SCI INVESTGN PED MED",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18442",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 612",
-        "curr_course_name": "PICU HMC",
-        "curr_course_fulfills": ""
+    "PEDS 601": {
+        "PEDS 601A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18437",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "6",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 601",
+                "curr_course_name": "RURAL LIC INPT PEDS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18443",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 613",
-        "curr_course_name": "PEDS GI",
-        "curr_course_fulfills": ""
+    "PEDS 607": {
+        "PEDS 607A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18438",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 607",
+                "curr_course_name": "PED RHEUM ELEC-BOISE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18444",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 614",
-        "curr_course_name": "ADVOC & COMM PARTNER",
-        "curr_course_fulfills": ""
+    "PEDS 610": {
+        "PEDS 610A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18440",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 610",
+                "curr_course_name": "TRADITION INDIAN MED",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18445",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 615",
-        "curr_course_name": "CHILD ABUSE CLRK",
-        "curr_course_fulfills": ""
+    "PEDS 612": {
+        "PEDS 612A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18442",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 612",
+                "curr_course_name": "PICU HMC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18446",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 617",
-        "curr_course_name": "ADV IN-PNT PEDS CD'A",
-        "curr_course_fulfills": ""
+    "PEDS 613": {
+        "PEDS 613A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18443",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 613",
+                "curr_course_name": "PEDS GI",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18447",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 618",
-        "curr_course_name": "ADV PEDS RHEUM-BOISE",
-        "curr_course_fulfills": ""
+    "PEDS 614": {
+        "PEDS 614A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18444",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 614",
+                "curr_course_name": "ADVOC & COMM PARTNER",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18448",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 620",
-        "curr_course_name": "PEDS SUBSPEC CLINIC",
-        "curr_course_fulfills": ""
+    "PEDS 615": {
+        "PEDS 615A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18445",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 615",
+                "curr_course_name": "CHILD ABUSE CLRK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18449",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 623",
-        "curr_course_name": "PEDS CH ABUSE SP",
-        "curr_course_fulfills": ""
+    "PEDS 617": {
+        "PEDS 617A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18446",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 617",
+                "curr_course_name": "ADV IN-PNT PEDS CD'A",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18450",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 624",
-        "curr_course_name": "PEDS EMER MED SPO",
-        "curr_course_fulfills": ""
+    "PEDS 618": {
+        "PEDS 618A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18447",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 618",
+                "curr_course_name": "ADV PEDS RHEUM-BOISE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18451",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 625P",
-        "curr_course_name": "P-PEDS EMERGENCY MED",
-        "curr_course_fulfills": ""
+    "PEDS 620": {
+        "PEDS 620A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18448",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 620",
+                "curr_course_name": "PEDS SUBSPEC CLINIC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18452",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 629",
-        "curr_course_name": "NEONATAL PEDS MIS",
-        "curr_course_fulfills": ""
+    "PEDS 623": {
+        "PEDS 623A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18449",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 623",
+                "curr_course_name": "PEDS CH ABUSE SP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18453",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 630P",
-        "curr_course_name": "P-WRITE PEDS CLK",
-        "curr_course_fulfills": ""
+    "PEDS 624": {
+        "PEDS 624A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18450",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 624",
+                "curr_course_name": "PEDS EMER MED SPO",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18454",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 631",
-        "curr_course_name": "LIC PEDS",
-        "curr_course_fulfills": ""
+    "PEDS 625P": {
+        "PEDS 625PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18451",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 625P",
+                "curr_course_name": "P-PEDS EMERGENCY MED",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21564",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4/8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 632P",
-        "curr_course_name": "P-CRANIOFACIAL PEDS",
-        "curr_course_fulfills": ""
+    "PEDS 629": {
+        "PEDS 629A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18452",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 629",
+                "curr_course_name": "NEONATAL PEDS MIS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18458",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 638",
-        "curr_course_name": "CARDIOLOGY-MISS",
-        "curr_course_fulfills": ""
+    "PEDS 630P": {
+        "PEDS 630PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18453",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "18",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 630P",
+                "curr_course_name": "P-WRITE PEDS CLK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18459",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 640",
-        "curr_course_name": "PEDS GI BOISE",
-        "curr_course_fulfills": ""
+    "PEDS 631": {
+        "PEDS 631A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18454",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 631",
+                "curr_course_name": "LIC PEDS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18460",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 641",
-        "curr_course_name": "PEDS CLKSHP-GILLETTE",
-        "curr_course_fulfills": ""
+    "PEDS 632P": {
+        "PEDS 632PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21564",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4/8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 632P",
+                "curr_course_name": "P-CRANIOFACIAL PEDS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18461",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 642",
-        "curr_course_name": "PEDS CLKSHP-SHERIDAN",
-        "curr_course_fulfills": ""
+    "PEDS 638": {
+        "PEDS 638A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18458",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 638",
+                "curr_course_name": "CARDIOLOGY-MISS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18462",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 643",
-        "curr_course_name": "PEDS CLK SPOK KAISER",
-        "curr_course_fulfills": ""
+    "PEDS 640": {
+        "PEDS 640A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18459",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 640",
+                "curr_course_name": "PEDS GI BOISE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18463",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 644",
-        "curr_course_name": "PEDS CLKSHP- WASILLA",
-        "curr_course_fulfills": ""
+    "PEDS 641": {
+        "PEDS 641A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18460",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 641",
+                "curr_course_name": "PEDS CLKSHP-GILLETTE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18464",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 645",
-        "curr_course_name": "PED CLRKSHP KALISPEL",
-        "curr_course_fulfills": ""
+    "PEDS 642": {
+        "PEDS 642A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18461",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 642",
+                "curr_course_name": "PEDS CLKSHP-SHERIDAN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18465",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 646",
-        "curr_course_name": "PEDS CLKSHP WALLA WA",
-        "curr_course_fulfills": ""
+    "PEDS 643": {
+        "PEDS 643A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18462",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 643",
+                "curr_course_name": "PEDS CLK SPOK KAISER",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18466",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 647",
-        "curr_course_name": "PED CLKSHP LEWSTN",
-        "curr_course_fulfills": ""
+    "PEDS 644": {
+        "PEDS 644A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18463",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 644",
+                "curr_course_name": "PEDS CLKSHP- WASILLA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18467",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 648",
-        "curr_course_name": "PED CLKRSHP EVER",
-        "curr_course_fulfills": ""
+    "PEDS 645": {
+        "PEDS 645A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18464",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 645",
+                "curr_course_name": "PED CLRKSHP KALISPEL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18468",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 650",
-        "curr_course_name": "PED CLKSHP MOSEL",
-        "curr_course_fulfills": ""
+    "PEDS 646": {
+        "PEDS 646A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18465",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 646",
+                "curr_course_name": "PEDS CLKSHP WALLA WA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18469",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 651",
-        "curr_course_name": "PED CLKSHP BOZEMAN",
-        "curr_course_fulfills": ""
+    "PEDS 647": {
+        "PEDS 647A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18466",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 647",
+                "curr_course_name": "PED CLKSHP LEWSTN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18470",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 652",
-        "curr_course_name": "PED CLKSHP IDA FAL",
-        "curr_course_fulfills": ""
+    "PEDS 648": {
+        "PEDS 648A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18467",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 648",
+                "curr_course_name": "PED CLKRSHP EVER",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18471",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 653",
-        "curr_course_name": "PED CLKSHP HELENA",
-        "curr_course_fulfills": ""
+    "PEDS 650": {
+        "PEDS 650A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18468",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 650",
+                "curr_course_name": "PED CLKSHP MOSEL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18472",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 655",
-        "curr_course_name": "PED GEN CLRKSHP",
-        "curr_course_fulfills": ""
+    "PEDS 651": {
+        "PEDS 651A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18469",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 651",
+                "curr_course_name": "PED CLKSHP BOZEMAN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18474",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 657P",
-        "curr_course_name": "P-PED CLKSHP MISSOU",
-        "curr_course_fulfills": ""
+    "PEDS 652": {
+        "PEDS 652A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18470",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 652",
+                "curr_course_name": "PED CLKSHP IDA FAL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18475",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 658",
-        "curr_course_name": "PED CLKSHP BOISE",
-        "curr_course_fulfills": ""
+    "PEDS 653": {
+        "PEDS 653A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18471",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 653",
+                "curr_course_name": "PED CLKSHP HELENA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18476",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 659P",
-        "curr_course_name": "P-PED GEN CLKSHIP",
-        "curr_course_fulfills": ""
+    "PEDS 655": {
+        "PEDS 655A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18472",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 655",
+                "curr_course_name": "PED GEN CLRKSHP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18477",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 660",
-        "curr_course_name": "PED GEN CLKSHIP",
-        "curr_course_fulfills": ""
+    "PEDS 657P": {
+        "PEDS 657PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18474",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 657P",
+                "curr_course_name": "P-PED CLKSHP MISSOU",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18478",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 661",
-        "curr_course_name": "PEDS GEN CLK ANCH",
-        "curr_course_fulfills": ""
+    "PEDS 658": {
+        "PEDS 658A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18475",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 658",
+                "curr_course_name": "PED CLKSHP BOISE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18488",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4/8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 671P",
-        "curr_course_name": "P-PEDIATRIC ENDOCRIN",
-        "curr_course_fulfills": ""
+    "PEDS 659P": {
+        "PEDS 659PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18476",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 659P",
+                "curr_course_name": "P-PED GEN CLKSHIP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18489",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4/8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 672P",
-        "curr_course_name": "P-OFFICE PR SPOKANE",
-        "curr_course_fulfills": ""
+    "PEDS 660": {
+        "PEDS 660A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18477",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 660",
+                "curr_course_name": "PED GEN CLKSHIP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18491",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 674P",
-        "curr_course_name": "P-PEDS GENETICS SPO",
-        "curr_course_fulfills": ""
+    "PEDS 661": {
+        "PEDS 661A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18478",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 661",
+                "curr_course_name": "PEDS GEN CLK ANCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18492",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 675P",
-        "curr_course_name": "P-CIM ELECTIVE",
-        "curr_course_fulfills": ""
+    "PEDS 671P": {
+        "PEDS 671PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18488",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4/8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 671P",
+                "curr_course_name": "P-PEDIATRIC ENDOCRIN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18493",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 677P",
-        "curr_course_name": "P-PEDS INTENS CARE",
-        "curr_course_fulfills": ""
+    "PEDS 672P": {
+        "PEDS 672PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18489",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4/8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 672P",
+                "curr_course_name": "P-OFFICE PR SPOKANE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18501",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 687",
-        "curr_course_name": "NEONATAL CLKSHP",
-        "curr_course_fulfills": ""
+    "PEDS 674P": {
+        "PEDS 674PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18491",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 674P",
+                "curr_course_name": "P-PEDS GENETICS SPO",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18502",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 688",
-        "curr_course_name": "PED RHEUMATOLOGY",
-        "curr_course_fulfills": ""
+    "PEDS 675P": {
+        "PEDS 675PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18492",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 675P",
+                "curr_course_name": "P-CIM ELECTIVE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18503",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 689P",
-        "curr_course_name": "P-ADV PED FT WASHA",
-        "curr_course_fulfills": ""
+    "PEDS 677P": {
+        "PEDS 677PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18493",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 677P",
+                "curr_course_name": "P-PEDS INTENS CARE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18504",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 690",
-        "curr_course_name": "ADV PED CLK BOISE",
-        "curr_course_fulfills": ""
+    "PEDS 687": {
+        "PEDS 687A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18501",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 687",
+                "curr_course_name": "NEONATAL CLKSHP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18506",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 692P",
-        "curr_course_name": "P-PEDS ADV SPOKANE",
-        "curr_course_fulfills": ""
+    "PEDS 688": {
+        "PEDS 688A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18502",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 688",
+                "curr_course_name": "PED RHEUMATOLOGY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18507",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 693",
-        "curr_course_name": "PEDS SUB-I MARY B",
-        "curr_course_fulfills": ""
+    "PEDS 689P": {
+        "PEDS 689PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18503",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 689P",
+                "curr_course_name": "P-ADV PED FT WASHA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18508",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 694P",
-        "curr_course_name": "P-PEDS ADOL MED",
-        "curr_course_fulfills": ""
+    "PEDS 690": {
+        "PEDS 690A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18504",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 690",
+                "curr_course_name": "ADV PED CLK BOISE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18509",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 695P",
-        "curr_course_name": "P-PED OUTP HEM & ONC",
-        "curr_course_fulfills": ""
+    "PEDS 692P": {
+        "PEDS 692PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18506",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 692P",
+                "curr_course_name": "P-PEDS ADV SPOKANE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18510",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PEDS 696",
-        "curr_course_name": "PEDS ENDO",
-        "curr_course_fulfills": ""
+    "PEDS 693": {
+        "PEDS 693A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18507",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 693",
+                "curr_course_name": "PEDS SUB-I MARY B",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "18512",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "16",
-        "curr_enrolled": "0",
-        "curr_course_code": "PEDS 698",
-        "curr_course_name": "PEDS BOOT CAMP",
-        "curr_course_fulfills": ""
+    "PEDS 694P": {
+        "PEDS 694PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18508",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 694P",
+                "curr_course_name": "P-PEDS ADOL MED",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "PEDS 695P": {
+        "PEDS 695PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18509",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 695P",
+                "curr_course_name": "P-PED OUTP HEM & ONC",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "PEDS 696": {
+        "PEDS 696A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18510",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PEDS 696",
+                "curr_course_name": "PEDS ENDO",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "PEDS 698": {
+        "PEDS 698A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18512",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "16",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PEDS 698",
+                "curr_course_name": "PEDS BOOT CAMP",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

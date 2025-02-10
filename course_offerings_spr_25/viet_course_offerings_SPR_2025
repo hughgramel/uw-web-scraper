@@ -1,140 +1,162 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "21234",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "930-1020",
-                "building": "ECE",
-                "room": "025"
+{
+    "VIET 103": {
+        "VIET 103A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21234",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "930-1020",
+                        "building": "ECE",
+                        "room": "025"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Turner,Bich-Ngoc",
+                "curr_course_code": "VIET 103",
+                "curr_course_name": "1ST-YR NH VIETNAMESE",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Turner,Bich-Ngoc",
-        "curr_course_code": "VIET 103",
-        "curr_course_name": "1ST-YR NH VIETNAMESE",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21235",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "930-1020",
-                "building": "DEN",
-                "room": "212"
+    "VIET 123": {
+        "VIET 123A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21235",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "930-1020",
+                        "building": "DEN",
+                        "room": "212"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Le,Diep",
+                "curr_course_code": "VIET 123",
+                "curr_course_name": "1ST-YR H VIETNAMESE",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Le,Diep",
-        "curr_course_code": "VIET 123",
-        "curr_course_name": "1ST-YR H VIETNAMESE",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21236",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1030-1120",
-                "building": "LOW",
-                "room": "105"
+    "VIET 213": {
+        "VIET 213A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21236",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1030-1120",
+                        "building": "LOW",
+                        "room": "105"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Turner,Bich-Ngoc",
+                "curr_course_code": "VIET 213",
+                "curr_course_name": "INTERMED VIETNAMESE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Turner,Bich-Ngoc",
-        "curr_course_code": "VIET 213",
-        "curr_course_name": "INTERMED VIETNAMESE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21237",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "100-220",
-                "building": "MGH",
-                "room": "284"
+    "VIET 313": {
+        "VIET 313A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21237",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "100-220",
+                        "building": "MGH",
+                        "room": "284"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Le,Diep",
+                "curr_course_code": "VIET 313",
+                "curr_course_name": "ADVANCED VIETNAMESE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Le,Diep",
-        "curr_course_code": "VIET 313",
-        "curr_course_name": "ADVANCED VIETNAMESE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "21238",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "VIET 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
+    "VIET 499": {
+        "VIET 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "21238",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "VIET 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

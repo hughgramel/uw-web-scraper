@@ -1,1816 +1,2037 @@
-[
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19285",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-350",
-                "building": "SMI",
-                "room": "102"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 201",
-        "curr_course_name": "INTRO PUB POL & GOV",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19288",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "PAR",
-                "room": "120"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 201",
-        "curr_course_name": "INTRO PUB POL & GOV",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19289",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "PAR",
-                "room": "120"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 201",
-        "curr_course_name": "INTRO PUB POL & GOV",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19290",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-520",
-                "building": "PAR",
-                "room": "220"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Herranz,Joaquin",
-        "curr_course_code": "PUBPOL 302",
-        "curr_course_name": "PUB SERV LEADERSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19291",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1250",
-                "building": "PAR",
-                "room": "120"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Fyall,Rachel",
-        "curr_course_code": "PUBPOL 313",
-        "curr_course_name": "EVIDENCE POL IMPLMNT",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19292",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1000-1120",
-                "building": "PAR",
-                "room": "320"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jurcevic,Ines",
-        "curr_course_code": "PUBPOL 321",
-        "curr_course_name": "DEC MKG/BEHV/POL DES",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21448",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-350",
-                "building": "PAR",
-                "room": "320"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Struthers,Cory",
-        "curr_course_code": "PUBPOL 390",
-        "curr_course_name": "ENVIRONMENTAL POLICY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "19293",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "130-220",
-                "building": "PAR",
-                "room": "220"
-            }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 400",
-        "curr_course_name": "PUB POL & GOV SMNR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19295",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "230-420",
-                "building": "PAR",
-                "room": "120"
+{
+    "PUBPOL 201": {
+        "PUBPOL 201A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19285",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-350",
+                        "building": "SMI",
+                        "room": "102"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 201",
+                "curr_course_name": "INTRO PUB POL & GOV",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             },
-            {
-                "days": "W",
-                "time": "230-420"
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19288",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "PAR",
+                            "room": "120"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 201",
+                    "curr_course_name": "INTRO PUB POL & GOV",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19289",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "PAR",
+                            "room": "120"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 201",
+                    "curr_course_name": "INTRO PUB POL & GOV",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "PUBPOL 302": {
+        "PUBPOL 302A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19290",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "230-520",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Herranz,Joaquin",
+                "curr_course_code": "PUBPOL 302",
+                "curr_course_name": "PUB SERV LEADERSHIP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Svaren,Eric",
-        "curr_course_code": "PUBPOL 403",
-        "curr_course_name": "LEADERSHIP IN ACTION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19296",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1130-220",
-                "building": "PAR",
-                "room": "160"
+    "PUBPOL 313": {
+        "PUBPOL 313A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19291",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-1250",
+                        "building": "PAR",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Fyall,Rachel",
+                "curr_course_code": "PUBPOL 313",
+                "curr_course_name": "EVIDENCE POL IMPLMNT",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Xu,Dafeng",
-        "curr_course_code": "PUBPOL 480",
-        "curr_course_name": "GIS FOR PUB POLICY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "21464",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 498",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21411",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-520",
-                "building": "PAR",
-                "room": "220"
+    "PUBPOL 321": {
+        "PUBPOL 321A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19292",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1000-1120",
+                        "building": "PAR",
+                        "room": "320"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jurcevic,Ines",
+                "curr_course_code": "PUBPOL 321",
+                "curr_course_name": "DEC MKG/BEHV/POL DES",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "PUBPOL 499",
-        "curr_course_name": "TOPICS IN PUB POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21412",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1130-220",
-                "building": "PAR",
-                "room": "220"
+    "PUBPOL 390": {
+        "PUBPOL 390A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21448",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-350",
+                        "building": "PAR",
+                        "room": "320"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Struthers,Cory",
+                "curr_course_code": "PUBPOL 390",
+                "curr_course_name": "ENVIRONMENTAL POLICY",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "PUBPOL 499",
-        "curr_course_name": "TOPICS IN PUB POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21427",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1130-220",
-                "building": "PAR",
-                "room": "220"
+    "PUBPOL 400": {
+        "PUBPOL 400A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19293",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-220",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 400",
+                "curr_course_name": "PUB POL & GOV SMNR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "curr_course_code": "PUBPOL 499",
-        "curr_course_name": "TOPICS IN PUB POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19298",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "530-820P",
-                "building": "PAR",
-                "room": "120"
+    "PUBPOL 403": {
+        "PUBPOL 403A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19295",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "230-420",
+                        "building": "PAR",
+                        "room": "120"
+                    },
+                    {
+                        "days": "W",
+                        "time": "230-420"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Svaren,Eric",
+                "curr_course_code": "PUBPOL 403",
+                "curr_course_name": "LEADERSHIP IN ACTION",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Reid,Jim",
-        "curr_course_code": "PUBPOL 507",
-        "curr_course_name": "MEDIATION NEGOTIATN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19304",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "430-720P",
-                "building": "DEN",
-                "room": "303"
+    "PUBPOL 480": {
+        "PUBPOL 480A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19296",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-220",
+                        "building": "PAR",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Xu,Dafeng",
+                "curr_course_code": "PUBPOL 480",
+                "curr_course_name": "GIS FOR PUB POLICY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "100",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Blume,Grant",
-        "curr_course_code": "PUBPOL 513",
-        "curr_course_name": "PUB POLICY ANALYSIS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19305",
-        "section": "BA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-320",
-                "building": "TBA",
-                "room": "TBA"
+    "PUBPOL 498": {
+        "PUBPOL 498A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "21464",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 498",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 513",
-        "curr_course_name": "PUB POLICY ANALYSIS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19306",
-        "section": "BB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "330-420",
-                "building": "TBA",
-                "room": "TBA"
+    "PUBPOL 499": {
+        "PUBPOL 499A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21411",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-520",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 499",
+                "curr_course_name": "TOPICS IN PUB POL",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 513",
-        "curr_course_name": "PUB POLICY ANALYSIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "21444",
-        "section": "BC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "130-220",
-                "building": "TBA",
-                "room": "TBA"
+        },
+        "PUBPOL 499B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21412",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1130-220",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 499",
+                "curr_course_name": "TOPICS IN PUB POL",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 513",
-        "curr_course_name": "PUB POLICY ANALYSIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "21450",
-        "section": "BD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "230-320",
-                "building": "TBA",
-                "room": "TBA"
+        },
+        "PUBPOL 499C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21427",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-220",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 499",
+                "curr_course_name": "TOPICS IN PUB POL",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 513",
-        "curr_course_name": "PUB POLICY ANALYSIS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19307",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1000-1120",
-                "building": "PAR",
-                "room": "160"
+    "PUBPOL 507": {
+        "PUBPOL 507A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19298",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "530-820P",
+                        "building": "PAR",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Reid,Jim",
+                "curr_course_code": "PUBPOL 507",
+                "curr_course_name": "MEDIATION NEGOTIATN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Vigdor,Elizabeth",
-        "curr_course_code": "PUBPOL 518",
-        "curr_course_name": "APP COST BENEFIT AN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19308",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1230",
-                "building": "LAW",
-                "room": "133"
+    "PUBPOL 513": {
+        "PUBPOL 513B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19304",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "430-720P",
+                        "building": "DEN",
+                        "room": "303"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "100",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Blume,Grant",
+                "curr_course_code": "PUBPOL 513",
+                "curr_course_name": "PUB POLICY ANALYSIS",
+                "curr_course_fulfills": ""
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19305",
+                    "section": "BA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "230-320",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 513",
+                    "curr_course_name": "PUB POLICY ANALYSIS",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19306",
+                    "section": "BB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "330-420",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 513",
+                    "curr_course_name": "PUB POLICY ANALYSIS",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "21444",
+                    "section": "BC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "130-220",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 513",
+                    "curr_course_name": "PUB POLICY ANALYSIS",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "21450",
+                    "section": "BD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "230-320",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 513",
+                    "curr_course_name": "PUB POLICY ANALYSIS",
+                    "curr_course_fulfills": ""
+                }
+            ]
+        }
+    },
+    "PUBPOL 518": {
+        "PUBPOL 518A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19307",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1000-1120",
+                        "building": "PAR",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Vigdor,Elizabeth",
+                "curr_course_code": "PUBPOL 518",
+                "curr_course_name": "APP COST BENEFIT AN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Calandrillo,Steve",
-        "curr_course_code": "PUBPOL 519",
-        "curr_course_name": "LAW AND ECONOMICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19313",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "530-820P",
-                "building": "PAR",
-                "room": "220"
+    "PUBPOL 519": {
+        "PUBPOL 519A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19308",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1230",
+                        "building": "LAW",
+                        "room": "133"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Calandrillo,Steve",
+                "curr_course_code": "PUBPOL 519",
+                "curr_course_name": "LAW AND ECONOMICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Stevens,Tracie",
-        "curr_course_code": "PUBPOL 520",
-        "curr_course_name": "INTERGOV RELATIONS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19316",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "530-820P",
-                "building": "PAR",
-                "room": "360"
+    "PUBPOL 520": {
+        "PUBPOL 520A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19313",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "530-820P",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Stevens,Tracie",
+                "curr_course_code": "PUBPOL 520",
+                "curr_course_name": "INTERGOV RELATIONS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dively,Dwight",
-        "curr_course_code": "PUBPOL 524",
-        "curr_course_name": "PUBLIC SECT FINAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19317",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "1130-220",
-                "building": "PAR",
-                "room": "320"
+    "PUBPOL 524": {
+        "PUBPOL 524A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19316",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-820P",
+                        "building": "PAR",
+                        "room": "360"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dively,Dwight",
+                "curr_course_code": "PUBPOL 524",
+                "curr_course_name": "PUBLIC SECT FINAN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Sederbaum,Isaac",
-        "curr_course_code": "PUBPOL 526",
-        "curr_course_name": "PROGRAM EVALUATION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19318",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "TBA",
-                "room": "TBA"
+    "PUBPOL 526": {
+        "PUBPOL 526A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19317",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "1130-220",
+                        "building": "PAR",
+                        "room": "320"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Sederbaum,Isaac",
+                "curr_course_code": "PUBPOL 526",
+                "curr_course_name": "PROGRAM EVALUATION",
+                "curr_course_fulfills": ""
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19318",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "B",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 526",
+                    "curr_course_name": "PROGRAM EVALUATION",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19319",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "B",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 526",
+                    "curr_course_name": "PROGRAM EVALUATION",
+                    "curr_course_fulfills": ""
+                }
+            ]
+        },
+        "PUBPOL 526B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19320",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "430-720P",
+                        "building": "PAR",
+                        "room": "320"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "55",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 526",
+                "curr_course_name": "PROGRAM EVALUATION",
+                "curr_course_fulfills": ""
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19321",
+                    "section": "BA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "330-420",
+                            "building": "*",
+                            "room": "Open"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "B",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 526",
+                    "curr_course_name": "PROGRAM EVALUATION",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19322",
+                    "section": "BB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "430-520P",
+                            "building": "*",
+                            "room": "Open"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "B",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 526",
+                    "curr_course_name": "PROGRAM EVALUATION",
+                    "curr_course_fulfills": ""
+                }
+            ]
+        }
+    },
+    "PUBPOL 528": {
+        "PUBPOL 528A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19323",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "830-1120",
+                        "building": "PAR",
+                        "room": "360"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 528",
+                "curr_course_name": "QUANT ANALYSIS II",
+                "curr_course_fulfills": ""
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19324",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "130-220",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "B",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 528",
+                    "curr_course_name": "QUANT ANALYSIS II",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19325",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "230-320",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "B",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 528",
+                    "curr_course_name": "QUANT ANALYSIS II",
+                    "curr_course_fulfills": ""
+                }
+            ]
+        },
+        "PUBPOL 528B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19326",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "430-720P",
+                        "building": "PAR",
+                        "room": "360"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "55",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Vigdor,Jacob",
+                "curr_course_code": "PUBPOL 528",
+                "curr_course_name": "QUANT ANALYSIS II",
+                "curr_course_fulfills": ""
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19327",
+                    "section": "BA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "330-420",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "B",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 528",
+                    "curr_course_name": "QUANT ANALYSIS II",
+                    "curr_course_fulfills": ""
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19328",
+                    "section": "BB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "430-520P",
+                            "building": "TBA",
+                            "room": "TBA"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "B",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "PUBPOL 528",
+                    "curr_course_name": "QUANT ANALYSIS II",
+                    "curr_course_fulfills": ""
+                }
+            ]
+        }
+    },
+    "PUBPOL 529": {
+        "PUBPOL 529A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19329",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "100-220",
+                        "building": "PAR",
+                        "room": "360"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 529",
+                "curr_course_name": "ADV QUANT ANALYS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 526",
-        "curr_course_name": "PROGRAM EVALUATION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19319",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "TBA",
-                "room": "TBA"
+    "PUBPOL 537": {
+        "PUBPOL 537B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19331",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1130-220",
+                        "building": "PAR",
+                        "room": "320"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Agamile,Peter",
+                "curr_course_code": "PUBPOL 537",
+                "curr_course_name": "TOPICS INTNTL AFFRS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 526",
-        "curr_course_name": "PROGRAM EVALUATION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19320",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "430-720P",
-                "building": "PAR",
-                "room": "320"
+    "PUBPOL 539": {
+        "PUBPOL 539A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19332",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "1130-220",
+                        "building": "DEM",
+                        "room": "002"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Blake,Michael",
+                "curr_course_code": "PUBPOL 539",
+                "curr_course_name": "VALUES INTL DEV",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "55",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 526",
-        "curr_course_name": "PROGRAM EVALUATION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19321",
-        "section": "BA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "330-420",
-                "building": "*",
-                "room": "Open"
+    "PUBPOL 546": {
+        "PUBPOL 546A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19333",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-220",
+                        "building": "PAR",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Xu,Dafeng",
+                "curr_course_code": "PUBPOL 546",
+                "curr_course_name": "GIS FOR PUB POL",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "curr_course_code": "PUBPOL 526",
-        "curr_course_name": "PROGRAM EVALUATION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19322",
-        "section": "BB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "430-520P",
-                "building": "*",
-                "room": "Open"
+    "PUBPOL 548": {
+        "PUBPOL 548A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19334",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "400-650",
+                        "building": "PAR",
+                        "room": "360"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%BJ",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Sandfort,Jodi",
+                "curr_course_code": "PUBPOL 548",
+                "curr_course_name": "PROGR IMPLEMENTATION",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "curr_course_code": "PUBPOL 526",
-        "curr_course_name": "PROGRAM EVALUATION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19323",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "830-1120",
-                "building": "PAR",
-                "room": "360"
+    "PUBPOL 552": {
+        "PUBPOL 552A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19337",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-520",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Suarez,David F",
+                "curr_course_code": "PUBPOL 552",
+                "curr_course_name": "PHILANTHROPY &SOCTY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 528",
-        "curr_course_name": "QUANT ANALYSIS II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19324",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "130-220",
-                "building": "TBA",
-                "room": "TBA"
+    "PUBPOL 553": {
+        "PUBPOL 553A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19338",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "230-520",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kioko,Sharon",
+                "curr_course_code": "PUBPOL 553",
+                "curr_course_name": "NONPROFIT FIN MGMT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 528",
-        "curr_course_name": "QUANT ANALYSIS II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19325",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "230-320",
-                "building": "TBA",
-                "room": "TBA"
+    "PUBPOL 558": {
+        "PUBPOL 558E": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21442",
+                "section": "E",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-820P",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 558",
+                "curr_course_name": "COLAB &MGMT ACR SCT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 528",
-        "curr_course_name": "QUANT ANALYSIS II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19326",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "430-720P",
-                "building": "PAR",
-                "room": "360"
+    "PUBPOL 561": {
+        "PUBPOL 561A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19343",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "600-720P",
+                        "building": "DEN",
+                        "room": "256"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 561",
+                "curr_course_name": "URB EC & PUBLIC POL",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "55",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Vigdor,Jacob",
-        "curr_course_code": "PUBPOL 528",
-        "curr_course_name": "QUANT ANALYSIS II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19327",
-        "section": "BA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "330-420",
-                "building": "TBA",
-                "room": "TBA"
+    "PUBPOL 563": {
+        "PUBPOL 563A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19344",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1130-220",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hall,Crystal C",
+                "curr_course_code": "PUBPOL 563",
+                "curr_course_name": "INTERGROUP RELATIONS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 528",
-        "curr_course_name": "QUANT ANALYSIS II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19328",
-        "section": "BB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "430-520P",
-                "building": "TBA",
-                "room": "TBA"
+    "PUBPOL 573": {
+        "PUBPOL 573A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19345",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-220",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Martin,Karin D.",
+                "curr_course_code": "PUBPOL 573",
+                "curr_course_name": "TPCS ED & SOC POL",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 528",
-        "curr_course_name": "QUANT ANALYSIS II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19329",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "100-220",
-                "building": "PAR",
-                "room": "360"
+    "PUBPOL 576": {
+        "PUBPOL 576A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19346",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "530-820P",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Allard,Scott W",
+                "curr_course_code": "PUBPOL 576",
+                "curr_course_name": "POVERTY & ANTI-POV",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 529",
-        "curr_course_name": "ADV QUANT ANALYS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19331",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1130-220",
-                "building": "PAR",
-                "room": "320"
+    "PUBPOL 586": {
+        "PUBPOL 586A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19349",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "830-1120",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "O'Brien,Tim",
+                "curr_course_code": "PUBPOL 586",
+                "curr_course_name": "TECH, LAW, & POLICY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Agamile,Peter",
-        "curr_course_code": "PUBPOL 537",
-        "curr_course_name": "TOPICS INTNTL AFFRS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19332",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "1130-220",
-                "building": "DEM",
-                "room": "002"
+    "PUBPOL 594": {
+        "PUBPOL 594A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21286",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "230-520",
+                        "building": "PAR",
+                        "room": "360"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Layton,David",
+                "curr_course_code": "PUBPOL 594",
+                "curr_course_name": "ECON ENVIRON MGMT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Blake,Michael",
-        "curr_course_code": "PUBPOL 539",
-        "curr_course_name": "VALUES INTL DEV",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19333",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1130-220",
-                "building": "PAR",
-                "room": "160"
+    "PUBPOL 598": {
+        "PUBPOL 598A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19353",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "830-1020",
+                        "building": "PAR",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "B",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Axe,Travis",
+                "curr_course_code": "PUBPOL 598",
+                "curr_course_name": "PROF SKILLS WORKSHOP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Xu,Dafeng",
-        "curr_course_code": "PUBPOL 546",
-        "curr_course_name": "GIS FOR PUB POL",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19334",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "400-650",
-                "building": "PAR",
-                "room": "360"
+        },
+        "PUBPOL 598B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19354",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1130-220",
+                        "building": "PAR",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Gugerty,Mary Kay",
+                "curr_course_code": "PUBPOL 598",
+                "curr_course_name": "PROF SKILLS WORKSHOP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%BJ",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Sandfort,Jodi",
-        "curr_course_code": "PUBPOL 548",
-        "curr_course_name": "PROGR IMPLEMENTATION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19337",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-520",
-                "building": "PAR",
-                "room": "220"
+    "PUBPOL 599": {
+        "PUBPOL 599A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19355",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "230-520",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Struthers,Cory",
+                "curr_course_code": "PUBPOL 599",
+                "curr_course_name": "SPECIAL TOPICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Suarez,David F",
-        "curr_course_code": "PUBPOL 552",
-        "curr_course_name": "PHILANTHROPY &SOCTY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19338",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "230-520",
-                "building": "PAR",
-                "room": "220"
+        },
+        "PUBPOL 599B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19356",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-820P",
+                        "building": "DEM",
+                        "room": "004"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "BJ",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Lockhart,Mariko",
+                "curr_course_code": "PUBPOL 599",
+                "curr_course_name": "SPECIAL TOPICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kioko,Sharon",
-        "curr_course_code": "PUBPOL 553",
-        "curr_course_name": "NONPROFIT FIN MGMT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21442",
-        "section": "E",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "530-820P",
-                "building": "PAR",
-                "room": "220"
+        },
+        "PUBPOL 599F": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19360",
+                "section": "F",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "230-520",
+                        "building": "SWS",
+                        "room": "032"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "B",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Acuncius,Warren",
+                "curr_course_code": "PUBPOL 599",
+                "curr_course_name": "SPECIAL TOPICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 558",
-        "curr_course_name": "COLAB &MGMT ACR SCT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19343",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "600-720P",
-                "building": "DEN",
-                "room": "256"
+    "PUBPOL 600": {
+        "PUBPOL 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19361",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "PUBPOL 561",
-        "curr_course_name": "URB EC & PUBLIC POL",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19344",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1130-220",
-                "building": "PAR",
-                "room": "220"
+    "PUBPOL 605": {
+        "PUBPOL 605A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19362",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-8",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PUBPOL 605",
+                "curr_course_name": "DEGREE PROJECT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hall,Crystal C",
-        "curr_course_code": "PUBPOL 563",
-        "curr_course_name": "INTERGROUP RELATIONS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19345",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1130-220",
-                "building": "PAR",
-                "room": "220"
+    "PUBPOL 608": {
+        "PUBPOL 608A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19363",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "530-820P",
+                        "building": "PAR",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Badshah,Akhtar",
+                "curr_course_code": "PUBPOL 608",
+                "curr_course_name": "CAPSTONE PROJ SMNR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Martin,Karin D.",
-        "curr_course_code": "PUBPOL 573",
-        "curr_course_name": "TPCS ED & SOC POL",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19346",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "530-820P",
-                "building": "PAR",
-                "room": "220"
+        },
+        "PUBPOL 608B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19364",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "530-820P",
+                        "building": "PAR",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Werner,Kevin",
+                "curr_course_code": "PUBPOL 608",
+                "curr_course_name": "CAPSTONE PROJ SMNR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Allard,Scott W",
-        "curr_course_code": "PUBPOL 576",
-        "curr_course_name": "POVERTY & ANTI-POV",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19349",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "830-1120",
-                "building": "PAR",
-                "room": "220"
+        },
+        "PUBPOL 608C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19365",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "530-820P",
+                        "building": "PAR",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Steuerwalt,Matt",
+                "curr_course_code": "PUBPOL 608",
+                "curr_course_name": "CAPSTONE PROJ SMNR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "O'Brien,Tim",
-        "curr_course_code": "PUBPOL 586",
-        "curr_course_name": "TECH, LAW, & POLICY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "21286",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-520",
-                "building": "PAR",
-                "room": "360"
+        },
+        "PUBPOL 608E": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19366",
+                "section": "E",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "830-1120",
+                        "building": "PAR",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "LEVIN,SARA",
+                "curr_course_code": "PUBPOL 608",
+                "curr_course_name": "CAPSTONE PROJ SMNR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Layton,David",
-        "curr_course_code": "PUBPOL 594",
-        "curr_course_name": "ECON ENVIRON MGMT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19353",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "830-1020",
-                "building": "PAR",
-                "room": "160"
+        },
+        "PUBPOL 608F": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19367",
+                "section": "F",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "830-1120",
+                        "building": "DEN",
+                        "room": "112"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Bostrom,Ann",
+                "curr_course_code": "PUBPOL 608",
+                "curr_course_name": "CAPSTONE PROJ SMNR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Axe,Travis",
-        "curr_course_code": "PUBPOL 598",
-        "curr_course_name": "PROF SKILLS WORKSHOP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19354",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1130-220",
-                "building": "PAR",
-                "room": "160"
-            }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Gugerty,Mary Kay",
-        "curr_course_code": "PUBPOL 598",
-        "curr_course_name": "PROF SKILLS WORKSHOP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19355",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "230-520",
-                "building": "PAR",
-                "room": "220"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Struthers,Cory",
-        "curr_course_code": "PUBPOL 599",
-        "curr_course_name": "SPECIAL TOPICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19356",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "530-820P",
-                "building": "DEM",
-                "room": "004"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "BJ",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Lockhart,Mariko",
-        "curr_course_code": "PUBPOL 599",
-        "curr_course_name": "SPECIAL TOPICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19360",
-        "section": "F",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "230-520",
-                "building": "SWS",
-                "room": "032"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Acuncius,Warren",
-        "curr_course_code": "PUBPOL 599",
-        "curr_course_name": "SPECIAL TOPICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19361",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "curr_course_code": "PUBPOL 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19362",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-8",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "PUBPOL 605",
-        "curr_course_name": "DEGREE PROJECT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19363",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "530-820P",
-                "building": "PAR",
-                "room": "220"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "professor_name": "Badshah,Akhtar",
-        "curr_course_code": "PUBPOL 608",
-        "curr_course_name": "CAPSTONE PROJ SMNR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19364",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "530-820P",
-                "building": "PAR",
-                "room": "120"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "professor_name": "Werner,Kevin",
-        "curr_course_code": "PUBPOL 608",
-        "curr_course_name": "CAPSTONE PROJ SMNR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19365",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "530-820P",
-                "building": "PAR",
-                "room": "160"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "professor_name": "Steuerwalt,Matt",
-        "curr_course_code": "PUBPOL 608",
-        "curr_course_name": "CAPSTONE PROJ SMNR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19366",
-        "section": "E",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-1120",
-                "building": "PAR",
-                "room": "160"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "professor_name": "LEVIN,SARA",
-        "curr_course_code": "PUBPOL 608",
-        "curr_course_name": "CAPSTONE PROJ SMNR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19367",
-        "section": "F",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-1120",
-                "building": "DEN",
-                "room": "112"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "professor_name": "Bostrom,Ann",
-        "curr_course_code": "PUBPOL 608",
-        "curr_course_name": "CAPSTONE PROJ SMNR",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

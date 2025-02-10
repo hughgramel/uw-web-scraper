@@ -1,744 +1,853 @@
-[
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13305",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "930-1120",
-                "building": "ART",
-                "room": "229"
+{
+    "DESIGN 208": {
+        "DESIGN 208A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13305",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "930-1120",
+                        "building": "ART",
+                        "room": "229"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$30",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Muren,Dominic L",
+                "curr_course_code": "DESIGN 208",
+                "curr_course_name": "SURV OF DESIGN HIST",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$30",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Muren,Dominic L",
-        "curr_course_code": "DESIGN 208",
-        "curr_course_name": "SURV OF DESIGN HIST",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "13306",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-320",
-                "building": "MGH",
-                "room": "278"
+    "DESIGN 213": {
+        "DESIGN 213A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13306",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-320",
+                        "building": "MGH",
+                        "room": "278"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$40",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Germany,Jason O",
+                "curr_course_code": "DESIGN 213",
+                "curr_course_name": "PROTOTYPE DESIGN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$40",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Germany,Jason O",
-        "curr_course_code": "DESIGN 213",
-        "curr_course_name": "PROTOTYPE DESIGN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13307",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-520",
-                "building": "ART",
-                "room": "247"
+    "DESIGN 214": {
+        "DESIGN 214A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13307",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-520",
+                        "building": "ART",
+                        "room": "247"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$50",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Cheng,Karen",
+                "curr_course_code": "DESIGN 214",
+                "curr_course_name": "MARKS AND SYMBOLS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$50",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Cheng,Karen",
-        "curr_course_code": "DESIGN 214",
-        "curr_course_name": "MARKS AND SYMBOLS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13308",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-520",
-                "building": "ART",
-                "room": "229"
+    "DESIGN 215": {
+        "DESIGN 215A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13308",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-520",
+                        "building": "ART",
+                        "room": "229"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$50",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Weis,Bridget",
+                "curr_course_code": "DESIGN 215",
+                "curr_course_name": "VISUAL STORYTELLING",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$50",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "professor_name": "Weis,Bridget",
-        "curr_course_code": "DESIGN 215",
-        "curr_course_name": "VISUAL STORYTELLING",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13309",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "830-1120",
-                "building": "ART",
-                "room": "216"
+    "DESIGN 318": {
+        "DESIGN 318A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13309",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "830-1120",
+                        "building": "ART",
+                        "room": "216"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$51",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Germany,Jason O",
+                "curr_course_code": "DESIGN 318",
+                "curr_course_name": "INTRMD ID STUDIO 2",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$51",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Germany,Jason O",
-        "curr_course_code": "DESIGN 318",
-        "curr_course_name": "INTRMD ID STUDIO 2",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13310",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-320",
-                "building": "ART",
-                "room": "025B"
+    "DESIGN 319": {
+        "DESIGN 319A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13310",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-320",
+                        "building": "ART",
+                        "room": "025B"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$51",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ahn,Sanggyeun",
+                "curr_course_code": "DESIGN 319",
+                "curr_course_name": "ADV DESIGN DRAWING",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$51",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ahn,Sanggyeun",
-        "curr_course_code": "DESIGN 319",
-        "curr_course_name": "ADV DESIGN DRAWING",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13311",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-320",
-                "building": "ART",
-                "room": "025B"
+    "DESIGN 326": {
+        "DESIGN 326A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13311",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-320",
+                        "building": "ART",
+                        "room": "025B"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$45",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Liu,Meichun",
+                "curr_course_code": "DESIGN 326",
+                "curr_course_name": "DIGITAL FABRICATION",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$45",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Liu,Meichun",
-        "curr_course_code": "DESIGN 326",
-        "curr_course_name": "DIGITAL FABRICATION",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13312",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-520",
-                "building": "ART",
-                "room": "230"
+    "DESIGN 369": {
+        "DESIGN 369A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13312",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-520",
+                        "building": "ART",
+                        "room": "230"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$35",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hall,Chad P",
+                "curr_course_code": "DESIGN 369",
+                "curr_course_name": "VISUAL SYSTEMS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$35",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hall,Chad P",
-        "curr_course_code": "DESIGN 369",
-        "curr_course_name": "VISUAL SYSTEMS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13313",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-220",
-                "building": "ART",
-                "room": "228"
+    "DESIGN 372": {
+        "DESIGN 372A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13313",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-220",
+                        "building": "ART",
+                        "room": "228"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$50",
+                "other_codes": "B",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Desjardins,Audrey",
+                "curr_course_code": "DESIGN 372",
+                "curr_course_name": "INTERFACE DESIGN 2",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$50",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Desjardins,Audrey",
-        "curr_course_code": "DESIGN 372",
-        "curr_course_name": "INTERFACE DESIGN 2",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13314",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-520",
-                "building": "ART",
-                "room": "230"
+        },
+        "DESIGN 372B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13314",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-520",
+                        "building": "ART",
+                        "room": "230"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$50",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DESIGN 372",
+                "curr_course_name": "INTERFACE DESIGN 2",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$50",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DESIGN 372",
-        "curr_course_name": "INTERFACE DESIGN 2",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13315",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "830-1120",
-                "building": "ART",
-                "room": "232"
+    "DESIGN 485": {
+        "DESIGN 485A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13315",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "830-1120",
+                        "building": "ART",
+                        "room": "232"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$49",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ahn,Sanggyeun",
+                "curr_course_code": "DESIGN 485",
+                "curr_course_name": "DESIGN CAPSTONE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$49",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ahn,Sanggyeun",
-        "curr_course_code": "DESIGN 485",
-        "curr_course_name": "DESIGN CAPSTONE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13316",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1130-520",
-                "building": "ART",
-                "room": "236"
+        },
+        "DESIGN 485B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13316",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-520",
+                        "building": "ART",
+                        "room": "236"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$49",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Weis,Bridget",
+                "curr_course_code": "DESIGN 485",
+                "curr_course_name": "DESIGN CAPSTONE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$49",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Weis,Bridget",
-        "curr_course_code": "DESIGN 485",
-        "curr_course_name": "DESIGN CAPSTONE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13317",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "830-1120",
-                "building": "ART",
-                "room": "247"
+        },
+        "DESIGN 485C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13317",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "830-1120",
+                        "building": "ART",
+                        "room": "247"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$49",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Matthews,Kristine",
+                "curr_course_code": "DESIGN 485",
+                "curr_course_name": "DESIGN CAPSTONE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$49",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Matthews,Kristine",
-        "curr_course_code": "DESIGN 485",
-        "curr_course_name": "DESIGN CAPSTONE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13318",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1200-150",
-                "building": "ART",
-                "room": "229"
+    "DESIGN 486": {
+        "DESIGN 486A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13318",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1200-150",
+                        "building": "ART",
+                        "room": "229"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "$49",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Matthews,Kristine",
+                "curr_course_code": "DESIGN 486",
+                "curr_course_name": "DESIGN EXHIBITION",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "$49",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Matthews,Kristine",
-        "curr_course_code": "DESIGN 486",
-        "curr_course_name": "DESIGN EXHIBITION",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13319",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "DESIGN 495",
-        "curr_course_name": "DESIGN INTERNSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13320",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$20",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Desjardins,Audrey",
-        "curr_course_code": "DESIGN 496",
-        "curr_course_name": "RESEARCH IXD DESIGN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13321",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$20",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Pierce,James",
-        "curr_course_code": "DESIGN 496",
-        "curr_course_name": "RESEARCH IXD DESIGN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13322",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DESIGN 499",
-        "curr_course_name": "INDIV PROJ-DESIGN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13323",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DESIGN 501",
-        "curr_course_name": "GRAD TEACH/MENTOR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13324",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "830-1120",
-                "building": "ART",
-                "room": "204"
+    "DESIGN 495": {
+        "DESIGN 495A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13319",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "DESIGN 495",
+                "curr_course_name": "DESIGN INTERNSHIP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$103",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Desjardins,Audrey",
-        "curr_course_code": "DESIGN 581",
-        "curr_course_name": "SEMINAR IN DESIGN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13325",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "230-520",
-                "building": "ART",
-                "room": "204"
+    "DESIGN 496": {
+        "DESIGN 496A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13320",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$20",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Desjardins,Audrey",
+                "curr_course_code": "DESIGN 496",
+                "curr_course_name": "RESEARCH IXD DESIGN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$44",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hall,Chad P",
-        "curr_course_code": "DESIGN 582",
-        "curr_course_name": "DESIGN STUDIO: GRAD",
-        "curr_course_fulfills": ""
+        },
+        "DESIGN 496B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13321",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$20",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Pierce,James",
+                "curr_course_code": "DESIGN 496",
+                "curr_course_name": "RESEARCH IXD DESIGN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "13326",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "$44",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DESIGN 582",
-        "curr_course_name": "DESIGN STUDIO: GRAD",
-        "curr_course_fulfills": ""
+    "DESIGN 499": {
+        "DESIGN 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13322",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DESIGN 499",
+                "curr_course_name": "INDIV PROJ-DESIGN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "13327",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2/5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "$25",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "DESIGN 590",
-        "curr_course_name": "CURRENT ISSUES",
-        "curr_course_fulfills": ""
+    "DESIGN 501": {
+        "DESIGN 501A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13323",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DESIGN 501",
+                "curr_course_name": "GRAD TEACH/MENTOR",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13328",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$20",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Desjardins,Audrey",
-        "curr_course_code": "DESIGN 596",
-        "curr_course_name": "RESEARCH IXD",
-        "curr_course_fulfills": ""
+    "DESIGN 581": {
+        "DESIGN 581A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13324",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "830-1120",
+                        "building": "ART",
+                        "room": "204"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$103",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Desjardins,Audrey",
+                "curr_course_code": "DESIGN 581",
+                "curr_course_name": "SEMINAR IN DESIGN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13329",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$20",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Pierce,James",
-        "curr_course_code": "DESIGN 596",
-        "curr_course_name": "RESEARCH IXD",
-        "curr_course_fulfills": ""
+    "DESIGN 582": {
+        "DESIGN 582A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13325",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "230-520",
+                        "building": "ART",
+                        "room": "204"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$44",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hall,Chad P",
+                "curr_course_code": "DESIGN 582",
+                "curr_course_name": "DESIGN STUDIO: GRAD",
+                "curr_course_fulfills": ""
+            }
+        },
+        "DESIGN 582B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13326",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "$44",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DESIGN 582",
+                "curr_course_name": "DESIGN STUDIO: GRAD",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13330",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "DESIGN 600",
-        "curr_course_name": "INDEPEND STDY/RESCH",
-        "curr_course_fulfills": ""
+    "DESIGN 590": {
+        "DESIGN 590A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13327",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2/5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "$25",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "DESIGN 590",
+                "curr_course_name": "CURRENT ISSUES",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13331",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "DESIGN 700",
-        "curr_course_name": "MASTER'S THESIS",
-        "curr_course_fulfills": ""
+    "DESIGN 596": {
+        "DESIGN 596A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13328",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$20",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Desjardins,Audrey",
+                "curr_course_code": "DESIGN 596",
+                "curr_course_name": "RESEARCH IXD",
+                "curr_course_fulfills": ""
+            }
+        },
+        "DESIGN 596B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13329",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$20",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Pierce,James",
+                "curr_course_code": "DESIGN 596",
+                "curr_course_name": "RESEARCH IXD",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DESIGN 600": {
+        "DESIGN 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13330",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "DESIGN 600",
+                "curr_course_name": "INDEPEND STDY/RESCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DESIGN 700": {
+        "DESIGN 700A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13331",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "DESIGN 700",
+                "curr_course_name": "MASTER'S THESIS",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

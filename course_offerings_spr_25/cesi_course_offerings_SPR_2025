@@ -1,186 +1,218 @@
-[
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "11858",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "JA",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kirschenbaum,Mark",
-        "curr_course_code": "CESI 503",
-        "curr_course_name": "OPERATION PWR PLT",
-        "curr_course_fulfills": ""
+{
+    "CESI 503": {
+        "CESI 503B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "11858",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "JA",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kirschenbaum,Mark",
+                "curr_course_code": "CESI 503",
+                "curr_course_name": "OPERATION PWR PLT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "11860",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "JA",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rendahl,Ann",
-        "curr_course_code": "CESI 512",
-        "curr_course_name": "REGULATE UTILITIES",
-        "curr_course_fulfills": ""
+    "CESI 512": {
+        "CESI 512B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "11860",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "JA",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rendahl,Ann",
+                "curr_course_code": "CESI 512",
+                "curr_course_name": "REGULATE UTILITIES",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "11862",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "JA",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Cramer,Matthew",
-        "curr_course_code": "CESI 525",
-        "curr_course_name": "WIND TURB ANALYSIS",
-        "curr_course_fulfills": ""
+    "CESI 525": {
+        "CESI 525B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "11862",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "JA",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Cramer,Matthew",
+                "curr_course_code": "CESI 525",
+                "curr_course_name": "WIND TURB ANALYSIS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "11865",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%JA",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Yamaura,Julian",
-        "curr_course_code": "CESI 531",
-        "curr_course_name": "PROJ FIELD ASSEMBLY",
-        "curr_course_fulfills": ""
+    "CESI 531": {
+        "CESI 531C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "11865",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%JA",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Yamaura,Julian",
+                "curr_course_code": "CESI 531",
+                "curr_course_name": "PROJ FIELD ASSEMBLY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "11867",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "JA",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "RICHARDS,MATTHEW",
-        "curr_course_code": "CESI 534",
-        "curr_course_name": "TRANSMISSION CONST",
-        "curr_course_fulfills": ""
+    "CESI 534": {
+        "CESI 534B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "11867",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "JA",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "RICHARDS,MATTHEW",
+                "curr_course_code": "CESI 534",
+                "curr_course_name": "TRANSMISSION CONST",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "11869",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "JA",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ahmed,Kamal M.",
-        "curr_course_code": "CESI 536",
-        "curr_course_name": "GEO ROAD DESIGN",
-        "curr_course_fulfills": ""
+    "CESI 536": {
+        "CESI 536B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "11869",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "JA",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ahmed,Kamal M.",
+                "curr_course_code": "CESI 536",
+                "curr_course_name": "GEO ROAD DESIGN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "11872",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "JA",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mahoney,Joe P",
-        "curr_course_code": "CESI 592",
-        "curr_course_name": "STAT FUND CONST APP",
-        "curr_course_fulfills": ""
+    "CESI 592": {
+        "CESI 592C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "11872",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "JA",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mahoney,Joe P",
+                "curr_course_code": "CESI 592",
+                "curr_course_name": "STAT FUND CONST APP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21437",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "JA",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mahoney,Joe P",
-        "curr_course_code": "CESI 595",
-        "curr_course_name": "CONSTRUCTION MATS",
-        "curr_course_fulfills": ""
+    "CESI 595": {
+        "CESI 595C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21437",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "JA",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mahoney,Joe P",
+                "curr_course_code": "CESI 595",
+                "curr_course_name": "CONSTRUCTION MATS",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

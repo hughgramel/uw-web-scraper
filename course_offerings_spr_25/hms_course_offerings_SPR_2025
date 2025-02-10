@@ -1,278 +1,322 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "15180",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "100-220",
-                "building": "HSE",
-                "room": "E216"
+{
+    "HMS 512": {
+        "HMS 512A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15180",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "100-220",
+                        "building": "HSE",
+                        "room": "E216"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schumacher,Austin",
+                "curr_course_code": "HMS 512",
+                "curr_course_name": "MORTALITY METRICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schumacher,Austin",
-        "curr_course_code": "HMS 512",
-        "curr_course_name": "MORTALITY METRICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15181",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "900-950",
-                "building": "HRC",
-                "room": "597"
+    "HMS 530": {
+        "HMS 530A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15181",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "900-950",
+                        "building": "HRC",
+                        "room": "597"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dirac,Mae",
+                "curr_course_code": "HMS 530",
+                "curr_course_name": "GBD MTHDS & RESULTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dirac,Mae",
-        "curr_course_code": "HMS 530",
-        "curr_course_name": "GBD MTHDS & RESULTS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15182",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1250",
-                "building": "HST",
-                "room": "T360"
-            },
-            {
-                "days": "T",
-                "time": "1030-1120"
+    "HMS 537": {
+        "HMS 537A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15182",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-1250",
+                        "building": "HST",
+                        "room": "T360"
+                    },
+                    {
+                        "days": "T",
+                        "time": "1030-1120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "HMS 537",
+                "curr_course_name": "ADVD MTHDS GH III",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HMS 537",
-        "curr_course_name": "ADVD MTHDS GH III",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15183",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1220",
-                "building": "HRC",
-                "room": "597"
+    "HMS 540": {
+        "HMS 540A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15183",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-1220",
+                        "building": "HRC",
+                        "room": "597"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "O",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Apeagyei,Angela Esi",
+                "curr_course_code": "HMS 540",
+                "curr_course_name": "HEALTH ECON IN LMICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "O",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Apeagyei,Angela Esi",
-        "curr_course_code": "HMS 540",
-        "curr_course_name": "HEALTH ECON IN LMICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15184",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "HST",
-                "room": "T739"
+    "HMS 541": {
+        "HMS 541A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15184",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "HST",
+                        "room": "T739"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Wasserheit,Judith N.",
+                "curr_course_code": "HMS 541",
+                "curr_course_name": "IMPLEMENTATION SCI",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Wasserheit,Judith N.",
-        "curr_course_code": "HMS 541",
-        "curr_course_name": "IMPLEMENTATION SCI",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15185",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-1250",
-                "building": "HRC",
-                "room": "597"
-            },
-            {
-                "days": "W",
-                "time": "100-150"
+    "HMS 581": {
+        "HMS 581A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15185",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-1250",
+                        "building": "HRC",
+                        "room": "597"
+                    },
+                    {
+                        "days": "W",
+                        "time": "100-150"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Reiner,Bobby",
+                "curr_course_code": "HMS 581",
+                "curr_course_name": "INFEC DISEASE MODELS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Reiner,Bobby",
-        "curr_course_code": "HMS 581",
-        "curr_course_name": "INFEC DISEASE MODELS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15186",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "900-950",
-                "building": "HRC",
-                "room": "597"
+    "HMS 592": {
+        "HMS 592A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15186",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "900-950",
+                        "building": "HRC",
+                        "room": "597"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "HMS 592",
+                "curr_course_name": "HLTH MTR SEM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HMS 592",
-        "curr_course_name": "HLTH MTR SEM",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15187",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "900-950",
-                "building": "HRC",
-                "room": "597"
+    "HMS 594": {
+        "HMS 594A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15187",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "900-950",
+                        "building": "HRC",
+                        "room": "597"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dwyer-Lindgren,Laura",
+                "curr_course_code": "HMS 594",
+                "curr_course_name": "CAPSTONE I",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dwyer-Lindgren,Laura",
-        "curr_course_code": "HMS 594",
-        "curr_course_name": "CAPSTONE I",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "15188",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HMS 600",
-        "curr_course_name": "INDPDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "HMS 600": {
+        "HMS 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "15188",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "HMS 600",
+                "curr_course_name": "INDPDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "15189",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HMS 800",
-        "curr_course_name": "DCTRL DSRTN",
-        "curr_course_fulfills": ""
+    "HMS 800": {
+        "HMS 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "15189",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "HMS 800",
+                "curr_course_name": "DCTRL DSRTN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

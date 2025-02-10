@@ -1,145 +1,167 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "12378",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-120",
-                "building": "MUS",
-                "room": "223"
+{
+    "CHSTU 256": {
+        "CHSTU 256A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12378",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-120",
+                        "building": "MUS",
+                        "room": "223"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ramirez",
+                "curr_course_code": "CHSTU 256",
+                "curr_course_name": "CHICANA ISSUES",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ramirez",
-        "curr_course_code": "CHSTU 256",
-        "curr_course_name": "CHICANA ISSUES",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12379",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "MUS",
-                "room": "223"
+    "CHSTU 320": {
+        "CHSTU 320A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12379",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "MUS",
+                        "room": "223"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Pena,Devon",
+                "curr_course_code": "CHSTU 320",
+                "curr_course_name": "FOOD SOVEREIGNTY",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pena,Devon",
-        "curr_course_code": "CHSTU 320",
-        "curr_course_name": "FOOD SOVEREIGNTY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12380",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "MUE",
-                "room": "154"
+    "CHSTU 405": {
+        "CHSTU 405A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12380",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "MUE",
+                        "room": "154"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Pinedo-Turnovsky,Carolyn",
+                "curr_course_code": "CHSTU 405",
+                "curr_course_name": "ADV CHICANO SOCSCI",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pinedo-Turnovsky,Carolyn",
-        "curr_course_code": "CHSTU 405",
-        "curr_course_name": "ADV CHICANO SOCSCI",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21425",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "SAV",
-                "room": "264"
+    "CHSTU 498": {
+        "CHSTU 498A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21425",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "SAV",
+                        "room": "264"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rodriguez-Silva,Ileana M.",
+                "curr_course_code": "CHSTU 498",
+                "curr_course_name": "SPCL TOPICS CH STU",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rodriguez-Silva,Ileana M.",
-        "curr_course_code": "CHSTU 498",
-        "curr_course_name": "SPCL TOPICS CH STU",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "12381",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "curr_course_code": "CHSTU 499",
-        "curr_course_name": "IND STUDY & RESEARCH",
-        "curr_course_fulfills": ""
+    "CHSTU 499": {
+        "CHSTU 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "12381",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "CHSTU 499",
+                "curr_course_name": "IND STUDY & RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

@@ -1,362 +1,406 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "17709",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "830-950",
-                "building": "CLK",
-                "room": "219"
+{
+    "N SCI 103": {
+        "N SCI 103A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17709",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "830-950",
+                        "building": "CLK",
+                        "room": "219"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kraner,Ryan Anthony",
+                "curr_course_code": "N SCI 103",
+                "curr_course_name": "HIST US SEAPWR II",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kraner,Ryan Anthony",
-        "curr_course_code": "N SCI 103",
-        "curr_course_name": "HIST US SEAPWR II",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "17710",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "100-220",
-                "building": "CLK",
-                "room": "219"
+        },
+        "N SCI 103B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17710",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "100-220",
+                        "building": "CLK",
+                        "room": "219"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kraner,Ryan Anthony",
+                "curr_course_code": "N SCI 103",
+                "curr_course_name": "HIST US SEAPWR II",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kraner,Ryan Anthony",
-        "curr_course_code": "N SCI 103",
-        "curr_course_name": "HIST US SEAPWR II",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17711",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "630-750",
-                "building": "SAV",
-                "room": "260"
+    "N SCI 110": {
+        "N SCI 110A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17711",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "630-750",
+                        "building": "SAV",
+                        "room": "260"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "105",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schilder,Elizabeth",
+                "curr_course_code": "N SCI 110",
+                "curr_course_name": "N SCI LABORATORY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "105",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schilder,Elizabeth",
-        "curr_course_code": "N SCI 110",
-        "curr_course_name": "N SCI LABORATORY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17712",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "730-820",
-                "building": "CLK",
-                "room": "219"
+    "N SCI 115": {
+        "N SCI 115A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17712",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "730-820",
+                        "building": "CLK",
+                        "room": "219"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schilder,Elizabeth",
+                "curr_course_code": "N SCI 115",
+                "curr_course_name": "MARINE CORPS OTE",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schilder,Elizabeth",
-        "curr_course_code": "N SCI 115",
-        "curr_course_name": "MARINE CORPS OTE",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17713",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1000-1120",
-                "building": "CLK",
-                "room": "219"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "VanOs,Warner",
-        "curr_course_code": "N SCI 203",
-        "curr_course_name": "NAVIGATION II",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "17714",
-        "section": "AA",
-        "isQuiz": "0",
-        "isLab": "1",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-1020",
-                "building": "CLK",
-                "room": "219"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "VanOs,Warner",
-        "curr_course_code": "N SCI 203",
-        "curr_course_name": "NAVIGATION II",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "17715",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "N SCI 203",
-        "curr_course_name": "NAVIGATION II",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "17716",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1250",
-                "building": "CLK",
-                "room": "219"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Fogt,Kymber",
-        "curr_course_code": "N SCI 303",
-        "curr_course_name": "NAVAL WEAPON SYSTMS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "17717",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "N SCI 303",
-        "curr_course_name": "NAVAL WEAPON SYSTMS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "17718",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-350",
-                "building": "CLK",
-                "room": "219"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schilder,Elizabeth",
-        "curr_course_code": "N SCI 325",
-        "curr_course_name": "MANEUVER WARFARE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "17719",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "N SCI 325",
-        "curr_course_name": "MANEUVER WARFARE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "17720",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1250",
-                "building": "SAV",
-                "room": "156"
+    "N SCI 203": {
+        "N SCI 203A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17713",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1000-1120",
+                        "building": "CLK",
+                        "room": "219"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "VanOs,Warner",
+                "curr_course_code": "N SCI 203",
+                "curr_course_name": "NAVIGATION II",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
             },
-            {
-                "days": "F",
-                "time": "1130-1220"
+            "lab_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "17714",
+                    "section": "AA",
+                    "is_quiz": 0,
+                    "is_lab": 1,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "830-1020",
+                            "building": "CLK",
+                            "room": "219"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "VanOs,Warner",
+                    "curr_course_code": "N SCI 203",
+                    "curr_course_name": "NAVIGATION II",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                }
+            ]
+        },
+        "N SCI 203B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "17715",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "N SCI 203",
+                "curr_course_name": "NAVIGATION II",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bassett,Emily",
-        "curr_course_code": "N SCI 402",
-        "curr_course_name": "NVL LDRSHP & ETHICS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "17721",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "N SCI 402",
-        "curr_course_name": "NVL LDRSHP & ETHICS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+    "N SCI 303": {
+        "N SCI 303A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17716",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-1250",
+                        "building": "CLK",
+                        "room": "219"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Fogt,Kymber",
+                "curr_course_code": "N SCI 303",
+                "curr_course_name": "NAVAL WEAPON SYSTMS",
+                "curr_course_fulfills": ""
+            }
+        },
+        "N SCI 303B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "17717",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "N SCI 303",
+                "curr_course_name": "NAVAL WEAPON SYSTMS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "N SCI 325": {
+        "N SCI 325A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17718",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-350",
+                        "building": "CLK",
+                        "room": "219"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schilder,Elizabeth",
+                "curr_course_code": "N SCI 325",
+                "curr_course_name": "MANEUVER WARFARE",
+                "curr_course_fulfills": ""
+            }
+        },
+        "N SCI 325B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "17719",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "N SCI 325",
+                "curr_course_name": "MANEUVER WARFARE",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "N SCI 402": {
+        "N SCI 402A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17720",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-1250",
+                        "building": "SAV",
+                        "room": "156"
+                    },
+                    {
+                        "days": "F",
+                        "time": "1130-1220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Bassett,Emily",
+                "curr_course_code": "N SCI 402",
+                "curr_course_name": "NVL LDRSHP & ETHICS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        },
+        "N SCI 402B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "17721",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "N SCI 402",
+                "curr_course_name": "NVL LDRSHP & ETHICS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
     }
-]
+}

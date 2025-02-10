@@ -1,243 +1,271 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "15305",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "1030-1120",
-                "building": "RAI",
-                "room": "109"
+{
+    "HSTCMP 210": {
+        "HSTCMP 210A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15305",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "1030-1120",
+                        "building": "RAI",
+                        "room": "109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Felak,James R",
+                "curr_course_code": "HSTCMP 210",
+                "curr_course_name": "CATHOLIC CLASIC HIST",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Felak,James R",
-        "curr_course_code": "HSTCMP 210",
-        "curr_course_name": "CATHOLIC CLASIC HIST",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15306",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "THO",
-                "room": "134"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dhavan,Purnima",
-        "curr_course_code": "HSTCMP 221",
-        "curr_course_name": "GLOBAL ENVIR HISTRY",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+    "HSTCMP 221": {
+        "HSTCMP 221A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15306",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "THO",
+                        "room": "134"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dhavan,Purnima",
+                "curr_course_code": "HSTCMP 221",
+                "curr_course_name": "GLOBAL ENVIR HISTRY",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "21630",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "830-920",
+                            "building": "SAV",
+                            "room": "164"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "HSTCMP 221",
+                    "curr_course_name": "GLOBAL ENVIR HISTRY",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "21631",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "THO",
+                            "room": "234"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "HSTCMP 221",
+                    "curr_course_name": "GLOBAL ENVIR HISTRY",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                }
+            ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21630",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-920",
-                "building": "SAV",
-                "room": "164"
+    "HSTCMP 250": {
+        "HSTCMP 250A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15307",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "THO",
+                        "room": "119"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rosen,Sarah Zaides",
+                "curr_course_code": "HSTCMP 250",
+                "curr_course_name": "JEWISH CULTURAL HIST",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HSTCMP 221",
-        "curr_course_name": "GLOBAL ENVIR HISTRY",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21631",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "THO",
-                "room": "234"
+    "HSTCMP 290": {
+        "HSTCMP 290A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15308",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "SAV",
+                        "room": "264"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rodriguez-Silva,Ileana M.",
+                "curr_course_code": "HSTCMP 290",
+                "curr_course_name": "TPCS COMPAR/GLBL HST",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HSTCMP 221",
-        "curr_course_name": "GLOBAL ENVIR HISTRY",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15307",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "THO",
-                "room": "119"
+    "HSTCMP 313": {
+        "HSTCMP 313A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15309",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "930-1020",
+                        "building": "CDH",
+                        "room": "135"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hevly,Bruce",
+                "curr_course_code": "HSTCMP 313",
+                "curr_course_name": "SCI&CIV-PHYS&ASTPHY",
+                "curr_course_fulfills": [
+                    "SSc/NSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rosen,Sarah Zaides",
-        "curr_course_code": "HSTCMP 250",
-        "curr_course_name": "JEWISH CULTURAL HIST",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15308",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "SAV",
-                "room": "264"
+    "HSTCMP 490": {
+        "HSTCMP 490A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15310",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "SMI",
+                        "room": "311"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ramesh,Aditya",
+                "curr_course_code": "HSTCMP 490",
+                "curr_course_name": "ADV TPC CMP/GLBL HST",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rodriguez-Silva,Ileana M.",
-        "curr_course_code": "HSTCMP 290",
-        "curr_course_name": "TPCS COMPAR/GLBL HST",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15309",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "930-1020",
-                "building": "CDH",
-                "room": "135"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hevly,Bruce",
-        "curr_course_code": "HSTCMP 313",
-        "curr_course_name": "SCI&CIV-PHYS&ASTPHY",
-        "curr_course_fulfills": [
-            "SSc/NSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15310",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "SMI",
-                "room": "311"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ramesh,Aditya",
-        "curr_course_code": "HSTCMP 490",
-        "curr_course_name": "ADV TPC CMP/GLBL HST",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     }
-]
+}

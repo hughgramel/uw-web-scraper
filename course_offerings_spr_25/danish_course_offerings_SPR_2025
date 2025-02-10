@@ -1,84 +1,98 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "13207",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "930-1020",
-                "building": "DEM",
-                "room": "124"
+{
+    "DANISH 103": {
+        "DANISH 103A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13207",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "930-1020",
+                        "building": "DEM",
+                        "room": "124"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Larsen,Morten",
+                "curr_course_code": "DANISH 103",
+                "curr_course_name": "FIRST YEAR DANISH 3",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Larsen,Morten",
-        "curr_course_code": "DANISH 103",
-        "curr_course_name": "FIRST YEAR DANISH 3",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "13208",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "137"
+    "DANISH 203": {
+        "DANISH 203A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13208",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1130-1220",
+                        "building": "SAV",
+                        "room": "137"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Larsen,Morten",
+                "curr_course_code": "DANISH 203",
+                "curr_course_name": "2ND YEAR DANISH",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Larsen,Morten",
-        "curr_course_code": "DANISH 203",
-        "curr_course_name": "2ND YEAR DANISH",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13209",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "DANISH 490",
-        "curr_course_name": "SUPERVISED READING",
-        "curr_course_fulfills": ""
+    "DANISH 490": {
+        "DANISH 490A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13209",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DANISH 490",
+                "curr_course_name": "SUPERVISED READING",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

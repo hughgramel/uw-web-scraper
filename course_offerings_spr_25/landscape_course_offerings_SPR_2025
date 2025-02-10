@@ -1,832 +1,948 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "15900",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "100-220",
-                "building": "SMI",
-                "room": "120"
+{
+    "L ARCH 212": {
+        "L ARCH 212A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15900",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "100-220",
+                        "building": "SMI",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "242",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Harris,Gregory Keith",
+                "curr_course_code": "L ARCH 212",
+                "curr_course_name": "DESGNING THE FUTURE",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "242",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Harris,Gregory Keith",
-        "curr_course_code": "L ARCH 212",
-        "curr_course_name": "DESGNING THE FUTURE",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15901",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "100-220",
-                "building": "SMI",
-                "room": "120"
+        },
+        "L ARCH 212B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15901",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "100-220",
+                        "building": "SMI",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "23",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Harris,Gregory Keith",
+                "curr_course_code": "L ARCH 212",
+                "curr_course_name": "DESGNING THE FUTURE",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "23",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Harris,Gregory Keith",
-        "curr_course_code": "L ARCH 212",
-        "curr_course_name": "DESGNING THE FUTURE",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15902",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-1250",
-                "building": "MGH",
-                "room": "389"
+    "L ARCH 322": {
+        "L ARCH 322A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15902",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-1250",
+                        "building": "MGH",
+                        "room": "389"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "150",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Li,Hongfei",
+                "curr_course_code": "L ARCH 322",
+                "curr_course_name": "INTRO TO PLNTG DES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "150",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Li,Hongfei",
-        "curr_course_code": "L ARCH 322",
-        "curr_course_name": "INTRO TO PLNTG DES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15903",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1000-1120",
-                "building": "NAN",
-                "room": "181"
+    "L ARCH 363": {
+        "L ARCH 363A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15903",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1000-1120",
+                        "building": "NAN",
+                        "room": "181"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "90",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Balderas",
+                "curr_course_code": "L ARCH 363",
+                "curr_course_name": "ECO DESIGN & PLAN",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "90",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Balderas",
-        "curr_course_code": "L ARCH 363",
-        "curr_course_name": "ECO DESIGN & PLAN",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15904",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "6",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "130-520",
-                "building": "GLD",
-                "room": "312A"
+    "L ARCH 403": {
+        "L ARCH 403A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15904",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "6",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "130-520",
+                        "building": "GLD",
+                        "room": "312A"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "38",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Balderas",
+                "curr_course_code": "L ARCH 403",
+                "curr_course_name": "ECO SYSTEMS STUDIO",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "38",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Balderas",
-        "curr_course_code": "L ARCH 403",
-        "curr_course_name": "ECO SYSTEMS STUDIO",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15905",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "6",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "130-520",
-                "building": "LOW",
-                "room": "105"
+        },
+        "L ARCH 403B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15905",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "6",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "130-520",
+                        "building": "LOW",
+                        "room": "105"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "38",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Balderas",
+                "curr_course_code": "L ARCH 403",
+                "curr_course_name": "ECO SYSTEMS STUDIO",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "38",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Balderas",
-        "curr_course_code": "L ARCH 403",
-        "curr_course_name": "ECO SYSTEMS STUDIO",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15906",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-520",
-                "building": "GLD",
-                "room": "435"
+    "L ARCH 423": {
+        "L ARCH 423A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15906",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-520",
+                        "building": "GLD",
+                        "room": "435"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "L ARCH 423",
+                "curr_course_name": "PLANT ID & MGMT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "L ARCH 423",
-        "curr_course_name": "PLANT ID & MGMT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15907",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-450",
-                "building": "GLD",
-                "room": "440"
+    "L ARCH 424": {
+        "L ARCH 424A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15907",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-450",
+                        "building": "GLD",
+                        "room": "440"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Higbee,Eric S",
+                "curr_course_code": "L ARCH 424",
+                "curr_course_name": "PLNTG DES SEM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Higbee,Eric S",
-        "curr_course_code": "L ARCH 424",
-        "curr_course_name": "PLNTG DES SEM",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15908",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-1250",
-                "building": "GLD",
-                "room": "110"
+    "L ARCH 434": {
+        "L ARCH 434A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15908",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-1250",
+                        "building": "GLD",
+                        "room": "110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Grosser,Matt",
+                "curr_course_code": "L ARCH 434",
+                "curr_course_name": "URB SOILS HYDRLGY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Grosser,Matt",
-        "curr_course_code": "L ARCH 434",
-        "curr_course_name": "URB SOILS HYDRLGY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15909",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1000-1120",
-                "building": "GLD",
-                "room": "440"
+    "L ARCH 454": {
+        "L ARCH 454A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15909",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "1000-1120",
+                        "building": "GLD",
+                        "room": "440"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Umbanhowar,Elizabeth",
+                "curr_course_code": "L ARCH 454",
+                "curr_course_name": "HIST URBAN LNDSCAPE",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Umbanhowar,Elizabeth",
-        "curr_course_code": "L ARCH 454",
-        "curr_course_name": "HIST URBAN LNDSCAPE",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15910",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "6",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "130-520",
-                "building": "TBA",
-                "room": "TBA"
-            },
-            {
-                "days": "ThF",
-                "time": "900-520"
+    "L ARCH 475": {
+        "L ARCH 475A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15910",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "6",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-520",
+                        "building": "TBA",
+                        "room": "TBA"
+                    },
+                    {
+                        "days": "ThF",
+                        "time": "900-520"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "RE",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Winterbottom,Daniel M.",
+                "curr_course_code": "L ARCH 475",
+                "curr_course_name": "DSGN BUILD STUDIO II",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "RE",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Winterbottom,Daniel M.",
-        "curr_course_code": "L ARCH 475",
-        "curr_course_name": "DSGN BUILD STUDIO II",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15911",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "130-520",
-                "building": "TBA",
-                "room": "TBA"
-            },
-            {
-                "days": "ThF",
-                "time": "900-520"
+        },
+        "L ARCH 475B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15911",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-520",
+                        "building": "TBA",
+                        "room": "TBA"
+                    },
+                    {
+                        "days": "ThF",
+                        "time": "900-520"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "RE",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Winterbottom,Daniel M.",
+                "curr_course_code": "L ARCH 475",
+                "curr_course_name": "DSGN BUILD STUDIO II",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "RE",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Winterbottom,Daniel M.",
-        "curr_course_code": "L ARCH 475",
-        "curr_course_name": "DSGN BUILD STUDIO II",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15912",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "32",
-        "curr_enrolled": "0",
-        "professor_name": "Parrett,Julie",
-        "curr_course_code": "L ARCH 476",
-        "curr_course_name": "INTERNSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "15913",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Butler,Shaunta",
-        "curr_course_code": "L ARCH 498",
-        "curr_course_name": "SPECIAL PROJECTS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "15914",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "600-850P",
-                "building": "GLD",
-                "room": "007F"
+    "L ARCH 476": {
+        "L ARCH 476A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15912",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "32",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Parrett,Julie",
+                "curr_course_code": "L ARCH 476",
+                "curr_course_name": "INTERNSHIP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Javet,Vincent",
-        "curr_course_code": "L ARCH 498",
-        "curr_course_name": "SPECIAL PROJECTS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15915",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-250",
-                "building": "GLD",
-                "room": "102"
+    "L ARCH 498": {
+        "L ARCH 498A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15913",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Butler,Shaunta",
+                "curr_course_code": "L ARCH 498",
+                "curr_course_name": "SPECIAL PROJECTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Higbee,Eric S",
-        "curr_course_code": "L ARCH 498",
-        "curr_course_name": "SPECIAL PROJECTS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "15916",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "curr_course_code": "L ARCH 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15917",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "6",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "130-520",
-                "building": "GLD",
-                "room": "312C"
+        },
+        "L ARCH 498B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15914",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "600-850P",
+                        "building": "GLD",
+                        "room": "007F"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Javet,Vincent",
+                "curr_course_code": "L ARCH 498",
+                "curr_course_name": "SPECIAL PROJECTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "L ARCH 503",
-        "curr_course_name": "ADV STUDIO VI",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15919",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1250",
-                "building": "GLD",
-                "room": "114"
+        },
+        "L ARCH 498C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15915",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-250",
+                        "building": "GLD",
+                        "room": "102"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Higbee,Eric S",
+                "curr_course_code": "L ARCH 498",
+                "curr_course_name": "SPECIAL PROJECTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Balderas",
-        "curr_course_code": "L ARCH 563",
-        "curr_course_name": "ECO DESIGN & PLAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15920",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1130-1250",
-                "building": "GLD",
-                "room": "312C"
+    "L ARCH 499": {
+        "L ARCH 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "15916",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "L ARCH 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Parrett,Julie",
-        "curr_course_code": "L ARCH 571",
-        "curr_course_name": "FACULTY SEMINAR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15921",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1000-1120",
-                "building": "GLD",
-                "room": "208J"
+    "L ARCH 503": {
+        "L ARCH 503A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15917",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "6",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "130-520",
+                        "building": "GLD",
+                        "room": "312C"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "L ARCH 503",
+                "curr_course_name": "ADV STUDIO VI",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Manzo,Lynne",
-        "curr_course_code": "L ARCH 572",
-        "curr_course_name": "RESEARCH METHODS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "15922",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "curr_course_code": "L ARCH 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15923",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "professor_name": "Parrett,Julie",
-        "curr_course_code": "L ARCH 601",
-        "curr_course_name": "INTERNSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "15924",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "curr_course_code": "L ARCH 700",
-        "curr_course_name": "MASTERS THESIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15925",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-420",
-                "building": "GLD",
-                "room": "106"
+    "L ARCH 563": {
+        "L ARCH 563A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15919",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-1250",
+                        "building": "GLD",
+                        "room": "114"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Balderas",
+                "curr_course_code": "L ARCH 563",
+                "curr_course_name": "ECO DESIGN & PLAN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Johnson,Julie M.",
-        "curr_course_code": "L ARCH 701",
-        "curr_course_name": "THESIS STUDIO",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15926",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "6",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "130-420",
-                "building": "GLD",
-                "room": "106"
+    "L ARCH 571": {
+        "L ARCH 571A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15920",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-1250",
+                        "building": "GLD",
+                        "room": "312C"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Parrett,Julie",
+                "curr_course_code": "L ARCH 571",
+                "curr_course_name": "FACULTY SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "De Almeida,Catherine",
-        "curr_course_code": "L ARCH 702",
-        "curr_course_name": "CAPSTONE STUDIO",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15927",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "130-520",
-                "building": "TBA",
-                "room": "TBA"
+    "L ARCH 572": {
+        "L ARCH 572A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15921",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1000-1120",
+                        "building": "GLD",
+                        "room": "208J"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Manzo,Lynne",
+                "curr_course_code": "L ARCH 572",
+                "curr_course_name": "RESEARCH METHODS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "De Almeida,Catherine",
-        "curr_course_code": "L ARCH 702",
-        "curr_course_name": "CAPSTONE STUDIO",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15928",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Javet,Vincent",
-        "curr_course_code": "L ARCH 703",
-        "curr_course_name": "GROUP PROJECT",
-        "curr_course_fulfills": ""
+    "L ARCH 600": {
+        "L ARCH 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "15922",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "L ARCH 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15929",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Parrett,Julie",
-        "curr_course_code": "L ARCH 703",
-        "curr_course_name": "GROUP PROJECT",
-        "curr_course_fulfills": ""
+    "L ARCH 601": {
+        "L ARCH 601A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15923",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Parrett,Julie",
+                "curr_course_code": "L ARCH 601",
+                "curr_course_name": "INTERNSHIP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21558",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "L ARCH 703",
-        "curr_course_name": "GROUP PROJECT",
-        "curr_course_fulfills": ""
+    "L ARCH 700": {
+        "L ARCH 700A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "15924",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "L ARCH 700",
+                "curr_course_name": "MASTERS THESIS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "L ARCH 701": {
+        "L ARCH 701A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15925",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-420",
+                        "building": "GLD",
+                        "room": "106"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Johnson,Julie M.",
+                "curr_course_code": "L ARCH 701",
+                "curr_course_name": "THESIS STUDIO",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "L ARCH 702": {
+        "L ARCH 702A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15926",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "6",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "130-420",
+                        "building": "GLD",
+                        "room": "106"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "De Almeida,Catherine",
+                "curr_course_code": "L ARCH 702",
+                "curr_course_name": "CAPSTONE STUDIO",
+                "curr_course_fulfills": ""
+            }
+        },
+        "L ARCH 702B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15927",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "130-520",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "De Almeida,Catherine",
+                "curr_course_code": "L ARCH 702",
+                "curr_course_name": "CAPSTONE STUDIO",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "L ARCH 703": {
+        "L ARCH 703A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15928",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Javet,Vincent",
+                "curr_course_code": "L ARCH 703",
+                "curr_course_name": "GROUP PROJECT",
+                "curr_course_fulfills": ""
+            }
+        },
+        "L ARCH 703B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15929",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Parrett,Julie",
+                "curr_course_code": "L ARCH 703",
+                "curr_course_name": "GROUP PROJECT",
+                "curr_course_fulfills": ""
+            }
+        },
+        "L ARCH 703C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21558",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "L ARCH 703",
+                "curr_course_name": "GROUP PROJECT",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

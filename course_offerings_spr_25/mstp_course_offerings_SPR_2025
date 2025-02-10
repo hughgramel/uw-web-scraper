@@ -1,24 +1,29 @@
-[
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "17378",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "MSTP 599",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+{
+    "MSTP 599": {
+        "MSTP 599A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "17378",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "MSTP 599",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

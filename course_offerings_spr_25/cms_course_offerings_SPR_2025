@@ -1,874 +1,1003 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "12453",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "KNE",
-                "room": "210"
+{
+    "CMS 273": {
+        "CMS 273A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12453",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "KNE",
+                        "room": "210"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "240",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Groening,Stephen",
+                "curr_course_code": "CMS 273",
+                "curr_course_name": "TV ANALYSIS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "240",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Groening,Stephen",
-        "curr_course_code": "CMS 273",
-        "curr_course_name": "TV ANALYSIS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12454",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "SMI",
-                "room": "120"
+    "CMS 274": {
+        "CMS 274A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12454",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "SMI",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "120",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ahern,Mal",
+                "curr_course_code": "CMS 274",
+                "curr_course_name": "MEDIA CRIT CONCEPT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "120",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ahern,Mal",
-        "curr_course_code": "CMS 274",
-        "curr_course_name": "MEDIA CRIT CONCEPT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "12455",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "WF",
-                "time": "1230-220",
-                "building": "MGH",
-                "room": "242"
+    "CMS 275": {
+        "CMS 275A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12455",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "WF",
+                        "time": "1230-220",
+                        "building": "MGH",
+                        "room": "242"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Alaniz,Jose",
+                "curr_course_code": "CMS 275",
+                "curr_course_name": "VISUAL CULTURE-POWER",
+                "curr_course_fulfills": [
+                    "A&H/SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Alaniz,Jose",
-        "curr_course_code": "CMS 275",
-        "curr_course_name": "VISUAL CULTURE-POWER",
-        "curr_course_fulfills": [
-            "A&H/SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "12456",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "CMS 295",
-        "curr_course_name": "STUDY ABROAD",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21523",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "OUG",
-                "room": "141"
+    "CMS 295": {
+        "CMS 295A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "12456",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "CMS 295",
+                "curr_course_name": "STUDY ABROAD",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Braester,Yomi",
-        "curr_course_code": "CMS 303",
-        "curr_course_name": "GENRE STUDIES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12457",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "WFS",
-                "room": "201"
+    "CMS 303": {
+        "CMS 303A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21523",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "OUG",
+                        "room": "141"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Braester,Yomi",
+                "curr_course_code": "CMS 303",
+                "curr_course_name": "GENRE STUDIES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Groening,Stephen",
-        "curr_course_code": "CMS 304",
-        "curr_course_name": "TELEVISION STUDIES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12458",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1220",
-                "building": "MGH",
-                "room": "231"
+    "CMS 304": {
+        "CMS 304A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12457",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "WFS",
+                        "room": "201"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Groening,Stephen",
+                "curr_course_code": "CMS 304",
+                "curr_course_name": "TELEVISION STUDIES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ruiz,Diana",
-        "curr_course_code": "CMS 310",
-        "curr_course_name": "FILM HST: 1895-1929",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12459",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "ART",
-                "room": "003"
+    "CMS 310": {
+        "CMS 310A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12458",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1220",
+                        "building": "MGH",
+                        "room": "231"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ruiz,Diana",
+                "curr_course_code": "CMS 310",
+                "curr_course_name": "FILM HST: 1895-1929",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mahadevan,Sudhir",
-        "curr_course_code": "CMS 311",
-        "curr_course_name": "FILM HST: 1930-1959",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12460",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "OUG",
-                "room": "141"
+    "CMS 311": {
+        "CMS 311A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12459",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "ART",
+                        "room": "003"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mahadevan,Sudhir",
+                "curr_course_code": "CMS 311",
+                "curr_course_name": "FILM HST: 1930-1959",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Braester,Yomi",
-        "curr_course_code": "CMS 313",
-        "curr_course_name": "FILM HST: 1989-PRES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12461",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "ART",
-                "room": "003"
+    "CMS 313": {
+        "CMS 313A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12460",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "OUG",
+                        "room": "141"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Braester,Yomi",
+                "curr_course_code": "CMS 313",
+                "curr_course_name": "FILM HST: 1989-PRES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ahern,Mal",
-        "curr_course_code": "CMS 315",
-        "curr_course_name": "HISTORY NEW MEDIA",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21377",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "LOW",
-                "room": "205"
+    "CMS 315": {
+        "CMS 315A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12461",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "ART",
+                        "room": "003"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ahern,Mal",
+                "curr_course_code": "CMS 315",
+                "curr_course_name": "HISTORY NEW MEDIA",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Doxtater,Amanda",
-        "curr_course_code": "CMS 320",
-        "curr_course_name": "CINEMA AND NATION",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21469",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "SIG",
-                "room": "224"
+    "CMS 320": {
+        "CMS 320B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21377",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "LOW",
+                        "room": "205"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Doxtater,Amanda",
+                "curr_course_code": "CMS 320",
+                "curr_course_name": "CINEMA AND NATION",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Chang,Ellen Y",
-        "curr_course_code": "CMS 320",
-        "curr_course_name": "CINEMA AND NATION",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "21501",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "ARC",
-                "room": "160"
+        },
+        "CMS 320C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21469",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "SIG",
+                        "room": "224"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Chang,Ellen Y",
+                "curr_course_code": "CMS 320",
+                "curr_course_name": "CINEMA AND NATION",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CMS 320",
-        "curr_course_name": "CINEMA AND NATION",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12463",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "MUE",
-                "room": "154"
+        },
+        "CMS 320D": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21501",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "ARC",
+                        "room": "160"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CMS 320",
+                "curr_course_name": "CINEMA AND NATION",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Etheredge,Warren",
-        "curr_course_code": "CMS 370",
-        "curr_course_name": "BASIC SCREENWRITING",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "12464",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "CMS 395",
-        "curr_course_name": "STUDY ABROAD",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "12465",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "ECE",
-                "room": "003"
+    "CMS 370": {
+        "CMS 370A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12463",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "MUE",
+                        "room": "154"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Etheredge,Warren",
+                "curr_course_code": "CMS 370",
+                "curr_course_name": "BASIC SCREENWRITING",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "professor_name": "Gillis-Bridges,Kimberlee",
-        "curr_course_code": "CMS 397",
-        "curr_course_name": "CMS SPECIAL TOPICS",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "12466",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "MGH",
-                "room": "082A"
+    "CMS 395": {
+        "CMS 395A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "12464",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "CMS 395",
+                "curr_course_name": "STUDY ABROAD",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "professor_name": "Etheredge,Warren",
-        "curr_course_code": "CMS 397",
-        "curr_course_name": "CMS SPECIAL TOPICS",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12468",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "930-1120",
-                "building": "MGH",
-                "room": "251"
+    "CMS 397": {
+        "CMS 397A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "12465",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "ECE",
+                        "room": "003"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Gillis-Bridges,Kimberlee",
+                "curr_course_code": "CMS 397",
+                "curr_course_name": "CMS SPECIAL TOPICS",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ames,Eric",
-        "curr_course_code": "CMS 480",
-        "curr_course_name": "SENIOR CAPSTONE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "12469",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "JHN",
-                "room": "111"
+        },
+        "CMS 397B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "12466",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "MGH",
+                        "room": "082A"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Etheredge,Warren",
+                "curr_course_code": "CMS 397",
+                "curr_course_name": "CMS SPECIAL TOPICS",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Tweedie,James",
-        "curr_course_code": "CMS 480",
-        "curr_course_name": "SENIOR CAPSTONE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "12470",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "CMS 490",
-        "curr_course_name": "DIRECTED STUDY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "12471",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "CMS 491",
-        "curr_course_name": "INTERNSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "12472",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "330-650",
-                "building": "DEN",
-                "room": "156"
+    "CMS 480": {
+        "CMS 480A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12468",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "930-1120",
+                        "building": "MGH",
+                        "room": "251"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ames,Eric",
+                "curr_course_code": "CMS 480",
+                "curr_course_name": "SENIOR CAPSTONE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "professor_name": "Bean,Jennifer",
-        "curr_course_code": "CMS 570",
-        "curr_course_name": "MEDIA LAB",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "12473",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "330-650",
-                "building": "CHL",
-                "room": "025"
+        },
+        "CMS 480B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "12469",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "JHN",
+                        "room": "111"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Tweedie,James",
+                "curr_course_code": "CMS 480",
+                "curr_course_name": "SENIOR CAPSTONE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "professor_name": "Tweedie,James",
-        "curr_course_code": "CMS 573",
-        "curr_course_name": "AESTHETICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "12474",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CMS 590",
-        "curr_course_name": "MA ESSAY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "12475",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-520",
-                "building": "SMI",
-                "room": "409"
+    "CMS 490": {
+        "CMS 490A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "12470",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "CMS 490",
+                "curr_course_name": "DIRECTED STUDY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Oloukoi,Chrystel",
-        "curr_course_code": "CMS 597",
-        "curr_course_name": "TOPICS CINEMA/MEDIA",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21525",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "230-520",
-                "building": "SAV",
-                "room": "158"
+    "CMS 491": {
+        "CMS 491A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "12471",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "CMS 491",
+                "curr_course_name": "INTERNSHIP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mercer,Leigh K",
-        "curr_course_code": "CMS 597",
-        "curr_course_name": "TOPICS CINEMA/MEDIA",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "12476",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-9",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CMS 599",
-        "curr_course_name": "SPEC SEMINAR/CONFER",
-        "curr_course_fulfills": ""
+    "CMS 570": {
+        "CMS 570A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "12472",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "330-650",
+                        "building": "DEN",
+                        "room": "156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Bean,Jennifer",
+                "curr_course_code": "CMS 570",
+                "curr_course_name": "MEDIA LAB",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "12477",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-9",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CMS 599",
-        "curr_course_name": "SPEC SEMINAR/CONFER",
-        "curr_course_fulfills": ""
+    "CMS 573": {
+        "CMS 573A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "12473",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-650",
+                        "building": "CHL",
+                        "room": "025"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Tweedie,James",
+                "curr_course_code": "CMS 573",
+                "curr_course_name": "AESTHETICS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "12478",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CMS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "CMS 590": {
+        "CMS 590A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "12474",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CMS 590",
+                "curr_course_name": "MA ESSAY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "12479",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CMS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "CMS 597": {
+        "CMS 597A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12475",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "230-520",
+                        "building": "SMI",
+                        "room": "409"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Oloukoi,Chrystel",
+                "curr_course_code": "CMS 597",
+                "curr_course_name": "TOPICS CINEMA/MEDIA",
+                "curr_course_fulfills": ""
+            }
+        },
+        "CMS 597B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21525",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "230-520",
+                        "building": "SAV",
+                        "room": "158"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mercer,Leigh K",
+                "curr_course_code": "CMS 597",
+                "curr_course_name": "TOPICS CINEMA/MEDIA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "12480",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "CMS 800",
-        "curr_course_name": "DOCTORAL DISSERTATN",
-        "curr_course_fulfills": ""
+    "CMS 599": {
+        "CMS 599A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "12476",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-9",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CMS 599",
+                "curr_course_name": "SPEC SEMINAR/CONFER",
+                "curr_course_fulfills": ""
+            }
+        },
+        "CMS 599B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "12477",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-9",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CMS 599",
+                "curr_course_name": "SPEC SEMINAR/CONFER",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "CMS 600": {
+        "CMS 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "12478",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CMS 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "CMS 600B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "12479",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CMS 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "CMS 800": {
+        "CMS 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "12480",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "CMS 800",
+                "curr_course_name": "DOCTORAL DISSERTATN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

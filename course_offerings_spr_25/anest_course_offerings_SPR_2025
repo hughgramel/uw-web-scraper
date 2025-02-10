@@ -1,586 +1,724 @@
-[
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "10250",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "ANEST 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
+{
+    "ANEST 499": {
+        "ANEST 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "10250",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "ANEST 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "ANEST 499B": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "10251",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "ANEST 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "10251",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "ANEST 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
+    "ANEST 501P": {
+        "ANEST 501PA": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "10252",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 501P",
+                "curr_course_name": "P-PRECEP ANESTHESIA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "10252",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 501P",
-        "curr_course_name": "P-PRECEP ANESTHESIA",
-        "curr_course_fulfills": ""
+    "ANEST 654P": {
+        "ANEST 654PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10254",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 654P",
+                "curr_course_name": "P-CHC/PAIN AK NAPM",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10254",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 654P",
-        "curr_course_name": "P-CHC/PAIN AK NAPM",
-        "curr_course_fulfills": ""
+    "ANEST 657P": {
+        "ANEST 657PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10255",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 657P",
+                "curr_course_name": "P-CHC VAMC SEA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10255",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 657P",
-        "curr_course_name": "P-CHC VAMC SEA",
-        "curr_course_fulfills": ""
+    "ANEST 662P": {
+        "ANEST 662PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10256",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 662P",
+                "curr_course_name": "P-CHC/FAIRBANKS APCA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10256",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 662P",
-        "curr_course_name": "P-CHC/FAIRBANKS APCA",
-        "curr_course_fulfills": ""
+    "ANEST 663": {
+        "ANEST 663A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "10257",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 663",
+                "curr_course_name": "BASIC ANEST CHEY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10257",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 663",
-        "curr_course_name": "BASIC ANEST CHEY",
-        "curr_course_fulfills": ""
+    "ANEST 665P": {
+        "ANEST 665PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "10258",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 665P",
+                "curr_course_name": "P-BASIC ANEST ANCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10258",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 665P",
-        "curr_course_name": "P-BASIC ANEST ANCH",
-        "curr_course_fulfills": ""
+    "ANEST 670P": {
+        "ANEST 670PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10261",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "ANEST 670P",
+                "curr_course_name": "P-ADV ANEST GALLITAN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10261",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "ANEST 670P",
-        "curr_course_name": "P-ADV ANEST GALLITAN",
-        "curr_course_fulfills": ""
+    "ANEST 672": {
+        "ANEST 672A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "10263",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 672",
+                "curr_course_name": "B ANEST BOISE VA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10263",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 672",
-        "curr_course_name": "B ANEST BOISE VA",
-        "curr_course_fulfills": ""
+    "ANEST 673": {
+        "ANEST 673A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "10264",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 673",
+                "curr_course_name": "O/P PX REHAB - MT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10264",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 673",
-        "curr_course_name": "O/P PX REHAB - MT",
-        "curr_course_fulfills": ""
+    "ANEST 675P": {
+        "ANEST 675PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10265",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "ANEST 675P",
+                "curr_course_name": "P-BASIC ANEST DEACON",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10265",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "ANEST 675P",
-        "curr_course_name": "P-BASIC ANEST DEACON",
-        "curr_course_fulfills": ""
+    "ANEST 683P": {
+        "ANEST 683PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "10272",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 683P",
+                "curr_course_name": "P-ADV ANEST VAMC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10272",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 683P",
-        "curr_course_name": "P-ADV ANEST VAMC",
-        "curr_course_fulfills": ""
+    "ANEST 684P": {
+        "ANEST 684PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "10273",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 684P",
+                "curr_course_name": "P-ADV ANEST SPK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10273",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 684P",
-        "curr_course_name": "P-ADV ANEST SPK",
-        "curr_course_fulfills": ""
+    "ANEST 685P": {
+        "ANEST 685PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10274",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "ANEST 685P",
+                "curr_course_name": "P-ADV ANEST DEACON",
+                "curr_course_fulfills": ""
+            }
+        },
+        "ANEST 685PB": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10275",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "ANEST 685P",
+                "curr_course_name": "P-ADV ANEST DEACON",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10274",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "ANEST 685P",
-        "curr_course_name": "P-ADV ANEST DEACON",
-        "curr_course_fulfills": ""
+    "ANEST 686": {
+        "ANEST 686A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10276",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 686",
+                "curr_course_name": "BASIC ANEST KALISPEL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10275",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "ANEST 685P",
-        "curr_course_name": "P-ADV ANEST DEACON",
-        "curr_course_fulfills": ""
+    "ANEST 687": {
+        "ANEST 687A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10277",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 687",
+                "curr_course_name": "ADV ANEST KALISPELL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10276",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 686",
-        "curr_course_name": "BASIC ANEST KALISPEL",
-        "curr_course_fulfills": ""
+    "ANEST 688": {
+        "ANEST 688A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "10278",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 688",
+                "curr_course_name": "ADV ANEST CHEY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10277",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 687",
-        "curr_course_name": "ADV ANEST KALISPELL",
-        "curr_course_fulfills": ""
+    "ANEST 690": {
+        "ANEST 690A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10279",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 690",
+                "curr_course_name": "BASIC ANEST WENATCHE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10278",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 688",
-        "curr_course_name": "ADV ANEST CHEY",
-        "curr_course_fulfills": ""
+    "ANEST 691": {
+        "ANEST 691A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10280",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 691",
+                "curr_course_name": "ADV ANEST WENATCHEE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10279",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 690",
-        "curr_course_name": "BASIC ANEST WENATCHE",
-        "curr_course_fulfills": ""
+    "ANEST 692": {
+        "ANEST 692A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10281",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 692",
+                "curr_course_name": "BASIC ANEST LAND",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10280",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 691",
-        "curr_course_name": "ADV ANEST WENATCHEE",
-        "curr_course_fulfills": ""
+    "ANEST 693P": {
+        "ANEST 693PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10282",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 693P",
+                "curr_course_name": "P-ADV ANEST LAND",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10281",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 692",
-        "curr_course_name": "BASIC ANEST LAND",
-        "curr_course_fulfills": ""
+    "ANEST 694": {
+        "ANEST 694A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10283",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 694",
+                "curr_course_name": "BASIC ANEST BILLINGS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10282",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 693P",
-        "curr_course_name": "P-ADV ANEST LAND",
-        "curr_course_fulfills": ""
+    "ANEST 695P": {
+        "ANEST 695PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10284",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 695P",
+                "curr_course_name": "P-CHC/PM-ROOS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10283",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 694",
-        "curr_course_name": "BASIC ANEST BILLINGS",
-        "curr_course_fulfills": ""
+    "ANEST 696": {
+        "ANEST 696A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10285",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "ANEST 696",
+                "curr_course_name": "ADV ANEST BILLINGS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10284",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 695P",
-        "curr_course_name": "P-CHC/PM-ROOS",
-        "curr_course_fulfills": ""
+    "ANEST 697P": {
+        "ANEST 697PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "10286",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 697P",
+                "curr_course_name": "P-ANEST SPEC ELCTVS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10285",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "ANEST 696",
-        "curr_course_name": "ADV ANEST BILLINGS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10286",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 697P",
-        "curr_course_name": "P-ANEST SPEC ELCTVS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10287",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-24",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ANEST 699P",
-        "curr_course_name": "P-WWAMI ANEST ELECT",
-        "curr_course_fulfills": ""
+    "ANEST 699P": {
+        "ANEST 699PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "10287",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-24",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ANEST 699P",
+                "curr_course_name": "P-WWAMI ANEST ELECT",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

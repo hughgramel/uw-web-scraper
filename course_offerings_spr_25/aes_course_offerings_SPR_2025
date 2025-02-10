@@ -1,296 +1,335 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "10169",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "MLR",
-                "room": "301"
+{
+    "AES 212": {
+        "AES 212A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10169",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "MLR",
+                        "room": "301"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "100",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schleitwiler,Vince",
+                "curr_course_code": "AES 212",
+                "curr_course_name": "COMP AM ETHNIC LIT",
+                "curr_course_fulfills": [
+                    "A&H/SSc",
+                    "DIV"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "10170",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "130-220",
+                            "building": "CMU",
+                            "room": "226"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "50",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "AES 212",
+                    "curr_course_name": "COMP AM ETHNIC LIT",
+                    "curr_course_fulfills": [
+                        "A&H/SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "10171",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "230-320",
+                            "building": "CMU",
+                            "room": "226"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "50",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "AES 212",
+                    "curr_course_name": "COMP AM ETHNIC LIT",
+                    "curr_course_fulfills": [
+                        "A&H/SSc",
+                        "DIV"
+                    ]
+                }
+            ]
+        }
+    },
+    "AES 340": {
+        "AES 340A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10172",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "ECE",
+                        "room": "125"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "100",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Castro-Gill,Tracy",
+                "curr_course_code": "AES 340",
+                "curr_course_name": "RACE ETHNICITY & ED",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "100",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schleitwiler,Vince",
-        "curr_course_code": "AES 212",
-        "curr_course_name": "COMP AM ETHNIC LIT",
-        "curr_course_fulfills": [
-            "A&H/SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10170",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "130-220",
-                "building": "CMU",
-                "room": "226"
+    "AES 398": {
+        "AES 398A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10173",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "MUS",
+                        "room": "223"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "VELORIA,VELMA",
+                "curr_course_code": "AES 398",
+                "curr_course_name": "HUMAN TRAFFICKING",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "AES 212",
-        "curr_course_name": "COMP AM ETHNIC LIT",
-        "curr_course_fulfills": [
-            "A&H/SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "10171",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "230-320",
-                "building": "CMU",
-                "room": "226"
+    "AES 404": {
+        "AES 404B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10174",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1220",
+                        "building": "MGH",
+                        "room": "278"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "18",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schleitwiler,Vince",
+                "curr_course_code": "AES 404",
+                "curr_course_name": "ADV AM ETHNIC ST HUM",
+                "curr_course_fulfills": [
+                    "A&H",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "AES 212",
-        "curr_course_name": "COMP AM ETHNIC LIT",
-        "curr_course_fulfills": [
-            "A&H/SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10172",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "ECE",
-                "room": "125"
+    "AES 440": {
+        "AES 440A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10175",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "THO",
+                        "room": "335"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ramirez",
+                "curr_course_code": "AES 440",
+                "curr_course_name": "HST & MEM: RACE/ARCV",
+                "curr_course_fulfills": [
+                    "A&H/SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "100",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Castro-Gill,Tracy",
-        "curr_course_code": "AES 340",
-        "curr_course_name": "RACE ETHNICITY & ED",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10173",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "MUS",
-                "room": "223"
+    "AES 496": {
+        "AES 496A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "10176",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "AES 496",
+                "curr_course_name": "HNRS SENIOR THESIS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "VELORIA,VELMA",
-        "curr_course_code": "AES 398",
-        "curr_course_name": "HUMAN TRAFFICKING",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10174",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1220",
-                "building": "MGH",
-                "room": "278"
+    "AES 498": {
+        "AES 498B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "10177",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "830-1020",
+                        "building": "MEB",
+                        "room": "251"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "So,Connie",
+                "curr_course_code": "AES 498",
+                "curr_course_name": "AES SPECIAL TOPICS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schleitwiler,Vince",
-        "curr_course_code": "AES 404",
-        "curr_course_name": "ADV AM ETHNIC ST HUM",
-        "curr_course_fulfills": [
-            "A&H",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10175",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "THO",
-                "room": "335"
+    "AES 499": {
+        "AES 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "10178",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "AES 499",
+                "curr_course_name": "IND STDY & RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ramirez",
-        "curr_course_code": "AES 440",
-        "curr_course_name": "HST & MEM: RACE/ARCV",
-        "curr_course_fulfills": [
-            "A&H/SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "10176",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "AES 496",
-        "curr_course_name": "HNRS SENIOR THESIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "10177",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "830-1020",
-                "building": "MEB",
-                "room": "251"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "So,Connie",
-        "curr_course_code": "AES 498",
-        "curr_course_name": "AES SPECIAL TOPICS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "10178",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "AES 499",
-        "curr_course_name": "IND STDY & RESEARCH",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

@@ -1,613 +1,715 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "11736",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "PCAR",
-                "room": "192"
+{
+    "C LIT 230": {
+        "C LIT 230A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11736",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "PCAR",
+                        "room": "192"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "70",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Smidchens,Guntis",
+                "curr_course_code": "C LIT 230",
+                "curr_course_name": "INTRO TO FOLKLORE",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "70",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Smidchens,Guntis",
-        "curr_course_code": "C LIT 230",
-        "curr_course_name": "INTRO TO FOLKLORE",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11737",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-120",
-                "building": "LOW",
-                "room": "114"
+    "C LIT 240": {
+        "C LIT 240C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11737",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-120",
+                        "building": "LOW",
+                        "room": "114"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "24",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "C LIT 240",
+                "curr_course_name": "WRITING IN C LIT",
+                "curr_course_fulfills": [
+                    "C"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "C LIT 240",
-        "curr_course_name": "WRITING IN C LIT",
-        "curr_course_fulfills": [
-            "C"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11738",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "FSH",
-                "room": "107"
+    "C LIT 252": {
+        "C LIT 252A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11738",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "FSH",
+                        "room": "107"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Stecher-Hansen,Marianne",
+                "curr_course_code": "C LIT 252",
+                "curr_course_name": "INTRO TO GENRES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Stecher-Hansen,Marianne",
-        "curr_course_code": "C LIT 252",
-        "curr_course_name": "INTRO TO GENRES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "11739",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "CMU",
-                "room": "226"
+        },
+        "C LIT 252C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11739",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "CMU",
+                        "room": "226"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Florczyk,Piotr",
+                "curr_course_code": "C LIT 252",
+                "curr_course_name": "INTRO TO GENRES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Florczyk,Piotr",
-        "curr_course_code": "C LIT 252",
-        "curr_course_name": "INTRO TO GENRES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11740",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "C LIT 295",
-        "curr_course_name": "STUDY ABROAD",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "11741",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "930-1020",
-                "building": "CMU",
-                "room": "243"
+    "C LIT 295": {
+        "C LIT 295A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11740",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "C LIT 295",
+                "curr_course_name": "STUDY ABROAD",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Prutti,Brigitte",
-        "curr_course_code": "C LIT 320",
-        "curr_course_name": "EUROPEAN LIT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11742",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-420",
-                "building": "SMI",
-                "room": "115"
+    "C LIT 320": {
+        "C LIT 320A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11741",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "930-1020",
+                        "building": "CMU",
+                        "room": "243"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Prutti,Brigitte",
+                "curr_course_code": "C LIT 320",
+                "curr_course_name": "EUROPEAN LIT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dubrow,Jennifer E",
-        "curr_course_code": "C LIT 322",
-        "curr_course_name": "ASIAN & WESTERN LIT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11744",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "FSH",
-                "room": "109"
+    "C LIT 322": {
+        "C LIT 322A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11742",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-420",
+                        "building": "SMI",
+                        "room": "115"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dubrow,Jennifer E",
+                "curr_course_code": "C LIT 322",
+                "curr_course_name": "ASIAN & WESTERN LIT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hall,Emily Marie Anderson",
-        "curr_course_code": "C LIT 322",
-        "curr_course_name": "ASIAN & WESTERN LIT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "11745",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "SMI",
-                "room": "309"
+        },
+        "C LIT 322C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11744",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "FSH",
+                        "room": "109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hall,Emily Marie Anderson",
+                "curr_course_code": "C LIT 322",
+                "curr_course_name": "ASIAN & WESTERN LIT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Clare,Avery",
-        "curr_course_code": "C LIT 322",
-        "curr_course_name": "ASIAN & WESTERN LIT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "11746",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-420",
-                "building": "FSH",
-                "room": "107"
+        },
+        "C LIT 322D": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11745",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "SMI",
+                        "room": "309"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Clare,Avery",
+                "curr_course_code": "C LIT 322",
+                "curr_course_name": "ASIAN & WESTERN LIT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Crnkovic,Gordana P",
-        "curr_course_code": "C LIT 357",
-        "curr_course_name": "LITERATURE & FILM",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11747",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "ART",
-                "room": "003"
+    "C LIT 357": {
+        "C LIT 357A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11746",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-420",
+                        "building": "FSH",
+                        "room": "107"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Crnkovic,Gordana P",
+                "curr_course_code": "C LIT 357",
+                "curr_course_name": "LITERATURE & FILM",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Medill,Kathryn McConaughy",
-        "curr_course_code": "C LIT 360",
-        "curr_course_name": "TPCS ANCNT &MED LIT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11748",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1220",
-                "building": "CDH",
-                "room": "110A"
+    "C LIT 360": {
+        "C LIT 360A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11747",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "ART",
+                        "room": "003"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Medill,Kathryn McConaughy",
+                "curr_course_code": "C LIT 360",
+                "curr_course_name": "TPCS ANCNT &MED LIT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Levaniouk,Olga",
-        "curr_course_code": "C LIT 360",
-        "curr_course_name": "TPCS ANCNT &MED LIT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11749",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "C LIT 395",
-        "curr_course_name": "STUDY ABROAD",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "11750",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "PCAR",
-                "room": "297"
+        },
+        "C LIT 360B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11748",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1220",
+                        "building": "CDH",
+                        "room": "110A"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Levaniouk,Olga",
+                "curr_course_code": "C LIT 360",
+                "curr_course_name": "TPCS ANCNT &MED LIT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Gilbert-Santamaria,Donald",
-        "curr_course_code": "C LIT 400",
-        "curr_course_name": "INTRO THEORY & CRIT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "11751",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "THO",
-                "room": "335"
+    "C LIT 395": {
+        "C LIT 395A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11749",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "C LIT 395",
+                "curr_course_name": "STUDY ABROAD",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jezyk,Agnieszka",
-        "curr_course_code": "C LIT 421",
-        "curr_course_name": "LIT & OTHER DISCIP",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11752",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "C LIT 491",
-        "curr_course_name": "INTERNSHIP",
-        "curr_course_fulfills": ""
+    "C LIT 400": {
+        "C LIT 400A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11750",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "PCAR",
+                        "room": "297"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Gilbert-Santamaria,Donald",
+                "curr_course_code": "C LIT 400",
+                "curr_course_name": "INTRO THEORY & CRIT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11753",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "H",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "C LIT 495",
-        "curr_course_name": "HONORS THESIS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+    "C LIT 421": {
+        "C LIT 421A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "11751",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "THO",
+                        "room": "335"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jezyk,Agnieszka",
+                "curr_course_code": "C LIT 421",
+                "curr_course_name": "LIT & OTHER DISCIP",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "11754",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5/10",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "C LIT 590",
-        "curr_course_name": "MA ESSAY",
-        "curr_course_fulfills": ""
+    "C LIT 491": {
+        "C LIT 491A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11752",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "C LIT 491",
+                "curr_course_name": "INTERNSHIP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11755",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-9",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "C LIT 599",
-        "curr_course_name": "SPEC SEMINAR/CONFER",
-        "curr_course_fulfills": ""
+    "C LIT 495": {
+        "C LIT 495A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11753",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "H",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "C LIT 495",
+                "curr_course_name": "HONORS THESIS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11756",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-9",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "C LIT 599",
-        "curr_course_name": "SPEC SEMINAR/CONFER",
-        "curr_course_fulfills": ""
+    "C LIT 590": {
+        "C LIT 590A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "11754",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5/10",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "C LIT 590",
+                "curr_course_name": "MA ESSAY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11757",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "C LIT 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "C LIT 599": {
+        "C LIT 599A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11755",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-9",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "C LIT 599",
+                "curr_course_name": "SPEC SEMINAR/CONFER",
+                "curr_course_fulfills": ""
+            }
+        },
+        "C LIT 599B": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11756",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-9",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "C LIT 599",
+                "curr_course_name": "SPEC SEMINAR/CONFER",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11758",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "C LIT 700",
-        "curr_course_name": "MASTERS THESIS",
-        "curr_course_fulfills": ""
+    "C LIT 600": {
+        "C LIT 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11757",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "C LIT 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "11759",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "C LIT 800",
-        "curr_course_name": "DOCTORAL DISSERTATN",
-        "curr_course_fulfills": ""
+    "C LIT 700": {
+        "C LIT 700A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11758",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "C LIT 700",
+                "curr_course_name": "MASTERS THESIS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "C LIT 800": {
+        "C LIT 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "11759",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "C LIT 800",
+                "curr_course_name": "DOCTORAL DISSERTATN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

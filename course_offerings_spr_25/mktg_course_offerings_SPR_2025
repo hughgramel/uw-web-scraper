@@ -1,1446 +1,1637 @@
-[
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17252",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "PCAR",
-                "room": "290"
+{
+    "MKTG 301": {
+        "MKTG 301A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17252",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "PCAR",
+                        "room": "290"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "80",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Valsesia,Francesca",
+                "curr_course_code": "MKTG 301",
+                "curr_course_name": "MARKETING CONCEPTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "80",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Valsesia,Francesca",
-        "curr_course_code": "MKTG 301",
-        "curr_course_name": "MARKETING CONCEPTS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17253",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "830-1020",
-                "building": "PCAR",
-                "room": "291"
+        },
+        "MKTG 301B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17253",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "830-1020",
+                        "building": "PCAR",
+                        "room": "291"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "80",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Meyer,Stewart",
+                "curr_course_code": "MKTG 301",
+                "curr_course_name": "MARKETING CONCEPTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "80",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Meyer,Stewart",
-        "curr_course_code": "MKTG 301",
-        "curr_course_name": "MARKETING CONCEPTS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17254",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "DEM",
-                "room": "104"
+        },
+        "MKTG 301C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17254",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "DEM",
+                        "room": "104"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "80",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Meyer,Stewart",
+                "curr_course_code": "MKTG 301",
+                "curr_course_name": "MARKETING CONCEPTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "80",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Meyer,Stewart",
-        "curr_course_code": "MKTG 301",
-        "curr_course_name": "MARKETING CONCEPTS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17255",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-250",
-                "building": "*",
-                "room": "Beard,Leta"
+    "MKTG 305": {
+        "MKTG 305A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17255",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-250",
+                        "building": "*",
+                        "room": "Beard,Leta"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "B",
+                "is_estimate": 0,
+                "max_capacity": "130",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "MKTG 305",
+                "curr_course_name": "MRKTG SALES ESSNTLS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "130",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "MKTG 305",
-        "curr_course_name": "MRKTG SALES ESSNTLS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17256",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1030-1220",
-                "building": "PCAR",
-                "room": "297"
+    "MKTG 315": {
+        "MKTG 315A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17256",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1030-1220",
+                        "building": "PCAR",
+                        "room": "297"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Sperry,Betsy",
+                "curr_course_code": "MKTG 315",
+                "curr_course_name": "BUS PERS BRND & ATHL",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Sperry,Betsy",
-        "curr_course_code": "MKTG 315",
-        "curr_course_name": "BUS PERS BRND & ATHL",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17257",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "DEM",
-                "room": "012"
+    "MKTG 335": {
+        "MKTG 335A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17257",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "DEM",
+                        "room": "012"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Erickson,Barry",
+                "curr_course_code": "MKTG 335",
+                "curr_course_name": "PRIN OF SELLING",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Erickson,Barry",
-        "curr_course_code": "MKTG 335",
-        "curr_course_name": "PRIN OF SELLING",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17258",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "830-1020",
-                "building": "DEM",
-                "room": "102"
+    "MKTG 370": {
+        "MKTG 370A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17258",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "830-1020",
+                        "building": "DEM",
+                        "room": "102"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Matthews,Martha",
+                "curr_course_code": "MKTG 370",
+                "curr_course_name": "RETAILING",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Matthews,Martha",
-        "curr_course_code": "MKTG 370",
-        "curr_course_name": "RETAILING",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17259",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "DEM",
-                "room": "024"
+    "MKTG 411": {
+        "MKTG 411A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17259",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "DEM",
+                        "room": "024"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Long,Vivienne",
+                "curr_course_code": "MKTG 411",
+                "curr_course_name": "BUS-TO-BUS MKTG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Long,Vivienne",
-        "curr_course_code": "MKTG 411",
-        "curr_course_name": "BUS-TO-BUS MKTG",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17260",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "FNDR",
-                "room": "370"
+    "MKTG 430": {
+        "MKTG 430A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17260",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "FNDR",
+                        "room": "370"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "26",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Erickson,Barry",
+                "curr_course_code": "MKTG 430",
+                "curr_course_name": "SALES FORCE MGMT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "26",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Erickson,Barry",
-        "curr_course_code": "MKTG 430",
-        "curr_course_name": "SALES FORCE MGMT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17262",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "DEM",
-                "room": "102"
+    "MKTG 450": {
+        "MKTG 450A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17262",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "DEM",
+                        "room": "102"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "55",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Matthews,Martha",
+                "curr_course_code": "MKTG 450",
+                "curr_course_name": "CONSUMER BEHAVIOR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "55",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Matthews,Martha",
-        "curr_course_code": "MKTG 450",
-        "curr_course_name": "CONSUMER BEHAVIOR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17263",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "PCAR",
-                "room": "394"
+        },
+        "MKTG 450B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17263",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "PCAR",
+                        "room": "394"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "55",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Matthews,Martha",
+                "curr_course_code": "MKTG 450",
+                "curr_course_name": "CONSUMER BEHAVIOR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "55",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Matthews,Martha",
-        "curr_course_code": "MKTG 450",
-        "curr_course_name": "CONSUMER BEHAVIOR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17265",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1220",
-                "building": "PCAR",
-                "room": "393"
+    "MKTG 455": {
+        "MKTG 455B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17265",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1220",
+                        "building": "PCAR",
+                        "room": "393"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Sperry,Betsy",
+                "curr_course_code": "MKTG 455",
+                "curr_course_name": "ENTREPRENEUR MKTG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Sperry,Betsy",
-        "curr_course_code": "MKTG 455",
-        "curr_course_name": "ENTREPRENEUR MKTG",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17266",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "PCAR",
-                "room": "295"
+    "MKTG 456": {
+        "MKTG 456A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17266",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "PCAR",
+                        "room": "295"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schlosser,Ann",
+                "curr_course_code": "MKTG 456",
+                "curr_course_name": "ADVERTISING",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schlosser,Ann",
-        "curr_course_code": "MKTG 456",
-        "curr_course_name": "ADVERTISING",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17267",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "PCAR",
-                "room": "295"
+        },
+        "MKTG 456B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17267",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "PCAR",
+                        "room": "295"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schlosser,Ann",
+                "curr_course_code": "MKTG 456",
+                "curr_course_name": "ADVERTISING",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schlosser,Ann",
-        "curr_course_code": "MKTG 456",
-        "curr_course_name": "ADVERTISING",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17268",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "DEM",
-                "room": "102"
+    "MKTG 460": {
+        "MKTG 460A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17268",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "DEM",
+                        "room": "102"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "55",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kleiman-Weiner,Max",
+                "curr_course_code": "MKTG 460",
+                "curr_course_name": "CONSUMER INSIGHTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "55",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kleiman-Weiner,Max",
-        "curr_course_code": "MKTG 460",
-        "curr_course_name": "CONSUMER INSIGHTS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17269",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "DEM",
-                "room": "102"
+        },
+        "MKTG 460B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17269",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "DEM",
+                        "room": "102"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "55",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kleiman-Weiner,Max",
+                "curr_course_code": "MKTG 460",
+                "curr_course_name": "CONSUMER INSIGHTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "55",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kleiman-Weiner,Max",
-        "curr_course_code": "MKTG 460",
-        "curr_course_name": "CONSUMER INSIGHTS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17270",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-520",
-                "building": "PCAR",
-                "room": "294"
+    "MKTG 464": {
+        "MKTG 464A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17270",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-520",
+                        "building": "PCAR",
+                        "room": "294"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ye,Zikun",
+                "curr_course_code": "MKTG 464",
+                "curr_course_name": "ANALYTIC MKTG DEC",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ye,Zikun",
-        "curr_course_code": "MKTG 464",
-        "curr_course_name": "ANALYTIC MKTG DEC",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17272",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "DEM",
-                "room": "024"
+    "MKTG 466": {
+        "MKTG 466B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17272",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "DEM",
+                        "room": "024"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Shafei,Shoresh",
+                "curr_course_code": "MKTG 466",
+                "curr_course_name": "DIGITAL MKTG ANLYTCS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Shafei,Shoresh",
-        "curr_course_code": "MKTG 466",
-        "curr_course_name": "DIGITAL MKTG ANLYTCS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17273",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "830-1020",
-                "building": "FNDR",
-                "room": "370"
+    "MKTG 496": {
+        "MKTG 496A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17273",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "830-1020",
+                        "building": "FNDR",
+                        "room": "370"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kautzky,Jennifer",
+                "curr_course_code": "MKTG 496",
+                "curr_course_name": "MKTG PRACTICUM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Kautzky,Jennifer",
-        "curr_course_code": "MKTG 496",
-        "curr_course_name": "MKTG PRACTICUM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17274",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "DEM",
-                "room": "104"
+        },
+        "MKTG 496B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17274",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "DEM",
+                        "room": "104"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Erickson,Barry",
+                "curr_course_code": "MKTG 496",
+                "curr_course_name": "MKTG PRACTICUM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Erickson,Barry",
-        "curr_course_code": "MKTG 496",
-        "curr_course_name": "MKTG PRACTICUM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21387",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "PCAR",
-                "room": "392"
+        },
+        "MKTG 496C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21387",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "PCAR",
+                        "room": "392"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Erickson,Barry",
+                "curr_course_code": "MKTG 496",
+                "curr_course_name": "MKTG PRACTICUM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Erickson,Barry",
-        "curr_course_code": "MKTG 496",
-        "curr_course_name": "MKTG PRACTICUM",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "17275",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "curr_course_code": "MKTG 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17276",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "600-740P",
-                "building": "FNDR",
-                "room": "370"
+    "MKTG 499": {
+        "MKTG 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "17275",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MKTG 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Valsesia,Francesca",
-        "curr_course_code": "MKTG 501",
-        "curr_course_name": "MKTG MGT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17277",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "600-740P",
-                "building": "FNDR",
-                "room": "370"
+    "MKTG 501": {
+        "MKTG 501A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17276",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "600-740P",
+                        "building": "FNDR",
+                        "room": "370"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Valsesia,Francesca",
+                "curr_course_code": "MKTG 501",
+                "curr_course_name": "MKTG MGT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Valsesia,Francesca",
-        "curr_course_code": "MKTG 501",
-        "curr_course_name": "MKTG MGT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17278",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "750-930P",
-                "building": "FNDR",
-                "room": "370"
+        },
+        "MKTG 501B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17277",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "600-740P",
+                        "building": "FNDR",
+                        "room": "370"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Valsesia,Francesca",
+                "curr_course_code": "MKTG 501",
+                "curr_course_name": "MKTG MGT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 1,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Valsesia,Francesca",
-        "curr_course_code": "MKTG 501",
-        "curr_course_name": "MKTG MGT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17279",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "750-930P",
-                "building": "FNDR",
-                "room": "370"
+        },
+        "MKTG 501C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17278",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "750-930P",
+                        "building": "FNDR",
+                        "room": "370"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 1,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Valsesia,Francesca",
+                "curr_course_code": "MKTG 501",
+                "curr_course_name": "MKTG MGT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Valsesia,Francesca",
-        "curr_course_code": "MKTG 501",
-        "curr_course_name": "MKTG MGT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17280",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "PCAR",
-                "room": "395"
+        },
+        "MKTG 501D": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17279",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "750-930P",
+                        "building": "FNDR",
+                        "room": "370"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Valsesia,Francesca",
+                "curr_course_code": "MKTG 501",
+                "curr_course_name": "MKTG MGT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Long,Vivienne",
-        "curr_course_code": "MKTG 511",
-        "curr_course_name": "BUS-TO-BUS MKTG",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17281",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "PCAR",
-                "room": "395"
+    "MKTG 511": {
+        "MKTG 511A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17280",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "PCAR",
+                        "room": "395"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Long,Vivienne",
+                "curr_course_code": "MKTG 511",
+                "curr_course_name": "BUS-TO-BUS MKTG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Long,Vivienne",
-        "curr_course_code": "MKTG 511",
-        "curr_course_name": "BUS-TO-BUS MKTG",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "21611",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 1,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "MKTG 531",
-        "curr_course_name": "PROD MGMT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17282",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "DEM",
-                "room": "126"
+        },
+        "MKTG 511B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17281",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "PCAR",
+                        "room": "395"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Long,Vivienne",
+                "curr_course_code": "MKTG 511",
+                "curr_course_name": "BUS-TO-BUS MKTG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "professor_name": "Walker,Russell",
-        "curr_course_code": "MKTG 535",
-        "curr_course_name": "ANLYTCS CONSULT LAB",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17283",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "DEM",
-                "room": "126"
+    "MKTG 531": {
+        "MKTG 531A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "21611",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "B",
+                "is_estimate": 1,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "MKTG 531",
+                "curr_course_name": "PROD MGMT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "professor_name": "Walker,Russell",
-        "curr_course_code": "MKTG 535",
-        "curr_course_name": "ANLYTCS CONSULT LAB",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17284",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "394"
+    "MKTG 535": {
+        "MKTG 535A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17282",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "DEM",
+                        "room": "126"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Walker,Russell",
+                "curr_course_code": "MKTG 535",
+                "curr_course_name": "ANLYTCS CONSULT LAB",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Schlosser,Ann",
-        "curr_course_code": "MKTG 556",
-        "curr_course_name": "ADVTG & PROM MGMT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17285",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "394"
+        },
+        "MKTG 535B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17283",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "DEM",
+                        "room": "126"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Walker,Russell",
+                "curr_course_code": "MKTG 535",
+                "curr_course_name": "ANLYTCS CONSULT LAB",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Schlosser,Ann",
-        "curr_course_code": "MKTG 556",
-        "curr_course_name": "ADVTG & PROM MGMT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17286",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "392"
+    "MKTG 556": {
+        "MKTG 556A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17284",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "394"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Schlosser,Ann",
+                "curr_course_code": "MKTG 556",
+                "curr_course_name": "ADVTG & PROM MGMT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Kleiman-Weiner,Max",
-        "curr_course_code": "MKTG 560",
-        "curr_course_name": "CONSUMER INSIGHTS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17287",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "392"
+        },
+        "MKTG 556B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17285",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "394"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Schlosser,Ann",
+                "curr_course_code": "MKTG 556",
+                "curr_course_name": "ADVTG & PROM MGMT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Kleiman-Weiner,Max",
-        "curr_course_code": "MKTG 560",
-        "curr_course_name": "CONSUMER INSIGHTS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17288",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "PCAR",
-                "room": "393"
+    "MKTG 560": {
+        "MKTG 560A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17286",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "392"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kleiman-Weiner,Max",
+                "curr_course_code": "MKTG 560",
+                "curr_course_name": "CONSUMER INSIGHTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Ye,Zikun",
-        "curr_course_code": "MKTG 564",
-        "curr_course_name": "ANALYTICS MKTG DEC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17289",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "PCAR",
-                "room": "393"
+        },
+        "MKTG 560B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17287",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "392"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kleiman-Weiner,Max",
+                "curr_course_code": "MKTG 560",
+                "curr_course_name": "CONSUMER INSIGHTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Ye,Zikun",
-        "curr_course_code": "MKTG 564",
-        "curr_course_name": "ANALYTICS MKTG DEC",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17290",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "394"
+    "MKTG 564": {
+        "MKTG 564A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17288",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "PCAR",
+                        "room": "393"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Ye,Zikun",
+                "curr_course_code": "MKTG 564",
+                "curr_course_name": "ANALYTICS MKTG DEC",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Sayedi,Amin",
-        "curr_course_code": "MKTG 566",
-        "curr_course_name": "DIGITAL MKTG ANLYTCS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17291",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "394"
+        },
+        "MKTG 564B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17289",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "PCAR",
+                        "room": "393"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Ye,Zikun",
+                "curr_course_code": "MKTG 564",
+                "curr_course_name": "ANALYTICS MKTG DEC",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Sayedi,Amin",
-        "curr_course_code": "MKTG 566",
-        "curr_course_name": "DIGITAL MKTG ANLYTCS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17294",
-        "section": "H",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%B",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "professor_name": "Fasser,Scott",
-        "curr_course_code": "MKTG 576",
-        "curr_course_name": "DIGITAL MKTG STRAT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17295",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "393"
+    "MKTG 566": {
+        "MKTG 566A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17290",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "394"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Sayedi,Amin",
+                "curr_course_code": "MKTG 566",
+                "curr_course_name": "DIGITAL MKTG ANLYTCS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Long,Vivienne",
-        "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17296",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "393"
+        },
+        "MKTG 566B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17291",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "394"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Sayedi,Amin",
+                "curr_course_code": "MKTG 566",
+                "curr_course_name": "DIGITAL MKTG ANLYTCS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Long,Vivienne",
-        "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17297",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2/4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Sat.",
-                "time": "900-350",
-                "building": "TBA",
-                "room": "TBA"
+    "MKTG 576": {
+        "MKTG 576H": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17294",
+                "section": "H",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%B",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "Fasser,Scott",
+                "curr_course_code": "MKTG 576",
+                "curr_course_name": "DIGITAL MKTG STRAT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21305",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1220",
-                "building": "EXED",
-                "room": "110"
+    "MKTG 579": {
+        "MKTG 579A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17295",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "393"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Long,Vivienne",
+                "curr_course_code": "MKTG 579",
+                "curr_course_name": "SPEC TOPICS IN MKTG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21478",
-        "section": "E",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "391"
+        },
+        "MKTG 579B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17296",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "393"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Long,Vivienne",
+                "curr_course_code": "MKTG 579",
+                "curr_course_name": "SPEC TOPICS IN MKTG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Wright,Kelly Breslin",
-        "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21479",
-        "section": "F",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "391"
+        },
+        "MKTG 579C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17297",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2/4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Sat.",
+                        "time": "900-350",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "MKTG 579",
+                "curr_course_name": "SPEC TOPICS IN MKTG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Wright,Kelly Breslin",
-        "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21490",
-        "section": "G",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "295"
+        },
+        "MKTG 579D": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21305",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1220",
+                        "building": "EXED",
+                        "room": "110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "MKTG 579",
+                "curr_course_name": "SPEC TOPICS IN MKTG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Yoganarasimhan,Hema",
-        "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21492",
-        "section": "H",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "600-930P",
-                "building": "PCAR",
-                "room": "295"
+        },
+        "MKTG 579E": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21478",
+                "section": "E",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "391"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Wright,Kelly Breslin",
+                "curr_course_code": "MKTG 579",
+                "curr_course_name": "SPEC TOPICS IN MKTG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Yoganarasimhan,Hema",
-        "curr_course_code": "MKTG 579",
-        "curr_course_name": "SPEC TOPICS IN MKTG",
-        "curr_course_fulfills": ""
+        },
+        "MKTG 579F": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21479",
+                "section": "F",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "391"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Wright,Kelly Breslin",
+                "curr_course_code": "MKTG 579",
+                "curr_course_name": "SPEC TOPICS IN MKTG",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MKTG 579G": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21490",
+                "section": "G",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "295"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Yoganarasimhan,Hema",
+                "curr_course_code": "MKTG 579",
+                "curr_course_name": "SPEC TOPICS IN MKTG",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MKTG 579H": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21492",
+                "section": "H",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "600-930P",
+                        "building": "PCAR",
+                        "room": "295"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Yoganarasimhan,Hema",
+                "curr_course_code": "MKTG 579",
+                "curr_course_name": "SPEC TOPICS IN MKTG",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17298",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2/4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mizik,Natalie",
-        "curr_course_code": "MKTG 584",
-        "curr_course_name": "MKTG PRFORM MEASURE",
-        "curr_course_fulfills": ""
+    "MKTG 584": {
+        "MKTG 584A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17298",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2/4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mizik,Natalie",
+                "curr_course_code": "MKTG 584",
+                "curr_course_name": "MKTG PRFORM MEASURE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "17299",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "MKTG 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "17300",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "MKTG 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "MKTG 600": {
+        "MKTG 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "17299",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MKTG 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MKTG 600B": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "17300",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MKTG 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

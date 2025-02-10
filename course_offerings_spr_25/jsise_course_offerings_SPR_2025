@@ -1,134 +1,158 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "15864",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Panagiotides,Heracles",
-        "curr_course_code": "JSIS E 111",
-        "curr_course_name": "ELEM MODERN GREEK",
-        "curr_course_fulfills": ""
+{
+    "JSIS E 111": {
+        "JSIS E 111A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15864",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Panagiotides,Heracles",
+                "curr_course_code": "JSIS E 111",
+                "curr_course_name": "ELEM MODERN GREEK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15865",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Panagiotides,Heracles",
-        "curr_course_code": "JSIS E 112",
-        "curr_course_name": "ELEM MODERN GREEK",
-        "curr_course_fulfills": ""
+    "JSIS E 112": {
+        "JSIS E 112A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15865",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Panagiotides,Heracles",
+                "curr_course_code": "JSIS E 112",
+                "curr_course_name": "ELEM MODERN GREEK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15866",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Panagiotides,Heracles",
-        "curr_course_code": "JSIS E 113",
-        "curr_course_name": "ELEM MODERN GREEK",
-        "curr_course_fulfills": ""
+    "JSIS E 113": {
+        "JSIS E 113A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15866",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Panagiotides,Heracles",
+                "curr_course_code": "JSIS E 113",
+                "curr_course_name": "ELEM MODERN GREEK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15868",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "A",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Panagiotides,Heracles S.",
-        "curr_course_code": "JSIS E 211",
-        "curr_course_name": "SECOND YR MOD GREEK",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+    "JSIS E 211": {
+        "JSIS E 211A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15868",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "A",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Panagiotides,Heracles S.",
+                "curr_course_code": "JSIS E 211",
+                "curr_course_name": "SECOND YR MOD GREEK",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15869",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "A",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Panagiotides,Heracles S.",
-        "curr_course_code": "JSIS E 212",
-        "curr_course_name": "SECOND YR MOD GREEK",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+    "JSIS E 212": {
+        "JSIS E 212A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15869",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "A",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Panagiotides,Heracles S.",
+                "curr_course_code": "JSIS E 212",
+                "curr_course_name": "SECOND YR MOD GREEK",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15870",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "A",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Panagiotides,Heracles S.",
-        "curr_course_code": "JSIS E 213",
-        "curr_course_name": "SECOND YR MOD GREEK",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+    "JSIS E 213": {
+        "JSIS E 213A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15870",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "A",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Panagiotides,Heracles S.",
+                "curr_course_code": "JSIS E 213",
+                "curr_course_name": "SECOND YR MOD GREEK",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     }
-]
+}

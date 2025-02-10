@@ -1,1128 +1,1378 @@
-[
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "17820",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-7",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "curr_course_code": "NEURL 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17821",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "professor_name": "Kraus,Eric",
-        "curr_course_code": "NEURL 505P",
-        "curr_course_name": "P-PRECEPT NEUROL",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "17822",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "WF",
-                "time": "1030-1150",
-                "building": "HSG",
-                "room": "G328"
+{
+    "NEURL 499": {
+        "NEURL 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "17820",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-7",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "NEURL 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Carroll,Jeff",
-        "curr_course_code": "NEURL 559",
-        "curr_course_name": "NEUROBIOL DISEASE",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17823",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 630P",
-        "curr_course_name": "P-INT-NEURL-HELENA",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "17824",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 631P",
-        "curr_course_name": "P-NEURL-CHEYENNE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17825",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 632P",
-        "curr_course_name": "P-INT NEURL CASPER",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17826",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 633P",
-        "curr_course_name": "P-NEURL-ANC AK",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17827",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 634P",
-        "curr_course_name": "P-NEURL-ANMC AK",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17828",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 635P",
-        "curr_course_name": "P-INT NEURL GF-ATLAS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "17829",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 636P",
-        "curr_course_name": "P-INT NUERL KLSPL",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17830",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 637P",
-        "curr_course_name": "P-INT NEURL-MISSOU1",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17831",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 638P",
-        "curr_course_name": "P-INT NEURL-GRTFLLS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17832",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 639P",
-        "curr_course_name": "P-NEURL-BLLNG RNC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17833",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 640P",
-        "curr_course_name": "P-INT NEURL-BLLNGS1",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "17834",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 641P",
-        "curr_course_name": "P-NEURL-BOZEMAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17835",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 642P",
-        "curr_course_name": "P-INTRO NEURL-STLUKE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17836",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 643P",
-        "curr_course_name": "P-INT NEURL-BOISE2",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17837",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 644P",
-        "curr_course_name": "P-NEURL-IDFLLS EINA",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17838",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 645P",
-        "curr_course_name": "P-NEURL-ID FALLS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17839",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 647P",
-        "curr_course_name": "P-NEURL-BOISE ST ALF",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17840",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 648P",
-        "curr_course_name": "P-NEURL-COEURDALENE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17841",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 649P",
-        "curr_course_name": "P-INT NEURL ST JO",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17842",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 650P",
-        "curr_course_name": "P-INT NEURL LACEY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17843",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 651P",
-        "curr_course_name": "P-ING NEURL KIRK",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17844",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 652P",
-        "curr_course_name": "P-INT NEURL ROCKW",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17845",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 654P",
-        "curr_course_name": "P-INT NEURL-SELKIRK",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17846",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 655P",
-        "curr_course_name": "P-INT NEURL-SPOK",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17847",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 656P",
-        "curr_course_name": "P-INT NEURL-WENATCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "17848",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 656P",
-        "curr_course_name": "P-INT NEURL-WENATCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17849",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 657P",
-        "curr_course_name": "P-NEURL-YAKIMA",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17850",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 658P",
-        "curr_course_name": "P-INT NEURL-OLYNEUR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17851",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 659P",
-        "curr_course_name": "P-INT NEURL-LKWOOD",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17852",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 660P",
-        "curr_course_name": "P-INT NEURL-MADIGAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17853",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 661P",
-        "curr_course_name": "P-NEURL-MULTICARE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17854",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 662P",
-        "curr_course_name": "P-INT NEURL-GH TAC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17855",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 663P",
-        "curr_course_name": "P-INT NEURL-GH EAST",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17856",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 664P",
-        "curr_course_name": "P-INT NEURL-BURIEN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17857",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "100-420",
-                "building": "HSE",
-                "room": "E-212"
-            },
-            {
-                "days": "Th",
-                "time": "300-620"
+    "NEURL 505P": {
+        "NEURL 505PA": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17821",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kraus,Eric",
+                "curr_course_code": "NEURL 505P",
+                "curr_course_name": "P-PRECEPT NEUROL",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kraus,Eric",
-        "curr_course_code": "NEURL 665P",
-        "curr_course_name": "P-INTRO NEURL-UWMC",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17858",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 666P",
-        "curr_course_name": "P-INT NEURL - HMC",
-        "curr_course_fulfills": ""
+    "NEURL 559": {
+        "NEURL 559A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17822",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "WF",
+                        "time": "1030-1150",
+                        "building": "HSG",
+                        "room": "G328"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Carroll,Jeff",
+                "curr_course_code": "NEURL 559",
+                "curr_course_name": "NEUROBIOL DISEASE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17859",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 667P",
-        "curr_course_name": "P-INT NEURL - VA",
-        "curr_course_fulfills": ""
+    "NEURL 630P": {
+        "NEURL 630PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17823",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 630P",
+                "curr_course_name": "P-INT-NEURL-HELENA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17860",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 668P",
-        "curr_course_name": "P-INT NEURL - NW",
-        "curr_course_fulfills": ""
+    "NEURL 631P": {
+        "NEURL 631PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17824",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 631P",
+                "curr_course_name": "P-NEURL-CHEYENNE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17861",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 669P",
-        "curr_course_name": "P-INT NEURL - VM",
-        "curr_course_fulfills": ""
+    "NEURL 632P": {
+        "NEURL 632PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17825",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 632P",
+                "curr_course_name": "P-INT NEURL CASPER",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17862",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 670P",
-        "curr_course_name": "P-INT NEURL - MJ",
-        "curr_course_fulfills": ""
+    "NEURL 633P": {
+        "NEURL 633PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17826",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 633P",
+                "curr_course_name": "P-NEURL-ANC AK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17863",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 671P",
-        "curr_course_name": "P-INT NEURL - SWED",
-        "curr_course_fulfills": ""
+    "NEURL 634P": {
+        "NEURL 634PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17827",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 634P",
+                "curr_course_name": "P-NEURL-ANMC AK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17864",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 672P",
-        "curr_course_name": "P-INT NEURL-GH SEA",
-        "curr_course_fulfills": ""
+    "NEURL 635P": {
+        "NEURL 635PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17828",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 635P",
+                "curr_course_name": "P-INT NEURL GF-ATLAS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17865",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 673P",
-        "curr_course_name": "P-INT NEURL-VALLEY",
-        "curr_course_fulfills": ""
+    "NEURL 636P": {
+        "NEURL 636PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17829",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 636P",
+                "curr_course_name": "P-INT NUERL KLSPL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17866",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 675P",
-        "curr_course_name": "P-INT NEURL- VANC",
-        "curr_course_fulfills": ""
+    "NEURL 637P": {
+        "NEURL 637PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17830",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 637P",
+                "curr_course_name": "P-INT NEURL-MISSOU1",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17871",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 688P",
-        "curr_course_name": "P-CHILD-NEUROLOGY",
-        "curr_course_fulfills": ""
+    "NEURL 638P": {
+        "NEURL 638PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17831",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 638P",
+                "curr_course_name": "P-INT NEURL-GRTFLLS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "17872",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 688P",
-        "curr_course_name": "P-CHILD-NEUROLOGY",
-        "curr_course_fulfills": ""
+    "NEURL 639P": {
+        "NEURL 639PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17832",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 639P",
+                "curr_course_name": "P-NEURL-BLLNG RNC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17873",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 697",
-        "curr_course_name": "NEURL AWAY ELECTIVE",
-        "curr_course_fulfills": ""
+    "NEURL 640P": {
+        "NEURL 640PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17833",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 640P",
+                "curr_course_name": "P-INT NEURL-BLLNGS1",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "17874",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "NEURL 699",
-        "curr_course_name": "WWAMI NEURL SP ELEC",
-        "curr_course_fulfills": ""
+    "NEURL 641P": {
+        "NEURL 641PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17834",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 641P",
+                "curr_course_name": "P-NEURL-BOZEMAN",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 642P": {
+        "NEURL 642PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17835",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 642P",
+                "curr_course_name": "P-INTRO NEURL-STLUKE",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 643P": {
+        "NEURL 643PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17836",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 643P",
+                "curr_course_name": "P-INT NEURL-BOISE2",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 644P": {
+        "NEURL 644PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17837",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 644P",
+                "curr_course_name": "P-NEURL-IDFLLS EINA",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 645P": {
+        "NEURL 645PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17838",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 645P",
+                "curr_course_name": "P-NEURL-ID FALLS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 647P": {
+        "NEURL 647PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17839",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 647P",
+                "curr_course_name": "P-NEURL-BOISE ST ALF",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 648P": {
+        "NEURL 648PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17840",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 648P",
+                "curr_course_name": "P-NEURL-COEURDALENE",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 649P": {
+        "NEURL 649PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17841",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 649P",
+                "curr_course_name": "P-INT NEURL ST JO",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 650P": {
+        "NEURL 650PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17842",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 650P",
+                "curr_course_name": "P-INT NEURL LACEY",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 651P": {
+        "NEURL 651PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17843",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 651P",
+                "curr_course_name": "P-ING NEURL KIRK",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 652P": {
+        "NEURL 652PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17844",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 652P",
+                "curr_course_name": "P-INT NEURL ROCKW",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 654P": {
+        "NEURL 654PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17845",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 654P",
+                "curr_course_name": "P-INT NEURL-SELKIRK",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 655P": {
+        "NEURL 655PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17846",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 655P",
+                "curr_course_name": "P-INT NEURL-SPOK",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 656P": {
+        "NEURL 656PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17847",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 656P",
+                "curr_course_name": "P-INT NEURL-WENATCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "NEURL 656PB": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17848",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 656P",
+                "curr_course_name": "P-INT NEURL-WENATCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 657P": {
+        "NEURL 657PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17849",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 657P",
+                "curr_course_name": "P-NEURL-YAKIMA",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 658P": {
+        "NEURL 658PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17850",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 658P",
+                "curr_course_name": "P-INT NEURL-OLYNEUR",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 659P": {
+        "NEURL 659PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17851",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 659P",
+                "curr_course_name": "P-INT NEURL-LKWOOD",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 660P": {
+        "NEURL 660PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17852",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 660P",
+                "curr_course_name": "P-INT NEURL-MADIGAN",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 661P": {
+        "NEURL 661PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17853",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 661P",
+                "curr_course_name": "P-NEURL-MULTICARE",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 662P": {
+        "NEURL 662PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17854",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 662P",
+                "curr_course_name": "P-INT NEURL-GH TAC",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 663P": {
+        "NEURL 663PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17855",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 663P",
+                "curr_course_name": "P-INT NEURL-GH EAST",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 664P": {
+        "NEURL 664PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17856",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 664P",
+                "curr_course_name": "P-INT NEURL-BURIEN",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 665P": {
+        "NEURL 665PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17857",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "100-420",
+                        "building": "HSE",
+                        "room": "E-212"
+                    },
+                    {
+                        "days": "Th",
+                        "time": "300-620"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kraus,Eric",
+                "curr_course_code": "NEURL 665P",
+                "curr_course_name": "P-INTRO NEURL-UWMC",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 666P": {
+        "NEURL 666PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17858",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 666P",
+                "curr_course_name": "P-INT NEURL - HMC",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 667P": {
+        "NEURL 667PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17859",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 667P",
+                "curr_course_name": "P-INT NEURL - VA",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 668P": {
+        "NEURL 668PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17860",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 668P",
+                "curr_course_name": "P-INT NEURL - NW",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 669P": {
+        "NEURL 669PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17861",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 669P",
+                "curr_course_name": "P-INT NEURL - VM",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 670P": {
+        "NEURL 670PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17862",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 670P",
+                "curr_course_name": "P-INT NEURL - MJ",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 671P": {
+        "NEURL 671PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17863",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 671P",
+                "curr_course_name": "P-INT NEURL - SWED",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 672P": {
+        "NEURL 672PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17864",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 672P",
+                "curr_course_name": "P-INT NEURL-GH SEA",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 673P": {
+        "NEURL 673PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17865",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 673P",
+                "curr_course_name": "P-INT NEURL-VALLEY",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 675P": {
+        "NEURL 675PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17866",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 675P",
+                "curr_course_name": "P-INT NEURL- VANC",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 688P": {
+        "NEURL 688PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17871",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 688P",
+                "curr_course_name": "P-CHILD-NEUROLOGY",
+                "curr_course_fulfills": ""
+            }
+        },
+        "NEURL 688PB": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "17872",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 688P",
+                "curr_course_name": "P-CHILD-NEUROLOGY",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 697": {
+        "NEURL 697A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17873",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 697",
+                "curr_course_name": "NEURL AWAY ELECTIVE",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "NEURL 699": {
+        "NEURL 699A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "17874",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "NEURL 699",
+                "curr_course_name": "WWAMI NEURL SP ELEC",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

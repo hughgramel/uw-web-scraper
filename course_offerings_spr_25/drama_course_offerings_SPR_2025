@@ -1,1745 +1,2014 @@
-[
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13348",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1230-120",
-                "building": "GWN",
-                "room": "301"
+{
+    "DRAMA 101": {
+        "DRAMA 101A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13348",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "1230-120",
+                        "building": "GWN",
+                        "room": "301"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "168",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Farooqi,Amna",
+                "curr_course_code": "DRAMA 101",
+                "curr_course_name": "INTRO TO THEATRE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13349",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "TTh",
+                            "time": "930-1020",
+                            "building": "FTR",
+                            "room": "106"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "28",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "DRAMA 101",
+                    "curr_course_name": "INTRO TO THEATRE",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13350",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "TTh",
+                            "time": "930-1020",
+                            "building": "MEB",
+                            "room": "250"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "28",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "DRAMA 101",
+                    "curr_course_name": "INTRO TO THEATRE",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13351",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "TTh",
+                            "time": "1030-1120",
+                            "building": "SMI",
+                            "room": "309"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "28",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "DRAMA 101",
+                    "curr_course_name": "INTRO TO THEATRE",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13352",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "TTh",
+                            "time": "1130-1220",
+                            "building": "RAI",
+                            "room": "116"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "28",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "DRAMA 101",
+                    "curr_course_name": "INTRO TO THEATRE",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13353",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "TTh",
+                            "time": "1130-1220",
+                            "building": "SMI",
+                            "room": "115"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "28",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "DRAMA 101",
+                    "curr_course_name": "INTRO TO THEATRE",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "13354",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "TTh",
+                            "time": "1230-120",
+                            "building": "MUS",
+                            "room": "216"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "28",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "DRAMA 101",
+                    "curr_course_name": "INTRO TO THEATRE",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                }
+            ]
+        }
+    },
+    "DRAMA 103": {
+        "DRAMA 103A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13355",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "O",
+                "is_estimate": 0,
+                "max_capacity": "70",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 103",
+                "curr_course_name": "THEATRE APPRECIATN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "168",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Farooqi,Amna",
-        "curr_course_code": "DRAMA 101",
-        "curr_course_name": "INTRO TO THEATRE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13349",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "930-1020",
-                "building": "FTR",
-                "room": "106"
+    "DRAMA 171": {
+        "DRAMA 171A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13356",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-420",
+                        "building": "CSE2",
+                        "room": "G10"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "100",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Armstrong,David",
+                "curr_course_code": "DRAMA 171",
+                "curr_course_name": "BROADWAY MUSICAL",
+                "curr_course_fulfills": [
+                    "A&H",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "28",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 101",
-        "curr_course_name": "INTRO TO THEATRE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13350",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "930-1020",
-                "building": "MEB",
-                "room": "250"
+    "DRAMA 180": {
+        "DRAMA 180A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13357",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-120",
+                        "building": "HUT",
+                        "room": "202"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Korf,Geoff",
+                "curr_course_code": "DRAMA 180",
+                "curr_course_name": "COLLAB & INCLUSION",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "28",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 101",
-        "curr_course_name": "INTRO TO THEATRE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13351",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1120",
-                "building": "SMI",
-                "room": "309"
+    "DRAMA 201": {
+        "DRAMA 201A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13358",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "1000-1120",
+                        "building": "BLD",
+                        "room": "286"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 201",
+                "curr_course_name": "PLAYS AND STYLES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "28",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 101",
-        "curr_course_name": "INTRO TO THEATRE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13352",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1220",
-                "building": "RAI",
-                "room": "116"
+    "DRAMA 212": {
+        "DRAMA 212A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21628",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "930-1220",
+                        "building": "HUT",
+                        "room": "171"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "$11",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 212",
+                "curr_course_name": "THEATRE TECH PRACT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "28",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 101",
-        "curr_course_name": "INTRO TO THEATRE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13353",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1220",
-                "building": "SMI",
-                "room": "115"
+    "DRAMA 221": {
+        "DRAMA 221A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13359",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dogg,M.L.",
+                "curr_course_code": "DRAMA 221",
+                "curr_course_name": "VISUAL NARRATIVE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "28",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 101",
-        "curr_course_name": "INTRO TO THEATRE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13354",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-120",
-                "building": "MUS",
-                "room": "216"
+    "DRAMA 252": {
+        "DRAMA 252A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13360",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "1130-1250",
+                        "building": "HUT",
+                        "room": "201"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "36",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Connors,Bridget",
+                "curr_course_code": "DRAMA 252",
+                "curr_course_name": "ACTING",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            },
+            "other": [
+                {
+                    "restrictions": [],
+                    "add_code": "13361",
+                    "section": "AA",
+                    "is_quiz": 0,
+                    "is_lab": 0,
+                    "credits": "ST",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "WF",
+                            "time": "1130-120",
+                            "building": "HUT",
+                            "room": "201"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "18",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "DRAMA 252",
+                    "curr_course_name": "ACTING",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "13362",
+                    "section": "AB",
+                    "is_quiz": 0,
+                    "is_lab": 0,
+                    "credits": "ST",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "WF",
+                            "time": "1130-120",
+                            "building": "HUT",
+                            "room": "205"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "18",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "DRAMA 252",
+                    "curr_course_name": "ACTING",
+                    "curr_course_fulfills": [
+                        "A&H"
+                    ]
+                }
+            ]
+        }
+    },
+    "DRAMA 254": {
+        "DRAMA 254A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13363",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-450",
+                        "building": "HUT",
+                        "room": "202"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "19",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Wrenn,Bradley",
+                "curr_course_code": "DRAMA 254",
+                "curr_course_name": "INTROACTINGSKILLS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "28",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 101",
-        "curr_course_name": "INTRO TO THEATRE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13355",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "O",
-        "is_estimate": 0,
-        "max_capacity": "70",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 103",
-        "curr_course_name": "THEATRE APPRECIATN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13356",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-420",
-                "building": "CSE2",
-                "room": "G10"
+    "DRAMA 291": {
+        "DRAMA 291A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13364",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 291",
+                "curr_course_name": "TH TECH PRAC LAB",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "100",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Armstrong,David",
-        "curr_course_code": "DRAMA 171",
-        "curr_course_name": "BROADWAY MUSICAL",
-        "curr_course_fulfills": [
-            "A&H",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "13357",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-120",
-                "building": "HUT",
-                "room": "202"
+    "DRAMA 292": {
+        "DRAMA 292A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13365",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 292",
+                "curr_course_name": "TH TECH PRAC LAB",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Korf,Geoff",
-        "curr_course_code": "DRAMA 180",
-        "curr_course_name": "COLLAB & INCLUSION",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "13358",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1000-1120",
-                "building": "BLD",
-                "room": "286"
+    "DRAMA 298": {
+        "DRAMA 298A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13366",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-2",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Magelssen,Scott",
+                "curr_course_code": "DRAMA 298",
+                "curr_course_name": "THEATRE PRODUCTION",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 201",
-        "curr_course_name": "PLAYS AND STYLES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21628",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1220",
-                "building": "HUT",
-                "room": "171"
+    "DRAMA 302": {
+        "DRAMA 302A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13367",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "1130-1250",
+                        "building": "HUT",
+                        "room": "130"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Herren,Rachael",
+                "curr_course_code": "DRAMA 302",
+                "curr_course_name": "CRITICAL ANALYSIS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "$11",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 212",
-        "curr_course_name": "THEATRE TECH PRACT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13359",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dogg,M.L.",
-        "curr_course_code": "DRAMA 221",
-        "curr_course_name": "VISUAL NARRATIVE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13360",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "1130-1250",
-                "building": "HUT",
-                "room": "201"
+    "DRAMA 351": {
+        "DRAMA 351A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13369",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "930-1120",
+                        "building": "HUT",
+                        "room": "201"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jones,Danny",
+                "curr_course_code": "DRAMA 351",
+                "curr_course_name": "INTERMED SCENE STDY",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "36",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Connors,Bridget",
-        "curr_course_code": "DRAMA 252",
-        "curr_course_name": "ACTING",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "13361",
-        "section": "AA",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "ST",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "WF",
-                "time": "1130-120",
-                "building": "HUT",
-                "room": "201"
+    "DRAMA 353": {
+        "DRAMA 353A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13370",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "18",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Frace,Jeffrey",
+                "curr_course_code": "DRAMA 353",
+                "curr_course_name": "INTERMD ACTNG-PHYS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 252",
-        "curr_course_name": "ACTING",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "13362",
-        "section": "AB",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "ST",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "WF",
-                "time": "1130-120",
-                "building": "HUT",
-                "room": "205"
+    "DRAMA 365": {
+        "DRAMA 365A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13371",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mahmoud,Jasmine",
+                "curr_course_code": "DRAMA 365",
+                "curr_course_name": "DIVERSE VOICES",
+                "curr_course_fulfills": [
+                    "A&H/SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 252",
-        "curr_course_name": "ACTING",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13363",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-450",
-                "building": "HUT",
-                "room": "202"
+    "DRAMA 373": {
+        "DRAMA 373A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13373",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "930-1120",
+                        "building": "HUT",
+                        "room": "130"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Magelssen,Scott",
+                "curr_course_code": "DRAMA 373",
+                "curr_course_name": "THEATRE HISTORY III",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "19",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Wrenn,Bradley",
-        "curr_course_code": "DRAMA 254",
-        "curr_course_name": "INTROACTINGSKILLS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13364",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 291",
-        "curr_course_name": "TH TECH PRAC LAB",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13365",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 292",
-        "curr_course_name": "TH TECH PRAC LAB",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13366",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-2",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "professor_name": "Magelssen,Scott",
-        "curr_course_code": "DRAMA 298",
-        "curr_course_name": "THEATRE PRODUCTION",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13367",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "1130-1250",
-                "building": "HUT",
-                "room": "130"
+    "DRAMA 391": {
+        "DRAMA 391A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13374",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 391",
+                "curr_course_name": "BEG TECHNICAL PRACT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Herren,Rachael",
-        "curr_course_code": "DRAMA 302",
-        "curr_course_name": "CRITICAL ANALYSIS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13369",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "930-1120",
-                "building": "HUT",
-                "room": "201"
+    "DRAMA 396": {
+        "DRAMA 396A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13375",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 396",
+                "curr_course_name": "STUDY ABROAD",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jones,Danny",
-        "curr_course_code": "DRAMA 351",
-        "curr_course_name": "INTERMED SCENE STDY",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13370",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Frace,Jeffrey",
-        "curr_course_code": "DRAMA 353",
-        "curr_course_name": "INTERMD ACTNG-PHYS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13371",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mahmoud,Jasmine",
-        "curr_course_code": "DRAMA 365",
-        "curr_course_name": "DIVERSE VOICES",
-        "curr_course_fulfills": [
-            "A&H/SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13373",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "930-1120",
-                "building": "HUT",
-                "room": "130"
+    "DRAMA 410": {
+        "DRAMA 410A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13376",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-4",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 410",
+                "curr_course_name": "ADV THEAT TECH PRAC",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Magelssen,Scott",
-        "curr_course_code": "DRAMA 373",
-        "curr_course_name": "THEATRE HISTORY III",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13374",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 391",
-        "curr_course_name": "BEG TECHNICAL PRACT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13375",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 396",
-        "curr_course_name": "STUDY ABROAD",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13376",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-4",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 410",
-        "curr_course_name": "ADV THEAT TECH PRAC",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13377",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "930-1120",
-                "building": "HUT",
-                "room": "155"
+    "DRAMA 414": {
+        "DRAMA 414A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13377",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "930-1120",
+                        "building": "HUT",
+                        "room": "155"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Welch,Julia",
+                "curr_course_code": "DRAMA 414",
+                "curr_course_name": "SCENE DESIGN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Welch,Julia",
-        "curr_course_code": "DRAMA 414",
-        "curr_course_name": "SCENE DESIGN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13378",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "professor_name": "Trout,Deborah L",
-        "curr_course_code": "DRAMA 430",
-        "curr_course_name": "TEXTILE KNOWLDG & ID",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "13379",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-120",
-                "building": "HUT",
-                "room": "303"
+    "DRAMA 430": {
+        "DRAMA 430A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13378",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Trout,Deborah L",
+                "curr_course_code": "DRAMA 430",
+                "curr_course_name": "TEXTILE KNOWLDG & ID",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Yeboah,Nikki",
-        "curr_course_code": "DRAMA 441",
-        "curr_course_name": "BEGIN PLAYWRITING",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13380",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Curtis-Newton,Valerie",
-        "curr_course_code": "DRAMA 451",
-        "curr_course_name": "ADV ACT-PRDCTN WKSP",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13381",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "16",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Madden,Catherine",
-        "curr_course_code": "DRAMA 452",
-        "curr_course_name": "ADV ACTG-SCENE STDY",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13382",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mackey,Adrienne",
-        "curr_course_code": "DRAMA 457",
-        "curr_course_name": "CREATING DRAMA",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13383",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 490",
-        "curr_course_name": "SPEC STDY ACT-DIRCT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13384",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "930-1120",
-                "building": "HUT",
-                "room": "201"
+    "DRAMA 441": {
+        "DRAMA 441A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13379",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-120",
+                        "building": "HUT",
+                        "room": "303"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Yeboah,Nikki",
+                "curr_course_code": "DRAMA 441",
+                "curr_course_name": "BEGIN PLAYWRITING",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Connors,Bridget",
-        "curr_course_code": "DRAMA 490",
-        "curr_course_name": "SPEC STDY ACT-DIRCT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13385",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "$146",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Alm,Geoffrey",
-        "curr_course_code": "DRAMA 490",
-        "curr_course_name": "SPEC STDY ACT-DIRCT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13386",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "$146",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Yang,Chi-wang",
-        "curr_course_code": "DRAMA 490",
-        "curr_course_name": "SPEC STDY ACT-DIRCT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13388",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 491",
-        "curr_course_name": "SPEC STDY DSGN-TECH",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13389",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 493",
-        "curr_course_name": "INTERNSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "13390",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-120",
-                "building": "HUT",
-                "room": "130"
+    "DRAMA 451": {
+        "DRAMA 451A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13380",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Curtis-Newton,Valerie",
+                "curr_course_code": "DRAMA 451",
+                "curr_course_name": "ADV ACT-PRDCTN WKSP",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Johnson,Odai",
-        "curr_course_code": "DRAMA 494",
-        "curr_course_name": "STUDIES THEA&DRAMA",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13391",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "DRAMA 495",
-        "curr_course_name": "DESIGN-TECH PRACTCM",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "13392",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 498",
-        "curr_course_name": "THEATRE PRODUCTION",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13393",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-2",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 498",
-        "curr_course_name": "THEATRE PRODUCTION",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13394",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13395",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "H",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13396",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "900-1250",
-                "building": "HUT",
-                "room": "172"
+    "DRAMA 452": {
+        "DRAMA 452A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13381",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "16",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Madden,Catherine",
+                "curr_course_code": "DRAMA 452",
+                "curr_course_name": "ADV ACTG-SCENE STDY",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "$61",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 510",
-        "curr_course_name": "DESIGN STUDIO",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13397",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Walsh,Sara Catherine",
-        "curr_course_code": "DRAMA 514",
-        "curr_course_name": "DESIGN TECH COLLOQ",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13398",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dauber,An-lin",
-        "curr_course_code": "DRAMA 514",
-        "curr_course_name": "DESIGN TECH COLLOQ",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13399",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Smith,Andrew D",
-        "curr_course_code": "DRAMA 514",
-        "curr_course_name": "DESIGN TECH COLLOQ",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "13400",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dogg,M.L.",
-        "curr_course_code": "DRAMA 514",
-        "curr_course_name": "DESIGN TECH COLLOQ",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13402",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 520",
-        "curr_course_name": "ADV THEATRE PRACTCM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13403",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$11",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Smith,Andrew D",
-        "curr_course_code": "DRAMA 530",
-        "curr_course_name": "LTNG PR: LIGHT LAB",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13404",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "100-120",
-                "building": "HUT",
-                "room": "201"
+    "DRAMA 457": {
+        "DRAMA 457A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13382",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mackey,Adrienne",
+                "curr_course_code": "DRAMA 457",
+                "curr_course_name": "CREATING DRAMA",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Connors,Bridget",
-        "curr_course_code": "DRAMA 552",
-        "curr_course_name": "TEACHING OF ACTING",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13405",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "$74",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 558",
-        "curr_course_name": "STUDIO II",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13406",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Curtis-Newton,Valerie",
-        "curr_course_code": "DRAMA 561",
-        "curr_course_name": "DIRECTING PROJECTS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13407",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 562",
-        "curr_course_name": "PERFORMANCE STUDIO",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13408",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "$50",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Curtis-Newton,Valerie Lynn",
-        "curr_course_code": "DRAMA 563",
-        "curr_course_name": "SEMINAR DIRECTING",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13409",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 567",
-        "curr_course_name": "ACTING PROCESS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13410",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "300-520",
-                "building": "HUT",
-                "room": "150"
+    "DRAMA 490": {
+        "DRAMA 490A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13383",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 490",
+                "curr_course_name": "SPEC STDY ACT-DIRCT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Magelssen,Scott",
-        "curr_course_code": "DRAMA 575",
-        "curr_course_name": "THEATRE HISTORY SEM",
-        "curr_course_fulfills": ""
+        },
+        "DRAMA 490B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13384",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "930-1120",
+                        "building": "HUT",
+                        "room": "201"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Connors,Bridget",
+                "curr_course_code": "DRAMA 490",
+                "curr_course_name": "SPEC STDY ACT-DIRCT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        },
+        "DRAMA 490C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13385",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "$146",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Alm,Geoffrey",
+                "curr_course_code": "DRAMA 490",
+                "curr_course_name": "SPEC STDY ACT-DIRCT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        },
+        "DRAMA 490D": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13386",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "$146",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Yang,Chi-wang",
+                "curr_course_code": "DRAMA 490",
+                "curr_course_name": "SPEC STDY ACT-DIRCT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13411",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 599",
-        "curr_course_name": "ADV STDY THEATR ART",
-        "curr_course_fulfills": ""
+    "DRAMA 491": {
+        "DRAMA 491A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13388",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 491",
+                "curr_course_name": "SPEC STDY DSGN-TECH",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "13412",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "DRAMA 599",
-        "curr_course_name": "ADV STDY THEATR ART",
-        "curr_course_fulfills": ""
+    "DRAMA 493": {
+        "DRAMA 493A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13389",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 493",
+                "curr_course_name": "INTERNSHIP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13413",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mackey,Adrienne",
-        "curr_course_code": "DRAMA 599",
-        "curr_course_name": "ADV STDY THEATR ART",
-        "curr_course_fulfills": ""
+    "DRAMA 494": {
+        "DRAMA 494A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13390",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-120",
+                        "building": "HUT",
+                        "room": "130"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Johnson,Odai",
+                "curr_course_code": "DRAMA 494",
+                "curr_course_name": "STUDIES THEA&DRAMA",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13414",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "DRAMA 495": {
+        "DRAMA 495A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13391",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 495",
+                "curr_course_name": "DESIGN-TECH PRACTCM",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "13415",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Johnson,Odai",
-        "curr_course_code": "DRAMA 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "DRAMA 498": {
+        "DRAMA 498A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "13392",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 498",
+                "curr_course_name": "THEATRE PRODUCTION",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        },
+        "DRAMA 498B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13393",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-2",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 498",
+                "curr_course_name": "THEATRE PRODUCTION",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13416",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 700",
-        "curr_course_name": "MASTERS THESIS",
-        "curr_course_fulfills": ""
+    "DRAMA 499": {
+        "DRAMA 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13394",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "DRAMA 499B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13395",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "H",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "13417",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "DRAMA 800",
-        "curr_course_name": "DOCTORAL DISSERTATN",
-        "curr_course_fulfills": ""
+    "DRAMA 510": {
+        "DRAMA 510A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13396",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "900-1250",
+                        "building": "HUT",
+                        "room": "172"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "$61",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 510",
+                "curr_course_name": "DESIGN STUDIO",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 514": {
+        "DRAMA 514A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13397",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Walsh,Sara Catherine",
+                "curr_course_code": "DRAMA 514",
+                "curr_course_name": "DESIGN TECH COLLOQ",
+                "curr_course_fulfills": ""
+            }
+        },
+        "DRAMA 514B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13398",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dauber,An-lin",
+                "curr_course_code": "DRAMA 514",
+                "curr_course_name": "DESIGN TECH COLLOQ",
+                "curr_course_fulfills": ""
+            }
+        },
+        "DRAMA 514C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13399",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Smith,Andrew D",
+                "curr_course_code": "DRAMA 514",
+                "curr_course_name": "DESIGN TECH COLLOQ",
+                "curr_course_fulfills": ""
+            }
+        },
+        "DRAMA 514D": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "13400",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dogg,M.L.",
+                "curr_course_code": "DRAMA 514",
+                "curr_course_name": "DESIGN TECH COLLOQ",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 520": {
+        "DRAMA 520A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13402",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 520",
+                "curr_course_name": "ADV THEATRE PRACTCM",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 530": {
+        "DRAMA 530A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13403",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$11",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Smith,Andrew D",
+                "curr_course_code": "DRAMA 530",
+                "curr_course_name": "LTNG PR: LIGHT LAB",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 552": {
+        "DRAMA 552A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13404",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "100-120",
+                        "building": "HUT",
+                        "room": "201"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Connors,Bridget",
+                "curr_course_code": "DRAMA 552",
+                "curr_course_name": "TEACHING OF ACTING",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 558": {
+        "DRAMA 558A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13405",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "$74",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 558",
+                "curr_course_name": "STUDIO II",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 561": {
+        "DRAMA 561A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13406",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Curtis-Newton,Valerie",
+                "curr_course_code": "DRAMA 561",
+                "curr_course_name": "DIRECTING PROJECTS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 562": {
+        "DRAMA 562A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13407",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 562",
+                "curr_course_name": "PERFORMANCE STUDIO",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 563": {
+        "DRAMA 563A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13408",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "$50",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Curtis-Newton,Valerie Lynn",
+                "curr_course_code": "DRAMA 563",
+                "curr_course_name": "SEMINAR DIRECTING",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 567": {
+        "DRAMA 567A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13409",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 567",
+                "curr_course_name": "ACTING PROCESS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 575": {
+        "DRAMA 575A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13410",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "300-520",
+                        "building": "HUT",
+                        "room": "150"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Magelssen,Scott",
+                "curr_course_code": "DRAMA 575",
+                "curr_course_name": "THEATRE HISTORY SEM",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 599": {
+        "DRAMA 599A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13411",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 599",
+                "curr_course_name": "ADV STDY THEATR ART",
+                "curr_course_fulfills": ""
+            }
+        },
+        "DRAMA 599B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "13412",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 599",
+                "curr_course_name": "ADV STDY THEATR ART",
+                "curr_course_fulfills": ""
+            }
+        },
+        "DRAMA 599C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13413",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mackey,Adrienne",
+                "curr_course_code": "DRAMA 599",
+                "curr_course_name": "ADV STDY THEATR ART",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 600": {
+        "DRAMA 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13414",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "DRAMA 600B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "13415",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Johnson,Odai",
+                "curr_course_code": "DRAMA 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 700": {
+        "DRAMA 700A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13416",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 700",
+                "curr_course_name": "MASTERS THESIS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "DRAMA 800": {
+        "DRAMA 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "13417",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "DRAMA 800",
+                "curr_course_name": "DOCTORAL DISSERTATN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

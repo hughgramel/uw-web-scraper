@@ -1,190 +1,218 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "10179",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "430-620P",
-                "building": "CMU",
-                "room": "326"
+{
+    "AFRAM 150": {
+        "AFRAM 150A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10179",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "430-620P",
+                        "building": "CMU",
+                        "room": "326"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "55",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Wray,Alekzandr",
+                "curr_course_code": "AFRAM 150",
+                "curr_course_name": "INTRO AF AM HISTORY",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "55",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Wray,Alekzandr",
-        "curr_course_code": "AFRAM 150",
-        "curr_course_name": "INTRO AF AM HISTORY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10180",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "430-620P",
-                "building": "THO",
-                "room": "135"
+    "AFRAM 272": {
+        "AFRAM 272A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10180",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "430-620P",
+                        "building": "THO",
+                        "room": "135"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Wray,Alekzandr",
+                "curr_course_code": "AFRAM 272",
+                "curr_course_name": "SOUTH SINCE CVL WAR",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Wray,Alekzandr",
-        "curr_course_code": "AFRAM 272",
-        "curr_course_name": "SOUTH SINCE CVL WAR",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10181",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "MGH",
-                "room": "251"
+    "AFRAM 318": {
+        "AFRAM 318A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10181",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "MGH",
+                        "room": "251"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Retman,Sonnet H.",
+                "curr_course_code": "AFRAM 318",
+                "curr_course_name": "BLACK LIT GENRES",
+                "curr_course_fulfills": [
+                    "A&H",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Retman,Sonnet H.",
-        "curr_course_code": "AFRAM 318",
-        "curr_course_name": "BLACK LIT GENRES",
-        "curr_course_fulfills": [
-            "A&H",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "10182",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "400-520",
-                "building": "CHL",
-                "room": "015"
+    "AFRAM 330": {
+        "AFRAM 330A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "10182",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "400-520",
+                        "building": "CHL",
+                        "room": "015"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Retman,Sonnet",
+                "curr_course_code": "AFRAM 330",
+                "curr_course_name": "MUS & FKLR BLK SOC",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Retman,Sonnet",
-        "curr_course_code": "AFRAM 330",
-        "curr_course_name": "MUS & FKLR BLK SOC",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "10183",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "AFRAM 499",
-        "curr_course_name": "IND STUDY & RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "10184",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "AFRAM 499",
-        "curr_course_name": "IND STUDY & RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "10185",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "AFRAM 499",
-        "curr_course_name": "IND STUDY & RESEARCH",
-        "curr_course_fulfills": ""
+    "AFRAM 499": {
+        "AFRAM 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "10183",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "AFRAM 499",
+                "curr_course_name": "IND STUDY & RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "AFRAM 499B": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "10184",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "AFRAM 499",
+                "curr_course_name": "IND STUDY & RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "AFRAM 499C": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "10185",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "AFRAM 499",
+                "curr_course_name": "IND STUDY & RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

@@ -1,425 +1,466 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "15271",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "430-620P",
-                "building": "CMU",
-                "room": "326"
+{
+    "HSTAA 150": {
+        "HSTAA 150A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15271",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "430-620P",
+                        "building": "CMU",
+                        "room": "326"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Wray,Alekzandr",
+                "curr_course_code": "HSTAA 150",
+                "curr_course_name": "INTRO AF AM HISTORY",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Wray,Alekzandr",
-        "curr_course_code": "HSTAA 150",
-        "curr_course_name": "INTRO AF AM HISTORY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15272",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1000-1120",
-                "building": "ECE",
-                "room": "105"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "75",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jung,Moon-Ho",
-        "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+    "HSTAA 205": {
+        "HSTAA 205A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15272",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1000-1120",
+                        "building": "ECE",
+                        "room": "105"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "75",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jung,Moon-Ho",
+                "curr_course_code": "HSTAA 205",
+                "curr_course_name": "ASIAN AMERICAN HIST",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "15273",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "830-920",
+                            "building": "RAI",
+                            "room": "107"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "13",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "HSTAA 205",
+                    "curr_course_name": "ASIAN AMERICAN HIST",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "15274",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "SMI",
+                            "room": "305"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "12",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "HSTAA 205",
+                    "curr_course_name": "ASIAN AMERICAN HIST",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "15275",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "SAV",
+                            "room": "164"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "13",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "HSTAA 205",
+                    "curr_course_name": "ASIAN AMERICAN HIST",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "15276",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "THO",
+                            "room": "211"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "12",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "HSTAA 205",
+                    "curr_course_name": "ASIAN AMERICAN HIST",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "15277",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "THO",
+                            "room": "331"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "13",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "HSTAA 205",
+                    "curr_course_name": "ASIAN AMERICAN HIST",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "15278",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "SAV",
+                            "room": "158"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "12",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "HSTAA 205",
+                    "curr_course_name": "ASIAN AMERICAN HIST",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                }
+            ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15273",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-920",
-                "building": "RAI",
-                "room": "107"
+    "HSTAA 212": {
+        "HSTAA 212A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15279",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "FSH",
+                        "room": "107"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Roberts,Nathan",
+                "curr_course_code": "HSTAA 212",
+                "curr_course_name": "MILITARY HIST OF US",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "13",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15274",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "SMI",
-                "room": "305"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+    "HSTAA 337": {
+        "HSTAA 337A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15280",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "LOW",
+                        "room": "101"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Glenn,Susan A.",
+                "curr_course_code": "HSTAA 337",
+                "curr_course_name": "HOLOCAUST & AMERICA",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "15282",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "RAI",
+                            "room": "107"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "18",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "HSTAA 337",
+                    "curr_course_name": "HOLOCAUST & AMERICA",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                }
+            ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15275",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "SAV",
-                "room": "164"
+    "HSTAA 351": {
+        "HSTAA 351A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15284",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-520",
+                        "building": "ECE",
+                        "room": "045"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "55",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Roberts,Nathan",
+                "curr_course_code": "HSTAA 351",
+                "curr_course_name": "AMERICAN CONST HIST",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "13",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15276",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "THO",
-                "room": "211"
+    "HSTAA 353": {
+        "HSTAA 353A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15285",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "THO",
+                        "room": "125"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Gregory,James N",
+                "curr_course_code": "HSTAA 353",
+                "curr_course_name": "LABOR & CAPITALISM",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15277",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "THO",
-                "room": "331"
+    "HSTAA 522": {
+        "HSTAA 522A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15288",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-320",
+                        "building": "SMI",
+                        "room": "203E"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "O'Mara,Margaret",
+                "curr_course_code": "HSTAA 522",
+                "curr_course_name": "AM HST-INTERPRET",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "13",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15278",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "SAV",
-                "room": "158"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HSTAA 205",
-        "curr_course_name": "ASIAN AMERICAN HIST",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15279",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "FSH",
-                "room": "107"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Roberts,Nathan",
-        "curr_course_code": "HSTAA 212",
-        "curr_course_name": "MILITARY HIST OF US",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15280",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "LOW",
-                "room": "101"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "professor_name": "Glenn,Susan A.",
-        "curr_course_code": "HSTAA 337",
-        "curr_course_name": "HOLOCAUST & AMERICA",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15282",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "RAI",
-                "room": "107"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "HSTAA 337",
-        "curr_course_name": "HOLOCAUST & AMERICA",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15284",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-520",
-                "building": "ECE",
-                "room": "045"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "55",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Roberts,Nathan",
-        "curr_course_code": "HSTAA 351",
-        "curr_course_name": "AMERICAN CONST HIST",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "15285",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "THO",
-                "room": "125"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Gregory,James N",
-        "curr_course_code": "HSTAA 353",
-        "curr_course_name": "LABOR & CAPITALISM",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15288",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "130-320",
-                "building": "SMI",
-                "room": "203E"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "professor_name": "O'Mara,Margaret",
-        "curr_course_code": "HSTAA 522",
-        "curr_course_name": "AM HST-INTERPRET",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

@@ -1,564 +1,624 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "19640",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "130-250",
-                "building": "TBA",
-                "room": "TBA"
+{
+    "SMEA 103": {
+        "SMEA 103A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19640",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "130-250",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "JO",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Morton,Kayla",
+                "curr_course_code": "SMEA 103",
+                "curr_course_name": "SOCIETY & THE OCEANS",
+                "curr_course_fulfills": [
+                    "SSc/NSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "JO",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Morton,Kayla",
-        "curr_course_code": "SMEA 103",
-        "curr_course_name": "SOCIETY & THE OCEANS",
-        "curr_course_fulfills": [
-            "SSc/NSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19641",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-450",
-                "building": "HCK",
-                "room": "132"
+    "SMEA 201": {
+        "SMEA 201A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19641",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-450",
+                        "building": "HCK",
+                        "room": "132"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dolsak,Nives",
+                "curr_course_code": "SMEA 201",
+                "curr_course_name": "CLIMATE GOVERNANCE",
+                "curr_course_fulfills": [
+                    "SSc/NSc",
+                    "DIV"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "19642",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "1030-1120",
+                            "building": "BAG",
+                            "room": "331A"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "5",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Dolsak,Nives",
+                    "curr_course_code": "SMEA 201",
+                    "curr_course_name": "CLIMATE GOVERNANCE",
+                    "curr_course_fulfills": [
+                        "SSc/NSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "19643",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "1130-1220",
+                            "building": "CHL",
+                            "room": "105"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "5",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Dolsak,Nives",
+                    "curr_course_code": "SMEA 201",
+                    "curr_course_name": "CLIMATE GOVERNANCE",
+                    "curr_course_fulfills": [
+                        "SSc/NSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "19644",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "1230-120",
+                            "building": "BNS",
+                            "room": "115"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "20",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Dolsak,Nives",
+                    "curr_course_code": "SMEA 201",
+                    "curr_course_name": "CLIMATE GOVERNANCE",
+                    "curr_course_fulfills": [
+                        "SSc/NSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "19645",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "BAG",
+                            "room": "331A"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "5",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Dolsak,Nives",
+                    "curr_course_code": "SMEA 201",
+                    "curr_course_name": "CLIMATE GOVERNANCE",
+                    "curr_course_fulfills": [
+                        "SSc/NSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "19646",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "CHL",
+                            "room": "105"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "5",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Dolsak,Nives",
+                    "curr_course_code": "SMEA 201",
+                    "curr_course_name": "CLIMATE GOVERNANCE",
+                    "curr_course_fulfills": [
+                        "SSc/NSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "19647",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "MGH",
+                            "room": "074"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "5",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Dolsak,Nives",
+                    "curr_course_code": "SMEA 201",
+                    "curr_course_name": "CLIMATE GOVERNANCE",
+                    "curr_course_fulfills": [
+                        "SSc/NSc",
+                        "DIV"
+                    ]
+                }
+            ]
+        }
+    },
+    "SMEA 499": {
+        "SMEA 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19648",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-15",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SMEA 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dolsak,Nives",
-        "curr_course_code": "SMEA 201",
-        "curr_course_name": "CLIMATE GOVERNANCE",
-        "curr_course_fulfills": [
-            "SSc/NSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19642",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1030-1120",
-                "building": "BAG",
-                "room": "331A"
+    "SMEA 515": {
+        "SMEA 515A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19649",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1150",
+                        "building": "FSH",
+                        "room": "108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Wildermuth,Todd",
+                "curr_course_code": "SMEA 515",
+                "curr_course_name": "US COAST & OCN LAW",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dolsak,Nives",
-        "curr_course_code": "SMEA 201",
-        "curr_course_name": "CLIMATE GOVERNANCE",
-        "curr_course_fulfills": [
-            "SSc/NSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19643",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1130-1220",
-                "building": "CHL",
-                "room": "105"
+    "SMEA 519": {
+        "SMEA 519A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19650",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1000-1120",
+                        "building": "CDH",
+                        "room": "101"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Aceves",
+                "curr_course_code": "SMEA 519",
+                "curr_course_name": "MARINE POLCY ANALYS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dolsak,Nives",
-        "curr_course_code": "SMEA 201",
-        "curr_course_name": "CLIMATE GOVERNANCE",
-        "curr_course_fulfills": [
-            "SSc/NSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19644",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1230-120",
-                "building": "BNS",
-                "room": "115"
+    "SMEA 550": {
+        "SMEA 550A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19651",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1200-1250",
+                        "building": "FSH",
+                        "room": "203"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "28",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Beaudreau,Anne H.",
+                "curr_course_code": "SMEA 550",
+                "curr_course_name": "SPECIAL TOPICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dolsak,Nives",
-        "curr_course_code": "SMEA 201",
-        "curr_course_name": "CLIMATE GOVERNANCE",
-        "curr_course_fulfills": [
-            "SSc/NSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "19645",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "BAG",
-                "room": "331A"
+        },
+        "SMEA 550B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19652",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "200-320",
+                        "building": "FTR",
+                        "room": "032"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Griffin,P",
+                "curr_course_code": "SMEA 550",
+                "curr_course_name": "SPECIAL TOPICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dolsak,Nives",
-        "curr_course_code": "SMEA 201",
-        "curr_course_name": "CLIMATE GOVERNANCE",
-        "curr_course_fulfills": [
-            "SSc/NSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "19646",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "CHL",
-                "room": "105"
+        },
+        "SMEA 550C": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19653",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "330-450",
+                        "building": "FTR",
+                        "room": "106"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Laschever,Eric",
+                "curr_course_code": "SMEA 550",
+                "curr_course_name": "SPECIAL TOPICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dolsak,Nives",
-        "curr_course_code": "SMEA 201",
-        "curr_course_name": "CLIMATE GOVERNANCE",
-        "curr_course_fulfills": [
-            "SSc/NSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19647",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "MGH",
-                "room": "074"
+    "SMEA 572": {
+        "SMEA 572A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19654",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "1030-220",
+                        "building": "FTR",
+                        "room": "032"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Christie,Patrick",
+                "curr_course_code": "SMEA 572",
+                "curr_course_name": "EJ FIELD COURSE",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dolsak,Nives",
-        "curr_course_code": "SMEA 201",
-        "curr_course_name": "CLIMATE GOVERNANCE",
-        "curr_course_fulfills": [
-            "SSc/NSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19648",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-15",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SMEA 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19649",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1150",
-                "building": "FSH",
-                "room": "108"
+    "SMEA 586": {
+        "SMEA 586A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19655",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "100-220",
+                        "building": "FSH",
+                        "room": "108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jardine,Sunny",
+                "curr_course_code": "SMEA 586",
+                "curr_course_name": "INTRO SPATIAL DATA",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Wildermuth,Todd",
-        "curr_course_code": "SMEA 515",
-        "curr_course_name": "US COAST & OCN LAW",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19650",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1000-1120",
-                "building": "CDH",
-                "room": "101"
+    "SMEA 600": {
+        "SMEA 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19656",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SMEA 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Aceves",
-        "curr_course_code": "SMEA 519",
-        "curr_course_name": "MARINE POLCY ANALYS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19651",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1200-1250",
-                "building": "FSH",
-                "room": "203"
+        },
+        "SMEA 600B": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19657",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SMEA 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "28",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Beaudreau,Anne H.",
-        "curr_course_code": "SMEA 550",
-        "curr_course_name": "SPECIAL TOPICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19652",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "200-320",
-                "building": "FTR",
-                "room": "032"
+    "SMEA 650": {
+        "SMEA 650A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19658",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-9",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SMEA 650",
+                "curr_course_name": "MAR&ENVIR CAPSTONE",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Griffin,P",
-        "curr_course_code": "SMEA 550",
-        "curr_course_name": "SPECIAL TOPICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19653",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "330-450",
-                "building": "FTR",
-                "room": "106"
+    "SMEA 700": {
+        "SMEA 700A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19659",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SMEA 700",
+                "curr_course_name": "MASTERS THESIS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Laschever,Eric",
-        "curr_course_code": "SMEA 550",
-        "curr_course_name": "SPECIAL TOPICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19654",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-220",
-                "building": "FTR",
-                "room": "032"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Christie,Patrick",
-        "curr_course_code": "SMEA 572",
-        "curr_course_name": "EJ FIELD COURSE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19655",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "100-220",
-                "building": "FSH",
-                "room": "108"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jardine,Sunny",
-        "curr_course_code": "SMEA 586",
-        "curr_course_name": "INTRO SPATIAL DATA",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19656",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "curr_course_code": "SMEA 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19657",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "SMEA 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19658",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-9",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SMEA 650",
-        "curr_course_name": "MAR&ENVIR CAPSTONE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19659",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "curr_course_code": "SMEA 700",
-        "curr_course_name": "MASTERS THESIS",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

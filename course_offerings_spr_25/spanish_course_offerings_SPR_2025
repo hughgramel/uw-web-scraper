@@ -1,1005 +1,1170 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "19933",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1030-1120",
-                "building": "SAV",
-                "room": "158"
+{
+    "SPAN 101": {
+        "SPAN 101A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19933",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1030-1120",
+                        "building": "SAV",
+                        "room": "158"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "18",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 101",
+                "curr_course_name": "ELEMENTARY SPANISH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 101",
-        "curr_course_name": "ELEMENTARY SPANISH",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19934",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "158"
+    "SPAN 102": {
+        "SPAN 102A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19934",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1130-1220",
+                        "building": "SAV",
+                        "room": "158"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "18",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 102",
+                "curr_course_name": "ELEMENTARY SPANISH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 102",
-        "curr_course_name": "ELEMENTARY SPANISH",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19935",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "930-1020",
-                "building": "LOW",
-                "room": "111"
+    "SPAN 103": {
+        "SPAN 103A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19935",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "930-1020",
+                        "building": "LOW",
+                        "room": "111"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 103",
+                "curr_course_name": "ELEMENTARY SPANISH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 103",
-        "curr_course_name": "ELEMENTARY SPANISH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19936",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1030-1120",
-                "building": "THO",
-                "room": "335"
+        },
+        "SPAN 103B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19936",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1030-1120",
+                        "building": "THO",
+                        "room": "335"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Gonzalez-Casanova,Jorge",
+                "curr_course_code": "SPAN 103",
+                "curr_course_name": "ELEMENTARY SPANISH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Gonzalez-Casanova,Jorge",
-        "curr_course_code": "SPAN 103",
-        "curr_course_name": "ELEMENTARY SPANISH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19937",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1130-1220",
-                "building": "THO",
-                "room": "235"
+        },
+        "SPAN 103C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19937",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1130-1220",
+                        "building": "THO",
+                        "room": "235"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Gonzalez-Casanova,Jorge",
+                "curr_course_code": "SPAN 103",
+                "curr_course_name": "ELEMENTARY SPANISH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Gonzalez-Casanova,Jorge",
-        "curr_course_code": "SPAN 103",
-        "curr_course_name": "ELEMENTARY SPANISH",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19938",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "930-1020",
-                "building": "THO",
-                "room": "231"
+    "SPAN 110": {
+        "SPAN 110A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19938",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "930-1020",
+                        "building": "THO",
+                        "room": "231"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 110",
+                "curr_course_name": "ACCEL ELEM SPANISH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 110",
-        "curr_course_name": "ACCEL ELEM SPANISH",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19939",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "830-920",
-                "building": "THO",
-                "room": "331"
+    "SPAN 201": {
+        "SPAN 201A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19939",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "830-920",
+                        "building": "THO",
+                        "room": "331"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 201",
+                "curr_course_name": "INTERMEDIATE SPAN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 201",
-        "curr_course_name": "INTERMEDIATE SPAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19940",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "830-920",
-                "building": "THO",
-                "room": "231"
+    "SPAN 202": {
+        "SPAN 202A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19940",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "830-920",
+                        "building": "THO",
+                        "room": "231"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 202",
+                "curr_course_name": "INTERMEDIATE SPAN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 202",
-        "curr_course_name": "INTERMEDIATE SPAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19941",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "830-920",
-                "building": "SAV",
-                "room": "157"
+    "SPAN 203": {
+        "SPAN 203A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19941",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "830-920",
+                        "building": "SAV",
+                        "room": "157"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 203",
+                "curr_course_name": "INTERMEDIATE SPAN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 203",
-        "curr_course_name": "INTERMEDIATE SPAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "19942",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "930-1020",
-                "building": "LOW",
-                "room": "112"
+        },
+        "SPAN 203B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19942",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "930-1020",
+                        "building": "LOW",
+                        "room": "112"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 203",
+                "curr_course_name": "INTERMEDIATE SPAN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 203",
-        "curr_course_name": "INTERMEDIATE SPAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19943",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "930-1020",
-                "building": "MGH",
-                "room": "284"
+    "SPAN 216": {
+        "SPAN 216A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19943",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "930-1020",
+                        "building": "MGH",
+                        "room": "284"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SPAN 216",
+                "curr_course_name": "HERITAGE LEARNERS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "curr_course_code": "SPAN 216",
-        "curr_course_name": "HERITAGE LEARNERS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19945",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "1030-1120",
-                "building": "SAV",
-                "room": "164"
+    "SPAN 310": {
+        "SPAN 310A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19945",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "1030-1120",
+                        "building": "SAV",
+                        "room": "164"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Raneda-Cuartero,Inma M",
+                "curr_course_code": "SPAN 310",
+                "curr_course_name": "INTRP CLT RDG/FLM/WR",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Raneda-Cuartero,Inma M",
-        "curr_course_code": "SPAN 310",
-        "curr_course_name": "INTRP CLT RDG/FLM/WR",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19947",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "930-1020",
-                "building": "SAV",
-                "room": "164"
+    "SPAN 311": {
+        "SPAN 311A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19947",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "930-1020",
+                        "building": "SAV",
+                        "room": "164"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Raneda-Cuartero,Inma M",
+                "curr_course_code": "SPAN 311",
+                "curr_course_name": "DBATE CLT RDG/FLM/WR",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Raneda-Cuartero,Inma M",
-        "curr_course_code": "SPAN 311",
-        "curr_course_name": "DBATE CLT RDG/FLM/WR",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "19948",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "164"
+        },
+        "SPAN 311B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19948",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "1130-1220",
+                        "building": "SAV",
+                        "room": "164"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rueda,Antonio M.",
+                "curr_course_code": "SPAN 311",
+                "curr_course_name": "DBATE CLT RDG/FLM/WR",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rueda,Antonio M.",
-        "curr_course_code": "SPAN 311",
-        "curr_course_name": "DBATE CLT RDG/FLM/WR",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19949",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "SAV",
-                "room": "136"
+    "SPAN 312": {
+        "SPAN 312A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19949",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "SAV",
+                        "room": "136"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rueda,Antonio M.",
+                "curr_course_code": "SPAN 312",
+                "curr_course_name": "LIT & CLTR 1300-1800",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rueda,Antonio M.",
-        "curr_course_code": "SPAN 312",
-        "curr_course_name": "LIT & CLTR 1300-1800",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19950",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "SAV",
-                "room": "157"
+    "SPAN 313": {
+        "SPAN 313A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19950",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "SAV",
+                        "room": "157"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jaffee,Samuel J",
+                "curr_course_code": "SPAN 313",
+                "curr_course_name": "LIT & CLTR 1800-PRES",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jaffee,Samuel J",
-        "curr_course_code": "SPAN 313",
-        "curr_course_name": "LIT & CLTR 1800-PRES",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19951",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "162"
+    "SPAN 314": {
+        "SPAN 314B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19951",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "1130-1220",
+                        "building": "SAV",
+                        "room": "162"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SPAN 314",
+                "curr_course_name": "FOR HERITAGE STDNTS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "curr_course_code": "SPAN 314",
-        "curr_course_name": "FOR HERITAGE STDNTS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19952",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "930-1020",
-                "building": "SAV",
-                "room": "168"
+    "SPAN 315": {
+        "SPAN 315A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19952",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "930-1020",
+                        "building": "SAV",
+                        "room": "168"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SPAN 315",
+                "curr_course_name": "HERITAGE STDNTS II",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "curr_course_code": "SPAN 315",
-        "curr_course_name": "HERITAGE STDNTS II",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19953",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "130"
+    "SPAN 316": {
+        "SPAN 316A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19953",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "1130-1220",
+                        "building": "SAV",
+                        "room": "130"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SPAN 316",
+                "curr_course_name": "COMP FOR HERITAGE",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "curr_course_code": "SPAN 316",
-        "curr_course_name": "COMP FOR HERITAGE",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19954",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "SAV",
-                "room": "137"
+    "SPAN 336": {
+        "SPAN 336A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19954",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "SAV",
+                        "room": "137"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Robles,Jose",
+                "curr_course_code": "SPAN 336",
+                "curr_course_name": "CREATV STORYTELLING",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Robles,Jose",
-        "curr_course_code": "SPAN 336",
-        "curr_course_name": "CREATV STORYTELLING",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21436",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "SAV",
-                "room": "164"
+    "SPAN 338": {
+        "SPAN 338A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21436",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "SAV",
+                        "room": "164"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "18",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jaffee,Samuel J",
+                "curr_course_code": "SPAN 338",
+                "curr_course_name": "SPAN/LAT AM LIT JOUR",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jaffee,Samuel J",
-        "curr_course_code": "SPAN 338",
-        "curr_course_name": "SPAN/LAT AM LIT JOUR",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21440",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-150",
-                "building": "SAV",
-                "room": "158"
+    "SPAN 374": {
+        "SPAN 374A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21440",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-150",
+                        "building": "SAV",
+                        "room": "158"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 374",
+                "curr_course_name": "SPAN HLTH PROFESS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 374",
-        "curr_course_name": "SPAN HLTH PROFESS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19955",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "SPAN 390",
-        "curr_course_name": "SUPERVISED STUDY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19956",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "SAV",
-                "room": "158"
+    "SPAN 390": {
+        "SPAN 390A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19955",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SPAN 390",
+                "curr_course_name": "SUPERVISED STUDY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hochberg,Elizabeth",
-        "curr_course_code": "SPAN 395",
-        "curr_course_name": "SPEC TOP -LATAM LIT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19957",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "LOW",
-                "room": "219"
+    "SPAN 395": {
+        "SPAN 395A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19956",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "SAV",
+                        "room": "158"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hochberg,Elizabeth",
+                "curr_course_code": "SPAN 395",
+                "curr_course_name": "SPEC TOP -LATAM LIT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bolel,Canan",
-        "curr_course_code": "SPAN 396",
-        "curr_course_name": "SPAN CLTRL STDYS",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21246",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1220",
-                "building": "SAV",
-                "room": "141"
+    "SPAN 396": {
+        "SPAN 396A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19957",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "LOW",
+                        "room": "219"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Bolel,Canan",
+                "curr_course_code": "SPAN 396",
+                "curr_course_name": "SPAN CLTRL STDYS",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Gilbert-Santamaria,Donald",
-        "curr_course_code": "SPAN 423",
-        "curr_course_name": "SP PTRY GA, 16C-17C",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19959",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-420",
-                "building": "ART",
-                "room": "006"
+    "SPAN 423": {
+        "SPAN 423A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21246",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1220",
+                        "building": "SAV",
+                        "room": "141"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Gilbert-Santamaria,Donald",
+                "curr_course_code": "SPAN 423",
+                "curr_course_name": "SP PTRY GA, 16C-17C",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hochberg,Elizabeth",
-        "curr_course_code": "SPAN 474",
-        "curr_course_name": "CONT LAT-AM FICT",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19960",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "H",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "curr_course_code": "SPAN 490",
-        "curr_course_name": "HONORS SEMINAR",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "19961",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "SAV",
-                "room": "158"
+    "SPAN 474": {
+        "SPAN 474A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19959",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-420",
+                        "building": "ART",
+                        "room": "006"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hochberg,Elizabeth",
+                "curr_course_code": "SPAN 474",
+                "curr_course_name": "CONT LAT-AM FICT",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Amezcua,Angelica",
-        "curr_course_code": "SPAN 498",
-        "curr_course_name": "LINGUISTICS TOPICS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19962",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "SPAN 499",
-        "curr_course_name": "SPEC TOPICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19963",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-520",
-                "building": "SAV",
-                "room": "157"
+    "SPAN 490": {
+        "SPAN 490A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19960",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "H",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SPAN 490",
+                "curr_course_name": "HONORS SEMINAR",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rodriguez",
-        "curr_course_code": "SPAN 591",
-        "curr_course_name": "LIT PROB-MID AGES",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19964",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "230-520",
-                "building": "SAV",
-                "room": "158"
+    "SPAN 498": {
+        "SPAN 498A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19961",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "SAV",
+                        "room": "158"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Amezcua,Angelica",
+                "curr_course_code": "SPAN 498",
+                "curr_course_name": "LINGUISTICS TOPICS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "7",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mercer,Leigh K",
-        "curr_course_code": "SPAN 596",
-        "curr_course_name": "LIT PROB-20TH CENT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19965",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "SPAN 499": {
+        "SPAN 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19962",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SPAN 499",
+                "curr_course_name": "SPEC TOPICS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19966",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "SPAN 610",
-        "curr_course_name": "GRAD EXAMS READING",
-        "curr_course_fulfills": ""
+    "SPAN 591": {
+        "SPAN 591A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19963",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "230-520",
+                        "building": "SAV",
+                        "room": "157"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rodriguez",
+                "curr_course_code": "SPAN 591",
+                "curr_course_name": "LIT PROB-MID AGES",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19967",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "SPAN 700",
-        "curr_course_name": "MASTER'S THESIS",
-        "curr_course_fulfills": ""
+    "SPAN 596": {
+        "SPAN 596A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19964",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "230-520",
+                        "building": "SAV",
+                        "room": "158"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "7",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mercer,Leigh K",
+                "curr_course_code": "SPAN 596",
+                "curr_course_name": "LIT PROB-20TH CENT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19968",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "SPAN 800",
-        "curr_course_name": "DOCTORAL DISSERTATN",
-        "curr_course_fulfills": ""
+    "SPAN 600": {
+        "SPAN 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19965",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "SPAN 610": {
+        "SPAN 610A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19966",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SPAN 610",
+                "curr_course_name": "GRAD EXAMS READING",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "SPAN 700": {
+        "SPAN 700A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19967",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "SPAN 700",
+                "curr_course_name": "MASTER'S THESIS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "SPAN 800": {
+        "SPAN 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19968",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "SPAN 800",
+                "curr_course_name": "DOCTORAL DISSERTATN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

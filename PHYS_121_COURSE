@@ -1,0 +1,2386 @@
+{
+    "PHYS 121A": {
+        "main_course": {
+            "restrictions": [],
+            "add_code": "18743",
+            "section": "A",
+            "is_quiz": 0,
+            "is_lab": 0,
+            "credits": "5",
+            "credits_vary": 0,
+            "class_times": [
+                {
+                    "days": "MWF",
+                    "time": "830-920",
+                    "building": "PAA",
+                    "room": "A102"
+                },
+                {
+                    "days": "Th",
+                    "time": "500-620P"
+                }
+            ],
+            "c/nc": 0,
+            "course_fee": "$50",
+            "other_codes": "",
+            "is_estimate": 0,
+            "max_capacity": "210",
+            "curr_enrolled": "0",
+            "open_or_closed": "Open",
+            "professor_name": "Smith,David Patrick",
+            "curr_course_code": "PHYS 121",
+            "curr_course_name": "MECHANICS",
+            "curr_course_fulfills": [
+                "NSc",
+                "RSN"
+            ]
+        },
+        "quiz_list": [
+            {
+                "restrictions": [],
+                "add_code": "18744",
+                "section": "AA",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1230-120",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18745",
+                "section": "AB",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "330-420",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18746",
+                "section": "AC",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "530-620P",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18747",
+                "section": "AD",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "830-920",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18748",
+                "section": "AE",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "930-1020",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18749",
+                "section": "AF",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-420",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18750",
+                "section": "AG",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "630-720P",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18751",
+                "section": "AH",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1130-1220",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18752",
+                "section": "AI",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1230-120",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18753",
+                "section": "AJ",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-320",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18754",
+                "section": "AK",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "130-220",
+                        "building": "PAB",
+                        "room": "B164"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18755",
+                "section": "AL",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "930-1020",
+                        "building": "PAB",
+                        "room": "B156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18767",
+                "section": "AX",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1030-1120",
+                        "building": "PAB",
+                        "room": "B156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18768",
+                "section": "AY",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "430-520P",
+                        "building": "PAB",
+                        "room": "B156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            }
+        ],
+        "lab_list": [
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18756",
+                "section": "AM",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1130-120",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18757",
+                "section": "AN",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1130-120",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18758",
+                "section": "AO",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "530-720P",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18759",
+                "section": "AP",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-120",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18760",
+                "section": "AQ",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "130-320",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18761",
+                "section": "AR",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "330-520",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18762",
+                "section": "AS",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "530-720P",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18763",
+                "section": "AT",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1130-120",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18764",
+                "section": "AU",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-320",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18765",
+                "section": "AV",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-520",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18766",
+                "section": "AW",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-720P",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            }
+        ]
+    },
+    "PHYS 121B": {
+        "main_course": {
+            "restrictions": [],
+            "add_code": "18769",
+            "section": "B",
+            "is_quiz": 0,
+            "is_lab": 0,
+            "credits": "5",
+            "credits_vary": 0,
+            "class_times": [
+                {
+                    "days": "MWF",
+                    "time": "1130-1220",
+                    "building": "PAA",
+                    "room": "A102"
+                },
+                {
+                    "days": "Th",
+                    "time": "500-620P"
+                }
+            ],
+            "c/nc": 0,
+            "course_fee": "$50",
+            "other_codes": "",
+            "is_estimate": 0,
+            "max_capacity": "210",
+            "curr_enrolled": "0",
+            "open_or_closed": "Open",
+            "professor_name": "Hertzog,David",
+            "curr_course_code": "PHYS 121",
+            "curr_course_name": "MECHANICS",
+            "curr_course_fulfills": [
+                "NSc",
+                "RSN"
+            ]
+        },
+        "quiz_list": [
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18770",
+                "section": "BA",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1030-1120",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18771",
+                "section": "BB",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-1220",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18772",
+                "section": "BC",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "230-320",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18773",
+                "section": "BD",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "630-720P",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18774",
+                "section": "BE",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1030-1120",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18775",
+                "section": "BF",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1230-120",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18776",
+                "section": "BG",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "230-320",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18777",
+                "section": "BH",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "430-520P",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18778",
+                "section": "BI",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "830-920",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18779",
+                "section": "BJ",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-320",
+                        "building": "PAB",
+                        "room": "B164"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18780",
+                "section": "BK",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "530-620P",
+                        "building": "PAB",
+                        "room": "B156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18781",
+                "section": "BL",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1130-1220",
+                        "building": "PAB",
+                        "room": "B156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            }
+        ],
+        "lab_list": [
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18782",
+                "section": "BM",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "530-720P",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18783",
+                "section": "BN",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "930-1120",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18784",
+                "section": "BO",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-120",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18785",
+                "section": "BP",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "130-320",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18786",
+                "section": "BQ",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "330-520",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18787",
+                "section": "BR",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "530-720P",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18788",
+                "section": "BS",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-320",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18789",
+                "section": "BT",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-520",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18790",
+                "section": "BU",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-720P",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18791",
+                "section": "BV",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1130-120",
+                        "building": "PAB",
+                        "room": "B110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18792",
+                "section": "BW",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "930-1120",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            }
+        ]
+    },
+    "PHYS 121C": {
+        "main_course": {
+            "restrictions": [],
+            "add_code": "18793",
+            "section": "C",
+            "is_quiz": 0,
+            "is_lab": 0,
+            "credits": "5",
+            "credits_vary": 0,
+            "class_times": [
+                {
+                    "days": "MWF",
+                    "time": "1230-120",
+                    "building": "PAA",
+                    "room": "A102"
+                },
+                {
+                    "days": "Th",
+                    "time": "500-620P"
+                }
+            ],
+            "c/nc": 0,
+            "course_fee": "$50",
+            "other_codes": "",
+            "is_estimate": 0,
+            "max_capacity": "180",
+            "curr_enrolled": "0",
+            "open_or_closed": "Open",
+            "professor_name": "Novitski,Elise",
+            "curr_course_code": "PHYS 121",
+            "curr_course_name": "MECHANICS",
+            "curr_course_fulfills": [
+                "NSc",
+                "RSN"
+            ]
+        },
+        "quiz_list": [
+            {
+                "restrictions": [],
+                "add_code": "18794",
+                "section": "CA",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "830-920",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18795",
+                "section": "CB",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "930-1020",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18796",
+                "section": "CC",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "130-220",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18797",
+                "section": "CD",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "430-520P",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18798",
+                "section": "CE",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1130-1220",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18799",
+                "section": "CF",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-220",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18800",
+                "section": "CG",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-620P",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18801",
+                "section": "CH",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "930-1020",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18802",
+                "section": "CI",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1030-1120",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18803",
+                "section": "CJ",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "130-220",
+                        "building": "PAB",
+                        "room": "B109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18804",
+                "section": "CK",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "930-1020",
+                        "building": "PAB",
+                        "room": "B156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18805",
+                "section": "CL",
+                "is_quiz": 1,
+                "is_lab": 0,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1030-1120",
+                        "building": "PAB",
+                        "room": "B156"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            }
+        ],
+        "lab_list": [
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18806",
+                "section": "CM",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "530-720P",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18807",
+                "section": "CN",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "930-1120",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18808",
+                "section": "CO",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1130-120",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18809",
+                "section": "CP",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "130-320",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18810",
+                "section": "CQ",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "330-520",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18811",
+                "section": "CR",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "530-720P",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18812",
+                "section": "CS",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-320",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18813",
+                "section": "CT",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-520",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [],
+                "add_code": "18814",
+                "section": "CU",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-720P",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18815",
+                "section": "CV",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1130-120",
+                        "building": "PAB",
+                        "room": "B108"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18816",
+                "section": "CW",
+                "is_quiz": 0,
+                "is_lab": 1,
+                "credits": "0",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1130-120",
+                        "building": "PAB",
+                        "room": "B128"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "PHYS 121",
+                "curr_course_name": "MECHANICS",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            }
+        ]
+    }
+}

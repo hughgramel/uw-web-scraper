@@ -1,861 +1,974 @@
-[
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15804",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "CHL",
-                "room": "015"
+{
+    "JSIS A 213": {
+        "JSIS A 213A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15804",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "CHL",
+                        "room": "015"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "JSIS A 213",
+                "curr_course_name": "KOREA/WRLD POLITICS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "JSIS A 213",
-        "curr_course_name": "KOREA/WRLD POLITICS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "15805",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1220",
-                "building": "SMI",
-                "room": "211"
+    "JSIS A 221": {
+        "JSIS A 221A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "15805",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1220",
+                        "building": "SMI",
+                        "room": "211"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Giebel,Christoph",
+                "curr_course_code": "JSIS A 221",
+                "curr_course_name": "HISTORY OF SE ASIA",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Giebel,Christoph",
-        "curr_course_code": "JSIS A 221",
-        "curr_course_name": "HISTORY OF SE ASIA",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15806",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "130-320",
-                "building": "SAV",
-                "room": "137"
+    "JSIS A 268": {
+        "JSIS A 268A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15806",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "130-320",
+                        "building": "SAV",
+                        "room": "137"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mawkanuli,Talant",
+                "curr_course_code": "JSIS A 268",
+                "curr_course_name": "SILK ROAD & GLBLZTN",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mawkanuli,Talant",
-        "curr_course_code": "JSIS A 268",
-        "curr_course_name": "SILK ROAD & GLBLZTN",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15807",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "SMI",
-                "room": "309"
+    "JSIS A 270": {
+        "JSIS A 270A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15807",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "SMI",
+                        "room": "309"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "McCarthy,Justin A",
+                "curr_course_code": "JSIS A 270",
+                "curr_course_name": "NAT PEOPLE NW COAST",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "McCarthy,Justin A",
-        "curr_course_code": "JSIS A 270",
-        "curr_course_name": "NAT PEOPLE NW COAST",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15808",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "WF",
-                "time": "330-520",
-                "building": "SMI",
-                "room": "105"
+    "JSIS A 280": {
+        "JSIS A 280A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15808",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "WF",
+                        "time": "330-520",
+                        "building": "SMI",
+                        "room": "105"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "0",
+                "open_or_closed": "Closed",
+                "professor_name": "Weatherford,AM",
+                "curr_course_code": "JSIS A 280",
+                "curr_course_name": "GLBL INDIGENOUS POL",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "professor_name": "Weatherford,AM",
-        "curr_course_code": "JSIS A 280",
-        "curr_course_name": "GLBL INDIGENOUS POL",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15809",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1230-420",
-                "building": "THO",
-                "room": "101"
+    "JSIS A 317": {
+        "JSIS A 317A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15809",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1230-420",
+                        "building": "THO",
+                        "room": "101"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "41",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Yang,Anand A",
+                "curr_course_code": "JSIS A 317",
+                "curr_course_name": "HISTORY BY BOLLYWOOD",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "41",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Yang,Anand A",
-        "curr_course_code": "JSIS A 317",
-        "curr_course_name": "HISTORY BY BOLLYWOOD",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15810",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "SAV",
-                "room": "264"
+    "JSIS A 323": {
+        "JSIS A 323A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15810",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "SAV",
+                        "room": "264"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "70",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Freije,Vanessa",
+                "curr_course_code": "JSIS A 323",
+                "curr_course_name": "INTER-AMER RELATIONS",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "70",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Freije,Vanessa",
-        "curr_course_code": "JSIS A 323",
-        "curr_course_name": "INTER-AMER RELATIONS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15811",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "CMU",
-                "room": "230"
+    "JSIS A 349": {
+        "JSIS A 349A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15811",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "CMU",
+                        "room": "230"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Klapaki,Nektaria",
+                "curr_course_code": "JSIS A 349",
+                "curr_course_name": "MIGRTN IN MEDTRN",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Klapaki,Nektaria",
-        "curr_course_code": "JSIS A 349",
-        "curr_course_name": "MIGRTN IN MEDTRN",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        },
+        "JSIS A 349B": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15812",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "CMU",
+                        "room": "230"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Klapaki,Nektaria",
+                "curr_course_code": "JSIS A 349",
+                "curr_course_name": "MIGRTN IN MEDTRN",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15812",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "CMU",
-                "room": "230"
+    "JSIS A 405": {
+        "JSIS A 405A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15813",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "DEN",
+                        "room": "256"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Arai,Andrea Gevurtz",
+                "curr_course_code": "JSIS A 405",
+                "curr_course_name": "SOC TRNSFRMTN E ASIA",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Klapaki,Nektaria",
-        "curr_course_code": "JSIS A 349",
-        "curr_course_name": "MIGRTN IN MEDTRN",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15813",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "DEN",
-                "room": "256"
+    "JSIS A 414": {
+        "JSIS A 414A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15814",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "SIG",
+                        "room": "224"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%WJ",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Chang,Ellen Y",
+                "curr_course_code": "JSIS A 414",
+                "curr_course_name": "TAIWAN ART & CULTURE",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Arai,Andrea Gevurtz",
-        "curr_course_code": "JSIS A 405",
-        "curr_course_name": "SOC TRNSFRMTN E ASIA",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15814",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "SIG",
-                "room": "224"
+    "JSIS A 416": {
+        "JSIS A 416A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15815",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "CHL",
+                        "room": "015"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jones,Christopher D",
+                "curr_course_code": "JSIS A 416",
+                "curr_course_name": "NATO",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%WJ",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Chang,Ellen Y",
-        "curr_course_code": "JSIS A 414",
-        "curr_course_name": "TAIWAN ART & CULTURE",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15815",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "CHL",
-                "room": "015"
+    "JSIS A 424": {
+        "JSIS A 424A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15816",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1220",
+                        "building": "SMI",
+                        "room": "205"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Metzler,Mark",
+                "curr_course_code": "JSIS A 424",
+                "curr_course_name": "JAPAN SINCE 20TH CEN",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jones,Christopher D",
-        "curr_course_code": "JSIS A 416",
-        "curr_course_name": "NATO",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15816",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1220",
-                "building": "SMI",
-                "room": "205"
+    "JSIS A 427": {
+        "JSIS A 427A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15817",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "LOW",
+                        "room": "202"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Bilaniuk,Laada M",
+                "curr_course_code": "JSIS A 427",
+                "curr_course_name": "ANTH POST-SOVIET",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Metzler,Mark",
-        "curr_course_code": "JSIS A 424",
-        "curr_course_name": "JAPAN SINCE 20TH CEN",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15817",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "LOW",
-                "room": "202"
+    "JSIS A 428": {
+        "JSIS A 428A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15818",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "LOW",
+                        "room": "216"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "23",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mosca,Matthew",
+                "curr_course_code": "JSIS A 428",
+                "curr_course_name": "CHIN HST 1276-1895",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bilaniuk,Laada M",
-        "curr_course_code": "JSIS A 427",
-        "curr_course_name": "ANTH POST-SOVIET",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15818",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "LOW",
-                "room": "216"
+    "JSIS A 432": {
+        "JSIS A 432A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15819",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "CMU",
+                        "room": "B006"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jun,Hajin",
+                "curr_course_code": "JSIS A 432",
+                "curr_course_name": "HIST JAPANESE EMPIRE",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "23",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mosca,Matthew",
-        "curr_course_code": "JSIS A 428",
-        "curr_course_name": "CHIN HST 1276-1895",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15819",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "CMU",
-                "room": "B006"
+    "JSIS A 463": {
+        "JSIS A 463A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15820",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-520",
+                        "building": "THO",
+                        "room": "215"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Giebel,Christoph",
+                "curr_course_code": "JSIS A 463",
+                "curr_course_name": "TOPICS-SE ASIAN HST",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jun,Hajin",
-        "curr_course_code": "JSIS A 432",
-        "curr_course_name": "HIST JAPANESE EMPIRE",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15820",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-520",
-                "building": "THO",
-                "room": "215"
+    "JSIS A 467": {
+        "JSIS A 467A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21536",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "MOR",
+                        "room": "225"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mallory,Tabitha",
+                "curr_course_code": "JSIS A 467",
+                "curr_course_name": "CHINA'S RISE",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Giebel,Christoph",
-        "curr_course_code": "JSIS A 463",
-        "curr_course_name": "TOPICS-SE ASIAN HST",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21536",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "MOR",
-                "room": "225"
+    "JSIS A 472": {
+        "JSIS A 472A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15821",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-420",
+                        "building": "THO",
+                        "room": "119"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "33",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Anchordoguy,Marie C",
+                "curr_course_code": "JSIS A 472",
+                "curr_course_name": "SCI TECH E ASIA",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mallory,Tabitha",
-        "curr_course_code": "JSIS A 467",
-        "curr_course_name": "CHINA'S RISE",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15821",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-420",
-                "building": "THO",
-                "room": "119"
+    "JSIS A 476": {
+        "JSIS A 476A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15822",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "MEB",
+                        "room": "246"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Montgomery,Scott L.",
+                "curr_course_code": "JSIS A 476",
+                "curr_course_name": "ENERGY IN EAST ASIA",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "33",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Anchordoguy,Marie C",
-        "curr_course_code": "JSIS A 472",
-        "curr_course_name": "SCI TECH E ASIA",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15822",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "MEB",
-                "room": "246"
+    "JSIS A 491": {
+        "JSIS A 491A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15823",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-450",
+                        "building": "CLK",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kuru,Selim S.",
+                "curr_course_code": "JSIS A 491",
+                "curr_course_name": "MID EAST METHODOLOGY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Montgomery,Scott L.",
-        "curr_course_code": "JSIS A 476",
-        "curr_course_name": "ENERGY IN EAST ASIA",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15823",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-450",
-                "building": "CLK",
-                "room": "120"
+    "JSIS A 492": {
+        "JSIS A 492A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15824",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-620",
+                        "building": "THO",
+                        "room": "215"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Freije,Vanessa",
+                "curr_course_code": "JSIS A 492",
+                "curr_course_name": "LATAM STUDIES SEM",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kuru,Selim S.",
-        "curr_course_code": "JSIS A 491",
-        "curr_course_name": "MID EAST METHODOLOGY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15824",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "330-620",
-                "building": "THO",
-                "room": "215"
+    "JSIS A 494": {
+        "JSIS A 494A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15825",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "CMU",
+                        "room": "230"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Klapaki,Nektaria",
+                "curr_course_code": "JSIS A 494",
+                "curr_course_name": "EURO SENIOR SEMINAR",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Freije,Vanessa",
-        "curr_course_code": "JSIS A 492",
-        "curr_course_name": "LATAM STUDIES SEM",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15825",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "CMU",
-                "room": "230"
+    "JSIS A 516": {
+        "JSIS A 516A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15826",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "130-320",
+                        "building": "CHL",
+                        "room": "015"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Jones,Christopher D",
+                "curr_course_code": "JSIS A 516",
+                "curr_course_name": "NATO",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Klapaki,Nektaria",
-        "curr_course_code": "JSIS A 494",
-        "curr_course_name": "EURO SENIOR SEMINAR",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15826",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "130-320",
-                "building": "CHL",
-                "room": "015"
+    "JSIS A 535": {
+        "JSIS A 535A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15827",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-520",
+                        "building": "LOW",
+                        "room": "114"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Bachman,David M",
+                "curr_course_code": "JSIS A 535",
+                "curr_course_name": "MODERN CHINA-IR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Jones,Christopher D",
-        "curr_course_code": "JSIS A 516",
-        "curr_course_name": "NATO",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15827",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-520",
-                "building": "LOW",
-                "room": "114"
+    "JSIS A 553": {
+        "JSIS A 553A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "15828",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "230-520",
+                        "building": "ART",
+                        "room": "006"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "7",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Anchordoguy,Marie C",
+                "curr_course_code": "JSIS A 553",
+                "curr_course_name": "ASIAN FINANC SYSTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bachman,David M",
-        "curr_course_code": "JSIS A 535",
-        "curr_course_name": "MODERN CHINA-IR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "15828",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-520",
-                "building": "ART",
-                "room": "006"
+    "JSIS A 582": {
+        "JSIS A 582A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15829",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-520",
+                        "building": "SWS",
+                        "room": "230"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Christie,Patrick John",
+                "curr_course_code": "JSIS A 582",
+                "curr_course_name": "SEM IN SE ASIAN HST",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "7",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Anchordoguy,Marie C",
-        "curr_course_code": "JSIS A 553",
-        "curr_course_name": "ASIAN FINANC SYSTS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15829",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-520",
-                "building": "SWS",
-                "room": "230"
+    "JSIS A 588": {
+        "JSIS A 588A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15830",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1130-220",
+                        "building": "RAI",
+                        "room": "109"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Lin,James",
+                "curr_course_code": "JSIS A 588",
+                "curr_course_name": "MAKING MODERN TAIWAN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Christie,Patrick John",
-        "curr_course_code": "JSIS A 582",
-        "curr_course_name": "SEM IN SE ASIAN HST",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15830",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1130-220",
-                "building": "RAI",
-                "room": "109"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Lin,James",
-        "curr_course_code": "JSIS A 588",
-        "curr_course_name": "MAKING MODERN TAIWAN",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

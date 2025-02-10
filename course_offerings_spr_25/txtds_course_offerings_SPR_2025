@@ -1,166 +1,196 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "21140",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "130-320",
-                "building": "SMI",
-                "room": "107"
+{
+    "TXTDS 220": {
+        "TXTDS 220A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21140",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "130-320",
+                        "building": "SMI",
+                        "room": "107"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "22",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Arduini,Beatrice",
+                "curr_course_code": "TXTDS 220",
+                "curr_course_name": "MAKING MANUSCRIPTS",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "22",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Arduini,Beatrice",
-        "curr_course_code": "TXTDS 220",
-        "curr_course_name": "MAKING MANUSCRIPTS",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21141",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1000-120",
-                "building": "ALB",
-                "room": "B069"
+    "TXTDS 402": {
+        "TXTDS 402A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21141",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "1000-120",
+                        "building": "ALB",
+                        "room": "B069"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Turnovsky,Geoffrey",
+                "curr_course_code": "TXTDS 402",
+                "curr_course_name": "BOOK ARTS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "professor_name": "Turnovsky,Geoffrey",
-        "curr_course_code": "TXTDS 402",
-        "curr_course_name": "BOOK ARTS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "21142",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-120",
-                "building": "THO",
-                "room": "234"
+    "TXTDS 404": {
+        "TXTDS 404A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21142",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-120",
+                        "building": "THO",
+                        "room": "234"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "7",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Turnovsky,Geoffrey",
+                "curr_course_code": "TXTDS 404",
+                "curr_course_name": "TXTS/PBLCS/PUBLCATNS",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "7",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Turnovsky,Geoffrey",
-        "curr_course_code": "TXTDS 404",
-        "curr_course_name": "TXTS/PBLCS/PUBLCATNS",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "21143",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "TXTDS 405",
-        "curr_course_name": "CAP TEXT/DIGTL HUMAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21144",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-120",
-                "building": "THO",
-                "room": "234"
+    "TXTDS 405": {
+        "TXTDS 405A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "21143",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "TXTDS 405",
+                "curr_course_name": "CAP TEXT/DIGTL HUMAN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "professor_name": "Turnovsky,Geoffrey",
-        "curr_course_code": "TXTDS 504",
-        "curr_course_name": "TXTS/PBLCS/PUBLCATNS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "21145",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "curr_course_code": "TXTDS 505",
-        "curr_course_name": "CAP TEXT/DIGTL HUMAN",
-        "curr_course_fulfills": ""
+    "TXTDS 504": {
+        "TXTDS 504A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21144",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-120",
+                        "building": "THO",
+                        "room": "234"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Turnovsky,Geoffrey",
+                "curr_course_code": "TXTDS 504",
+                "curr_course_name": "TXTS/PBLCS/PUBLCATNS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "TXTDS 505": {
+        "TXTDS 505A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "21145",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "TXTDS 505",
+                "curr_course_name": "CAP TEXT/DIGTL HUMAN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

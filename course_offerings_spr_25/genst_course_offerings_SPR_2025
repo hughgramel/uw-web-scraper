@@ -1,954 +1,1097 @@
-[
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14842",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-1220",
-                "building": "TBA",
-                "room": "TBA"
+{
+    "GEN ST 105": {
+        "GEN ST 105A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14842",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-1220",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kennedy,Spencer",
+                "curr_course_code": "GEN ST 105",
+                "curr_course_name": "INTRO LIBERAL STDY",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "professor_name": "Kennedy,Spencer",
-        "curr_course_code": "GEN ST 105",
-        "curr_course_name": "INTRO LIBERAL STDY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14844",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "curr_course_code": "GEN ST 197",
-        "curr_course_name": "FIRST-YEAR SEMINAR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14845",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "18",
-        "curr_enrolled": "0",
-        "curr_course_code": "GEN ST 197",
-        "curr_course_name": "FIRST-YEAR SEMINAR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "14846",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "330-520",
-                "building": "MGH",
-                "room": "242"
+    "GEN ST 197": {
+        "GEN ST 197B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14844",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "18",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "GEN ST 197",
+                "curr_course_name": "FIRST-YEAR SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kelly,Maja",
-        "curr_course_code": "GEN ST 205",
-        "curr_course_name": "ACADEMIC DEVELOPMENT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14847",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "330-450",
-                "building": "ECE",
-                "room": "037"
+        },
+        "GEN ST 197C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14845",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "18",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "GEN ST 197",
+                "curr_course_name": "FIRST-YEAR SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "55",
-        "curr_enrolled": "0",
-        "professor_name": "Huante,Andres",
-        "curr_course_code": "GEN ST 205",
-        "curr_course_name": "ACADEMIC DEVELOPMENT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21292",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-1220",
-                "building": "CSH",
-                "room": "107"
+    "GEN ST 205": {
+        "GEN ST 205A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14846",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-520",
+                        "building": "MGH",
+                        "room": "242"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kelly,Maja",
+                "curr_course_code": "GEN ST 205",
+                "curr_course_name": "ACADEMIC DEVELOPMENT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "professor_name": "Kennedy,Spencer",
-        "curr_course_code": "GEN ST 205",
-        "curr_course_name": "ACADEMIC DEVELOPMENT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21629",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-320",
-                "building": "JHN",
-                "room": "075"
+        },
+        "GEN ST 205B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14847",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-450",
+                        "building": "ECE",
+                        "room": "037"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "55",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Huante,Andres",
+                "curr_course_code": "GEN ST 205",
+                "curr_course_name": "ACADEMIC DEVELOPMENT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "100",
-        "curr_enrolled": "0",
-        "professor_name": "Fuller,Joey",
-        "curr_course_code": "GEN ST 205",
-        "curr_course_name": "ACADEMIC DEVELOPMENT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "14848",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1130-1220",
-                "building": "SIG",
-                "room": "226"
+        },
+        "GEN ST 205C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21292",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-1220",
+                        "building": "CSH",
+                        "room": "107"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kennedy,Spencer",
+                "curr_course_code": "GEN ST 205",
+                "curr_course_name": "ACADEMIC DEVELOPMENT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Burnstein,Lily",
-        "curr_course_code": "GEN ST 210",
-        "curr_course_name": "CAREER EXPLORATION",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14849",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "230-350",
-                "building": "ECE",
-                "room": "125"
+        },
+        "GEN ST 205D": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21629",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-320",
+                        "building": "JHN",
+                        "room": "075"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "100",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Fuller,Joey",
+                "curr_course_code": "GEN ST 205",
+                "curr_course_name": "ACADEMIC DEVELOPMENT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "100",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mayer,Kyla",
-        "curr_course_code": "GEN ST 220",
-        "curr_course_name": "INTEGRATED LRNG TPCS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14850",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-320",
-                "building": "MGH",
-                "room": "288"
+    "GEN ST 210": {
+        "GEN ST 210A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14848",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "1130-1220",
+                        "building": "SIG",
+                        "room": "226"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Burnstein,Lily",
+                "curr_course_code": "GEN ST 210",
+                "curr_course_name": "CAREER EXPLORATION",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%B",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "professor_name": "Machin,Joanne",
-        "curr_course_code": "GEN ST 220",
-        "curr_course_name": "INTEGRATED LRNG TPCS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14851",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%B",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Oppenheim,Willy",
-        "curr_course_code": "GEN ST 240",
-        "curr_course_name": "CMTY ENGAGE SEMINAR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14852",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "230-420",
-                "building": "MGH",
-                "room": "231"
+    "GEN ST 220": {
+        "GEN ST 220A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14849",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "230-350",
+                        "building": "ECE",
+                        "room": "125"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "100",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mayer,Kyla",
+                "curr_course_code": "GEN ST 220",
+                "curr_course_name": "INTEGRATED LRNG TPCS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Coletta,Meghan",
-        "curr_course_code": "GEN ST 270",
-        "curr_course_name": "PEER EDUCATOR PRACT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14853",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-420",
-                "building": "MGH",
-                "room": "231"
+        },
+        "GEN ST 220C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14850",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-320",
+                        "building": "MGH",
+                        "room": "288"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%B",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Machin,Joanne",
+                "curr_course_code": "GEN ST 220",
+                "curr_course_name": "INTEGRATED LRNG TPCS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Kolby,Emily",
-        "curr_course_code": "GEN ST 270",
-        "curr_course_name": "PEER EDUCATOR PRACT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14854",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-1020",
-                "building": "GUG",
-                "room": "218"
+    "GEN ST 240": {
+        "GEN ST 240A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14851",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%B",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Oppenheim,Willy",
+                "curr_course_code": "GEN ST 240",
+                "curr_course_name": "CMTY ENGAGE SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 0,
-        "max_capacity": "45",
-        "curr_enrolled": "0",
-        "professor_name": "Iwanski,Analise Riane",
-        "curr_course_code": "GEN ST 270",
-        "curr_course_name": "PEER EDUCATOR PRACT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14855",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "830-920",
-                "building": "MGH",
-                "room": "120"
+    "GEN ST 270": {
+        "GEN ST 270A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14852",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "230-420",
+                        "building": "MGH",
+                        "room": "231"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Coletta,Meghan",
+                "curr_course_code": "GEN ST 270",
+                "curr_course_name": "PEER EDUCATOR PRACT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Coletta,Meghan",
-        "curr_course_code": "GEN ST 270",
-        "curr_course_name": "PEER EDUCATOR PRACT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "21431",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-320",
-                "building": "ECC",
-                "room": "206"
+        },
+        "GEN ST 270B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14853",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "230-420",
+                        "building": "MGH",
+                        "room": "231"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kolby,Emily",
+                "curr_course_code": "GEN ST 270",
+                "curr_course_name": "PEER EDUCATOR PRACT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "professor_name": "Panelo,Nate",
-        "curr_course_code": "GEN ST 297",
-        "curr_course_name": "UNDERGRAD SEMINAR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14856",
-        "section": "G",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "1030-1120",
-                "building": "BAG",
-                "room": "331A"
+        },
+        "GEN ST 270C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14854",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "830-1020",
+                        "building": "GUG",
+                        "room": "218"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 0,
+                "max_capacity": "45",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Iwanski,Analise Riane",
+                "curr_course_code": "GEN ST 270",
+                "curr_course_name": "PEER EDUCATOR PRACT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "curr_course_code": "GEN ST 297",
-        "curr_course_name": "UNDERGRAD SEMINAR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "14857",
-        "section": "I",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "330-420",
-                "building": "SAV",
-                "room": "136"
+        },
+        "GEN ST 270D": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14855",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "830-920",
+                        "building": "MGH",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Coletta,Meghan",
+                "curr_course_code": "GEN ST 270",
+                "curr_course_name": "PEER EDUCATOR PRACT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schmidt,Sean G.",
-        "curr_course_code": "GEN ST 297",
-        "curr_course_name": "UNDERGRAD SEMINAR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14859",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "330-450",
-                "building": "MGH",
-                "room": "288"
+    "GEN ST 297": {
+        "GEN ST 297A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "21431",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-320",
+                        "building": "ECC",
+                        "room": "206"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Panelo,Nate",
+                "curr_course_code": "GEN ST 297",
+                "curr_course_name": "UNDERGRAD SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "professor_name": "Sperry,Todd",
-        "curr_course_code": "GEN ST 299",
-        "curr_course_name": "RSCH: WAYS OF KNOWNG",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14860",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "430-720P",
-                "building": "MGH",
-                "room": "134"
+        },
+        "GEN ST 297G": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14856",
+                "section": "G",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "1030-1120",
+                        "building": "BAG",
+                        "room": "331A"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "GEN ST 297",
+                "curr_course_name": "UNDERGRAD SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%B",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "professor_name": "Lee,Erin",
-        "curr_course_code": "GEN ST 310",
-        "curr_course_name": "CAREER MENTORSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14861",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "430-720P",
-                "building": "MGH",
-                "room": "134"
+        },
+        "GEN ST 297I": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14857",
+                "section": "I",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "330-420",
+                        "building": "SAV",
+                        "room": "136"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schmidt,Sean G.",
+                "curr_course_code": "GEN ST 297",
+                "curr_course_name": "UNDERGRAD SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%B",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "professor_name": "Lee,Erin",
-        "curr_course_code": "GEN ST 310",
-        "curr_course_name": "CAREER MENTORSHIP",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14862",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "530-720P",
-                "building": "BNS",
-                "room": "115"
+    "GEN ST 299": {
+        "GEN ST 299A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14859",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-450",
+                        "building": "MGH",
+                        "room": "288"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Sperry,Todd",
+                "curr_course_code": "GEN ST 299",
+                "curr_course_name": "RSCH: WAYS OF KNOWNG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "32",
-        "curr_enrolled": "0",
-        "curr_course_code": "GEN ST 345",
-        "curr_course_name": "CMTY ENGAGE PRACT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14863",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-4",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "530-720P",
-                "building": "BAG",
-                "room": "331A"
+    "GEN ST 310": {
+        "GEN ST 310A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14860",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "430-720P",
+                        "building": "MGH",
+                        "room": "134"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%B",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Lee,Erin",
+                "curr_course_code": "GEN ST 310",
+                "curr_course_name": "CAREER MENTORSHIP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "professor_name": "Biscocho Pelletier,Emma",
-        "curr_course_code": "GEN ST 346",
-        "curr_course_name": "CMTY ENGAGEMENT EDUC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14864",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "A",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "professor_name": "Biscocho Pelletier,Emma",
-        "curr_course_code": "GEN ST 350",
-        "curr_course_name": "INTERN PRAC & RFLCTN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14865",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "A",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "professor_name": "Davis,Eli",
-        "curr_course_code": "GEN ST 350",
-        "curr_course_name": "INTERN PRAC & RFLCTN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14866",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "230-520",
-                "building": "MGH",
-                "room": "228"
+        },
+        "GEN ST 310B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14861",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "430-720P",
+                        "building": "MGH",
+                        "room": "134"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%B",
+                "is_estimate": 0,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Lee,Erin",
+                "curr_course_code": "GEN ST 310",
+                "curr_course_name": "CAREER MENTORSHIP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "professor_name": "Goodwin,Nick",
-        "curr_course_code": "GEN ST 370",
-        "curr_course_name": "PEER FACILITATR PRAC",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14867",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "830-920",
-                "building": "MGH",
-                "room": "120"
+    "GEN ST 345": {
+        "GEN ST 345A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14862",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-720P",
+                        "building": "BNS",
+                        "room": "115"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "32",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "GEN ST 345",
+                "curr_course_name": "CMTY ENGAGE PRACT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Goodwin,Nick",
-        "curr_course_code": "GEN ST 370",
-        "curr_course_name": "PEER FACILITATR PRAC",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14868",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "100",
-        "curr_enrolled": "0",
-        "professor_name": "Macklin,Mandy",
-        "curr_course_code": "GEN ST 375",
-        "curr_course_name": "TUTORING & COACHING",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "14869",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "curr_course_code": "GEN ST 391",
-        "curr_course_name": "INDEPENDENT STUDY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14870",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "330-450",
-                "building": "MGH",
-                "room": "288"
+    "GEN ST 346": {
+        "GEN ST 346A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14863",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-4",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-720P",
+                        "building": "BAG",
+                        "room": "331A"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Biscocho Pelletier,Emma",
+                "curr_course_code": "GEN ST 346",
+                "curr_course_name": "CMTY ENGAGEMENT EDUC",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "professor_name": "Sperry,Todd",
-        "curr_course_code": "GEN ST 411",
-        "curr_course_name": "GRAD SCHOOL EXPLORE",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14871",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "230-420",
-                "building": "MGH",
-                "room": "231"
+    "GEN ST 350": {
+        "GEN ST 350C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14864",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "A",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Biscocho Pelletier,Emma",
+                "curr_course_code": "GEN ST 350",
+                "curr_course_name": "INTERN PRAC & RFLCTN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "professor_name": "Coletta,Meghan",
-        "curr_course_code": "GEN ST 470",
-        "curr_course_name": "ADV PEER EDUCTR PRAC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14872",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-420",
-                "building": "MGH",
-                "room": "231"
+        },
+        "GEN ST 350D": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14865",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "A",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Davis,Eli",
+                "curr_course_code": "GEN ST 350",
+                "curr_course_name": "INTERN PRAC & RFLCTN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "professor_name": "Kolby,Emily",
-        "curr_course_code": "GEN ST 470",
-        "curr_course_name": "ADV PEER EDUCTR PRAC",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14873",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-1020",
-                "building": "GUG",
-                "room": "218"
+    "GEN ST 370": {
+        "GEN ST 370A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14866",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "230-520",
+                        "building": "MGH",
+                        "room": "228"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Goodwin,Nick",
+                "curr_course_code": "GEN ST 370",
+                "curr_course_name": "PEER FACILITATR PRAC",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "professor_name": "Iwanski,Analise Riane",
-        "curr_course_code": "GEN ST 470",
-        "curr_course_name": "ADV PEER EDUCTR PRAC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14874",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "830-920",
-                "building": "MGH",
-                "room": "120"
+        },
+        "GEN ST 370B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14867",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "830-920",
+                        "building": "MGH",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Goodwin,Nick",
+                "curr_course_code": "GEN ST 370",
+                "curr_course_name": "PEER FACILITATR PRAC",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Coletta,Meghan",
-        "curr_course_code": "GEN ST 470",
-        "curr_course_name": "ADV PEER EDUCTR PRAC",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14875",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-4",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%B",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "professor_name": "Sperry,Todd",
-        "curr_course_code": "GEN ST 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
+    "GEN ST 375": {
+        "GEN ST 375B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14868",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "100",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Macklin,Mandy",
+                "curr_course_code": "GEN ST 375",
+                "curr_course_name": "TUTORING & COACHING",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "GEN ST 391": {
+        "GEN ST 391A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "14869",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "GEN ST 391",
+                "curr_course_name": "INDEPENDENT STUDY",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "GEN ST 411": {
+        "GEN ST 411A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14870",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "330-450",
+                        "building": "MGH",
+                        "room": "288"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Sperry,Todd",
+                "curr_course_code": "GEN ST 411",
+                "curr_course_name": "GRAD SCHOOL EXPLORE",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "GEN ST 470": {
+        "GEN ST 470A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14871",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "230-420",
+                        "building": "MGH",
+                        "room": "231"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Coletta,Meghan",
+                "curr_course_code": "GEN ST 470",
+                "curr_course_name": "ADV PEER EDUCTR PRAC",
+                "curr_course_fulfills": ""
+            }
+        },
+        "GEN ST 470B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14872",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "230-420",
+                        "building": "MGH",
+                        "room": "231"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Kolby,Emily",
+                "curr_course_code": "GEN ST 470",
+                "curr_course_name": "ADV PEER EDUCTR PRAC",
+                "curr_course_fulfills": ""
+            }
+        },
+        "GEN ST 470C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14873",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "830-1020",
+                        "building": "GUG",
+                        "room": "218"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Iwanski,Analise Riane",
+                "curr_course_code": "GEN ST 470",
+                "curr_course_name": "ADV PEER EDUCTR PRAC",
+                "curr_course_fulfills": ""
+            }
+        },
+        "GEN ST 470D": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14874",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "830-920",
+                        "building": "MGH",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Coletta,Meghan",
+                "curr_course_code": "GEN ST 470",
+                "curr_course_name": "ADV PEER EDUCTR PRAC",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "GEN ST 499": {
+        "GEN ST 499A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14875",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-4",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%B",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Sperry,Todd",
+                "curr_course_code": "GEN ST 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

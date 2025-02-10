@@ -1,32 +1,36 @@
-[
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "15020",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "130-320",
-                "building": "MGH",
-                "room": "241"
+{
+    "GRDSCH 200": {
+        "GRDSCH 200A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "15020",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "130-320",
+                        "building": "MGH",
+                        "room": "241"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "90",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Manbeck,Katherine",
+                "curr_course_code": "GRDSCH 200",
+                "curr_course_name": "PREP FOR GRAD ED",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "90",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Manbeck,Katherine",
-        "curr_course_code": "GRDSCH 200",
-        "curr_course_name": "PREP FOR GRAD ED",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

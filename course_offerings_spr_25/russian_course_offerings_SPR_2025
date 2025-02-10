@@ -1,336 +1,384 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "19573",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "930-1020",
-                "building": "GUG",
-                "room": "204"
+{
+    "RUSS 103": {
+        "RUSS 103A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19573",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "930-1020",
+                        "building": "GUG",
+                        "room": "204"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "ZAITSEVA,VALENTINA",
+                "curr_course_code": "RUSS 103",
+                "curr_course_name": "FIRST-YEAR RUSSIAN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "ZAITSEVA,VALENTINA",
-        "curr_course_code": "RUSS 103",
-        "curr_course_name": "FIRST-YEAR RUSSIAN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19574",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1030-1120",
-                "building": "MGH",
-                "room": "284"
+        },
+        "RUSS 103B": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19574",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1030-1120",
+                        "building": "MGH",
+                        "room": "284"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kim,Seorim",
+                "curr_course_code": "RUSS 103",
+                "curr_course_name": "FIRST-YEAR RUSSIAN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kim,Seorim",
-        "curr_course_code": "RUSS 103",
-        "curr_course_name": "FIRST-YEAR RUSSIAN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19575",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "130-220",
-                "building": "PDL",
-                "room": "A216"
+    "RUSS 113": {
+        "RUSS 113A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19575",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "130-220",
+                        "building": "PDL",
+                        "room": "A216"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "ZAITSEVA,VALENTINA",
+                "curr_course_code": "RUSS 113",
+                "curr_course_name": "1ST-YR MED RUSS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "ZAITSEVA,VALENTINA",
-        "curr_course_code": "RUSS 113",
-        "curr_course_name": "1ST-YR MED RUSS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19576",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1130-1220",
-                "building": "MGH",
-                "room": "242"
+    "RUSS 203": {
+        "RUSS 203A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19576",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1130-1220",
+                        "building": "MGH",
+                        "room": "242"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "ZAITSEVA,VALENTINA",
+                "curr_course_code": "RUSS 203",
+                "curr_course_name": "SECOND-YEAR RUSS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "ZAITSEVA,VALENTINA",
-        "curr_course_code": "RUSS 203",
-        "curr_course_name": "SECOND-YEAR RUSS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19577",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1130-1220",
-                "building": "PDL",
-                "room": "A216"
+    "RUSS 303": {
+        "RUSS 303A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19577",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1130-1220",
+                        "building": "PDL",
+                        "room": "A216"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Polack,Zoya",
+                "curr_course_code": "RUSS 303",
+                "curr_course_name": "3RD YR RUSSIAN",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Polack,Zoya",
-        "curr_course_code": "RUSS 303",
-        "curr_course_name": "3RD YR RUSSIAN",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19578",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "130-220",
-                "building": "MEB",
-                "room": "237"
+    "RUSS 322": {
+        "RUSS 322A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19578",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "130-220",
+                        "building": "MEB",
+                        "room": "237"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Henry,Barbara",
+                "curr_course_code": "RUSS 322",
+                "curr_course_name": "19TH C RUSS LIT",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Henry,Barbara",
-        "curr_course_code": "RUSS 322",
-        "curr_course_name": "19TH C RUSS LIT",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19579",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "WF",
-                "time": "1030-1220",
-                "building": "SIG",
-                "room": "228"
+    "RUSS 323": {
+        "RUSS 323A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19579",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "WF",
+                        "time": "1030-1220",
+                        "building": "SIG",
+                        "room": "228"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "35",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Alaniz,Jose",
+                "curr_course_code": "RUSS 323",
+                "curr_course_name": "20TH C RUSS LIT",
+                "curr_course_fulfills": [
+                    "A&H/SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "35",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Alaniz,Jose",
-        "curr_course_code": "RUSS 323",
-        "curr_course_name": "20TH C RUSS LIT",
-        "curr_course_fulfills": [
-            "A&H/SSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19580",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "930-1020",
-                "building": "PDL",
-                "room": "A216"
+    "RUSS 403": {
+        "RUSS 403A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19580",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "930-1020",
+                        "building": "PDL",
+                        "room": "A216"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Polack,Zoya",
+                "curr_course_code": "RUSS 403",
+                "curr_course_name": "ADVANCED RUSS",
+                "curr_course_fulfills": [
+                    "A&H"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Polack,Zoya",
-        "curr_course_code": "RUSS 403",
-        "curr_course_name": "ADVANCED RUSS",
-        "curr_course_fulfills": [
-            "A&H"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19581",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "RUSS 499",
-        "curr_course_name": "DIRECTED STUDY/RSCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "19582",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTh",
-                "time": "1030-1120",
-                "building": "PDL",
-                "room": "A216"
+    "RUSS 499": {
+        "RUSS 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19581",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "RUSS 499",
+                "curr_course_name": "DIRECTED STUDY/RSCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Polack,Zoya",
-        "curr_course_code": "RUSS 501",
-        "curr_course_name": "GRAD RUSSIAN LANG",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "19583",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWTh",
-                "time": "130-220",
-                "building": "MEB",
-                "room": "237"
+    "RUSS 501": {
+        "RUSS 501A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19582",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTh",
+                        "time": "1030-1120",
+                        "building": "PDL",
+                        "room": "A216"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Polack,Zoya",
+                "curr_course_code": "RUSS 501",
+                "curr_course_name": "GRAD RUSSIAN LANG",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Henry,Barbara",
-        "curr_course_code": "RUSS 522",
-        "curr_course_name": "RUSS LIT 19TH CENT",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "19584",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "RUSS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "RUSS 522": {
+        "RUSS 522A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "19583",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWTh",
+                        "time": "130-220",
+                        "building": "MEB",
+                        "room": "237"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Henry,Barbara",
+                "curr_course_code": "RUSS 522",
+                "curr_course_name": "RUSS LIT 19TH CENT",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "RUSS 600": {
+        "RUSS 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "19584",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "RUSS 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

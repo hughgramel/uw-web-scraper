@@ -1,451 +1,548 @@
-[
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17358",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Fan,Ming",
-        "curr_course_code": "MSIS 511",
-        "curr_course_name": "DIGITAL TRANSFORMTN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17359",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Fan,Ming",
-        "curr_course_code": "MSIS 511",
-        "curr_course_name": "DIGITAL TRANSFORMTN",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17360",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Fan,Ming",
-        "curr_course_code": "MSIS 526",
-        "curr_course_name": "ENTERPRISE SYS INT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17361",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Fan,Ming",
-        "curr_course_code": "MSIS 526",
-        "curr_course_name": "ENTERPRISE SYS INT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17362",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 541",
-        "curr_course_name": "ADV DATA MINING",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17363",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 542",
-        "curr_course_name": "ADV DEV FRAMEWORKS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17364",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 546",
-        "curr_course_name": "INFO SYS ECON",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17365",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 547",
-        "curr_course_name": "CLOUD COMPUTING",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17366",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 549",
-        "curr_course_name": "MACHINE LEARNING AI",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17367",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "530-950P",
-                "building": "PCAR",
-                "room": "292"
+{
+    "MSIS 511": {
+        "MSIS 511A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17358",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Fan,Ming",
+                "curr_course_code": "MSIS 511",
+                "curr_course_name": "DIGITAL TRANSFORMTN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Keskin,Tayfun",
-        "curr_course_code": "MSIS 550",
-        "curr_course_name": "MSIS LEADERSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17368",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "530-950P",
-                "building": "PCAR",
-                "room": "294"
+        },
+        "MSIS 511B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17359",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Fan,Ming",
+                "curr_course_code": "MSIS 511",
+                "curr_course_name": "DIGITAL TRANSFORMTN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "professor_name": "Keskin,Tayfun",
-        "curr_course_code": "MSIS 550",
-        "curr_course_name": "MSIS LEADERSHIP",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17369",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "530-950P",
-                "building": "PCAR",
-                "room": "290"
+    "MSIS 526": {
+        "MSIS 526A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17360",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Fan,Ming",
+                "curr_course_code": "MSIS 526",
+                "curr_course_name": "ENTERPRISE SYS INT",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 550",
-        "curr_course_name": "MSIS LEADERSHIP",
-        "curr_course_fulfills": ""
+        },
+        "MSIS 526B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17361",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Fan,Ming",
+                "curr_course_code": "MSIS 526",
+                "curr_course_name": "ENTERPRISE SYS INT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17370",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 550",
-        "curr_course_name": "MSIS LEADERSHIP",
-        "curr_course_fulfills": ""
+    "MSIS 541": {
+        "MSIS 541A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17362",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 541",
+                "curr_course_name": "ADV DATA MINING",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17371",
-        "section": "E",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 550",
-        "curr_course_name": "MSIS LEADERSHIP",
-        "curr_course_fulfills": ""
+    "MSIS 542": {
+        "MSIS 542A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17363",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 542",
+                "curr_course_name": "ADV DEV FRAMEWORKS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17372",
-        "section": "F",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 550",
-        "curr_course_name": "MSIS LEADERSHIP",
-        "curr_course_fulfills": ""
+    "MSIS 546": {
+        "MSIS 546A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17364",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 546",
+                "curr_course_name": "INFO SYS ECON",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17373",
-        "section": "G",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 550",
-        "curr_course_name": "MSIS LEADERSHIP",
-        "curr_course_fulfills": ""
+    "MSIS 547": {
+        "MSIS 547A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17365",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 547",
+                "curr_course_name": "CLOUD COMPUTING",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17374",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "65",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 551",
-        "curr_course_name": "SECURITY ANALYTICS",
-        "curr_course_fulfills": ""
+    "MSIS 549": {
+        "MSIS 549A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17366",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 549",
+                "curr_course_name": "MACHINE LEARNING AI",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17375",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 579",
-        "curr_course_name": "MODERN INFO SYS",
-        "curr_course_fulfills": ""
+    "MSIS 550": {
+        "MSIS 550A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17367",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "530-950P",
+                        "building": "PCAR",
+                        "room": "292"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Keskin,Tayfun",
+                "curr_course_code": "MSIS 550",
+                "curr_course_name": "MSIS LEADERSHIP",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MSIS 550B": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17368",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "530-950P",
+                        "building": "PCAR",
+                        "room": "294"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Keskin,Tayfun",
+                "curr_course_code": "MSIS 550",
+                "curr_course_name": "MSIS LEADERSHIP",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MSIS 550C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17369",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "530-950P",
+                        "building": "PCAR",
+                        "room": "290"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 550",
+                "curr_course_name": "MSIS LEADERSHIP",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MSIS 550D": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17370",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 550",
+                "curr_course_name": "MSIS LEADERSHIP",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MSIS 550E": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17371",
+                "section": "E",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 550",
+                "curr_course_name": "MSIS LEADERSHIP",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MSIS 550F": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17372",
+                "section": "F",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 550",
+                "curr_course_name": "MSIS LEADERSHIP",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MSIS 550G": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17373",
+                "section": "G",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 550",
+                "curr_course_name": "MSIS LEADERSHIP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "17376",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "MSIS 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "MSIS 551": {
+        "MSIS 551A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17374",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "65",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 551",
+                "curr_course_name": "SECURITY ANALYTICS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "17377",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "professor_name": "Donaldson,Sydney",
-        "curr_course_code": "MSIS 601",
-        "curr_course_name": "INTERNSHIP",
-        "curr_course_fulfills": ""
+    "MSIS 579": {
+        "MSIS 579A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17375",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 579",
+                "curr_course_name": "MODERN INFO SYS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "MSIS 600": {
+        "MSIS 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "17376",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MSIS 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "MSIS 601": {
+        "MSIS 601A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "17377",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Donaldson,Sydney",
+                "curr_course_code": "MSIS 601",
+                "curr_course_name": "INTERNSHIP",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

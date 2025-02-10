@@ -1,2706 +1,2958 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "18971",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "100-220",
-                "building": "HCK",
-                "room": "132"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "120",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rotem,Noga",
-        "curr_course_code": "POL S 201",
-        "curr_course_name": "INTRO POL THEORY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18972",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "DEN",
-                "room": "259"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 201",
-        "curr_course_name": "INTRO POL THEORY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18973",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "DEN",
-                "room": "259"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 201",
-        "curr_course_name": "INTRO POL THEORY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18974",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "DEN",
-                "room": "259"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 201",
-        "curr_course_name": "INTRO POL THEORY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18975",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 201",
-        "curr_course_name": "INTRO POL THEORY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18976",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-350",
-                "building": "KNE",
-                "room": "130"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "120",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mayer,Sebastian",
-        "curr_course_code": "POL S 202",
-        "curr_course_name": "INTRO AMERICAN POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18977",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "SMI",
-                "room": "311"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 202",
-        "curr_course_name": "INTRO AMERICAN POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18978",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "SMI",
-                "room": "311"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 202",
-        "curr_course_name": "INTRO AMERICAN POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18979",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "139"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 202",
-        "curr_course_name": "INTRO AMERICAN POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18980",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "SAV",
-                "room": "139"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 202",
-        "curr_course_name": "INTRO AMERICAN POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18981",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1250",
-                "building": "HCK",
-                "room": "132"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "120",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kim,James",
-        "curr_course_code": "POL S 203",
-        "curr_course_name": "INTRO INTERNATL REL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18982",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "SAV",
-                "room": "130"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 203",
-        "curr_course_name": "INTRO INTERNATL REL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18983",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "SAV",
-                "room": "130"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 203",
-        "curr_course_name": "INTRO INTERNATL REL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18984",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "136"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 203",
-        "curr_course_name": "INTRO INTERNATL REL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18985",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "SAV",
-                "room": "136"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 203",
-        "curr_course_name": "INTRO INTERNATL REL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18986",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1000-1120",
-                "building": "THO",
-                "room": "101"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "120",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Duman,Yoav",
-        "curr_course_code": "POL S 204",
-        "curr_course_name": "INTRO TO COMPAR POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18987",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "SAV",
-                "room": "168"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 204",
-        "curr_course_name": "INTRO TO COMPAR POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18988",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "SAV",
-                "room": "166"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 204",
-        "curr_course_name": "INTRO TO COMPAR POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18989",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "166"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 204",
-        "curr_course_name": "INTRO TO COMPAR POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "18990",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "SAV",
-                "room": "168"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 204",
-        "curr_course_name": "INTRO TO COMPAR POL",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "18991",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "CHL",
-                "room": "015"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 213",
-        "curr_course_name": "KOREA/WRLD POLITICS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "18992",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "330-450",
-                "building": "JHN",
-                "room": "102"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "120",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 273",
-        "curr_course_name": "CONCEPT OF POWER",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18995",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-1250",
-                "building": "SMI",
-                "room": "102"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Perez Brower,Margaret Tere",
-        "curr_course_code": "POL S 313",
-        "curr_course_name": "GENDER AND POLITICS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18996",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "DEN",
-                "room": "213"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 313",
-        "curr_course_name": "GENDER AND POLITICS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18997",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 313",
-        "curr_course_name": "GENDER AND POLITICS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18998",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1220",
-                "building": "THO",
-                "room": "125"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "80",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Turner,Jack",
-        "curr_course_code": "POL S 318",
-        "curr_course_name": "AM THGHT TO CIV WAR",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19004",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1130-120",
-                "building": "CMU",
-                "room": "104"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Rahman,Anis",
-        "curr_course_code": "POL S 329",
-        "curr_course_name": "GLOBAL COMMUNICATN",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19005",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1220",
-                "building": "SAV",
-                "room": "264"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "80",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Turner,Jack",
-        "curr_course_code": "POL S 334",
-        "curr_course_name": "AMERICAN POL TOPICS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19006",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1230-220",
-                "building": "SMI",
-                "room": "211"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "95",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Menaldo,Victor",
-        "curr_course_code": "POL S 335",
-        "curr_course_name": "POL ECONOMY TOPICS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19008",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "100-220",
-                "building": "SIG",
-                "room": "134"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "100",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Lovell,George I",
-        "curr_course_code": "POL S 363",
-        "curr_course_name": "LAW IN SOCIETY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19009",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "MGH",
-                "room": "238"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 363",
-        "curr_course_name": "LAW IN SOCIETY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19010",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "MGH",
-                "room": "234"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 363",
-        "curr_course_name": "LAW IN SOCIETY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19011",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "DEM",
-                "room": "124"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 363",
-        "curr_course_name": "LAW IN SOCIETY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19012",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "DEM",
-                "room": "124"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 363",
-        "curr_course_name": "LAW IN SOCIETY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19013",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-1250",
-                "building": "MLR",
-                "room": "301"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "120",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "LEMIEUX,SCOTT E.",
-        "curr_course_code": "POL S 364",
-        "curr_course_name": "SUPREME CT & POL DVP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19014",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "SMI",
-                "room": "313"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 364",
-        "curr_course_name": "SUPREME CT & POL DVP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19015",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "SMI",
-                "room": "313"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 364",
-        "curr_course_name": "SUPREME CT & POL DVP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19016",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "SMI",
-                "room": "313"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 364",
-        "curr_course_name": "SUPREME CT & POL DVP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19017",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "SMI",
-                "room": "313"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 364",
-        "curr_course_name": "SUPREME CT & POL DVP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19018",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "100-220",
-                "building": "KNE",
-                "room": "220"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "200",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 368",
-        "curr_course_name": "INTL HUMAN RIGHTS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "19019",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-920",
-                "building": "MUS",
-                "room": "219"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 368",
-        "curr_course_name": "INTL HUMAN RIGHTS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19020",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "MGH",
-                "room": "228"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 368",
-        "curr_course_name": "INTL HUMAN RIGHTS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19021",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "BNS",
-                "room": "203"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 368",
-        "curr_course_name": "INTL HUMAN RIGHTS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19022",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 368",
-        "curr_course_name": "INTL HUMAN RIGHTS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19023",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 368",
-        "curr_course_name": "INTL HUMAN RIGHTS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19024",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 368",
-        "curr_course_name": "INTL HUMAN RIGHTS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19025",
-        "section": "AG",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 368",
-        "curr_course_name": "INTL HUMAN RIGHTS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19026",
-        "section": "AH",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "THO",
-                "room": "334"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 368",
-        "curr_course_name": "INTL HUMAN RIGHTS",
-        "curr_course_fulfills": [
-            "SSc",
-            "DIV"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19027",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1000-1120",
-                "building": "KNE",
-                "room": "210"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "200",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Long,James D",
-        "curr_course_code": "POL S 371",
-        "curr_course_name": "GLOBL CRIME & CORRUP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [],
-        "add_code": "19028",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-920",
-                "building": "ECE",
-                "room": "042"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 371",
-        "curr_course_name": "GLOBL CRIME & CORRUP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19029",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "ECE",
-                "room": "042"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 371",
-        "curr_course_name": "GLOBL CRIME & CORRUP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19030",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "BLD",
-                "room": "392"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 371",
-        "curr_course_name": "GLOBL CRIME & CORRUP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19031",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "CLK",
-                "room": "219"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 371",
-        "curr_course_name": "GLOBL CRIME & CORRUP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19032",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "SAV",
-                "room": "132"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 371",
-        "curr_course_name": "GLOBL CRIME & CORRUP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19033",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "168"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 371",
-        "curr_course_name": "GLOBL CRIME & CORRUP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19034",
-        "section": "AG",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "SAV",
-                "room": "155"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 371",
-        "curr_course_name": "GLOBL CRIME & CORRUP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19035",
-        "section": "AH",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "THO",
-                "room": "234"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 371",
-        "curr_course_name": "GLOBL CRIME & CORRUP",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19036",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "230-420",
-                "building": "SMI",
-                "room": "211"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "95",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Wilkerson,John",
-        "curr_course_code": "POL S 382",
-        "curr_course_name": "STATE GOVERNMENT",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19037",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "MGH",
-                "room": "278"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "W",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Levy,Gabriella Anne",
-        "curr_course_code": "POL S 403",
-        "curr_course_name": "INTL REL ADV SEM",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19039",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1000-1120",
-                "building": "MLR",
-                "room": "301"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "120",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Levy,Gabriella",
-        "curr_course_code": "POL S 407",
-        "curr_course_name": "INTERNATL CONFLICT",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19040",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "930-1020",
-                "building": "SMI",
-                "room": "309"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 407",
-        "curr_course_name": "INTERNATL CONFLICT",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19041",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1030-1120",
-                "building": "SMI",
-                "room": "309"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 407",
-        "curr_course_name": "INTERNATL CONFLICT",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19042",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "SMI",
-                "room": "305"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 407",
-        "curr_course_name": "INTERNATL CONFLICT",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19043",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "SMI",
-                "room": "305"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 407",
-        "curr_course_name": "INTERNATL CONFLICT",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19044",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "430-620P",
-                "building": "SAV",
-                "room": "162"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Adolph,Christopher",
-        "curr_course_code": "POL S 409",
-        "curr_course_name": "UNDERG SEM-POL ECON",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19045",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "OTB",
-                "room": "014"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "80",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Prakash,Aseem",
-        "curr_course_code": "POL S 426",
-        "curr_course_name": "WORLD POLITICS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19047",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "SAV",
-                "room": "260"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Cook,Caley K",
-        "curr_course_code": "POL S 461",
-        "curr_course_name": "MASS MEDIA LAW",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19048",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "CMU",
-                "room": "322"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 461",
-        "curr_course_name": "MASS MEDIA LAW",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19049",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1130-1220",
-                "building": "SMI",
-                "room": "311"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 461",
-        "curr_course_name": "MASS MEDIA LAW",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19050",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "SAV",
-                "room": "130"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 461",
-        "curr_course_name": "MASS MEDIA LAW",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19051",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1230-120",
-                "building": "CMU",
-                "room": "243"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 461",
-        "curr_course_name": "MASS MEDIA LAW",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19052",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "130-220",
-                "building": "THO",
-                "room": "231"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "POL S 461",
-        "curr_course_name": "MASS MEDIA LAW",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19053",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "130-220",
-                "building": "RAI",
-                "room": "107"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "0",
-        "open_or_closed": "Closed",
-        "curr_course_code": "POL S 461",
-        "curr_course_name": "MASS MEDIA LAW",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19054",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-520",
-                "building": "SMI",
-                "room": "307"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "17",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pekkanen,Robert J",
-        "curr_course_code": "POL S 472",
-        "curr_course_name": "ELECTORAL SYSTEMS",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19055",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1230-220",
-                "building": "CMU",
-                "room": "120"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "95",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ainsley,Caitlin",
-        "curr_course_code": "POL S 474",
-        "curr_course_name": "POL OF ECON POLICY",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19056",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "230-420",
-                "building": "SAV",
-                "room": "167"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "H",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "professor_name": "LEMIEUX,SCOTT E.",
-        "curr_course_code": "POL S 487",
-        "curr_course_name": "H-POL S HONORS SEM",
-        "curr_course_fulfills": [
-            "SSc"
-        ]
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19057",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 496",
-        "curr_course_name": "INTERNSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19058",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 499",
-        "curr_course_name": "READINGS & RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19059",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 499",
-        "curr_course_name": "READINGS & RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19060",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 499",
-        "curr_course_name": "READINGS & RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "19061",
-        "section": "D",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "professor_name": "Wilkerson,John",
-        "curr_course_code": "POL S 499",
-        "curr_course_name": "READINGS & RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19063",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "130-420",
-                "building": "SAV",
-                "room": "162"
+{
+    "POL S 201": {
+        "POL S 201A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18971",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "100-220",
+                        "building": "HCK",
+                        "room": "132"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "120",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rotem,Noga",
+                "curr_course_code": "POL S 201",
+                "curr_course_name": "INTRO POL THEORY",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             },
-            {
-                "days": "F",
-                "time": "300-450"
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "18972",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "DEN",
+                            "room": "259"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 201",
+                    "curr_course_name": "INTRO POL THEORY",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18973",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "DEN",
+                            "room": "259"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 201",
+                    "curr_course_name": "INTRO POL THEORY",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18974",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "DEN",
+                            "room": "259"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 201",
+                    "curr_course_name": "INTRO POL THEORY",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18975",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 201",
+                    "curr_course_name": "INTRO POL THEORY",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "POL S 202": {
+        "POL S 202A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18976",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-350",
+                        "building": "KNE",
+                        "room": "130"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "120",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mayer,Sebastian",
+                "curr_course_code": "POL S 202",
+                "curr_course_name": "INTRO AMERICAN POL",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "18977",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "SMI",
+                            "room": "311"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 202",
+                    "curr_course_name": "INTRO AMERICAN POL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18978",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "SMI",
+                            "room": "311"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 202",
+                    "curr_course_name": "INTRO AMERICAN POL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18979",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "SAV",
+                            "room": "139"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 202",
+                    "curr_course_name": "INTRO AMERICAN POL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18980",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "SAV",
+                            "room": "139"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 202",
+                    "curr_course_name": "INTRO AMERICAN POL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "POL S 203": {
+        "POL S 203A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18981",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-1250",
+                        "building": "HCK",
+                        "room": "132"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "120",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kim,James",
+                "curr_course_code": "POL S 203",
+                "curr_course_name": "INTRO INTERNATL REL",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "18982",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "SAV",
+                            "room": "130"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 203",
+                    "curr_course_name": "INTRO INTERNATL REL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18983",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "SAV",
+                            "room": "130"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 203",
+                    "curr_course_name": "INTRO INTERNATL REL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18984",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "SAV",
+                            "room": "136"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 203",
+                    "curr_course_name": "INTRO INTERNATL REL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18985",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "SAV",
+                            "room": "136"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 203",
+                    "curr_course_name": "INTRO INTERNATL REL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "POL S 204": {
+        "POL S 204A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18986",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1000-1120",
+                        "building": "THO",
+                        "room": "101"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "120",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Duman,Yoav",
+                "curr_course_code": "POL S 204",
+                "curr_course_name": "INTRO TO COMPAR POL",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "18987",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "SAV",
+                            "room": "168"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 204",
+                    "curr_course_name": "INTRO TO COMPAR POL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18988",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "SAV",
+                            "room": "166"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 204",
+                    "curr_course_name": "INTRO TO COMPAR POL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18989",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "SAV",
+                            "room": "166"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 204",
+                    "curr_course_name": "INTRO TO COMPAR POL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "18990",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "SAV",
+                            "room": "168"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 204",
+                    "curr_course_name": "INTRO TO COMPAR POL",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "POL S 213": {
+        "POL S 213A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18991",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "CHL",
+                        "room": "015"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 213",
+                "curr_course_name": "KOREA/WRLD POLITICS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Ainsley,Caitlin T",
-        "curr_course_code": "POL S 503",
-        "curr_course_name": "ADV QUANT POL MTHD",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19064",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "130-420",
-                "building": "SAV",
-                "room": "169"
+    "POL S 273": {
+        "POL S 273A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "18992",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "330-450",
+                        "building": "JHN",
+                        "room": "102"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "120",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 273",
+                "curr_course_name": "CONCEPT OF POWER",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Mayerfeld,Jamie",
-        "curr_course_code": "POL S 509",
-        "curr_course_name": "POL THEORY CORE",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19065",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "130-420",
-                "building": "SAV",
-                "room": "140"
+    "POL S 313": {
+        "POL S 313A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18995",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-1250",
+                        "building": "SMI",
+                        "room": "102"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Perez Brower,Margaret Tere",
+                "curr_course_code": "POL S 313",
+                "curr_course_name": "GENDER AND POLITICS",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "18996",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "DEN",
+                            "room": "213"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "40",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 313",
+                    "curr_course_name": "GENDER AND POLITICS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "18997",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "40",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 313",
+                    "curr_course_name": "GENDER AND POLITICS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                }
+            ]
+        }
+    },
+    "POL S 318": {
+        "POL S 318A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18998",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1220",
+                        "building": "THO",
+                        "room": "125"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "80",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Turner,Jack",
+                "curr_course_code": "POL S 318",
+                "curr_course_name": "AM THGHT TO CIV WAR",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Kim,James",
-        "curr_course_code": "POL S 524",
-        "curr_course_name": "INTL SECURITY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19066",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "230-520",
-                "building": "LOW",
-                "room": "114"
+    "POL S 329": {
+        "POL S 329A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19004",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1130-120",
+                        "building": "CMU",
+                        "room": "104"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Rahman,Anis",
+                "curr_course_code": "POL S 329",
+                "curr_course_name": "GLOBAL COMMUNICATN",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "WJ",
-        "is_estimate": 0,
-        "max_capacity": "7",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Bachman,David M",
-        "curr_course_code": "POL S 535",
-        "curr_course_name": "MODERN CHINA-IR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19067",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "130-420",
-                "building": "SAV",
-                "room": "167"
+    "POL S 334": {
+        "POL S 334A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19005",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1220",
+                        "building": "SAV",
+                        "room": "264"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "80",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Turner,Jack",
+                "curr_course_code": "POL S 334",
+                "curr_course_name": "AMERICAN POL TOPICS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Menaldo,Victor",
-        "curr_course_code": "POL S 584",
-        "curr_course_name": "COMPR POLIT ECONOMY",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "19068",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "430-620P",
-                "building": "SAV",
-                "room": "162"
+    "POL S 335": {
+        "POL S 335A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19006",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1230-220",
+                        "building": "SMI",
+                        "room": "211"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "95",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Menaldo,Victor",
+                "curr_course_code": "POL S 335",
+                "curr_course_name": "POL ECONOMY TOPICS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Adolph,Christopher",
-        "curr_course_code": "POL S 589",
-        "curr_course_name": "POL ECONOMY TOPICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19069",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 597",
-        "curr_course_name": "DIRECTED READINGS",
-        "curr_course_fulfills": ""
+    "POL S 363": {
+        "POL S 363A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19008",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "100-220",
+                        "building": "SIG",
+                        "room": "134"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "100",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Lovell,George I",
+                "curr_course_code": "POL S 363",
+                "curr_course_name": "LAW IN SOCIETY",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19009",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "MGH",
+                            "room": "238"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 363",
+                    "curr_course_name": "LAW IN SOCIETY",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19010",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "MGH",
+                            "room": "234"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 363",
+                    "curr_course_name": "LAW IN SOCIETY",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19011",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "DEM",
+                            "room": "124"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 363",
+                    "curr_course_name": "LAW IN SOCIETY",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19012",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "DEM",
+                            "room": "124"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 363",
+                    "curr_course_name": "LAW IN SOCIETY",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19070",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 598",
-        "curr_course_name": "INDEP WRITING I",
-        "curr_course_fulfills": ""
+    "POL S 364": {
+        "POL S 364A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19013",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-1250",
+                        "building": "MLR",
+                        "room": "301"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "120",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "LEMIEUX,SCOTT E.",
+                "curr_course_code": "POL S 364",
+                "curr_course_name": "SUPREME CT & POL DVP",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19014",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "SMI",
+                            "room": "313"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "%",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 364",
+                    "curr_course_name": "SUPREME CT & POL DVP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19015",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "SMI",
+                            "room": "313"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "%",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 364",
+                    "curr_course_name": "SUPREME CT & POL DVP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19016",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "SMI",
+                            "room": "313"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "%",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 364",
+                    "curr_course_name": "SUPREME CT & POL DVP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19017",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "SMI",
+                            "room": "313"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "%",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 364",
+                    "curr_course_name": "SUPREME CT & POL DVP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19071",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 600",
-        "curr_course_name": "RESEARCH/READINGS",
-        "curr_course_fulfills": ""
+    "POL S 368": {
+        "POL S 368A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19018",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "100-220",
+                        "building": "KNE",
+                        "room": "220"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "200",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 368",
+                "curr_course_name": "INTL HUMAN RIGHTS",
+                "curr_course_fulfills": [
+                    "SSc",
+                    "DIV"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "19019",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "830-920",
+                            "building": "MUS",
+                            "room": "219"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 368",
+                    "curr_course_name": "INTL HUMAN RIGHTS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19020",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "MGH",
+                            "room": "228"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 368",
+                    "curr_course_name": "INTL HUMAN RIGHTS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19021",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "BNS",
+                            "room": "203"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 368",
+                    "curr_course_name": "INTL HUMAN RIGHTS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19022",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 368",
+                    "curr_course_name": "INTL HUMAN RIGHTS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19023",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 368",
+                    "curr_course_name": "INTL HUMAN RIGHTS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19024",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 368",
+                    "curr_course_name": "INTL HUMAN RIGHTS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19025",
+                    "section": "AG",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 368",
+                    "curr_course_name": "INTL HUMAN RIGHTS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19026",
+                    "section": "AH",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "THO",
+                            "room": "334"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 368",
+                    "curr_course_name": "INTL HUMAN RIGHTS",
+                    "curr_course_fulfills": [
+                        "SSc",
+                        "DIV"
+                    ]
+                }
+            ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19072",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 600",
-        "curr_course_name": "RESEARCH/READINGS",
-        "curr_course_fulfills": ""
+    "POL S 371": {
+        "POL S 371A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19027",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1000-1120",
+                        "building": "KNE",
+                        "room": "210"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "200",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Long,James D",
+                "curr_course_code": "POL S 371",
+                "curr_course_name": "GLOBL CRIME & CORRUP",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "19028",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "830-920",
+                            "building": "ECE",
+                            "room": "042"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 371",
+                    "curr_course_name": "GLOBL CRIME & CORRUP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19029",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "ECE",
+                            "room": "042"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 371",
+                    "curr_course_name": "GLOBL CRIME & CORRUP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19030",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "BLD",
+                            "room": "392"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 371",
+                    "curr_course_name": "GLOBL CRIME & CORRUP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19031",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "CLK",
+                            "room": "219"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 371",
+                    "curr_course_name": "GLOBL CRIME & CORRUP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19032",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "SAV",
+                            "room": "132"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 371",
+                    "curr_course_name": "GLOBL CRIME & CORRUP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19033",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "SAV",
+                            "room": "168"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 371",
+                    "curr_course_name": "GLOBL CRIME & CORRUP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19034",
+                    "section": "AG",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "SAV",
+                            "room": "155"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 371",
+                    "curr_course_name": "GLOBL CRIME & CORRUP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19035",
+                    "section": "AH",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "THO",
+                            "room": "234"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "25",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 371",
+                    "curr_course_name": "GLOBL CRIME & CORRUP",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "19073",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "curr_course_code": "POL S 800",
-        "curr_course_name": "DOCTORAL DISSERTATN",
-        "curr_course_fulfills": ""
+    "POL S 382": {
+        "POL S 382A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19036",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "230-420",
+                        "building": "SMI",
+                        "room": "211"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "95",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Wilkerson,John",
+                "curr_course_code": "POL S 382",
+                "curr_course_name": "STATE GOVERNMENT",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "POL S 403": {
+        "POL S 403A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19037",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "MGH",
+                        "room": "278"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "W",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Levy,Gabriella Anne",
+                "curr_course_code": "POL S 403",
+                "curr_course_name": "INTL REL ADV SEM",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "POL S 407": {
+        "POL S 407A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19039",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1000-1120",
+                        "building": "MLR",
+                        "room": "301"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "120",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Levy,Gabriella",
+                "curr_course_code": "POL S 407",
+                "curr_course_name": "INTERNATL CONFLICT",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19040",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "930-1020",
+                            "building": "SMI",
+                            "room": "309"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 407",
+                    "curr_course_name": "INTERNATL CONFLICT",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19041",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1030-1120",
+                            "building": "SMI",
+                            "room": "309"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 407",
+                    "curr_course_name": "INTERNATL CONFLICT",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19042",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "SMI",
+                            "room": "305"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 407",
+                    "curr_course_name": "INTERNATL CONFLICT",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19043",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "SMI",
+                            "room": "305"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "30",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 407",
+                    "curr_course_name": "INTERNATL CONFLICT",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "POL S 409": {
+        "POL S 409A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19044",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "430-620P",
+                        "building": "SAV",
+                        "room": "162"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Adolph,Christopher",
+                "curr_course_code": "POL S 409",
+                "curr_course_name": "UNDERG SEM-POL ECON",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "POL S 426": {
+        "POL S 426A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19045",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "OTB",
+                        "room": "014"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "80",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Prakash,Aseem",
+                "curr_course_code": "POL S 426",
+                "curr_course_name": "WORLD POLITICS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "POL S 461": {
+        "POL S 461A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19047",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "SAV",
+                        "room": "260"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Cook,Caley K",
+                "curr_course_code": "POL S 461",
+                "curr_course_name": "MASS MEDIA LAW",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19048",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "CMU",
+                            "room": "322"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "1",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 461",
+                    "curr_course_name": "MASS MEDIA LAW",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19049",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1130-1220",
+                            "building": "SMI",
+                            "room": "311"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "1",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 461",
+                    "curr_course_name": "MASS MEDIA LAW",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19050",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "SAV",
+                            "room": "130"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "1",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 461",
+                    "curr_course_name": "MASS MEDIA LAW",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19051",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "1230-120",
+                            "building": "CMU",
+                            "room": "243"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "1",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 461",
+                    "curr_course_name": "MASS MEDIA LAW",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19052",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "130-220",
+                            "building": "THO",
+                            "room": "231"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "1",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 461",
+                    "curr_course_name": "MASS MEDIA LAW",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                },
+                {
+                    "restrictions": [
+                        "Restr"
+                    ],
+                    "add_code": "19053",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "F",
+                            "time": "130-220",
+                            "building": "RAI",
+                            "room": "107"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "J",
+                    "is_estimate": 0,
+                    "max_capacity": "0",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Closed",
+                    "professor_name": "",
+                    "curr_course_code": "POL S 461",
+                    "curr_course_name": "MASS MEDIA LAW",
+                    "curr_course_fulfills": [
+                        "SSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "POL S 472": {
+        "POL S 472A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19054",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "230-520",
+                        "building": "SMI",
+                        "room": "307"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "17",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Pekkanen,Robert J",
+                "curr_course_code": "POL S 472",
+                "curr_course_name": "ELECTORAL SYSTEMS",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "POL S 474": {
+        "POL S 474A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19055",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1230-220",
+                        "building": "CMU",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "95",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ainsley,Caitlin",
+                "curr_course_code": "POL S 474",
+                "curr_course_name": "POL OF ECON POLICY",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "POL S 487": {
+        "POL S 487A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19056",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "230-420",
+                        "building": "SAV",
+                        "room": "167"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "H",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "LEMIEUX,SCOTT E.",
+                "curr_course_code": "POL S 487",
+                "curr_course_name": "H-POL S HONORS SEM",
+                "curr_course_fulfills": [
+                    "SSc"
+                ]
+            }
+        }
+    },
+    "POL S 496": {
+        "POL S 496A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19057",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 496",
+                "curr_course_name": "INTERNSHIP",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 499": {
+        "POL S 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19058",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 499",
+                "curr_course_name": "READINGS & RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "POL S 499B": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19059",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 499",
+                "curr_course_name": "READINGS & RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "POL S 499C": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19060",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 499",
+                "curr_course_name": "READINGS & RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        },
+        "POL S 499D": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "19061",
+                "section": "D",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Wilkerson,John",
+                "curr_course_code": "POL S 499",
+                "curr_course_name": "READINGS & RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 503": {
+        "POL S 503A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19063",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-420",
+                        "building": "SAV",
+                        "room": "162"
+                    },
+                    {
+                        "days": "F",
+                        "time": "300-450"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Ainsley,Caitlin T",
+                "curr_course_code": "POL S 503",
+                "curr_course_name": "ADV QUANT POL MTHD",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 509": {
+        "POL S 509A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19064",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "130-420",
+                        "building": "SAV",
+                        "room": "169"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Mayerfeld,Jamie",
+                "curr_course_code": "POL S 509",
+                "curr_course_name": "POL THEORY CORE",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 524": {
+        "POL S 524A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19065",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "130-420",
+                        "building": "SAV",
+                        "room": "140"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Kim,James",
+                "curr_course_code": "POL S 524",
+                "curr_course_name": "INTL SECURITY",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 535": {
+        "POL S 535A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19066",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "230-520",
+                        "building": "LOW",
+                        "room": "114"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "WJ",
+                "is_estimate": 0,
+                "max_capacity": "7",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Bachman,David M",
+                "curr_course_code": "POL S 535",
+                "curr_course_name": "MODERN CHINA-IR",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 584": {
+        "POL S 584A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19067",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "130-420",
+                        "building": "SAV",
+                        "room": "167"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Menaldo,Victor",
+                "curr_course_code": "POL S 584",
+                "curr_course_name": "COMPR POLIT ECONOMY",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 589": {
+        "POL S 589A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "19068",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "430-620P",
+                        "building": "SAV",
+                        "room": "162"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Adolph,Christopher",
+                "curr_course_code": "POL S 589",
+                "curr_course_name": "POL ECONOMY TOPICS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 597": {
+        "POL S 597A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19069",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 597",
+                "curr_course_name": "DIRECTED READINGS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 598": {
+        "POL S 598A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19070",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 598",
+                "curr_course_name": "INDEP WRITING I",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 600": {
+        "POL S 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19071",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 600",
+                "curr_course_name": "RESEARCH/READINGS",
+                "curr_course_fulfills": ""
+            }
+        },
+        "POL S 600B": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19072",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 600",
+                "curr_course_name": "RESEARCH/READINGS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "POL S 800": {
+        "POL S 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "19073",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "POL S 800",
+                "curr_course_name": "DOCTORAL DISSERTATN",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

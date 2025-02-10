@@ -1,29 +1,34 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "21150",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MTWThF",
-                "time": "1230-120",
-                "building": "PDL",
-                "room": "A216"
+{
+    "UKR 403": {
+        "UKR 403A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "21150",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MTWThF",
+                        "time": "1230-120",
+                        "building": "PDL",
+                        "room": "A216"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "UKR 403",
+                "curr_course_name": "1ST YR UKRAINIAN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "UKR 403",
-        "curr_course_name": "1ST YR UKRAINIAN",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}

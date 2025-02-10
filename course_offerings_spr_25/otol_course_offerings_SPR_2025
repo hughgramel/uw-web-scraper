@@ -1,327 +1,401 @@
-[
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18272",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "curr_course_code": "OTOHN 498",
-        "curr_course_name": "UNDERGRAD THESIS",
-        "curr_course_fulfills": ""
+{
+    "OTOHN 498": {
+        "OTOHN 498A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18272",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 498",
+                "curr_course_name": "UNDERGRAD THESIS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18273",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "OTOHN 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
+    "OTOHN 499": {
+        "OTOHN 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18273",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18274",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 501P",
-        "curr_course_name": "P-CLIN PRECPT",
-        "curr_course_fulfills": ""
+    "OTOHN 501P": {
+        "OTOHN 501PA": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18274",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 501P",
+                "curr_course_name": "P-CLIN PRECPT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "18275",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-3",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 600",
-        "curr_course_name": "INDEP STUDY/RESEARCH",
-        "curr_course_fulfills": ""
+    "OTOHN 600": {
+        "OTOHN 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "18275",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-3",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 600",
+                "curr_course_name": "INDEP STUDY/RESEARCH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18276",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 670",
-        "curr_course_name": "OTO-HNS SUB-I",
-        "curr_course_fulfills": ""
+    "OTOHN 670": {
+        "OTOHN 670A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18276",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 670",
+                "curr_course_name": "OTO-HNS SUB-I",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18277",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4-8",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 675",
-        "curr_course_name": "OTO-HNS BOZEMAN",
-        "curr_course_fulfills": ""
+    "OTOHN 675": {
+        "OTOHN 675A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18277",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4-8",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 675",
+                "curr_course_name": "OTO-HNS BOZEMAN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18278",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4-8",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 676",
-        "curr_course_name": "OTO-HNS JACKSON HOLE",
-        "curr_course_fulfills": ""
+    "OTOHN 676": {
+        "OTOHN 676A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18278",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4-8",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 676",
+                "curr_course_name": "OTO-HNS JACKSON HOLE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18279",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "12",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 677P",
-        "curr_course_name": "P-OTO HARBORVIEW",
-        "curr_course_fulfills": ""
+    "OTOHN 677P": {
+        "OTOHN 677PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18279",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "12",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 677P",
+                "curr_course_name": "P-OTO HARBORVIEW",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18283",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hillel,Al",
-        "curr_course_code": "OTOHN 681",
-        "curr_course_name": "APC-HARBORVIEW",
-        "curr_course_fulfills": ""
+    "OTOHN 681": {
+        "OTOHN 681A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18283",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hillel,Al",
+                "curr_course_code": "OTOHN 681",
+                "curr_course_name": "APC-HARBORVIEW",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18284",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4/8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hillel,Al",
-        "curr_course_code": "OTOHN 682P",
-        "curr_course_name": "P-OTOHNS VA",
-        "curr_course_fulfills": ""
+    "OTOHN 682P": {
+        "OTOHN 682PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18284",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4/8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hillel,Al",
+                "curr_course_code": "OTOHN 682P",
+                "curr_course_name": "P-OTOHNS VA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18286",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4/8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Hillel,Al",
-        "curr_course_code": "OTOHN 684P",
-        "curr_course_name": "P-OTOHNS SEACHILDRE",
-        "curr_course_fulfills": ""
+    "OTOHN 684P": {
+        "OTOHN 684PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18286",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4/8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Hillel,Al",
+                "curr_course_code": "OTOHN 684P",
+                "curr_course_name": "P-OTOHNS SEACHILDRE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18289",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4/8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 687P",
-        "curr_course_name": "P-OTOHNS SPOKANE",
-        "curr_course_fulfills": ""
+    "OTOHN 687P": {
+        "OTOHN 687PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18289",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4/8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 687P",
+                "curr_course_name": "P-OTOHNS SPOKANE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18290",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4/8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 688P",
-        "curr_course_name": "P-OTOHNS ANCHORAGE",
-        "curr_course_fulfills": ""
+    "OTOHN 688P": {
+        "OTOHN 688PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18290",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4/8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 688P",
+                "curr_course_name": "P-OTOHNS ANCHORAGE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18291",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4-8",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "6",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 689P",
-        "curr_course_name": "P-OTOHNS LARAMIE",
-        "curr_course_fulfills": ""
+    "OTOHN 689P": {
+        "OTOHN 689PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18291",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4-8",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "6",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 689P",
+                "curr_course_name": "P-OTOHNS LARAMIE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18293",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4/8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "OTOHN 699P",
-        "curr_course_name": "P-OTOHNS WWAMI",
-        "curr_course_fulfills": ""
+    "OTOHN 699P": {
+        "OTOHN 699PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18293",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4/8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "OTOHN 699P",
+                "curr_course_name": "P-OTOHNS WWAMI",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

@@ -1,257 +1,300 @@
-[
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "16896",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "curr_course_code": "MED 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "16897",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$15",
-        "other_codes": "B",
-        "is_estimate": 0,
-        "max_capacity": "0",
-        "curr_enrolled": "Ope",
-        "open_or_closed": "Open",
-        "professor_name": "Sheehan,Florence H",
-        "curr_course_code": "MED 503",
-        "curr_course_name": "CARDIAC ULTRASOUND",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "16899",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "$15",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Zhang,Kang Xiao",
-        "curr_course_code": "MED 503",
-        "curr_course_name": "CARDIAC ULTRASOUND",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "16900",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "MED 505P",
-        "curr_course_name": "P-PRECEP IN MED",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "16901",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "900-1120",
-                "building": "HSK",
-                "room": "K250"
+{
+    "MED 499": {
+        "MED 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "16896",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "MED 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "professor_name": "Chanprasert,Sirisak",
-        "curr_course_code": "MED 522",
-        "curr_course_name": "INTRO HUM MED GEN",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "16902",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1130-1250",
-                "building": "HRC",
-                "room": "145"
+    "MED 503": {
+        "MED 503A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "16897",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$15",
+                "other_codes": "B",
+                "is_estimate": 0,
+                "max_capacity": "0",
+                "curr_enrolled": "Ope",
+                "open_or_closed": "Open",
+                "professor_name": "Sheehan,Florence H",
+                "curr_course_code": "MED 503",
+                "curr_course_name": "CARDIAC ULTRASOUND",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 0,
-        "max_capacity": "1",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Farquhar,Carey",
-        "curr_course_code": "MED 530",
-        "curr_course_name": "AIDS MULTIDISC APPR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "16903",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "1200-150",
-                "building": "HSK",
-                "room": "K-069"
-            },
-            {
-                "days": "W",
-                "time": "830-1050"
+        },
+        "MED 503C": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "16899",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "$15",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Zhang,Kang Xiao",
+                "curr_course_code": "MED 503",
+                "curr_course_name": "CARDIAC ULTRASOUND",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "professor_name": "Valdmanis,Paul Nils",
-        "curr_course_code": "MED 549",
-        "curr_course_name": "CLIN MED GENETICS",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "16904",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-1020",
-                "building": "TBA",
-                "room": "TBA"
+    "MED 505P": {
+        "MED 505PA": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "16900",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "MED 505P",
+                "curr_course_name": "P-PRECEP IN MED",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "JO",
-        "is_estimate": 1,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Buckner,Frederick S",
-        "curr_course_code": "MED 561",
-        "curr_course_name": "TROPICAL MEDICINE",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "16906",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "830-1020",
-                "building": "TBA",
-                "room": "TBA"
+    "MED 522": {
+        "MED 522A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "16901",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "900-1120",
+                        "building": "HSK",
+                        "room": "K250"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Chanprasert,Sirisak",
+                "curr_course_code": "MED 522",
+                "curr_course_name": "INTRO HUM MED GEN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "JA",
-        "is_estimate": 1,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "professor_name": "Buckner,Frederick S",
-        "curr_course_code": "MED 561",
-        "curr_course_name": "TROPICAL MEDICINE",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "16907",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-12",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "MED 600",
-        "curr_course_name": "INDEPNDT STDY/RSCH",
-        "curr_course_fulfills": ""
+    "MED 530": {
+        "MED 530A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "16902",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1130-1250",
+                        "building": "HRC",
+                        "room": "145"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 0,
+                "max_capacity": "1",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Farquhar,Carey",
+                "curr_course_code": "MED 530",
+                "curr_course_name": "AIDS MULTIDISC APPR",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "MED 549": {
+        "MED 549A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "16903",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "1200-150",
+                        "building": "HSK",
+                        "room": "K-069"
+                    },
+                    {
+                        "days": "W",
+                        "time": "830-1050"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Valdmanis,Paul Nils",
+                "curr_course_code": "MED 549",
+                "curr_course_name": "CLIN MED GENETICS",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "MED 561": {
+        "MED 561A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "16904",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "830-1020",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "JO",
+                "is_estimate": 1,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Buckner,Frederick S",
+                "curr_course_code": "MED 561",
+                "curr_course_name": "TROPICAL MEDICINE",
+                "curr_course_fulfills": ""
+            }
+        },
+        "MED 561C": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "16906",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "830-1020",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "JA",
+                "is_estimate": 1,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Buckner,Frederick S",
+                "curr_course_code": "MED 561",
+                "curr_course_name": "TROPICAL MEDICINE",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "MED 600": {
+        "MED 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "16907",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-12",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "MED 600",
+                "curr_course_name": "INDEPNDT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

@@ -1,483 +1,573 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "18207",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Espinoza,Kimberly",
-        "curr_course_code": "ORALM 404",
-        "curr_course_name": "DECOD AUX DIDACTIC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18208",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Espinoza,Kimberly",
-        "curr_course_code": "ORALM 460",
-        "curr_course_name": "DECOD AUX CLINIC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18209",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "ORALM 550P",
-        "curr_course_name": "P-DIR STDYS IN O D",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18210",
-        "section": "B",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Chen,Curtis SK",
-        "curr_course_code": "ORALM 550P",
-        "curr_course_name": "P-DIR STDYS IN O D",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18211",
-        "section": "C",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Truelove,Edmond L",
-        "curr_course_code": "ORALM 550P",
-        "curr_course_name": "P-DIR STDYS IN O D",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18212",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Truelove,Edmond",
-        "curr_course_code": "ORALM 565",
-        "curr_course_name": "ORAL M CLIN CONF",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18213",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ORALM 570",
-        "curr_course_name": "ORL MED AND THERAPY",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18214",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Truelove,Edmond",
-        "curr_course_code": "ORALM 576",
-        "curr_course_name": "ORAL MED LIT REVIEW",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18215",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "ORALM 581",
-        "curr_course_name": "ADV SEM ORAL RADIOL",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "18216",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "curr_course_code": "ORALM 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18217",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Lee,Peggy",
-        "curr_course_code": "ORALM 601",
-        "curr_course_name": "ORAL MED RES SMNR",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "18218",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Martin,Michael D",
-        "curr_course_code": "ORALM 650P",
-        "curr_course_name": "P-ORALM CLIN ELECT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18219",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Booth,Jamie",
-        "curr_course_code": "ORALM 653",
-        "curr_course_name": "ADV CONE BEAM CT",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18220",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Espinoza,Kimberly",
-        "curr_course_code": "ORALM 654",
-        "curr_course_name": "DECOD ADV CLINICAL",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18221",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "B",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Espinoza,Kimberly",
-        "curr_course_code": "ORALM 655",
-        "curr_course_name": "PEER MENTOR ORALM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18222",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dean,David R.",
-        "curr_course_code": "ORALM 656",
-        "curr_course_name": "CLIN ORALM AT FHCC",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18223",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Espinoza,Kimberly",
-        "curr_course_code": "ORALM 658",
-        "curr_course_name": "INTRDISC TRNSTN CARE",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "18224",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "M",
-                "time": "1230-320",
-                "building": "TBA",
-                "room": "TBA"
+{
+    "ORALM 404": {
+        "ORALM 404A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18207",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Espinoza,Kimberly",
+                "curr_course_code": "ORALM 404",
+                "curr_course_name": "DECOD AUX DIDACTIC",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Espinoza,Kimberly",
-        "curr_course_code": "ORALM 659",
-        "curr_course_name": "INTRD PRAC DEV DSABL",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18225",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-4",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dean,David R.",
-        "curr_course_code": "ORALM 660",
-        "curr_course_name": "ROTAT IN MED DISCIP",
-        "curr_course_fulfills": ""
+    "ORALM 460": {
+        "ORALM 460A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18208",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Espinoza,Kimberly",
+                "curr_course_code": "ORALM 460",
+                "curr_course_name": "DECOD AUX CLINIC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18226",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Espinoza,Kimberly",
-        "curr_course_code": "ORALM 664",
-        "curr_course_name": "ADV DECOD CLINICAL",
-        "curr_course_fulfills": ""
+    "ORALM 550P": {
+        "ORALM 550PA": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18209",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "ORALM 550P",
+                "curr_course_name": "P-DIR STDYS IN O D",
+                "curr_course_fulfills": ""
+            }
+        },
+        "ORALM 550PB": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18210",
+                "section": "B",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Chen,Curtis SK",
+                "curr_course_code": "ORALM 550P",
+                "curr_course_name": "P-DIR STDYS IN O D",
+                "curr_course_fulfills": ""
+            }
+        },
+        "ORALM 550PC": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18211",
+                "section": "C",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Truelove,Edmond L",
+                "curr_course_code": "ORALM 550P",
+                "curr_course_name": "P-DIR STDYS IN O D",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18227",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Dean,David",
-        "curr_course_code": "ORALM 665",
-        "curr_course_name": "ORAL M CLINIC",
-        "curr_course_fulfills": ""
+    "ORALM 565": {
+        "ORALM 565A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18212",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Truelove,Edmond",
+                "curr_course_code": "ORALM 565",
+                "curr_course_name": "ORAL M CLIN CONF",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "18228",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-4",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "8",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Christensen,Rolf",
-        "curr_course_code": "ORALM 670",
-        "curr_course_name": "CLIN ORALM TEACH",
-        "curr_course_fulfills": ""
+    "ORALM 570": {
+        "ORALM 570A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18213",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ORALM 570",
+                "curr_course_name": "ORL MED AND THERAPY",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 576": {
+        "ORALM 576A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18214",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Truelove,Edmond",
+                "curr_course_code": "ORALM 576",
+                "curr_course_name": "ORAL MED LIT REVIEW",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 581": {
+        "ORALM 581A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18215",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "ORALM 581",
+                "curr_course_name": "ADV SEM ORAL RADIOL",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 600": {
+        "ORALM 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "18216",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "ORALM 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 601": {
+        "ORALM 601A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18217",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Lee,Peggy",
+                "curr_course_code": "ORALM 601",
+                "curr_course_name": "ORAL MED RES SMNR",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 650P": {
+        "ORALM 650PA": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18218",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Martin,Michael D",
+                "curr_course_code": "ORALM 650P",
+                "curr_course_name": "P-ORALM CLIN ELECT",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 653": {
+        "ORALM 653A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18219",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Booth,Jamie",
+                "curr_course_code": "ORALM 653",
+                "curr_course_name": "ADV CONE BEAM CT",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 654": {
+        "ORALM 654A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18220",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "B",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Espinoza,Kimberly",
+                "curr_course_code": "ORALM 654",
+                "curr_course_name": "DECOD ADV CLINICAL",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 655": {
+        "ORALM 655A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18221",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "B",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Espinoza,Kimberly",
+                "curr_course_code": "ORALM 655",
+                "curr_course_name": "PEER MENTOR ORALM",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 656": {
+        "ORALM 656A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18222",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dean,David R.",
+                "curr_course_code": "ORALM 656",
+                "curr_course_name": "CLIN ORALM AT FHCC",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 658": {
+        "ORALM 658A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18223",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Espinoza,Kimberly",
+                "curr_course_code": "ORALM 658",
+                "curr_course_name": "INTRDISC TRNSTN CARE",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 659": {
+        "ORALM 659A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "18224",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "M",
+                        "time": "1230-320",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Espinoza,Kimberly",
+                "curr_course_code": "ORALM 659",
+                "curr_course_name": "INTRD PRAC DEV DSABL",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 660": {
+        "ORALM 660A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18225",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-4",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dean,David R.",
+                "curr_course_code": "ORALM 660",
+                "curr_course_name": "ROTAT IN MED DISCIP",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 664": {
+        "ORALM 664A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18226",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Espinoza,Kimberly",
+                "curr_course_code": "ORALM 664",
+                "curr_course_name": "ADV DECOD CLINICAL",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 665": {
+        "ORALM 665A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18227",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Dean,David",
+                "curr_course_code": "ORALM 665",
+                "curr_course_name": "ORAL M CLINIC",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "ORALM 670": {
+        "ORALM 670A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "18228",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-4",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "8",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Christensen,Rolf",
+                "curr_course_code": "ORALM 670",
+                "curr_course_name": "CLIN ORALM TEACH",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

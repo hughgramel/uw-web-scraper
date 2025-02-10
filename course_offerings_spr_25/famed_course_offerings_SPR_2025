@@ -1,1077 +1,1316 @@
-[
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "14580",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14583",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "800-1220",
-                "building": "HST",
-                "room": "T531"
+{
+    "FAMED 499": {
+        "FAMED 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "14580",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "professor_name": "Farah,Samira",
-        "curr_course_code": "FAMED 534",
-        "curr_course_name": "PRM CR CL SKL PRC WK",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14584",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "530-620P",
-                "building": "SOCC",
-                "room": "322"
+    "FAMED 534": {
+        "FAMED 534A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14583",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "800-1220",
+                        "building": "HST",
+                        "room": "T531"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Farah,Samira",
+                "curr_course_code": "FAMED 534",
+                "curr_course_name": "PRM CR CL SKL PRC WK",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "J",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Lindo,Edwin G",
-        "curr_course_code": "FAMED 550",
-        "curr_course_name": "CRIT RACE THEORY MED",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14585",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "530-650P",
-                "building": "TBA",
-                "room": "TBA"
+    "FAMED 550": {
+        "FAMED 550A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14584",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "530-620P",
+                        "building": "SOCC",
+                        "room": "322"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "J",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Lindo,Edwin G",
+                "curr_course_code": "FAMED 550",
+                "curr_course_name": "CRIT RACE THEORY MED",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "O",
-        "is_estimate": 1,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Simpson,Yvonne Michelle",
-        "curr_course_code": "FAMED 556",
-        "curr_course_name": "SPAN HEALTH PROF",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "14592",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "curr_course_code": "FAMED 598",
-        "curr_course_name": "FAMED IND STDY REM",
-        "curr_course_fulfills": ""
+    "FAMED 556": {
+        "FAMED 556A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14585",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "530-650P",
+                        "building": "TBA",
+                        "room": "TBA"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "O",
+                "is_estimate": 1,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Simpson,Yvonne Michelle",
+                "curr_course_code": "FAMED 556",
+                "curr_course_name": "SPAN HEALTH PROF",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14593",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 623P",
-        "curr_course_name": "P-CLK FAMED ID FALLS",
-        "curr_course_fulfills": ""
+    "FAMED 598": {
+        "FAMED 598A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "14592",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "FAMED 598",
+                "curr_course_name": "FAMED IND STDY REM",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14594",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 624P",
-        "curr_course_name": "P-CLRK FAMED ST LUKE",
-        "curr_course_fulfills": ""
+    "FAMED 623P": {
+        "FAMED 623PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14593",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 623P",
+                "curr_course_name": "P-CLK FAMED ID FALLS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14595",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 625P",
-        "curr_course_name": "P-CLCLK FAMED WASILL",
-        "curr_course_fulfills": ""
+    "FAMED 624P": {
+        "FAMED 624PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14594",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 624P",
+                "curr_course_name": "P-CLRK FAMED ST LUKE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14596",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 626P",
-        "curr_course_name": "P-CLCLK FAMED MHS RO",
-        "curr_course_fulfills": ""
+    "FAMED 625P": {
+        "FAMED 625PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14595",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 625P",
+                "curr_course_name": "P-CLCLK FAMED WASILL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14597",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 627P",
-        "curr_course_name": "P-CLCLK FAMED MILESC",
-        "curr_course_fulfills": ""
+    "FAMED 626P": {
+        "FAMED 626PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14596",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 626P",
+                "curr_course_name": "P-CLCLK FAMED MHS RO",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14598",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 628P",
-        "curr_course_name": "P-CLCLK FAMED LEWIST",
-        "curr_course_fulfills": ""
+    "FAMED 627P": {
+        "FAMED 627PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14597",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 627P",
+                "curr_course_name": "P-CLCLK FAMED MILESC",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14599",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 629P",
-        "curr_course_name": "P-CLCLK-EPFM",
-        "curr_course_fulfills": ""
+    "FAMED 628P": {
+        "FAMED 628PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14598",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 628P",
+                "curr_course_name": "P-CLCLK FAMED LEWIST",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14600",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "VAR",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 630P",
-        "curr_course_name": "P-WRITE FAMED CLK",
-        "curr_course_fulfills": ""
+    "FAMED 629P": {
+        "FAMED 629PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14599",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 629P",
+                "curr_course_name": "P-CLCLK-EPFM",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14601",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 631P",
-        "curr_course_name": "P-LIC FAMED OLY",
-        "curr_course_fulfills": ""
+    "FAMED 630P": {
+        "FAMED 630PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14600",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "VAR",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 630P",
+                "curr_course_name": "P-WRITE FAMED CLK",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14602",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 632P",
-        "curr_course_name": "P-CLCLK FAMED BOZEM",
-        "curr_course_fulfills": ""
+    "FAMED 631P": {
+        "FAMED 631PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14601",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 631P",
+                "curr_course_name": "P-LIC FAMED OLY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14603",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 633P",
-        "curr_course_name": "P-CLCLK FAMED LEAVN",
-        "curr_course_fulfills": ""
+    "FAMED 632P": {
+        "FAMED 632PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14602",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 632P",
+                "curr_course_name": "P-CLCLK FAMED BOZEM",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14604",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 634P",
-        "curr_course_name": "P-CLCLK FAMED SITKA",
-        "curr_course_fulfills": ""
+    "FAMED 633P": {
+        "FAMED 633PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14603",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 633P",
+                "curr_course_name": "P-CLCLK FAMED LEAVN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14605",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 635P",
-        "curr_course_name": "P-CLCLK FAMED CHEYNE",
-        "curr_course_fulfills": ""
+    "FAMED 634P": {
+        "FAMED 634PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14604",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 634P",
+                "curr_course_name": "P-CLCLK FAMED SITKA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14628",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 662P",
-        "curr_course_name": "P-CLCLK FAMED BUF",
-        "curr_course_fulfills": ""
+    "FAMED 635P": {
+        "FAMED 635PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14605",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 635P",
+                "curr_course_name": "P-CLCLK FAMED CHEYNE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14629",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 663P",
-        "curr_course_name": "P-FAMED PETERSBURG",
-        "curr_course_fulfills": ""
+    "FAMED 662P": {
+        "FAMED 662PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14628",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 662P",
+                "curr_course_name": "P-CLCLK FAMED BUF",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14630",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 664P",
-        "curr_course_name": "P-CLCLK FAMED BLNGS",
-        "curr_course_fulfills": ""
+    "FAMED 663P": {
+        "FAMED 663PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14629",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 663P",
+                "curr_course_name": "P-FAMED PETERSBURG",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14631",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 665P",
-        "curr_course_name": "P-CLCLK FAMED MISOU",
-        "curr_course_fulfills": ""
+    "FAMED 664P": {
+        "FAMED 664PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14630",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 664P",
+                "curr_course_name": "P-CLCLK FAMED BLNGS",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14632",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 666P",
-        "curr_course_name": "P-CLCLK FAMED TORNG",
-        "curr_course_fulfills": ""
+    "FAMED 665P": {
+        "FAMED 665PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14631",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 665P",
+                "curr_course_name": "P-CLCLK FAMED MISOU",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14633",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 667P",
-        "curr_course_name": "P-CLCK FAMED NW BREM",
-        "curr_course_fulfills": ""
+    "FAMED 666P": {
+        "FAMED 666PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14632",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 666P",
+                "curr_course_name": "P-CLCLK FAMED TORNG",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14634",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 669P",
-        "curr_course_name": "P-CLCLK FAMED CDA",
-        "curr_course_fulfills": ""
+    "FAMED 667P": {
+        "FAMED 667PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14633",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 667P",
+                "curr_course_name": "P-CLCK FAMED NW BREM",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14635",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 673P",
-        "curr_course_name": "P-CLCLKFAMED SPO SH",
-        "curr_course_fulfills": ""
+    "FAMED 669P": {
+        "FAMED 669PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14634",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 669P",
+                "curr_course_name": "P-CLCLK FAMED CDA",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14636",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 676P",
-        "curr_course_name": "P-CLK FAMED LIBBY",
-        "curr_course_fulfills": ""
+    "FAMED 673P": {
+        "FAMED 673PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14635",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 673P",
+                "curr_course_name": "P-CLCLKFAMED SPO SH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14637",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 677P",
-        "curr_course_name": "P-CLK FAMED GR COUL",
-        "curr_course_fulfills": ""
+    "FAMED 676P": {
+        "FAMED 676PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14636",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 676P",
+                "curr_course_name": "P-CLK FAMED LIBBY",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14638",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 678P",
-        "curr_course_name": "P-CLK FAMED PT ANGL",
-        "curr_course_fulfills": ""
+    "FAMED 677P": {
+        "FAMED 677PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14637",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 677P",
+                "curr_course_name": "P-CLK FAMED GR COUL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14639",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 679P",
-        "curr_course_name": "P-CLK FAMED FERNDALE",
-        "curr_course_fulfills": ""
+    "FAMED 678P": {
+        "FAMED 678PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14638",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 678P",
+                "curr_course_name": "P-CLK FAMED PT ANGL",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14640",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 681P",
-        "curr_course_name": "P-CLCLK FAMED BOZEHE",
-        "curr_course_fulfills": ""
+    "FAMED 679P": {
+        "FAMED 679PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14639",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 679P",
+                "curr_course_name": "P-CLK FAMED FERNDALE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14641",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 682P",
-        "curr_course_name": "P-CLK FAMED ELLNBRG",
-        "curr_course_fulfills": ""
+    "FAMED 681P": {
+        "FAMED 681PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14640",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 681P",
+                "curr_course_name": "P-CLCLK FAMED BOZEHE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14642",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 683P",
-        "curr_course_name": "P-CLK FAMED LEWISTN",
-        "curr_course_fulfills": ""
+    "FAMED 682P": {
+        "FAMED 682PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14641",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 682P",
+                "curr_course_name": "P-CLK FAMED ELLNBRG",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14643",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 684P",
-        "curr_course_name": "P-CLK FAMED BUTTE",
-        "curr_course_fulfills": ""
+    "FAMED 683P": {
+        "FAMED 683PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14642",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 683P",
+                "curr_course_name": "P-CLK FAMED LEWISTN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14644",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 685P",
-        "curr_course_name": "P-CLK FAMED JUNEAU",
-        "curr_course_fulfills": ""
+    "FAMED 684P": {
+        "FAMED 684PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14643",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 684P",
+                "curr_course_name": "P-CLK FAMED BUTTE",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14645",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 686P",
-        "curr_course_name": "P-CLK FAMED PT TOWN",
-        "curr_course_fulfills": ""
+    "FAMED 685P": {
+        "FAMED 685PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14644",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 685P",
+                "curr_course_name": "P-CLK FAMED JUNEAU",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14646",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 687P",
-        "curr_course_name": "P-CLCLK FMED WSLMN",
-        "curr_course_fulfills": ""
+    "FAMED 686P": {
+        "FAMED 686PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14645",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 686P",
+                "curr_course_name": "P-CLK FAMED PT TOWN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14647",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 688P",
-        "curr_course_name": "P-FAM MED SUB-I",
-        "curr_course_fulfills": ""
+    "FAMED 687P": {
+        "FAMED 687PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14646",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 687P",
+                "curr_course_name": "P-CLCLK FMED WSLMN",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14648",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4-8",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 690",
-        "curr_course_name": "ONE HLTH CLIN ELECT",
-        "curr_course_fulfills": ""
+    "FAMED 688P": {
+        "FAMED 688PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14647",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 688P",
+                "curr_course_name": "P-FAM MED SUB-I",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14649",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "%O",
-        "is_estimate": 1,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 691",
-        "curr_course_name": "AMBULATRY TELEHEALTH",
-        "curr_course_fulfills": ""
+    "FAMED 690": {
+        "FAMED 690A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14648",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4-8",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 690",
+                "curr_course_name": "ONE HLTH CLIN ELECT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14650",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "%",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 692P",
-        "curr_course_name": "P-CLRK FAMED DILLON",
-        "curr_course_fulfills": ""
+    "FAMED 691": {
+        "FAMED 691A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14649",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "%O",
+                "is_estimate": 1,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 691",
+                "curr_course_name": "AMBULATRY TELEHEALTH",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14653",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 701",
-        "curr_course_name": "WRITE ADV OPT CLKSHP",
-        "curr_course_fulfills": ""
+    "FAMED 692P": {
+        "FAMED 692PA": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14650",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "%",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 692P",
+                "curr_course_name": "P-CLRK FAMED DILLON",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14654",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 702",
-        "curr_course_name": "ADV FAMED OPT CLKSHP",
-        "curr_course_fulfills": ""
+    "FAMED 701": {
+        "FAMED 701A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14653",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 701",
+                "curr_course_name": "WRITE ADV OPT CLKSHP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14655",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 703",
-        "curr_course_name": "ADV LGBTQ PC CLKSHP",
-        "curr_course_fulfills": ""
+    "FAMED 702": {
+        "FAMED 702A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14654",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 702",
+                "curr_course_name": "ADV FAMED OPT CLKSHP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14656",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "8",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 704",
-        "curr_course_name": "FM ADV INPT CLRKSHP",
-        "curr_course_fulfills": ""
+    "FAMED 703": {
+        "FAMED 703A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14655",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 703",
+                "curr_course_name": "ADV LGBTQ PC CLKSHP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14657",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 705",
-        "curr_course_name": "CLCLKFAMED SEAMAREVT",
-        "curr_course_fulfills": ""
+    "FAMED 704": {
+        "FAMED 704A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14656",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "8",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 704",
+                "curr_course_name": "FM ADV INPT CLRKSHP",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14658",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 706",
-        "curr_course_name": "CLCLKFAMED NAMPA ID",
-        "curr_course_fulfills": ""
+    "FAMED 705": {
+        "FAMED 705A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14657",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 705",
+                "curr_course_name": "CLCLKFAMED SEAMAREVT",
+                "curr_course_fulfills": ""
+            }
+        }
     },
-    {
-        "restrictions": [
-            "Restr"
-        ],
-        "add_code": "14659",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "12",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "4",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "FAMED 707",
-        "curr_course_name": "CLCLKFAMED FEDERALWY",
-        "curr_course_fulfills": ""
+    "FAMED 706": {
+        "FAMED 706A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14658",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 706",
+                "curr_course_name": "CLCLKFAMED NAMPA ID",
+                "curr_course_fulfills": ""
+            }
+        }
+    },
+    "FAMED 707": {
+        "FAMED 707A": {
+            "main_course": {
+                "restrictions": [
+                    "Restr"
+                ],
+                "add_code": "14659",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "12",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "4",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "FAMED 707",
+                "curr_course_name": "CLCLKFAMED FEDERALWY",
+                "curr_course_fulfills": ""
+            }
+        }
     }
-]
+}

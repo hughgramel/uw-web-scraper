@@ -1,1043 +1,1159 @@
-[
-    {
-        "restrictions": [],
-        "add_code": "14876",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1000-1120",
-                "building": "HSA",
-                "room": "A420"
+{
+    "GENOME 361": {
+        "GENOME 361A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14876",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1000-1120",
+                        "building": "HSA",
+                        "room": "A420"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "336",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Pallanck,Leo",
+                "curr_course_code": "GENOME 361",
+                "curr_course_name": "FUND GEN & GENOMICS",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "14877",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "130-220",
+                            "building": "HST",
+                            "room": "T530"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14878",
+                    "section": "AB",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "230-320",
+                            "building": "HST",
+                            "room": "T530"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14879",
+                    "section": "AC",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "330-420",
+                            "building": "HST",
+                            "room": "T360"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14880",
+                    "section": "AD",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "930-1020",
+                            "building": "HST",
+                            "room": "T365"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14881",
+                    "section": "AE",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "1030-1120",
+                            "building": "HST",
+                            "room": "T365"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14882",
+                    "section": "AF",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "1130-1220",
+                            "building": "HST",
+                            "room": "T365"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14883",
+                    "section": "AG",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "130-220",
+                            "building": "HST",
+                            "room": "T498"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14884",
+                    "section": "AH",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "230-320",
+                            "building": "HST",
+                            "room": "T359"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14885",
+                    "section": "AI",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "330-420",
+                            "building": "HST",
+                            "room": "T530"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14886",
+                    "section": "AJ",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "930-1020",
+                            "building": "HST",
+                            "room": "T479"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14887",
+                    "section": "AK",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "1030-1120",
+                            "building": "HST",
+                            "room": "T479"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14888",
+                    "section": "AL",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "1130-1220",
+                            "building": "HST",
+                            "room": "T479"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14889",
+                    "section": "AM",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "1230-120",
+                            "building": "HST",
+                            "room": "T479"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                },
+                {
+                    "restrictions": [],
+                    "add_code": "14890",
+                    "section": "AN",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "W",
+                            "time": "1230-120",
+                            "building": "HST",
+                            "room": "T365"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "24",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Pallanck,Leo",
+                    "curr_course_code": "GENOME 361",
+                    "curr_course_name": "FUND GEN & GENOMICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "GENOME 373": {
+        "GENOME 373A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14891",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "130-220",
+                        "building": "GNOM",
+                        "room": "S110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Feder,Alison",
+                "curr_course_code": "GENOME 373",
+                "curr_course_name": "GENOMIC INFORMATICS",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "14892",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "Th",
+                            "time": "130-220",
+                            "building": "GNOM",
+                            "room": "S110"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "20",
+                    "curr_enrolled": "0",
+                    "open_or_closed": "Open",
+                    "professor_name": "Feder,Alison",
+                    "curr_course_code": "GENOME 373",
+                    "curr_course_name": "GENOMIC INFORMATICS",
+                    "curr_course_fulfills": [
+                        "NSc"
+                    ]
+                }
+            ]
+        }
+    },
+    "GENOME 475": {
+        "GENOME 475A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14893",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1030-1150",
+                        "building": "GNOM",
+                        "room": "S110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "24",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Schweppe,Devin",
+                "curr_course_code": "GENOME 475",
+                "curr_course_name": "DEBATES IN GENETICS",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "336",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14877",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "130-220",
-                "building": "HST",
-                "room": "T530"
+    "GENOME 490": {
+        "GENOME 490A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14894",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "2",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "Th",
+                        "time": "1200-150",
+                        "building": "GNOM",
+                        "room": "S040"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Shendure,Jay",
+                "curr_course_code": "GENOME 490",
+                "curr_course_name": "UNDERGRAD SEMINAR",
+                "curr_course_fulfills": [
+                    "NSc"
+                ]
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14878",
-        "section": "AB",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-320",
-                "building": "HST",
-                "room": "T530"
+    "GENOME 496": {
+        "GENOME 496A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14895",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-5",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Jordt,Hannah",
+                "curr_course_code": "GENOME 496",
+                "curr_course_name": "PEER TEACHING",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14879",
-        "section": "AC",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "330-420",
-                "building": "HST",
-                "room": "T360"
+    "GENOME 499": {
+        "GENOME 499A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "14896",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "GENOME 499",
+                "curr_course_name": "UNDERGRAD RESEARCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14880",
-        "section": "AD",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "930-1020",
-                "building": "HST",
-                "room": "T365"
+    "GENOME 501": {
+        "GENOME 501A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "14897",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "GENOME 501",
+                "curr_course_name": "INTR RSRCH MATERIAL",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14881",
-        "section": "AE",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1030-1120",
-                "building": "HST",
-                "room": "T365"
+    "GENOME 520": {
+        "GENOME 520A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14898",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "330-450",
+                        "building": "GNOM",
+                        "room": "S060"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "GENOME 520",
+                "curr_course_name": "SEMINAR",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14882",
-        "section": "AF",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1130-1220",
-                "building": "HST",
-                "room": "T365"
+    "GENOME 521": {
+        "GENOME 521A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14899",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "130-250",
+                        "building": "GNOM",
+                        "room": "S060"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "50",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "GENOME 521",
+                "curr_course_name": "SEM IN COMP BIO",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14883",
-        "section": "AG",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "130-220",
-                "building": "HST",
-                "room": "T498"
+    "GENOME 523": {
+        "GENOME 523A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14900",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "F",
+                        "time": "300-450",
+                        "building": "GNOM",
+                        "room": "S060"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "60",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "GENOME 523",
+                "curr_course_name": "RESEARCH REPORTS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14884",
-        "section": "AH",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "230-320",
-                "building": "HST",
-                "room": "T359"
+    "GENOME 525": {
+        "GENOME 525A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14901",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "W",
+                        "time": "830-920",
+                        "building": "HSK",
+                        "room": "K-250"
+                    }
+                ],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "5",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Furlong,Clement E",
+                "curr_course_code": "GENOME 525",
+                "curr_course_name": "TOPICS HUMAN GENET",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14885",
-        "section": "AI",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "330-420",
-                "building": "HST",
-                "room": "T530"
+    "GENOME 541": {
+        "GENOME 541A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14902",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1030-1150",
+                        "building": "GNOM",
+                        "room": "S110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Noble,Bill",
+                "curr_course_code": "GENOME 541",
+                "curr_course_name": "COMP MOL BIOL II",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14886",
-        "section": "AJ",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "930-1020",
-                "building": "HST",
-                "room": "T479"
+    "GENOME 553": {
+        "GENOME 553A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14903",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1.5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "T",
+                        "time": "400-520",
+                        "building": "GNOM",
+                        "room": "S110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Berg,Celeste",
+                "curr_course_code": "GENOME 553",
+                "curr_course_name": "ADV GENETIC ANLYSIS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14887",
-        "section": "AK",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1030-1120",
-                "building": "HST",
-                "room": "T479"
+    "GENOME 560": {
+        "GENOME 560A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14904",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "1200-120",
+                        "building": "GNOM",
+                        "room": "S110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "20",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Schweppe,Devin",
+                "curr_course_code": "GENOME 560",
+                "curr_course_name": "INTRO STAT GENOMICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14888",
-        "section": "AL",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1130-1220",
-                "building": "HST",
-                "room": "T479"
+    "GENOME 569": {
+        "GENOME 569A": {
+            "main_course": {
+                "restrictions": [
+                    ">"
+                ],
+                "add_code": "14905",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1.5",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MW",
+                        "time": "900-1020",
+                        "building": "GNOM",
+                        "room": "S110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "Trapnell,Cole",
+                "curr_course_code": "GENOME 569",
+                "curr_course_name": "BIOINF WORKFLOWS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14889",
-        "section": "AM",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1230-120",
-                "building": "HST",
-                "room": "T479"
+    "GENOME 575": {
+        "GENOME 575A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14906",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "3",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "TTh",
+                        "time": "1200-120",
+                        "building": "GNOM",
+                        "room": "S110"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "15",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "GENOME 575",
+                "curr_course_name": "FUND BIO INSTRM",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14890",
-        "section": "AN",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "1230-120",
-                "building": "HST",
-                "room": "T365"
+    "GENOME 580": {
+        "GENOME 580A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14907",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "25",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "MacCoss,Michael",
+                "curr_course_code": "GENOME 580",
+                "curr_course_name": "ETHICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Pallanck,Leo",
-        "curr_course_code": "GENOME 361",
-        "curr_course_name": "FUND GEN & GENOMICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14891",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MWF",
-                "time": "130-220",
-                "building": "GNOM",
-                "room": "S110"
+    "GENOME 581": {
+        "GENOME 581A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14908",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Berg,Celeste A",
+                "curr_course_code": "GENOME 581",
+                "curr_course_name": "DROSOPHILA GENETICS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Feder,Alison",
-        "curr_course_code": "GENOME 373",
-        "curr_course_name": "GENOMIC INFORMATICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14892",
-        "section": "AA",
-        "isQuiz": "1",
-        "isLab": "0",
-        "credits": "0",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "130-220",
-                "building": "GNOM",
-                "room": "S110"
+    "GENOME 584": {
+        "GENOME 584A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "14909",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1",
+                "credits_vary": 0,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "3",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "Brewer,Bonita J",
+                "curr_course_code": "GENOME 584",
+                "curr_course_name": "DNA REPLICATION",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Feder,Alison",
-        "curr_course_code": "GENOME 373",
-        "curr_course_name": "GENOMIC INFORMATICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14893",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1030-1150",
-                "building": "GNOM",
-                "room": "S110"
+    "GENOME 600": {
+        "GENOME 600A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "14910",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "30",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "GENOME 600",
+                "curr_course_name": "INDEPNDNT STDY/RSCH",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "24",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Schweppe,Devin",
-        "curr_course_code": "GENOME 475",
-        "curr_course_name": "DEBATES IN GENETICS",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [],
-        "add_code": "14894",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "2",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "Th",
-                "time": "1200-150",
-                "building": "GNOM",
-                "room": "S040"
+    "GENOME 650": {
+        "GENOME 650A": {
+            "main_course": {
+                "restrictions": [
+                    "IS"
+                ],
+                "add_code": "14911",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-6",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "10",
+                "curr_enrolled": "0",
+                "open_or_closed": "Open",
+                "professor_name": "",
+                "curr_course_code": "GENOME 650",
+                "curr_course_name": "TEACHING CLERKSHIP",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Shendure,Jay",
-        "curr_course_code": "GENOME 490",
-        "curr_course_name": "UNDERGRAD SEMINAR",
-        "curr_course_fulfills": [
-            "NSc"
-        ]
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14895",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-5",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "professor_name": "Jordt,Hannah",
-        "curr_course_code": "GENOME 496",
-        "curr_course_name": "PEER TEACHING",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "14896",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "GENOME 499",
-        "curr_course_name": "UNDERGRAD RESEARCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "14897",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "GENOME 501",
-        "curr_course_name": "INTR RSRCH MATERIAL",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "14898",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "330-450",
-                "building": "GNOM",
-                "room": "S060"
+    "GENOME 700": {
+        "GENOME 700A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "14912",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "2",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "GENOME 700",
+                "curr_course_name": "MASTERS THESIS",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "GENOME 520",
-        "curr_course_name": "SEMINAR",
-        "curr_course_fulfills": ""
+        }
     },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14899",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "130-250",
-                "building": "GNOM",
-                "room": "S060"
+    "GENOME 800": {
+        "GENOME 800A": {
+            "main_course": {
+                "restrictions": [
+                    "IS",
+                    ">"
+                ],
+                "add_code": "14913",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "1-10",
+                "credits_vary": 1,
+                "class_times": [],
+                "c/nc": 1,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 1,
+                "max_capacity": "40",
+                "curr_enrolled": "0",
+                "open_or_closed": "",
+                "professor_name": "",
+                "curr_course_code": "GENOME 800",
+                "curr_course_name": "DOCTORAL DISSERTATN",
+                "curr_course_fulfills": ""
             }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "50",
-        "curr_enrolled": "0",
-        "curr_course_code": "GENOME 521",
-        "curr_course_name": "SEM IN COMP BIO",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "14900",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "F",
-                "time": "300-450",
-                "building": "GNOM",
-                "room": "S060"
-            }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "60",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "GENOME 523",
-        "curr_course_name": "RESEARCH REPORTS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14901",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "W",
-                "time": "830-920",
-                "building": "HSK",
-                "room": "K-250"
-            }
-        ],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "5",
-        "curr_enrolled": "0",
-        "professor_name": "Furlong,Clement E",
-        "curr_course_code": "GENOME 525",
-        "curr_course_name": "TOPICS HUMAN GENET",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14902",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "4",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1030-1150",
-                "building": "GNOM",
-                "room": "S110"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "professor_name": "Noble,Bill",
-        "curr_course_code": "GENOME 541",
-        "curr_course_name": "COMP MOL BIOL II",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14903",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1.5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "T",
-                "time": "400-520",
-                "building": "GNOM",
-                "room": "S110"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "professor_name": "Berg,Celeste",
-        "curr_course_code": "GENOME 553",
-        "curr_course_name": "ADV GENETIC ANLYSIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14904",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "1200-120",
-                "building": "GNOM",
-                "room": "S110"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "20",
-        "curr_enrolled": "0",
-        "professor_name": "Schweppe,Devin",
-        "curr_course_code": "GENOME 560",
-        "curr_course_name": "INTRO STAT GENOMICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            ">"
-        ],
-        "add_code": "14905",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1.5",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "MW",
-                "time": "900-1020",
-                "building": "GNOM",
-                "room": "S110"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "professor_name": "Trapnell,Cole",
-        "curr_course_code": "GENOME 569",
-        "curr_course_name": "BIOINF WORKFLOWS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "14906",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "3",
-        "credits_vary": "0",
-        "class_times": [
-            {
-                "days": "TTh",
-                "time": "1200-120",
-                "building": "GNOM",
-                "room": "S110"
-            }
-        ],
-        "c/nc": 0,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "15",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "GENOME 575",
-        "curr_course_name": "FUND BIO INSTRM",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "14907",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 0,
-        "max_capacity": "25",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "MacCoss,Michael",
-        "curr_course_code": "GENOME 580",
-        "curr_course_name": "ETHICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "14908",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Berg,Celeste A",
-        "curr_course_code": "GENOME 581",
-        "curr_course_name": "DROSOPHILA GENETICS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [],
-        "add_code": "14909",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1",
-        "credits_vary": "0",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "3",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "professor_name": "Brewer,Bonita J",
-        "curr_course_code": "GENOME 584",
-        "curr_course_name": "DNA REPLICATION",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "14910",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "30",
-        "curr_enrolled": "0",
-        "curr_course_code": "GENOME 600",
-        "curr_course_name": "INDEPNDNT STDY/RSCH",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS"
-        ],
-        "add_code": "14911",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-6",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "10",
-        "curr_enrolled": "0",
-        "open_or_closed": "Open",
-        "curr_course_code": "GENOME 650",
-        "curr_course_name": "TEACHING CLERKSHIP",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "14912",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "2",
-        "curr_enrolled": "0",
-        "curr_course_code": "GENOME 700",
-        "curr_course_name": "MASTERS THESIS",
-        "curr_course_fulfills": ""
-    },
-    {
-        "restrictions": [
-            "IS",
-            ">"
-        ],
-        "add_code": "14913",
-        "section": "A",
-        "isQuiz": "0",
-        "isLab": "0",
-        "credits": "1-10",
-        "credits_vary": "1",
-        "class_times": [],
-        "c/nc": 1,
-        "course_fee": "0",
-        "other_codes": "",
-        "is_estimate": 1,
-        "max_capacity": "40",
-        "curr_enrolled": "0",
-        "curr_course_code": "GENOME 800",
-        "curr_course_name": "DOCTORAL DISSERTATN",
-        "curr_course_fulfills": ""
+        }
     }
-]
+}
