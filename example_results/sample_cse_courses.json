@@ -1,0 +1,105 @@
+{
+    "CSE 121": {
+        "CSE 121A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12667",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "WF",
+                        "time": "330-420",
+                        "building": "KNE",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "300",
+                "curr_enrolled": "194",
+                "open_or_closed": "Open",
+                "professor_name": "Natsuhara,Miya",
+                "curr_course_code": "CSE 121",
+                "curr_course_name": "COMP PROGRAMMING I",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            },
+            "quiz_list": [
+                {
+                    "restrictions": [],
+                    "add_code": "12668",
+                    "section": "AA",
+                    "is_quiz": 1,
+                    "is_lab": 0,
+                    "credits": "0",
+                    "credits_vary": 0,
+                    "class_times": [
+                        {
+                            "days": "TTh",
+                            "time": "830-920",
+                            "building": "BAG",
+                            "room": "331A"
+                        }
+                    ],
+                    "c/nc": 0,
+                    "course_fee": "0",
+                    "other_codes": "",
+                    "is_estimate": 0,
+                    "max_capacity": "20",
+                    "curr_enrolled": "11",
+                    "open_or_closed": "Open",
+                    "professor_name": "Jagtap,Janvi",
+                    "curr_course_code": "CSE 121",
+                    "curr_course_name": "COMP PROGRAMMING I",
+                    "curr_course_fulfills": [
+                        "NSc",
+                        "RSN"
+                    ]
+                }
+            ]
+        }
+    },
+    "CSE 142": {
+        "CSE 142A": {
+            "main_course": {
+                "restrictions": [],
+                "add_code": "12671",
+                "section": "A",
+                "is_quiz": 0,
+                "is_lab": 0,
+                "credits": "4",
+                "credits_vary": 0,
+                "class_times": [
+                    {
+                        "days": "MWF",
+                        "time": "1030-1120",
+                        "building": "KNE",
+                        "room": "120"
+                    }
+                ],
+                "c/nc": 0,
+                "course_fee": "0",
+                "other_codes": "",
+                "is_estimate": 0,
+                "max_capacity": "300",
+                "curr_enrolled": "287",
+                "open_or_closed": "Open",
+                "professor_name": "Stuart Reges",
+                "curr_course_code": "CSE 142",
+                "curr_course_name": "COMPUTER PROGRAMMING I",
+                "curr_course_fulfills": [
+                    "NSc",
+                    "RSN"
+                ]
+            }
+        }
+    }
+}

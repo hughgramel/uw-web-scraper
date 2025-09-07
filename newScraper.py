@@ -423,8 +423,9 @@ year = "2025"
 
 base = "https://www.washington.edu/students/timeschd/" + season + year + "/"
 # pages = [base + "cse.html"]
-pages = [base + "phys.html"]
-pages = gather_all_prefixes(season, year)
+# Run specifically for CSE classes
+pages = [base + "cse.html"]
+# pages = gather_all_prefixes(season, year)
 n = 0
 record = {}
 for page in pages:
